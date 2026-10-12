@@ -196,7 +196,40 @@
     "pngSha256": "59dbe1889e9da713427fca8bd8b8d0fb66c5ba9214bc65bb5d8f5e53d7db5b4b",
     "pixelSha256": "b4a102773982d2235016db3486ce0646590ed3f1a20bd57234a5c80f0e55c4f2",
     "imageFile": "70-5.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/70-5.webp",
+      "box": [
+        33,
+        162,
+        287,
+        443
+      ],
+      "polygons": [
+        [
+          [
+            37.235780719710704,
+            166.61622241913466
+          ],
+          [
+            314.9374091778186,
+            166.54976069201723
+          ],
+          [
+            315.04245516945707,
+            605.4706886639594
+          ],
+          [
+            37.340826711349166,
+            605.5371503910769
+          ]
+        ]
+      ],
+      "style": "Only the seated lecturer: French navy A-line knee-length office dress, white Peter Pan collar, pearl buttons and modest heeled shoes; retain the lovely brown hair and seated crossed-leg speaking pose.",
+      "kind": "outfit",
+      "imageSha256": "b9bfac5ac630f92e9445d5a34b2d9894f8e2fffdb8443e402e39e7b5b53dafff",
+      "protectedRects": []
+    }
   },
   "70-6": {
     "exam": 70,
@@ -517,7 +550,40 @@
     "pngSha256": "20ad529692c2d15322cf184001f0802adb6843322c12eddc5db6348dc1843a7b",
     "pixelSha256": "bff1695a727ab334f5ac72f856ebd5b6de541449c78a77ebfb29a9ceda5fb598",
     "imageFile": "70-13.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/70-13.webp",
+      "box": [
+        594,
+        361,
+        407,
+        496
+      ],
+      "polygons": [
+        [
+          [
+            598.172053112717,
+            365.82969669997107
+          ],
+          [
+            997.9098186339934,
+            365.7602617099307
+          ],
+          [
+            997.9962135895064,
+            863.1366773906269
+          ],
+          [
+            598.2584480682301,
+            863.2061123806673
+          ]
+        ]
+      ],
+      "style": "Teal fitted museum-guide blazer, ivory blouse, charcoal pleated knee-length skirt and a small elegant ribbon; no trousers.",
+      "kind": "outfit",
+      "imageSha256": "209a7b7c1b034cc21cf25d2739d04520663d0efe8a81682d1343b66a4324108c",
+      "protectedRects": []
+    }
   },
   "70-14": {
     "exam": 70,
@@ -782,7 +848,40 @@
     "pngSha256": "f40443a567e680eaa9d6c542681881a86cb25e08714ec315c3e59902b75e0a30",
     "pixelSha256": "f32f67f3f6ac7fe529eebdfb81473c0bc28db67645bf46da170943cfa3bd283c",
     "imageFile": "70-18.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/70-18.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        849
+      ],
+      "polygons": [
+        [
+          [
+            105,
+            380
+          ],
+          [
+            420,
+            380
+          ],
+          [
+            420,
+            849
+          ],
+          [
+            105,
+            849
+          ]
+        ]
+      ],
+      "style": "Back-facing lavender-haired visitor: lime blouse, lavender calf-length pleated skirt with a delicate ribbon waist and comfortable ankle boots, small tasteful cat-ear headband; keep the headphones.",
+      "kind": "outfit",
+      "imageSha256": "e24d42070b4f88b7a1aaf294ebbc67b594a92d84c7f97ad6d63837d1881704a1",
+      "protectedRects": []
+    }
   },
   "70-19": {
     "exam": 70,
@@ -1252,7 +1351,100 @@
     "pngSha256": "dd18cd52a99e72ab7945d2166fe00eeaf974c126bb47e15312c03c7017adbfe8",
     "pixelSha256": "2a43764fd3d44093db146300423bc368b30f184780b87b3f217b9de9048a8008",
     "imageFile": "70-27.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      769
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/70-27-1.webp?v=20261012-choice",
+        "width": 157,
+        "height": 188,
+        "sourceXref": 277,
+        "sourceBBox": [
+          66.411376953125,
+          792.7871704101562,
+          141.53936767578125,
+          883.0158081054688
+        ],
+        "imageSha256": "578b7a114041d33cd1bef85af25dee30a30b520c349066441beebfca446086b8",
+        "pixelSha256": "a3646964d7dba05db67f742627f46e4f61f4d0dcf7c4aa17f9d41a299b8033e7",
+        "name": "씨름(김홍도)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/70-27-2.webp?v=20261012-choice",
+        "width": 133,
+        "height": 185,
+        "sourceXref": 278,
+        "sourceBBox": [
+          166.1102294921875,
+          793.7884521484375,
+          229.6417999267578,
+          882.4888305664062
+        ],
+        "imageSha256": "8c7f9ce8161594eb914fd39400b5d32b97202a656d7bf47d2aa1ea1996422887",
+        "pixelSha256": "729455de7243d30c1649eb4627b62cbbb5eae43e084409e7fc3dc68c987210ec",
+        "name": "금강전도(정선)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/70-27-3.webp?v=20261012-choice",
+        "width": 164,
+        "height": 136,
+        "sourceXref": 279,
+        "sourceBBox": [
+          255.40158081054688,
+          793.7884521484375,
+          333.7765808105469,
+          858.787353515625
+        ],
+        "imageSha256": "6c7e3a6a43fdffa7a56f3e4bd42db3a66f33f77340058de6b040be09f8d5225e",
+        "pixelSha256": "7f3a32f9a159324be15639d41c33ca80714d3ea213b1f68726d4e49975b7fb3e",
+        "name": "파적도·야묘도추(김득신)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/70-27-4.webp?v=20261012-choice",
+        "width": 163,
+        "height": 122,
+        "sourceXref": 280,
+        "sourceBBox": [
+          67.46453857421875,
+          893.7633666992188,
+          145.41726684570312,
+          952.237060546875
+        ],
+        "imageSha256": "c0fdc021ffdaa8ff6462050e1f1d83f8e82a9f72bf2c0f070e90a048601bc39b",
+        "pixelSha256": "80c367e1bba9b3686df6ec47315a6a6ee50e313c1c5d317206ed372a7994faa2",
+        "name": "월하정인(신윤복)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/70-27-5.webp?v=20261012-choice",
+        "width": 200,
+        "height": 122,
+        "sourceXref": 281,
+        "sourceBBox": [
+          166.11024475097656,
+          893.7633056640625,
+          261.93170166015625,
+          952.2363891601562
+        ],
+        "imageSha256": "253ab54979bb01ccc8a99ff22a84020f8ea058fd0b2d6576db3236252b773dcd",
+        "pixelSha256": "38f4abbed06a687c9969556b8c652dbb0058b1c0ee1e8f96da80904316146f97",
+        "name": "영통동구도(강세황)",
+        "nameStatus": "identified"
+      }
+    ]
   },
   "70-28": {
     "exam": 70,
@@ -1604,7 +1796,40 @@
     "pngSha256": "10ee5c3075b7d8d62f69b10daf7c0e0b65ccb6798be17e31305ad9e71063a5a9",
     "pixelSha256": "f78a154468cad71195d5f093fd8e1b416a088916c00fe3f784bf9d407e3da936",
     "imageFile": "70-35.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/70-35.webp",
+      "box": [
+        637,
+        485,
+        358,
+        412
+      ],
+      "polygons": [
+        [
+          [
+            641.3899143335337,
+            489.01616449446135
+          ],
+          [
+            990.0722777146709,
+            489.13115567171525
+          ],
+          [
+            989.9391105126253,
+            892.9278281034194
+          ],
+          [
+            641.256747131488,
+            892.8128369261656
+          ]
+        ]
+      ],
+      "style": "Chocolate tailored vest over ivory ruffle-collar blouse, burgundy high-waist midi skirt, tasteful dark-academia office fashion.",
+      "kind": "outfit",
+      "imageSha256": "01f1a02fce16c49f89906aaa2f2287d58b2d94689a32fa4f5096db5b5a7aeb7f",
+      "protectedRects": []
+    }
   },
   "70-36": {
     "exam": 70,
@@ -2907,7 +3132,101 @@
     "pngSha256": "0ed0efe264cb7d40b96ee655ae4f6e1e36c54259caac4cc7a570515e157a19d1",
     "pixelSha256": "111a87e4ae8d859a9147530a0543e035a270f9c98ffdb9c743ddffdc9610e5b5",
     "imageFile": "71-7.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      899
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/71-7-1.webp?v=20261012-choice",
+        "width": 279,
+        "height": 384,
+        "sourceXref": 56,
+        "sourceBBox": [
+          405.1982116699219,
+          383.8829040527344,
+          473.54180908203125,
+          476.99700927734375
+        ],
+        "imageSha256": "7285135f0c45ab105410f8612b398d62a1574c5d1049cdf1ebb58c18590efe22",
+        "pixelSha256": "9a7ad3d868842261fae541097c4114379666646d7cd08ec951be6ff4fb3ba33f",
+        "name": "구례 화엄사 사사자 삼층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/71-7-2.webp?v=20261012-choice",
+        "width": 316,
+        "height": 403,
+        "sourceXref": 60,
+        "sourceBBox": [
+          497.31103515625,
+          383.7215881347656,
+          573.051025390625,
+          480.32159423828125
+        ],
+        "imageSha256": "0918db115bd7c3b9b571b82fa3096f767cf4d14cd30f6623b777164edb62a6b9",
+        "pixelSha256": "bddf1b5a9a233b369cc30dac58b0dcc3a95a07fddcaff6eaefe664e944ae5092",
+        "name": "부여 정림사지 오층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/71-7-3.webp?v=20261012-choice",
+        "width": 316,
+        "height": 370,
+        "sourceXref": 64,
+        "sourceBBox": [
+          595.9198608398438,
+          391.5302429199219,
+          671.7335815429688,
+          480.2152099609375
+        ],
+        "imageSha256": "2994475a136672ee286edeaeeb8592728d4742c3f3880ffcb8e50548bbaf6fa9",
+        "pixelSha256": "689ab42df5f5cc38b4b366cb8dec54117cf2afe26b44afa44cda46b77a6bcc41",
+        "name": "경주 분황사 모전 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/71-7-4.webp?v=20261012-choice",
+        "width": 316,
+        "height": 411,
+        "sourceXref": 68,
+        "sourceBBox": [
+          398.6382751464844,
+          489.49371337890625,
+          474.3870849609375,
+          587.946533203125
+        ],
+        "imageSha256": "dd468dcf6500bec2a1e0655577c1116dc908ea0a7851945c0296057ab6287b5b",
+        "pixelSha256": "7ade89f10842065e21bf08e86d236eeccc00c04f2202cceaddec1ce2e970cf79",
+        "name": "안동 법흥사지 칠층 전탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/71-7-5.webp?v=20261012-choice",
+        "width": 293,
+        "height": 363,
+        "sourceXref": 72,
+        "sourceBBox": [
+          497.1019287109375,
+          493.6585693359375,
+          573.2819213867188,
+          588.03857421875
+        ],
+        "imageSha256": "ed95c79627b07965bc5fc029d38688fec3b9692b52d656bc52913078beb491a8",
+        "pixelSha256": "ff006b6fef3dafc9a79fa40bd1d95c4004a856bd0742a332f157570a14f91ac1",
+        "name": "경주 불국사 삼층 석탑·석가탑",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "9e2c131628aa8bcd5c2ddbe46a69503c3b444c6c7474ae90d661c281a2640f26"
   },
   "71-8": {
     "exam": 71,
@@ -3209,7 +3528,101 @@
     "pngSha256": "69f2019b42be43a28b1f907ce0d2dfc241eb129f0e519e092ac6e1821c9ae78d",
     "pixelSha256": "8e2eebdf339f268aa4afe58ce24ac7bff0bae02b2da928847b081eb981b67c48",
     "imageFile": "71-16.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      979
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/71-16-1.webp?v=20261012-choice",
+        "width": 251,
+        "height": 370,
+        "sourceXref": 140,
+        "sourceBBox": [
+          410.1324462890625,
+          408.1592102050781,
+          470.3083801269531,
+          496.72222900390625
+        ],
+        "imageSha256": "d784320bbee717634d2b22749c4bd3698198462d85e8e13275a1940ef7dc1c5b",
+        "pixelSha256": "5e38380c222cfa9903ceea60fca7ed18cbbf62e2388d11159fb06e6f10200a46",
+        "name": "논산 관촉사 석조 미륵보살 입상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/71-16-2.webp?v=20261012-choice",
+        "width": 343,
+        "height": 220,
+        "sourceXref": 144,
+        "sourceBBox": [
+          499.46453857421875,
+          426.1047668457031,
+          581.6692504882812,
+          478.75848388671875
+        ],
+        "imageSha256": "39c9bce181bad657158f76a02f51c28615a5a5e874abd0f800ce799e6a3ed256",
+        "pixelSha256": "0bcbb66882d814df0f11a00a7642bda69385749bc41745d6de312bb6bf504267",
+        "name": "나전 국화넝쿨무늬 합",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/71-16-3.webp?v=20261012-choice",
+        "width": 190,
+        "height": 364,
+        "sourceXref": 146,
+        "sourceBBox": [
+          618.0809326171875,
+          409.1759033203125,
+          663.7457885742188,
+          496.66009521484375
+        ],
+        "imageSha256": "4dde7c223c7656b4276b9f2816e1065f5064889bbd775278238dc61ec9f5c1e4",
+        "pixelSha256": "d9fa605fc5bf630a8c19f3dc01de2f5765403f8783ad49208bfc025f4f3adb31",
+        "name": "수월관음도",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/71-16-4.webp?v=20261012-choice",
+        "width": 164,
+        "height": 361,
+        "sourceXref": 148,
+        "sourceBBox": [
+          420.5588073730469,
+          507.3276062011719,
+          459.882080078125,
+          593.8388061523438
+        ],
+        "imageSha256": "b5fffd93f6924782cad578ddd4a987230eed4001392970e2307ca895636187fe",
+        "pixelSha256": "b4e486668c0e481d6ebbc9093e20756888cd72484066bbd6e91859f566e5bd11",
+        "name": "개성 경천사지 십층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/71-16-5.webp?v=20261012-choice",
+        "width": 343,
+        "height": 284,
+        "sourceXref": 150,
+        "sourceBBox": [
+          499.46453857421875,
+          516.3729858398438,
+          581.6692504882812,
+          584.5281982421875
+        ],
+        "imageSha256": "d958f6ee4ace7a8b6cf7bddd15e590fd8636a47e17455104a05d5b92dd61bc0f",
+        "pixelSha256": "57459d71e1506302324e2838d6b78358dbb2764f8c6862437dde325b39fb7d43",
+        "name": "파적도·야묘도추(김득신)",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "a78cd57df8825bb75db0844c452335d2f69bb912153583c55dbb9dc05d7ea7de"
   },
   "71-17": {
     "exam": 71,
@@ -3559,7 +3972,40 @@
     "pngSha256": "cf6016b33a392e2f60a50849c7d33cbe941986c95c4bb9c49551af1e15cbf7d0",
     "pixelSha256": "fa07467f02c20699d08c5006d3f3a129e02f7c487108dade288c4147511e9268",
     "imageFile": "71-20.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-20.webp",
+      "box": [
+        420,
+        478,
+        323,
+        321
+      ],
+      "polygons": [
+        [
+          [
+            425.12600474301604,
+            482.959825891572
+          ],
+          [
+            738.2764622445015,
+            483.1185598318496
+          ],
+          [
+            738.1133494369059,
+            804.9076506437209
+          ],
+          [
+            424.96289193542043,
+            804.7489167034432
+          ]
+        ]
+      ],
+      "style": "Back-facing silver-haired viewer in a lavender modern hanbok-inspired dress with flowing dark plum chima skirt; headphones unchanged.",
+      "kind": "outfit",
+      "imageSha256": "527d465dee3259dd48e3037389e06f3dbb309c5c26c6768f991c49cdd0f49977",
+      "protectedRects": []
+    }
   },
   "71-21": {
     "exam": 71,
@@ -3648,7 +4094,40 @@
     "pngSha256": "9efeefbd9c98a15a2c873facee6a2310b26fc9d989e2bd6175714ea0b863d619",
     "pixelSha256": "c9dc9cf0f95a9cca314300c6b8e3d2dd2383ab759aa12bcfb52e03202688fe9c",
     "imageFile": "71-21.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-21.webp",
+      "box": [
+        1,
+        328,
+        170,
+        354
+      ],
+      "polygons": [
+        [
+          [
+            5.232092866392563,
+            332.37900099064325
+          ],
+          [
+            166.89411069246347,
+            332.387402683603
+          ],
+          [
+            166.87615907517286,
+            677.8052474386411
+          ],
+          [
+            5.214141249101942,
+            677.7968457456814
+          ]
+        ]
+      ],
+      "style": "Cream wrap midi dress with burgundy sash and low boots, a refined sightseeing outfit.",
+      "kind": "outfit",
+      "imageSha256": "6e68aa3f109a9e76d1ea1163464655e052457cdf8473ff1d41458ac665f5baab",
+      "protectedRects": []
+    }
   },
   "71-22": {
     "exam": 71,
@@ -4043,7 +4522,40 @@
     "pngSha256": "e3ab9144969feb48753e56bc3eab728b6dec40a286e581e61008f970116d5986",
     "pixelSha256": "62376516fe1356d9a00d28be476ae8c19d84e636a8d56bab50b09d534ff95c44",
     "imageFile": "71-27.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-27.webp",
+      "box": [
+        706,
+        356,
+        295,
+        391
+      ],
+      "polygons": [
+        [
+          [
+            710.4738595169174,
+            360.12388010749345
+          ],
+          [
+            1010.5791063695818,
+            360.39490074547695
+          ],
+          [
+            1010.2239967390097,
+            753.6131594564458
+          ],
+          [
+            710.1187498863453,
+            753.3421388184623
+          ]
+        ]
+      ],
+      "style": "Rose-pink tailored blazer over ivory blouse, charcoal A-line knee-length skirt, polished feminine officewear.",
+      "kind": "outfit",
+      "imageSha256": "d5eb10372ea270ce79e214f9f61780ca898c5b4a8edcbd1151e43ba2cd7fc7d9",
+      "protectedRects": []
+    }
   },
   "71-28": {
     "exam": 71,
@@ -4373,7 +4885,40 @@
     "pngSha256": "8716c13b9fa52c026ad087956fd459df212a7e0f67b950b641adab5086056c50",
     "pixelSha256": "372ceeabb82bc1adde43fed4e5a5616fdd3f31ad6b9ab2dc907dab06fa90c57a",
     "imageFile": "71-32.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-32.webp",
+      "box": [
+        22,
+        273,
+        210,
+        417
+      ],
+      "polygons": [
+        [
+          [
+            26.61558247437125,
+            277.3188935821953
+          ],
+          [
+            227.41919413191994,
+            277.33163573442624
+          ],
+          [
+            227.39331644557706,
+            685.1381651812333
+          ],
+          [
+            26.589704788028357,
+            685.1254230290023
+          ]
+        ]
+      ],
+      "style": "Mustard-and-midnight-blue magical-girl inspired knee-length dress with tiny subtle constellation embroidery and a flowing navy skirt; remain a respectful fully clothed museum visitor.",
+      "kind": "outfit",
+      "imageSha256": "85d89dfa2113e090e527d3631857a7aa42ecb592a8cefb8b1ea5b1488531d51a",
+      "protectedRects": []
+    }
   },
   "71-33": {
     "exam": 71,
@@ -4929,7 +5474,40 @@
     "pngSha256": "baf38a57d6a31c84d6def86f3476f7d82302587f3a294fe11040bfe07250a8d5",
     "pixelSha256": "f1fd6ed2a6cf58e16e71e5aeac0d15fd0cdd14b4a8ab73847d4587bd8317e7ae",
     "imageFile": "71-46.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-46.webp",
+      "box": [
+        16,
+        192,
+        364,
+        468
+      ],
+      "polygons": [
+        [
+          [
+            20.457992860120108,
+            196.77972169239746
+          ],
+          [
+            375.76097902289695,
+            196.95827611631998
+          ],
+          [
+            375.52478051143345,
+            666.9664372504637
+          ],
+          [
+            20.221794348656566,
+            666.7878828265411
+          ]
+        ]
+      ],
+      "style": "Mustard cropped field vest, cream blouse, warm brown pleated knee-length skirt, opaque tights and practical ankle boots; confident archaeology visitor.",
+      "kind": "outfit",
+      "imageSha256": "6d90b5bfa16df8fe4e490763fac0a1c7bf91ae769d9035586093e166743e0bbb",
+      "protectedRects": []
+    }
   },
   "71-47": {
     "exam": 71,
@@ -5754,7 +6332,100 @@
     "pngSha256": "123dfbfbe06d2abd6785e596e5907983f99182baed07aa18bfdf18fc061b9bca",
     "pixelSha256": "88497a131570d912249ff73d737d82b647799b88a14001351414c666e06635af",
     "imageFile": "72-17.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      930
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/72-17-1.webp?v=20261012-choice",
+        "width": 316,
+        "height": 363,
+        "sourceXref": 262,
+        "sourceBBox": [
+          398.0484924316406,
+          769.7164306640625,
+          473.88848876953125,
+          856.83642578125
+        ],
+        "imageSha256": "a2213792eed52792b4b2ed12095a4abd191e2caa4215cc97860c912099ad0476",
+        "pixelSha256": "db02ad7e53145d76aa35e83049220aae4ffa8103d5f0dba6d596e69cc9e45659",
+        "name": "경주 불국사 삼층 석탑·석가탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/72-17-2.webp?v=20261012-choice",
+        "width": 308,
+        "height": 363,
+        "sourceXref": 266,
+        "sourceBBox": [
+          499.4599304199219,
+          769.73779296875,
+          573.169921875,
+          856.8377685546875
+        ],
+        "imageSha256": "701dc97ddb2a1c6dfcf2937fe39b6d7d463a5a43f015b244607bf960f5082e46",
+        "pixelSha256": "37deb4df96911d6e2756a18b42bbadfa675624d72a6b2214f0feeec55475843e",
+        "name": "부여 정림사지 오층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/72-17-3.webp?v=20261012-choice",
+        "width": 270,
+        "height": 329,
+        "sourceXref": 270,
+        "sourceBBox": [
+          604.3536987304688,
+          773.8665771484375,
+          668.9688720703125,
+          852.708984375
+        ],
+        "imageSha256": "87b35068c7a6f9395b85bcff32cc5b6db39171751ef50e9a0958a56cf4f0d231",
+        "pixelSha256": "254bc0c9e7edf9c50959dc9d1b198dd561aa81d117ee22264ae8f2533fcbc835",
+        "name": "평창 월정사 팔각 구층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/72-17-4.webp?v=20261012-choice",
+        "width": 246,
+        "height": 337,
+        "sourceXref": 274,
+        "sourceBBox": [
+          406.52032470703125,
+          866.378662109375,
+          465.41632080078125,
+          947.0906982421875
+        ],
+        "imageSha256": "3d7351844037fa81fd833f30abb3812d4ac907a79391a5974d5b348e8cde9399",
+        "pixelSha256": "1b7150e9c794e554944408db020ec09b76a8bae06b6ca0907b085647abf91986",
+        "name": "구례 화엄사 사사자 삼층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/72-17-5.webp?v=20261012-choice",
+        "width": 316,
+        "height": 357,
+        "sourceXref": 278,
+        "sourceBBox": [
+          498.40679931640625,
+          866.3995971679688,
+          574.2227783203125,
+          951.9356079101562
+        ],
+        "imageSha256": "c3862d8295ff7b7299829215dd5c9057c7789d2f65ffce1d37719211d141e5ee",
+        "pixelSha256": "08625cd0d11bd909795ff46edb5d61dd986ac7227081951b8d3898685fa056f0",
+        "name": "익산 미륵사지 석탑",
+        "nameStatus": "identified"
+      }
+    ]
   },
   "72-18": {
     "exam": 72,
@@ -6008,7 +6679,40 @@
     "pngSha256": "4d1721d67abb3697187b773a476ce3061d14855e03c7c2f80de05796e807b3e9",
     "pixelSha256": "e062326aeeea5a023012aeefa9e83c6c88a1937c0041e628142d9299e5faed84",
     "imageFile": "72-21.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/72-21.webp",
+      "box": [
+        665,
+        221,
+        207,
+        406
+      ],
+      "polygons": [
+        [
+          [
+            670.0147074190779,
+            225.86255580073708
+          ],
+          [
+            867.4641065182394,
+            225.9181880228474
+          ],
+          [
+            867.3523107976821,
+            622.7025875768242
+          ],
+          [
+            669.9029116985206,
+            622.6469553547138
+          ]
+        ]
+      ],
+      "style": "Dusty rose floral wrap midi dress, white cardigan and low walking shoes; natural garden fashion.",
+      "kind": "outfit",
+      "imageSha256": "24693ac679e630f6cfe45a7dcb32b29ba188cd173a83fa3f0c15c8cda055a98b",
+      "protectedRects": []
+    }
   },
   "72-22": {
     "exam": 72,
@@ -6066,7 +6770,101 @@
     "pngSha256": "0fb9a06f386a90b9a58df97fab50b837bc38bc32cb5b52b192e3481c1c2d0fec",
     "pixelSha256": "10f9e1136e120c5e897175ab26c793bdfaec866af6ad4724f639c87a5cd61a04",
     "imageFile": "72-23.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      762
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/72-23-1.webp?v=20261012-choice",
+        "width": 354,
+        "height": 279,
+        "sourceXref": 728,
+        "sourceBBox": [
+          66.4395980834961,
+          343.220458984375,
+          147.85958862304688,
+          407.39044189453125
+        ],
+        "imageSha256": "34f75d34e4a37ef84d0e3276222826b19154a8a9e2bd8b4adf961a22288d4012",
+        "pixelSha256": "ef7fc59d66013a66575a0f6ca3424270a9a506b749cd42cd3b35528251cef41f",
+        "name": "매화초옥도(전기)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/72-23-2.webp?v=20261012-choice",
+        "width": 303,
+        "height": 244,
+        "sourceXref": 730,
+        "sourceBBox": [
+          166.5442657470703,
+          342.3939514160156,
+          248.28335571289062,
+          408.21685791015625
+        ],
+        "imageSha256": "c05e9447a184b3bf129644f3be31d875b70e6e9b4abb8bf4c9e34c02943ac73b",
+        "pixelSha256": "1358e9f76ba80c2991b888d3f34d88dc7812b47cac36817e1964c8d69aca4f2d",
+        "name": "월하정인(신윤복)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/72-23-3.webp?v=20261012-choice",
+        "width": 340,
+        "height": 278,
+        "sourceXref": 732,
+        "sourceBBox": [
+          267.0797424316406,
+          341.98388671875,
+          348.6053466796875,
+          408.6270751953125
+        ],
+        "imageSha256": "c2e53db85bfe470b39b0995f53eb57ef283251ee2aed3553c9440c645f9ed93a",
+        "pixelSha256": "785115237cdd4e23eb3f1be4200df9492c905abcd9c383506577bd1465236ed6",
+        "name": "나무와 마을을 그린 산수화",
+        "nameStatus": "description"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/72-23-4.webp?v=20261012-choice",
+        "width": 261,
+        "height": 371,
+        "sourceXref": 734,
+        "sourceBBox": [
+          66.43358612060547,
+          418.0593566894531,
+          147.86557006835938,
+          533.8113403320312
+        ],
+        "imageSha256": "31f23bf98265cbbde8e44d9b33124f81365fdf26b995ab55e43a0b0a521ffbc0",
+        "pixelSha256": "1c394f3909d4fa98cacdf0346065a12df33deec49741df6eaf791e7d3c9100a3",
+        "name": "고사관수도(강희안)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/72-23-5.webp?v=20261012-choice",
+        "width": 302,
+        "height": 431,
+        "sourceXref": 736,
+        "sourceBBox": [
+          167.81100463867188,
+          419.2987060546875,
+          247.18109130859375,
+          532.5718994140625
+        ],
+        "imageSha256": "66ec189df9d41c5f27feb0ed00dbca422144c91e3fa4f5f00a7038cd24c17efb",
+        "pixelSha256": "5db92ed49421995bf343bdd0c28f6991ee56c5cd2dc0208988c349942d484521",
+        "name": "금강전도(정선)",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "393b130c6ddffd09ba0b501dba8b0af430886f7bfd74bb4bd0f4e0d8997a5f69"
   },
   "72-24": {
     "exam": 72,
@@ -7058,7 +7856,40 @@
     "pngSha256": "e718d15812b78836e05ba6e10bac1167d5185e81668ce5a4fe845c1bf23a4aea",
     "pixelSha256": "b69955d499ac092669e7c6616dacd3bf3be6ad77599b0d3014cfa5e845a58c12",
     "imageFile": "72-43.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/72-43.webp",
+      "box": [
+        630,
+        308,
+        226,
+        442
+      ],
+      "polygons": [
+        [
+          [
+            634.3408608158184,
+            312.25919816749615
+          ],
+          [
+            851.2006131205758,
+            312.1792245229627
+          ],
+          [
+            851.3603137296781,
+            745.2298218150661
+          ],
+          [
+            634.5005614249206,
+            745.3097954595996
+          ]
+        ]
+      ],
+      "style": "Indigo denim pinafore knee-length SKIRT over a white puff-sleeve blouse, relaxed feminine casual outfit.",
+      "kind": "outfit",
+      "imageSha256": "920291dfdd210910a1665ba8fab10b02f539bc4a33794b3a0fde75902d45bd2e",
+      "protectedRects": []
+    }
   },
   "72-44": {
     "exam": 72,
@@ -7733,7 +8564,101 @@
     "pngSha256": "a3d275270390b47d208cd4ae0bc20ce6ddfa05627af669cba3fa76b2e398b58c",
     "pixelSha256": "af95b1a94e49443c3b10891dd273e4eb20247f905647f92a69a449b8c2ec90ed",
     "imageFile": "73-6.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      867
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/73-6-1.webp?v=20261012-choice",
+        "width": 149,
+        "height": 159,
+        "sourceXref": 57,
+        "sourceBBox": [
+          67.34323120117188,
+          777.8577880859375,
+          138.47833251953125,
+          854.0582275390625
+        ],
+        "imageSha256": "55c16b549070e6cfcac537dfb86b55fe6f81a56ff2c9e3c32e2e8d555962b75f",
+        "pixelSha256": "2d0fe0c432194ebbe11ad707795a2f337e228dd5d59490e8dba608f9554d72cd",
+        "name": "비석 사진",
+        "nameStatus": "description"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/73-6-2.webp?v=20261012-choice",
+        "width": 129,
+        "height": 127,
+        "sourceXref": 13,
+        "sourceBBox": [
+          171.6472625732422,
+          790.2891845703125,
+          233.18212890625,
+          850.9342041015625
+        ],
+        "imageSha256": "b9172328576fb69d475eae40411db8278230e87cbf207469b482aeb88c94d54c",
+        "pixelSha256": "e0a63bc98663e0013eba7aed2eb16c77f7a8809fafc341315a4dabcd7e4ddc93",
+        "name": "동물 모양 청자",
+        "nameStatus": "description"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/73-6-3.webp?v=20261012-choice",
+        "width": 108,
+        "height": 145,
+        "sourceXref": 14,
+        "sourceBBox": [
+          278.4620361328125,
+          784.0324096679688,
+          330.3020324707031,
+          853.5123901367188
+        ],
+        "imageSha256": "ae2e0d2db4792ec17161ccfa7a3369caa9ed4e07bfc54f5e915505b67c344355",
+        "pixelSha256": "694193cefa88217f8f6b1f4d052be61eb9da638f1b0014621adf45ecfeaec6f8",
+        "name": "이불병좌상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/73-6-4.webp?v=20261012-choice",
+        "width": 152,
+        "height": 114,
+        "sourceXref": 15,
+        "sourceBBox": [
+          66.3739013671875,
+          887.726806640625,
+          139.3483123779297,
+          942.0435791015625
+        ],
+        "imageSha256": "ab50378f6faf7eb51a6d6509b473e000ccfbe618c4e7d84b8ec84d3903b59829",
+        "pixelSha256": "dac2f63a86855f05006db5510ea77e8f8b900178ba196f7fe55f8681ccc946e5",
+        "name": "청동 초두",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/73-6-5.webp?v=20261012-choice",
+        "width": 137,
+        "height": 120,
+        "sourceXref": 16,
+        "sourceBBox": [
+          171.9774932861328,
+          884.3885498046875,
+          237.22747802734375,
+          941.5185546875
+        ],
+        "imageSha256": "afba46b45d852eb92c1bf38db5863e3a48712482940603f075eea1e0e4f99939",
+        "pixelSha256": "c577a9fa99ab029e92a40ea9784f09fab49e0ff0ad94f1cc4fd7328131b2684c",
+        "name": "호우명 그릇",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "5ceb4f942ca3d9da97f855337432550a180f7f946f4445a8097eee7be7dfb602"
   },
   "73-7": {
     "exam": 73,
@@ -7810,7 +8735,40 @@
     "pngSha256": "1858f52fa5b5f8d5c37fbb0e9f83c9d984d47e4a583807a700ddd5c2ead4bd5d",
     "pixelSha256": "3f0ecbe513c8f46f84aae48dc1ce6a95254cd15a5b112196d7095e6b5eb03371",
     "imageFile": "73-7.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/73-7.webp",
+      "box": [
+        82,
+        398,
+        277,
+        483
+      ],
+      "polygons": [
+        [
+          [
+            86.30346127165006,
+            402.84301942259833
+          ],
+          [
+            354.01203551627316,
+            402.8567218087614
+          ],
+          [
+            353.9871521030658,
+            889.0131468882632
+          ],
+          [
+            86.2785778584427,
+            888.9994445021
+          ]
+        ]
+      ],
+      "style": "Rust-colored linen midi skirt, olive cardigan, ivory blouse and practical ankle boots; gentle field-trip outfit.",
+      "kind": "outfit",
+      "imageSha256": "c92628a9d36d8d58f0ecfa558e218056555a3e6d0277ef41b0a7296b383b1c34",
+      "protectedRects": []
+    }
   },
   "73-8": {
     "exam": 73,
@@ -7945,7 +8903,47 @@
     "pngSha256": "6cd83200ca3b48225490c5b1abe55fb1e4d2bdd3cb10b4fba418e70cabd1c963",
     "pixelSha256": "46ffb95b49d06f952e5779486f14a4840398af2f376ac41b0addaf7f969924ae",
     "imageFile": "73-10.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/73-10.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        975
+      ],
+      "polygons": [
+        [
+          [
+            515,
+            367
+          ],
+          [
+            1001,
+            367
+          ],
+          [
+            1001,
+            975
+          ],
+          [
+            515,
+            975
+          ]
+        ]
+      ],
+      "style": "Adult stage magician cosplay: orange-and-ivory leotard with a short flared navy star-pattern overskirt, little shoulder cape, cat-ear headband, black opaque tights and gloves. Keep an unmistakably adult face and neutral teaching gesture.",
+      "kind": "spice",
+      "imageSha256": "1fd0e624ecc2eed2c674af0e6bff54969cca46d80105e3f2438099b61c3b8dde",
+      "protectedRects": [
+        [
+          95,
+          210,
+          452,
+          549
+        ]
+      ]
+    }
   },
   "73-11": {
     "exam": 73,
@@ -8648,7 +9646,101 @@
     "pngSha256": "022617fd7525f18f4417f0bf3f193d53e118365306b82e18d021910d7e378135",
     "pixelSha256": "ea139d258929b63b5582bd9b6856884df77305f2a1ced0c5725a6b34759b8fcd",
     "imageFile": "73-26.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      851
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/73-26-1.webp?v=20261012-choice",
+        "width": 221,
+        "height": 145,
+        "sourceXref": 138,
+        "sourceBBox": [
+          67.46456909179688,
+          729.9599609375,
+          173.51438903808594,
+          799.422607421875
+        ],
+        "imageSha256": "29e89ef0029426328e2353a3ccc2a66c1ba519608b09924a47185999fe9b6ebc",
+        "pixelSha256": "25f5758421d0a1cbdb16c9815e45b9342a045f1ac098ef879bc4e081c1f3cd5e",
+        "name": "금강전도(정선)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/73-26-2.webp?v=20261012-choice",
+        "width": 226,
+        "height": 150,
+        "sourceXref": 139,
+        "sourceBBox": [
+          216.98081970214844,
+          728.919189453125,
+          325.0558166503906,
+          800.459228515625
+        ],
+        "imageSha256": "cf3e148f504c8ea5204d0cdaf1f539c60eb7cd01806879dc9df0845345e890ba",
+        "pixelSha256": "1f88df7610e27402a3d58e2aa5a7d00462f47d893bdfd0f5156a36f2a5557be4",
+        "name": "나무 아래의 배를 그린 산수화",
+        "nameStatus": "description"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/73-26-3.webp?v=20261012-choice",
+        "width": 219,
+        "height": 153,
+        "sourceXref": 140,
+        "sourceBBox": [
+          67.46458435058594,
+          810.036376953125,
+          172.58920288085938,
+          883.338134765625
+        ],
+        "imageSha256": "3db9e4e42451cf27374064b0b6ab23af2c7f86bfba9fb778df810280269c6dbf",
+        "pixelSha256": "688c719412db2438295317437f60072f1b3b812cc671490932c589bc8f040114",
+        "name": "월하정인(신윤복)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/73-26-4.webp?v=20261012-choice",
+        "width": 227,
+        "height": 149,
+        "sourceXref": 141,
+        "sourceBBox": [
+          217.9842529296875,
+          811.3284912109375,
+          326.8482666015625,
+          882.742919921875
+        ],
+        "imageSha256": "f32e83360c6c35c518d2e62ce3cb1fd4837c8b86fda3d233f979ad23c4702baa",
+        "pixelSha256": "e19ecfa6ae2876b36c518bae69d44fe04ca055d3ddfbafcab0d5a091e9918f9a",
+        "name": "영통동구도(강세황)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/73-26-5.webp?v=20261012-choice",
+        "width": 327,
+        "height": 121,
+        "sourceXref": 142,
+        "sourceBBox": [
+          67.46456909179688,
+          894.3836059570312,
+          224.21456909179688,
+          952.4391479492188
+        ],
+        "imageSha256": "f2bd2c388bd5990ae1d031fd47206b4327d6358bdea7f5ccf217a596258c8972",
+        "pixelSha256": "ace3dda4e0bbb9be1271cf3b106b8ed34df2ac12b05828e7ae7a8ae7fa10bb77",
+        "name": "몽유도원도(안견)",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "5a5e88f3ad44e242f15734dca8bc3b7b264aac778013b97a2c3e1dac61327ece"
   },
   "73-27": {
     "exam": 73,
@@ -9354,7 +10446,40 @@
     "pngSha256": "6f6705b7ae687824f6de6aefd27db44a670c12e1795d106f7c813de846f3102a",
     "pixelSha256": "734c7571f114bcd19e09b90d31aec97bdcfe74ef85e3526d119fef9563f15e1c",
     "imageFile": "73-39.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/73-39.webp",
+      "box": [
+        22,
+        224,
+        334,
+        673
+      ],
+      "polygons": [
+        [
+          [
+            26.850801940119922,
+            228.37728139867377
+          ],
+          [
+            350.79833526146064,
+            228.26162836634103
+          ],
+          [
+            351.0407081249097,
+            907.1551227664957
+          ],
+          [
+            27.09317480356897,
+            907.2707757988284
+          ]
+        ]
+      ],
+      "style": "Lavender idol-inspired tailored jacket dress with a flared knee-length plum skirt, modest bow and feminine low heels.",
+      "kind": "outfit",
+      "imageSha256": "02caeb2a7cf55f753ac94aa3dd93d7faeaba9e17496e1104e23793e2a5af5f9a",
+      "protectedRects": []
+    }
   },
   "73-40": {
     "exam": 73,
@@ -10012,7 +11137,40 @@
     "pngSha256": "be696e5ef256f294dabfed8c272ffa505a76b6c6127fc46fce81ad0247ebe2ac",
     "pixelSha256": "9099f73842e7c23076a6d8d440f223d7795f1833920ebc535d1744fdd4828498",
     "imageFile": "74-2.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/74-2.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        705
+      ],
+      "polygons": [
+        [
+          [
+            658,
+            315
+          ],
+          [
+            861,
+            315
+          ],
+          [
+            861,
+            700
+          ],
+          [
+            658,
+            700
+          ]
+        ]
+      ],
+      "style": "Cream frilled knee-length skirt and rose blouse with a subtle ribbon belt, elegant everyday dress.",
+      "kind": "outfit",
+      "imageSha256": "188a1b522fdd3b0f338b372c357b41ee73baebf69d1b837b39a7a976d8b7f5a9",
+      "protectedRects": []
+    }
   },
   "74-3": {
     "exam": 74,
@@ -10113,7 +11271,40 @@
     "pngSha256": "4127446ac16f86754a817b87dad0b4590f74c5d907f326df4d3268e7605e422b",
     "pixelSha256": "36125595eef4ab0cb772570defb8e9db1a398fa4d06506f24e8987de26997a23",
     "imageFile": "74-3.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/74-3.webp",
+      "box": [
+        0,
+        274,
+        342,
+        502
+      ],
+      "polygons": [
+        [
+          [
+            -38.106824089709846,
+            278.564323961294
+          ],
+          [
+            336.83127626550146,
+            278.18035989456075
+          ],
+          [
+            337.3518376207236,
+            786.5047124984426
+          ],
+          [
+            -37.5862627344877,
+            786.8886765651758
+          ]
+        ]
+      ],
+      "style": "Classic navy-and-ivory maid-inspired knee-length dress, modest long-sleeved bodice, white apron, a small ribbon cat-ear headband, opaque tights; keep original gesture and museum surroundings.",
+      "kind": "outfit",
+      "imageSha256": "72d592274b6ca0c9c4a1c0c1efec8c02ef9187774a5c59c8aa64fa0e0f3b268a",
+      "protectedRects": []
+    }
   },
   "74-4": {
     "exam": 74,
@@ -10318,7 +11509,40 @@
     "pngSha256": "6939b2caf5cf54b28d66f77735d6a821b33aeef1a48f736e6e080b49fb167228",
     "pixelSha256": "058c6ba8beb3a92b0c0e662991b83bfc4e90dd0f4bf5e42754614cf05e4fb576",
     "imageFile": "74-7.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/74-7.webp",
+      "box": [
+        590,
+        401,
+        390,
+        485
+      ],
+      "polygons": [
+        [
+          [
+            594.472673021321,
+            405.0507987537772
+          ],
+          [
+            975.115713382354,
+            405.06300344701833
+          ],
+          [
+            975.1001344503932,
+            890.9426490843368
+          ],
+          [
+            594.4570940893603,
+            890.9304443910958
+          ]
+        ]
+      ],
+      "style": "Blush cardigan, lavender pleated midi skirt and white blouse, cute adult everyday fashion.",
+      "kind": "outfit",
+      "imageSha256": "de2d5afb2fb45dbfc5cf0490c125e06a3a04d0b18496ed37ab2b67f7ff9c26fa",
+      "protectedRects": []
+    }
   },
   "74-8": {
     "exam": 74,
@@ -10654,7 +11878,100 @@
     "pngSha256": "9ac6db7c54957b98058e981ade46911cc9a558718ac5d637893cb2c0091d529a",
     "pixelSha256": "9c2b8981e406e432be565feb3531906007f97cc541e5f3a594c39a3659fae853",
     "imageFile": "74-13.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      729
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/74-13-1.webp?v=20261012-choice",
+        "width": 165,
+        "height": 148,
+        "sourceXref": 65,
+        "sourceBBox": [
+          71.30281066894531,
+          337.501708984375,
+          150.2040557861328,
+          408.15673828125
+        ],
+        "imageSha256": "5321ee2c323f6b708fda41b881c7598ae3b768b4e05120a28295515dace6c510",
+        "pixelSha256": "075cf52948a787f0a6dfb190b42ddd74cf3cb3cd1f61fc56a8c138c64b792e96",
+        "name": "도기 기마 인물형 명기",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/74-13-2.webp?v=20261012-choice",
+        "width": 149,
+        "height": 182,
+        "sourceXref": 76,
+        "sourceBBox": [
+          174.94175720214844,
+          331.42767333984375,
+          246.28053283691406,
+          418.54766845703125
+        ],
+        "imageSha256": "eda04995d41dbd5419e074a10a7a77bbe27343bfa389f2b5e6582ac13dbabb44",
+        "pixelSha256": "5e50ba4f482c97bc81883664d4cab9962b83cce302988d917dd119239d3cc64e",
+        "name": "청자 투각 칠보무늬 향로",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/74-13-3.webp?v=20261012-choice",
+        "width": 153,
+        "height": 192,
+        "sourceXref": 87,
+        "sourceBBox": [
+          270.2029113769531,
+          331.4251708984375,
+          343.65802001953125,
+          423.442626953125
+        ],
+        "imageSha256": "8ce35858321dbbda948d880c3354dbd2c5efecf6c6c3f62b3a2a2696aae02660",
+        "pixelSha256": "d7b6e09ec174fcc8e3549224f4355c67aa4cc91f858b04d1de6a951116ed2ca0",
+        "name": "청동 은입사 포류수금문 정병",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/74-13-4.webp?v=20261012-choice",
+        "width": 149,
+        "height": 96,
+        "sourceXref": 100,
+        "sourceBBox": [
+          75.54585266113281,
+          454.5085144042969,
+          146.88462829589844,
+          500.4066162109375
+        ],
+        "imageSha256": "1e816b3ac7a5f7439d3cdfba9594cd174c30d61b56e078500cd4a62109f338e3",
+        "pixelSha256": "f2381cf55f5d449d06673399baf2db81bd0d6997567d61fe06663808e0650208",
+        "name": "나전 국화넝쿨무늬 합",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/74-13-5.webp?v=20261012-choice",
+        "width": 123,
+        "height": 179,
+        "sourceXref": 111,
+        "sourceBBox": [
+          177.77638244628906,
+          438.560546875,
+          236.43592834472656,
+          524.1065673828125
+        ],
+        "imageSha256": "52e406579717cff275a5bfe6c7c37506d01728405c2cc0bcc78acc984e8549ab",
+        "pixelSha256": "d2d76ee74f682b782a2a8b6087e1bae5e9bc878eda32efee3a3973ba16ba5f4d",
+        "name": "평창 월정사 팔각 구층 석탑",
+        "nameStatus": "identified"
+      }
+    ]
   },
   "74-14": {
     "exam": 74,
@@ -10869,7 +12186,101 @@
     "pngSha256": "6053fc76329e2565612f43ae1146c7e967ca6db1e7624a889763b5c3b8c0443e",
     "pixelSha256": "49e72883bd4212140a62e806997c2eeb1ac8aa2bc61412fe2f92c313c0031037",
     "imageFile": "74-19.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      780
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/74-19-1.webp?v=20261012-choice",
+        "width": 225,
+        "height": 129,
+        "sourceXref": 174,
+        "sourceBBox": [
+          68.18112182617188,
+          748.8887329101562,
+          176.18112182617188,
+          810.5687255859375
+        ],
+        "imageSha256": "2036efe31880bee13c01227c683992267f7bd8ca5c5e296e0e2f90a4ab170d0e",
+        "pixelSha256": "91465b4a8ad31708b83a9cb215048030d42ed388ba6b941596d62039f14ab26d",
+        "name": "종묘 정전",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/74-19-2.webp?v=20261012-choice",
+        "width": 229,
+        "height": 126,
+        "sourceXref": 175,
+        "sourceBBox": [
+          217.4170684814453,
+          750.2342529296875,
+          327.143310546875,
+          810.4896850585938
+        ],
+        "imageSha256": "a40ab982f01ff19e8f05f26f650f7ae8f0aeb390ecc97d8df58de0dabf463090",
+        "pixelSha256": "ce59975507ce8650ad6d2d604bdfa8ab14e22e59d376494023b127775c29d462",
+        "name": "경복궁 향원정",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/74-19-3.webp?v=20261012-choice",
+        "width": 225,
+        "height": 124,
+        "sourceXref": 176,
+        "sourceBBox": [
+          67.89764404296875,
+          821.34423828125,
+          175.6141815185547,
+          880.62939453125
+        ],
+        "imageSha256": "1458d54406e828fde425792cb360ffb67b023b99cb102562867bc676f82a50dd",
+        "pixelSha256": "4afb4dd894167384889f5103a7b0138ab48c662bea262b71c14071fd61bd01ac",
+        "name": "덕수궁 정관헌",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/74-19-4.webp?v=20261012-choice",
+        "width": 223,
+        "height": 129,
+        "sourceXref": 177,
+        "sourceBBox": [
+          218.4173126220703,
+          820.3199462890625,
+          325.4573059082031,
+          881.8799438476562
+        ],
+        "imageSha256": "f73629a138fc301f627631072595abb1be63390e64440a4f1cee1529ec37a59d",
+        "pixelSha256": "1acfc5293f4215615ca62dd4d3bef9a20fe320d304d97f0bf13e6290357adef3",
+        "name": "창덕궁 주합루·부용지",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/74-19-5.webp?v=20261012-choice",
+        "width": 229,
+        "height": 129,
+        "sourceXref": 162,
+        "sourceBBox": [
+          66.86279296875,
+          891.884765625,
+          176.68157958984375,
+          953.5274658203125
+        ],
+        "imageSha256": "928c1d70615c5fc8a49b92b3119f47aca641d83eb6e2610623302623afe8ca83",
+        "pixelSha256": "5a90dbc242d40447e7b5a2eda448071dc178dfdc0bf2578435b5f794da0dbbbc",
+        "name": "환구단 황궁우",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "a266770c1f3a5a2b325815caad3b727f4711ccf4382591e563a82c2ae511eb5c"
   },
   "74-20": {
     "exam": 74,
@@ -10993,7 +12404,40 @@
     "pngSha256": "3072d1d445a10e8b8ef059cef65c90a87cecb45a6d59eb3b5270e53f541c8801",
     "pixelSha256": "f160545ae5ee5a6a350d93baf741217f0061cca351949254b7402d71eb89115e",
     "imageFile": "74-21.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/74-21.webp",
+      "box": [
+        573,
+        211,
+        365,
+        352
+      ],
+      "polygons": [
+        [
+          [
+            577.4790320556635,
+            216.00921542295637
+          ],
+          [
+            932.8192618058123,
+            215.70727652404221
+          ],
+          [
+            933.1213150755215,
+            571.1821048460661
+          ],
+          [
+            577.7810853253727,
+            571.4840437449802
+          ]
+        ]
+      ],
+      "style": "Grey checked collared blouse and navy high-waist A-line knee-length skirt; refined professional curator.",
+      "kind": "outfit",
+      "imageSha256": "ab797962c5cb634e1f445e7dcab5a7193de67d3c0576f97969fe5c3c6a5015ab",
+      "protectedRects": []
+    }
   },
   "74-22": {
     "exam": 74,
@@ -12580,7 +14024,101 @@
     "pngSha256": "4dc6c6485af6b87a159f67ffe0993523113a397ebd5c403653acd8febf161371",
     "pixelSha256": "9f60ec8f4cfaecffe47ebfb005faf1166e059fd8b6a2bdcdb15eae2db3ba430d",
     "imageFile": "75-3.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      689
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/75-3-1.webp?v=20261012-choice",
+        "width": 169,
+        "height": 389,
+        "sourceXref": 2312,
+        "sourceBBox": [
+          417.8828430175781,
+          405.7976379394531,
+          458.3292541503906,
+          498.94293212890625
+        ],
+        "imageSha256": "633ffde7f58f63a251065bd97dca3292e7a9b4ecd2c16d5202036a110555b9c0",
+        "pixelSha256": "17b60fbe525d1c355000ce038772e1532e11a3f4cf8e4ed256e8ec7edea48943",
+        "name": "백제 금동 대향로",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/75-3-2.webp?v=20261012-choice",
+        "width": 205,
+        "height": 390,
+        "sourceXref": 2316,
+        "sourceBBox": [
+          514.0299072265625,
+          405.3740539550781,
+          563.0426025390625,
+          498.88909912109375
+        ],
+        "imageSha256": "20cc6c7249a8c9253fd4f5cca2cbf43c1bd7533b047a8bc7467a20187650a9da",
+        "pixelSha256": "dbf817728cab1d3a44587b87d0d7d2561b2ef90265862af5e9804d873d213b2c",
+        "name": "금동 연가7년명 여래 입상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/75-3-3.webp?v=20261012-choice",
+        "width": 286,
+        "height": 384,
+        "sourceXref": 2320,
+        "sourceBBox": [
+          607.575927734375,
+          409.899169921875,
+          670.4959106445312,
+          494.379150390625
+        ],
+        "imageSha256": "e2e342e551f8f61702078d06c5d2261b876c12b239452937fe8034a1b263a9e5",
+        "pixelSha256": "7e71f084a11a0111c67906a65f4c7b887515203ad39f7906575e65f162c4f844",
+        "name": "이불병좌상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/75-3-4.webp?v=20261012-choice",
+        "width": 393,
+        "height": 538,
+        "sourceXref": 2324,
+        "sourceBBox": [
+          407.2766418457031,
+          509.4095764160156,
+          475.07861328125,
+          602.2275390625
+        ],
+        "imageSha256": "d996d49479d7531278a83e5e1ed6f0b62fc1210ecd675e780fa13ee0ec51ab23",
+        "pixelSha256": "5af739b291b2e1c29a2bcb9d21b9fae2ae07c366b333df125a6212bfe66b4d83",
+        "name": "발해 석등",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/75-3-5.webp?v=20261012-choice",
+        "width": 355,
+        "height": 264,
+        "sourceXref": 2282,
+        "sourceBBox": [
+          499.45928955078125,
+          524.141357421875,
+          584.4986572265625,
+          587.4956665039062
+        ],
+        "imageSha256": "08164f3c0c094c66003167a304cc39840c45362bcd31596772b9699e27649870",
+        "pixelSha256": "d24613ddb260a675d4f6bb972cec87a186400445f253a459d04bcc8b7f6eef65",
+        "name": "천마총 장니 천마도",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "09b6cbd6aa0576cbcd647d3a6df3f86e7b36bec8a1f555631d43e177cdcda392"
   },
   "75-4": {
     "exam": 75,
@@ -13085,7 +14623,40 @@
     "pngSha256": "8141c95677841274581d8dbe704fd6c9ece93db66b0d4f9bc1d4672665721fcf",
     "pixelSha256": "793acd5aec4b892d72d65e64448d91c86a806b056c5c5f872a3f762980cfabcb",
     "imageFile": "75-13.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-13.webp",
+      "box": [
+        22,
+        317,
+        343,
+        354
+      ],
+      "polygons": [
+        [
+          [
+            26.53456787145977,
+            321.2089886713573
+          ],
+          [
+            360.2119365716672,
+            321.06538987506525
+          ],
+          [
+            360.3660326951519,
+            679.135167191887
+          ],
+          [
+            26.68866399494442,
+            679.2787659881791
+          ]
+        ]
+      ],
+      "style": "Back-facing headphone visitor in a pink short-sleeved blouse and grey petal-pleated midi skirt with a simple ribbon waist; preserve headphones and device.",
+      "kind": "outfit",
+      "imageSha256": "02ce2d5053fbacd181b98eb12df41354fdf83fbad5c669f47d463b7a8422bebe",
+      "protectedRects": []
+    }
   },
   "75-14": {
     "exam": 75,
@@ -13184,7 +14755,40 @@
     "pngSha256": "c32d5afa3f27407c8efd8cbf71c417a387caca9f2de08c8d0c2da83ead039e24",
     "pixelSha256": "4bc20b0502a86f0e380b67813934a5744a7f4987e08fef1029d2fc80aaddbe5a",
     "imageFile": "75-15.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-15.webp",
+      "box": [
+        654,
+        335,
+        347,
+        534
+      ],
+      "polygons": [
+        [
+          [
+            658.1996598947452,
+            339.3623752868063
+          ],
+          [
+            1000.6272611773567,
+            339.36417445006725
+          ],
+          [
+            1000.6244436595781,
+            875.6111484899067
+          ],
+          [
+            658.1968423769667,
+            875.6093493266458
+          ]
+        ]
+      ],
+      "style": "Mint blouse, lilac A-line knee-length skirt and a violet waist ribbon, feminine librarian fashion.",
+      "kind": "outfit",
+      "imageSha256": "bb2919ebb787603c8730e535db7543855296469848d461d95fab7d9fec06021b",
+      "protectedRects": []
+    }
   },
   "75-16": {
     "exam": 75,
@@ -13343,7 +14947,100 @@
     "pngSha256": "563509846c05d42faa02cae770930c2bd62f5f340d70f0cea2003ea89a22c5b2",
     "pixelSha256": "3f80c843761c6010b5c9804c7cd91c35eee4c7fc4857fe5b810fb0c1b54032e9",
     "imageFile": "75-18.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      748
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/75-18-1.webp?v=20261012-choice",
+        "width": 316,
+        "height": 364,
+        "sourceXref": 251,
+        "sourceBBox": [
+          66.4636459350586,
+          338.84375,
+          142.21484375,
+          425.999755859375
+        ],
+        "imageSha256": "a1cb192e8e914a9e265815c6627013a44bfc181a5e1a17323c246ac895968ced",
+        "pixelSha256": "1446b8c74df963a83cd5ca31f049e3f33d6bd52e7c11e61be9bcd225bc350125",
+        "name": "익산 미륵사지 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/75-18-2.webp?v=20261012-choice",
+        "width": 302,
+        "height": 347,
+        "sourceXref": 255,
+        "sourceBBox": [
+          166.66357421875,
+          338.72967529296875,
+          242.66482543945312,
+          426.05560302734375
+        ],
+        "imageSha256": "6400251d149748c79f31c42085184e47aeea5611777d2a2bba8cf6c57361073a",
+        "pixelSha256": "68cf5cf3cc628552b3fdfe2486b65ee96b112bf16af5f0765ee9b2ff1a646ed2",
+        "name": "경주 불국사 삼층 석탑·석가탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/75-18-3.webp?v=20261012-choice",
+        "width": 155,
+        "height": 361,
+        "sourceXref": 257,
+        "sourceBBox": [
+          286.39971923828125,
+          339.0247802734375,
+          323.5736083984375,
+          425.43487548828125
+        ],
+        "imageSha256": "f5e70b4c97c75ee0eb8e3ddac4f614b6b6577dbf2bbb69d0098e2afb5208a4bf",
+        "pixelSha256": "0d91f591c0540b83add79e69125b80b35a2de57dc84791439d7616ce3b95be92",
+        "name": "개성 경천사지 십층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/75-18-4.webp?v=20261012-choice",
+        "width": 317,
+        "height": 364,
+        "sourceXref": 261,
+        "sourceBBox": [
+          66.38177490234375,
+          435.2106018066406,
+          142.2481689453125,
+          522.3930053710938
+        ],
+        "imageSha256": "62d9a2764d166559524b605075a3b33e304a56795e5895881e6eb8a51175d5a4",
+        "pixelSha256": "b913341952903650f2d545d972415c70af4af033cac7baaa0ab0130b50e6b488",
+        "name": "안동 법흥사지 칠층 전탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/75-18-5.webp?v=20261012-choice",
+        "width": 469,
+        "height": 275,
+        "sourceXref": 265,
+        "sourceBBox": [
+          166.72889709472656,
+          456.4058837890625,
+          279.19305419921875,
+          522.3331298828125
+        ],
+        "imageSha256": "9448ad6222f30f8b7aa8c7ed2162110c80caa43019dd350550401d160e3f368d",
+        "pixelSha256": "5eda1e8c782e36699e25bba9f31d57180f73c85ddc9a41ac842e586a5080ff06",
+        "name": "경주 분황사 모전 석탑",
+        "nameStatus": "identified"
+      }
+    ]
   },
   "75-19": {
     "exam": 75,
@@ -13562,7 +15259,40 @@
     "pngSha256": "d68420091cdd58e8aff6a5ce9c96a399c7b121acb38e3d6eb199a23c39e3ba44",
     "pixelSha256": "1d32133aade949b56ab2d125eee1f508a52ca091beb831a0a6254e772bbfb3f4",
     "imageFile": "75-21.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-21.webp",
+      "box": [
+        601,
+        411,
+        346,
+        470
+      ],
+      "polygons": [
+        [
+          [
+            605.5180426942502,
+            415.6693734820253
+          ],
+          [
+            942.1416246611589,
+            416.0312131598118
+          ],
+          [
+            941.6352229343609,
+            887.1425192271906
+          ],
+          [
+            605.0116409674522,
+            886.7806795494042
+          ]
+        ]
+      ],
+      "style": "Powder-blue short-sleeved blouse, matching tailored blue knee-length pleated skirt and a delicate navy hair ribbon.",
+      "kind": "outfit",
+      "imageSha256": "b944f3dabee86e33a5fbb2b2ff17233bf9b388db932ba80b25e4749943fdd56a",
+      "protectedRects": []
+    }
   },
   "75-22": {
     "exam": 75,
@@ -13715,7 +15445,40 @@
     "pngSha256": "42f5883fc4e555cf2a5fa05e09f33a5675c13ae492055ae0d944b863b146a88c",
     "pixelSha256": "e12bbf1f44940872fe69d49f770914c12777c50b48763f7f2a6368dcebdf245d",
     "imageFile": "75-24.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-24.webp",
+      "box": [
+        475,
+        206,
+        473,
+        471
+      ],
+      "polygons": [
+        [
+          [
+            479.35001309392146,
+            210.33305468388068
+          ],
+          [
+            943.1951018963827,
+            210.61345366383793
+          ],
+          [
+            942.9068778286126,
+            687.4030565724142
+          ],
+          [
+            479.06178902615136,
+            687.122657592457
+          ]
+        ]
+      ],
+      "style": "Adult wheelchair-using guide: white sailor-collar blouse and a navy knee-length pleated skirt, carefully draped over seated knees; retain the wheelchair exactly and dignified pose.",
+      "kind": "outfit",
+      "imageSha256": "7e58be1f2a48dc45ed53c1364ef4e228e8ed386f54427924019ba9b4240fb45e",
+      "protectedRects": []
+    }
   },
   "75-25": {
     "exam": 75,
@@ -13964,7 +15727,40 @@
     "pngSha256": "eeee6961b417d178026c8725a23da5040484e1d5c595d47e1da48a12f4bc0aa9",
     "pixelSha256": "6c2d91a5df34daee65ec6f78cc2a44ab320a34dcb5ed8992cd14fb80e0a11e93",
     "imageFile": "75-27.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-27.webp",
+      "box": [
+        686,
+        203,
+        262,
+        429
+      ],
+      "polygons": [
+        [
+          [
+            690.3456214418612,
+            207.87165806211226
+          ],
+          [
+            943.9039534919791,
+            207.93818594107583
+          ],
+          [
+            943.7914137114867,
+            636.8621119025032
+          ],
+          [
+            690.2330816613688,
+            636.7955840235397
+          ]
+        ]
+      ],
+      "style": "Violet magical-girl inspired knee-length dress with pink puff-sleeve blouse, modest star ribbon and flowing lavender skirt; adult polished anime fashion.",
+      "kind": "outfit",
+      "imageSha256": "bda28f94351c8ed55aeca5e23e6d6b3f94808945d7cf9e5485d8910514c97280",
+      "protectedRects": []
+    }
   },
   "75-28": {
     "exam": 75,
@@ -14713,7 +16509,40 @@
     "pngSha256": "46775c506e482a66f41957ccc3894706be3fe5b51712bcfb4e7d25e634d8cd57",
     "pixelSha256": "539cfa347442f1b84d30f386ab7baf8a6dccbdb6d81746c5bb0daf3e62413db0",
     "imageFile": "75-40.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-40.webp",
+      "box": [
+        645,
+        340,
+        356,
+        494
+      ],
+      "polygons": [
+        [
+          [
+            649.5172260346895,
+            345.05804469108824
+          ],
+          [
+            1011.5811956519115,
+            344.9896713899754
+          ],
+          [
+            1011.6748570195389,
+            840.9640650641552
+          ],
+          [
+            649.6108874023168,
+            841.032438365268
+          ]
+        ]
+      ],
+      "style": "Navy blouse, sky-blue gingham midi skirt with soft gathers and a waist ribbon, natural everyday style.",
+      "kind": "outfit",
+      "imageSha256": "b79ce9dfe543201ce7c50fca09500a5e796be698567681d38e5af831c102895a",
+      "protectedRects": []
+    }
   },
   "75-41": {
     "exam": 75,
@@ -14915,7 +16744,40 @@
     "pngSha256": "bb6e39339a3ae1bbcce98dfbe2058a106d8f9287750a7e33e52d866f096f57ff",
     "pixelSha256": "fd00537dfa8f9e21b7b36da4f5e165979530cecb4f448e9772066a9e4b876eb9",
     "imageFile": "75-42.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-42.webp",
+      "box": [
+        47,
+        228,
+        283,
+        471
+      ],
+      "polygons": [
+        [
+          [
+            52.36719849819312,
+            232.4523355655793
+          ],
+          [
+            325.6216105815794,
+            232.76921416405034
+          ],
+          [
+            325.08588770103927,
+            694.7399545925254
+          ],
+          [
+            51.83147561765301,
+            694.4230759940543
+          ]
+        ]
+      ],
+      "style": "Only the standing long-dark-haired lecturer at LEFT: pink blouse and ivory pleated knee-length skirt with a black waist ribbon; leave all seated people unchanged.",
+      "kind": "outfit",
+      "imageSha256": "d135413c205e7dbe169ef8128fdf5678e167acf5b1a8b05bd5dd6a238d246853",
+      "protectedRects": []
+    }
   },
   "75-43": {
     "exam": 75,
@@ -15027,7 +16889,40 @@
     "pngSha256": "6c5fc129b650c6c6b8ac0b8595745e0ebcb925e4dfe920537a8d82ccd4b7b6bb",
     "pixelSha256": "447d9af9af19c168a5ba1fdebe577717968e7503f11c3bd52c82e86006a1ca30",
     "imageFile": "75-44.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-44.webp",
+      "box": [
+        53,
+        226,
+        226,
+        584
+      ],
+      "polygons": [
+        [
+          [
+            58.25196767105321,
+            230.661813616454
+          ],
+          [
+            274.65624863338974,
+            230.77993913508004
+          ],
+          [
+            274.3373024278726,
+            815.0848808058046
+          ],
+          [
+            57.93302146553603,
+            814.9667552871786
+          ]
+        ]
+      ],
+      "style": "Only the LEFT blonde visitor: a cream-and-mustard elegant long skirt dress with a lace collar, low shoes; leave the right blue-skirt visitor unchanged.",
+      "kind": "outfit",
+      "imageSha256": "dd24b85fa13eb91c5a3b0a351f171a536dc209e29083095a55f0a52787beb361",
+      "protectedRects": []
+    }
   },
   "75-45": {
     "exam": 75,
@@ -15139,7 +17034,40 @@
     "pngSha256": "67ccef3ad06824742d70af4db44d2a8aee9c1ba441c646835e65815f616572ef",
     "pixelSha256": "0a119a11074041b6e0cdec6dcbf3844f0bf2f581c7806e4e02e616e51858cc4b",
     "imageFile": "75-46.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-46.webp",
+      "box": [
+        645,
+        215,
+        356,
+        476
+      ],
+      "polygons": [
+        [
+          [
+            650.2278205479084,
+            219.11681369461428
+          ],
+          [
+            1029.2167968633007,
+            219.41632706417562
+          ],
+          [
+            1028.83837426732,
+            698.2530229863681
+          ],
+          [
+            649.8493979519279,
+            697.9535096168067
+          ]
+        ]
+      ],
+      "style": "Lilac tailored blouse and midnight-blue pleated midi skirt, a silver ribbon brooch and professional feminine styling.",
+      "kind": "outfit",
+      "imageSha256": "e7bd9d461f8a86c32bf8003fc333803d9cd7b1dd3103ebafb714c7e1bbcb38e5",
+      "protectedRects": []
+    }
   },
   "75-47": {
     "exam": 75,
@@ -15245,7 +17173,58 @@
     "pngSha256": "62502a3591a72e165a78072d846f70e0939e2b6aff4cd07c33f6ff6996f2fbc0",
     "pixelSha256": "5459342a2069c52390f769a8988848fe5f1ecde87c28de5f30565d3cae08a80c",
     "imageFile": "75-48.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-48.webp",
+      "box": [
+        43,
+        179,
+        952,
+        608
+      ],
+      "polygons": [
+        [
+          [
+            47.65498648503599,
+            183.1939773753961
+          ],
+          [
+            283.3870212214188,
+            183.23715655326635
+          ],
+          [
+            283.2769523233725,
+            784.1463581044432
+          ],
+          [
+            47.54491758698968,
+            784.1031789265729
+          ]
+        ],
+        [
+          [
+            733.1653498496108,
+            183.3195427188791
+          ],
+          [
+            990.1815376371492,
+            183.36662052780065
+          ],
+          [
+            990.071468739103,
+            784.2758220789775
+          ],
+          [
+            733.0552809515646,
+            784.2287442700559
+          ]
+        ]
+      ],
+      "style": "BOTH standing women: LEFT auburn-haired adult with rounder warm face in sunny ivory bow-neck knee-length dress; RIGHT dark-haired adult with sharper emerald almond eyes in sage green pleated midi dress with white collar. Clearly distinct faces and hairstyles, never twins.",
+      "kind": "outfit",
+      "imageSha256": "c8d23803050d1a4b8d35e8157d24f109d9ce93245fafe698d705b76776928abe",
+      "protectedRects": []
+    }
   },
   "75-49": {
     "exam": 75,
@@ -15419,7 +17398,101 @@
     "pngSha256": "30a03c73e7d3a243bbe17075470b7206baa73f3784af76b24532d54656a9a2c6",
     "pixelSha256": "ef56fe8763ce3a45bf416f493b69b7bfab59d932becb18454e7d656939085fb1",
     "imageFile": "76-4.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      750
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/76-4-1.webp?v=20261012-choice",
+        "width": 319,
+        "height": 326,
+        "sourceXref": 1177,
+        "sourceBBox": [
+          398.1004638671875,
+          772.5634765625,
+          474.4564514160156,
+          850.6834716796875
+        ],
+        "imageSha256": "ddd34d1dc959a8a1a39862b75cb24866c84d4f6887bc91714f0021efa7e2285e",
+        "pixelSha256": "5f692023071a3a88622dec2fbe2680beb5be2971b8795568ae8bafb7c905204d",
+        "name": "부여 외리 산수무늬 벽돌",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/76-4-2.webp?v=20261012-choice",
+        "width": 174,
+        "height": 340,
+        "sourceXref": 1179,
+        "sourceBBox": [
+          514.5551147460938,
+          770.1531982421875,
+          558.9251098632812,
+          856.8532104492188
+        ],
+        "imageSha256": "f25e444aaa947ceebf06c7e2228aeaf73d9a4ec679b3694351f378d4d266948d",
+        "pixelSha256": "1236d2ae1c87216f073784a1fe6e28cd7fd4a7b0b9e6b08812f824519decb546",
+        "name": "금관",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/76-4-3.webp?v=20261012-choice",
+        "width": 223,
+        "height": 195,
+        "sourceXref": 1183,
+        "sourceBBox": [
+          603.044921875,
+          780.7189331054688,
+          672.1749267578125,
+          841.1689453125
+        ],
+        "imageSha256": "461e9570acc42b4026632a6987dc7c46e395fb10a0cd827b899ae98124f7fb12",
+        "pixelSha256": "a65fd41b0831fef1c98674f11a395cf7eb7bca48992c1ca98b675845b98c02e9",
+        "name": "호우명 그릇",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/76-4-4.webp?v=20261012-choice",
+        "width": 286,
+        "height": 384,
+        "sourceXref": 1185,
+        "sourceBBox": [
+          412.03472900390625,
+          878.6617431640625,
+          463.5147399902344,
+          947.78173828125
+        ],
+        "imageSha256": "c62465b97d3578d90321a96f76b12cd3b83f25dfbf357d8a500b1a3b93cfba18",
+        "pixelSha256": "4689607dffe3de8d13eac3a86fc0f8dce1be551e0ce84f0e9b8a39c695737451",
+        "name": "이불병좌상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/76-4-5.webp?v=20261012-choice",
+        "width": 293,
+        "height": 352,
+        "sourceXref": 1187,
+        "sourceBBox": [
+          501.7618103027344,
+          870.4461059570312,
+          572.0018310546875,
+          954.8660888671875
+        ],
+        "imageSha256": "4ad65fde61cce8d88925d9015bbf697ad041f4086f07534bbf77f092dd447124",
+        "pixelSha256": "63075ab5128fb8a5809fee6fb824378d36320e4378c4a50bdbeb9b51e9605974",
+        "name": "이불병좌상",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "b9614a6955258a504d1e21f10228f2d040df276f27ddf6c6d5eee6a94c9d0d8f"
   },
   "76-5": {
     "exam": 76,
@@ -15761,7 +17834,40 @@
     "pngSha256": "7670ffbefbc2bed89d20aacf496f43ca7e2f7970902cc9268068e6bb89e1ef59",
     "pixelSha256": "989f963964ea8f1ff67ab268cca250c6a1fc3263867cf005a3b9a8285f59ae80",
     "imageFile": "76-13.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/76-13.webp",
+      "box": [
+        644,
+        295,
+        357,
+        468
+      ],
+      "polygons": [
+        [
+          [
+            648.5877926868575,
+            299.0120068429503
+          ],
+          [
+            1031.190490916623,
+            299.263871387593
+          ],
+          [
+            1030.8854937946155,
+            762.5792697419587
+          ],
+          [
+            648.2827955648498,
+            762.327405197316
+          ]
+        ]
+      ],
+      "style": "Sky-blue structured knee-length office coatdress with a flowing A-line skirt, white collar and navy waist ribbon.",
+      "kind": "outfit",
+      "imageSha256": "eccab40f4aad0f2ace4e1286df5e4f88d56c32a6dea955aa662e3cadcbc212db",
+      "protectedRects": []
+    }
   },
   "76-14": {
     "exam": 76,
@@ -15908,7 +18014,58 @@
     "pngSha256": "a8f02eb1d836b83f0a154551c753c955d3567922470492abfb97a58f659ec7e9",
     "pixelSha256": "8bb7abe2c7048a8bad98a90e51b79337c2cdda235fa3f8d0f1bbf536292c84b8",
     "imageFile": "76-16.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/76-16.webp",
+      "box": [
+        378,
+        269,
+        283,
+        275
+      ],
+      "polygons": [
+        [
+          [
+            382.1655072656391,
+            273.28060676496017
+          ],
+          [
+            522.5534823387119,
+            273.2836183658811
+          ],
+          [
+            522.5478464252802,
+            536.0058365928406
+          ],
+          [
+            382.1598713522074,
+            536.0028249919197
+          ]
+        ],
+        [
+          [
+            554.88852458203,
+            273.284312016765
+          ],
+          [
+            656.3397196204405,
+            273.28648834641325
+          ],
+          [
+            656.3340056712843,
+            539.6463988257461
+          ],
+          [
+            554.8828106328738,
+            539.6442224960979
+          ]
+        ]
+      ],
+      "style": "BOTH adult visitors: LEFT pale purple-haired woman wears sage wrap midi dress and practical boots; RIGHT auburn-haired woman wears a navy cardigan and dusty rose knee-length skirt. Preserve distinct faces, the monument and all carved text.",
+      "kind": "outfit",
+      "imageSha256": "5de38ff9f192c54f5e7043bafcc31c54e45bbdd7236b8eee5b968a1e3399c85e",
+      "protectedRects": []
+    }
   },
   "76-17": {
     "exam": 76,
@@ -15937,7 +18094,101 @@
     "pngSha256": "b4f053973e816960799caaf01d021b09c99c3194a98f48edd402c07130d605d1",
     "pixelSha256": "7ef87f594258b3ae2dd49fa1842d0cbc68f1e47e3ff4cdb76fe738e5142566ae",
     "imageFile": "76-17.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      1051
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/76-17-1.webp?v=20261012-choice",
+        "width": 316,
+        "height": 340,
+        "sourceXref": 280,
+        "sourceBBox": [
+          398.093017578125,
+          781.1041870117188,
+          473.827392578125,
+          862.4833984375
+        ],
+        "imageSha256": "f8344742307019dc3612966a3b8a08f8a41dd4eb104a483672b7ea5b94ae48cf",
+        "pixelSha256": "774a68f020c5c71dbfbab25a32e62b657f30d13fd6c7e0bbe42d2227aba3f651",
+        "name": "청자 어룡형 주자",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/76-17-2.webp?v=20261012-choice",
+        "width": 316,
+        "height": 340,
+        "sourceXref": 292,
+        "sourceBBox": [
+          498.4229431152344,
+          781.029296875,
+          574.1693115234375,
+          862.5477294921875
+        ],
+        "imageSha256": "5ab72517a2da4ec58a178fc43af1c4bdb916b7b894c6fbff46c3f171587221db",
+        "pixelSha256": "05c5bfdb6dd0c395b199b9ab9566c5d23fe479f6a84326680555ddbd9db8d661",
+        "name": "물고기 모양 백자",
+        "nameStatus": "description"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/76-17-3.webp?v=20261012-choice",
+        "width": 316,
+        "height": 303,
+        "sourceXref": 296,
+        "sourceBBox": [
+          598.7752685546875,
+          787.134033203125,
+          674.5432739257812,
+          859.8528442382812
+        ],
+        "imageSha256": "6014062067b9234375f6f7e6153f28cde7e41eeec9f632a2f25633d90e6e7c81",
+        "pixelSha256": "611053f0d61ffa1dcf28c7e190d20d05f0f675721890d10818a30b79c7a91b59",
+        "name": "분청사기 철화 무늬 장군",
+        "nameStatus": "description"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/76-17-4.webp?v=20261012-choice",
+        "width": 308,
+        "height": 340,
+        "sourceXref": 300,
+        "sourceBBox": [
+          399.0928649902344,
+          872.0387573242188,
+          472.7872619628906,
+          953.4707641601562
+        ],
+        "imageSha256": "d9e28a9c24e3fc70a32439f0667791601c86413af9c199d9fa49fc110ff75309",
+        "pixelSha256": "b49a00b342b6cf23a3f261a445d1a3d52325ef22a94a0f0d092486ab41465730",
+        "name": "도기 수레바퀴 장식 뿔잔",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/76-17-5.webp?v=20261012-choice",
+        "width": 316,
+        "height": 340,
+        "sourceXref": 304,
+        "sourceBBox": [
+          498.4325256347656,
+          872.0133056640625,
+          574.1734619140625,
+          953.459716796875
+        ],
+        "imageSha256": "466e08d5d1e363852be29bb33df44817d4d6600b6f661fa66e50dddfb4ed254b",
+        "pixelSha256": "9b9a006adb6415f66ecda2ebd71f5c5696c07024e7da51c1b7f565df96ab3f2e",
+        "name": "동물 모양 토기",
+        "nameStatus": "description"
+      }
+    ],
+    "promptImageSha256": "cf14a6ee65e15dc1cc899a07c05918b74b37b79e5978250fe032c0c49cc61f4c"
   },
   "76-18": {
     "exam": 76,
@@ -16138,7 +18389,40 @@
     "pngSha256": "8dbaccdbf6b4e2441846d8a0a4b0ffc1e148e0172e1d20fc3abce53b76e21569",
     "pixelSha256": "188f2acf614d9a18303ad97872d416c8cb9cec787c67dd7f9372aea2cf35a6e1",
     "imageFile": "76-20.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/76-20.webp",
+      "box": [
+        480,
+        228,
+        467,
+        532
+      ],
+      "polygons": [
+        [
+          [
+            484.9994315216003,
+            232.1739625815337
+          ],
+          [
+            942.2849890115418,
+            232.1108592100342
+          ],
+          [
+            942.3580706036597,
+            761.7046954780726
+          ],
+          [
+            485.0725131137182,
+            761.767798849572
+          ]
+        ]
+      ],
+      "style": "Rose cardigan, ivory blouse and navy polka-dot knee-length skirt, gentle cute adult casual fashion.",
+      "kind": "outfit",
+      "imageSha256": "a6b26ce6d5f3fb528c763ca90339a8beacf5f51696fa95645113a7059cffaad9",
+      "protectedRects": []
+    }
   },
   "76-21": {
     "exam": 76,
@@ -16490,7 +18774,101 @@
     "pngSha256": "7fdce835f1d456abbd16105d04a65c88e73006651d78bc8454b4fbd90dfea0d2",
     "pixelSha256": "f5dd2a623bf2faff42a3aaf7f5dda0f04126ab40f7dd00a8114e5b0f5d5ddc4a",
     "imageFile": "76-27.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      760
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/76-27-1.webp?v=20261012-choice",
+        "width": 327,
+        "height": 271,
+        "sourceXref": 468,
+        "sourceBBox": [
+          67.46456909179688,
+          343.5520324707031,
+          145.83956909179688,
+          408.5880126953125
+        ],
+        "imageSha256": "aa921719f53ac391ad8789674d8d6b8751b1b8df414a54b20687834e2c3f5e0f",
+        "pixelSha256": "e0e8d3503f5f159769899966f40be4f474beb1ad508805ae8d3bab8b84b5a4cb",
+        "name": "파적도·야묘도추(김득신)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/76-27-2.webp?v=20261012-choice",
+        "width": 335,
+        "height": 274,
+        "sourceXref": 470,
+        "sourceBBox": [
+          166.8052978515625,
+          342.5298767089844,
+          247.19569396972656,
+          408.273681640625
+        ],
+        "imageSha256": "45b30935bf42d8079f1cae9bfbde75562a742a970cdb9f9e6982850fd762227a",
+        "pixelSha256": "a49f94ffd5a5bc4ab3e494ce5de37431215f2a3e8f58c9be62c25ac0e457b899",
+        "name": "무녀신무(신윤복)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/76-27-3.webp?v=20261012-choice",
+        "width": 327,
+        "height": 271,
+        "sourceXref": 472,
+        "sourceBBox": [
+          267.9463195800781,
+          343.5521240234375,
+          346.3214416503906,
+          408.550537109375
+        ],
+        "imageSha256": "e97479fb358eba2a1eb2258c106586a32938d2032e742037dd4c6e6b9c69c251",
+        "pixelSha256": "ecf7f326aec158c6bfb13b8622660b9dbc6cac335b829d4b44f8652a4c3a9081",
+        "name": "월하정인(신윤복)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/76-27-4.webp?v=20261012-choice",
+        "width": 272,
+        "height": 338,
+        "sourceXref": 474,
+        "sourceBBox": [
+          67.46456909179688,
+          419.9258117675781,
+          132.65399169921875,
+          501.01904296875
+        ],
+        "imageSha256": "beaca8e0f35a8f613b637d57d174ee8cb863ce5a612e12a5d9d9913b0e95a373",
+        "pixelSha256": "d19dfde74f14bc2c41591075c17ab0d9ad2373531c45305e40d05d083d0d9509",
+        "name": "대장간(김홍도)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/76-27-5.webp?v=20261012-choice",
+        "width": 272,
+        "height": 387,
+        "sourceXref": 476,
+        "sourceBBox": [
+          167.81103515625,
+          419.9259033203125,
+          233.00045776367188,
+          512.7518920898438
+        ],
+        "imageSha256": "8699a05c3c1f9907f0819ffd4ceb8b8f37e16b47418672ccce87785ac3323427",
+        "pixelSha256": "79c0adbdcf2fc93662600ce3fef17146feb23eb8b5bd25e81f25e8c4bae29cd3",
+        "name": "고사관수도(강희안)",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "fffaac4b6d2add104170cbc93bfc643b5ae9a3c5fa1f52434f329735a41cde74"
   },
   "76-28": {
     "exam": 76,
@@ -17002,7 +19380,40 @@
     "pngSha256": "75c09acfca6474b5d68d68b02d502a82592bfa60efce6a9463853fa6e824e8b1",
     "pixelSha256": "3b6e5b9d1c460f2306cc7ffad2165ae05cc1aadac39c51efc89ceefc0bf19736",
     "imageFile": "76-37.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/76-37.webp",
+      "box": [
+        658,
+        228,
+        343,
+        637
+      ],
+      "polygons": [
+        [
+          [
+            662.6947391647086,
+            232.29704568902164
+          ],
+          [
+            1004.6526810407659,
+            232.25515868163595
+          ],
+          [
+            1004.7296197299331,
+            860.3686821906731
+          ],
+          [
+            662.7716778538759,
+            860.410569198059
+          ]
+        ]
+      ],
+      "style": "A plum-and-ivory librarian maid-inspired knee-length dress, lace collar and cream apron, sensible low shoes; retain presentation gesture.",
+      "kind": "outfit",
+      "imageSha256": "597d5b02d1f299492ccb152b1ae88ae248afb468857004c445df71ed4971a6d4",
+      "protectedRects": []
+    }
   },
   "76-38": {
     "exam": 76,
@@ -17366,7 +19777,40 @@
     "pngSha256": "27730bbab319bc7fdb507088e45ce13749eebaa2be12b768250b6835fac81326",
     "pixelSha256": "5104be517172077453b5484b3bd0d9e3321e8dd6f6bded00b6d7694ca3db63d9",
     "imageFile": "76-45.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/76-45.webp",
+      "box": [
+        671,
+        277,
+        329,
+        524
+      ],
+      "polygons": [
+        [
+          [
+            675.7608782663854,
+            281.5085368752194
+          ],
+          [
+            995.0911012851334,
+            281.5803933404161
+          ],
+          [
+            994.9753325356498,
+            796.0568637595106
+          ],
+          [
+            675.6451095169018,
+            795.985007294314
+          ]
+        ]
+      ],
+      "style": "Green field-trip jacket, lemon pleated knee-length skirt, white blouse and ankle boots; practical feminine visitor fashion.",
+      "kind": "outfit",
+      "imageSha256": "0cf6f1550bc39bc11479686f0bb956b7fd3e13c0df5fd272140e739cec1318c0",
+      "protectedRects": []
+    }
   },
   "76-46": {
     "exam": 76,
@@ -17591,7 +20035,40 @@
     "pngSha256": "2ec881850dbfaac20f476c4e2e7004834a3eb79e1d80d8300c7cf3b6ab2ecba3",
     "pixelSha256": "f288308e4cbfc17b3151c9ebae2ea12d17d98af1f9c4678b951306681d3a883a",
     "imageFile": "76-48.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/76-48.webp",
+      "box": [
+        0,
+        293,
+        348,
+        617
+      ],
+      "polygons": [
+        [
+          [
+            -33.279550756288856,
+            297.05262918765885
+          ],
+          [
+            343.6803962920309,
+            297.18382006026553
+          ],
+          [
+            343.46872743402884,
+            905.3868140555383
+          ],
+          [
+            -33.49121961429093,
+            905.2556231829316
+          ]
+        ]
+      ],
+      "style": "Navy long structured jacket over cream blouse and slate pleated knee-length skirt, modest grey tights and low pumps; polished feminine office style.",
+      "kind": "outfit",
+      "imageSha256": "4514085aa8a8850467370ec320cfd9ea579dbdbf6a0aac897903666c31bc4291",
+      "protectedRects": []
+    }
   },
   "76-49": {
     "exam": 76,
@@ -17819,7 +20296,101 @@
     "pngSha256": "399cbea1dadb40ed900cdc7fd84ede9d3857e7641eae1607f5b6e69a73c5fbd9",
     "pixelSha256": "185cf3dbe38e5749d33c2d8cb3db3ee4ba58ef96d55e9923ee59f9f1ea2e7ae7",
     "imageFile": "77-4.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      701
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/77-4-1.webp?v=20261012-choice",
+        "width": 144,
+        "height": 332,
+        "sourceXref": 1169,
+        "sourceBBox": [
+          416.6138916015625,
+          779.51318359375,
+          450.9978942871094,
+          859.033203125
+        ],
+        "imageSha256": "214c50c008e05ae929248ebef5521f1b7df088466ac27d6339d327dd940483e1",
+        "pixelSha256": "2b8f35efdf655a88167a123f2f62fecde01ff0e100e14107d394cbfa7519bbc1",
+        "name": "백제 금동 대향로",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/77-4-2.webp?v=20261012-choice",
+        "width": 75,
+        "height": 309,
+        "sourceXref": 1173,
+        "sourceBBox": [
+          525.127197265625,
+          782.7950439453125,
+          543.1199951171875,
+          856.8470458984375
+        ],
+        "imageSha256": "9be7fc4d09d46ffc8eb9a2c5f45d446bd5201dcdda4991dbf95913fca3496d80",
+        "pixelSha256": "cc9082c708516f8466822e9454a76dff95d1cfc041570bab51dc84d451048330",
+        "name": "칠지도",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/77-4-3.webp?v=20261012-choice",
+        "width": 305,
+        "height": 227,
+        "sourceXref": 1175,
+        "sourceBBox": [
+          598.7203369140625,
+          795.600830078125,
+          671.6947631835938,
+          849.9176025390625
+        ],
+        "imageSha256": "5a9ef152398f60f31ba9c47576a46f0a889836877f6ccef8387d305892bc63b4",
+        "pixelSha256": "c36cd140ab329d8bcbcbf9a769cbfac34bb07f24df925c1c3728c610ea8a3f56",
+        "name": "청동 초두",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/77-4-4.webp?v=20261012-choice",
+        "width": 251,
+        "height": 317,
+        "sourceXref": 1179,
+        "sourceBBox": [
+          404.5520324707031,
+          871.673583984375,
+          464.78204345703125,
+          947.673583984375
+        ],
+        "imageSha256": "7c7c10c954293580ceeb6abf83753c946587b813a26d2449b479b471097b3be4",
+        "pixelSha256": "18e6209350dc33ed109a86395759b06f9ac987f04bcb3ba404c9c672ed05baab",
+        "name": "천마총 금제 관식",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/77-4-5.webp?v=20261012-choice",
+        "width": 163,
+        "height": 317,
+        "sourceXref": 1183,
+        "sourceBBox": [
+          515.6182861328125,
+          875.488037109375,
+          554.73828125,
+          951.5680541992188
+        ],
+        "imageSha256": "88096c2c359d2ee13a0371d3b083ae47684ad4185152135ccb70bd7a3e7238d8",
+        "pixelSha256": "a15ab86ae49eb12827ed0da7752900add1edcc9a6867539ab744adead6da2a08",
+        "name": "금동 연가7년명 여래 입상",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "77291b6b3e285034a6dfbf0ce6fc0c5fefee3af8cb4af0c1ace429690f7cb9bf"
   },
   "77-5": {
     "exam": 77,
@@ -18014,7 +20585,53 @@
     "pngSha256": "2a349956ad22b0b0020cbf491815d97793b77c596c470756ac203f03ab40afef",
     "pixelSha256": "65ea67fc243842ac6d2d9132b826eedb82e3dac09bd0ca7651ea41622df5090c",
     "imageFile": "77-10.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/77-10.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        633
+      ],
+      "polygons": [
+        [
+          [
+            34,
+            54
+          ],
+          [
+            423,
+            54
+          ],
+          [
+            423,
+            522
+          ],
+          [
+            34,
+            522
+          ]
+        ]
+      ],
+      "style": "통일 신라풍 한복의 성인 여성 가상 뉴스 진행자",
+      "kind": "named",
+      "imageSha256": "acbda6dd5b419b6b1dd6aa8189cb96df39d00dceb559d73e12f64e0c09eb71fa",
+      "protectedRects": [
+        [
+          405,
+          60,
+          531,
+          211
+        ],
+        [
+          255,
+          447,
+          667,
+          64
+        ]
+      ]
+    }
   },
   "77-11": {
     "exam": 77,
@@ -18233,7 +20850,100 @@
     "pngSha256": "30be0c0e9b788dc14b10421a8740ec3224cfc9b26c88d46c9f4c8a55b662c1dd",
     "pixelSha256": "7cad86964f761b569bda68d9f9227449f2af00413402cbaef331b41f42295be5",
     "imageFile": "77-13.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      698
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/77-13-1.webp?v=20261012-choice",
+        "width": 205,
+        "height": 355,
+        "sourceXref": 182,
+        "sourceBBox": [
+          417.6573791503906,
+          772.7957153320312,
+          466.7433776855469,
+          857.8624877929688
+        ],
+        "imageSha256": "6e7130278e52d06429b7a2342d8b0c9066214512354fb7e0b8020eb6bf5523df",
+        "pixelSha256": "27699f50f7aa7594efd755c014df65c70177f3881edbb067474376086c01884a",
+        "name": "평창 월정사 팔각 구층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/77-13-2.webp?v=20261012-choice",
+        "width": 196,
+        "height": 300,
+        "sourceXref": 186,
+        "sourceBBox": [
+          519.6173095703125,
+          786.527099609375,
+          566.618896484375,
+          858.411865234375
+        ],
+        "imageSha256": "f04c3457bcdeda1d02b5f55974ef21efdff3123108d2dba9d19e3a62e39c4c9f",
+        "pixelSha256": "9c713ca4d29b7bb344e392fc821477074316f63dd76bbb3c057c75c5031b4611",
+        "name": "청자 상감 모란무늬 주전자",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/77-13-3.webp?v=20261012-choice",
+        "width": 190,
+        "height": 364,
+        "sourceXref": 188,
+        "sourceBBox": [
+          621.0476684570312,
+          773.658935546875,
+          664.7476806640625,
+          857.37890625
+        ],
+        "imageSha256": "e8722cc5d79610704681942cb1f54938c3868a371aa65a6ad3917bbac59f1759",
+        "pixelSha256": "9cd9582efa1e795d653849ece598b226e32476e09f39ffb1eaaf8bc4dd936287",
+        "name": "수월관음도",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/77-13-4.webp?v=20261012-choice",
+        "width": 202,
+        "height": 206,
+        "sourceXref": 192,
+        "sourceBBox": [
+          418.09222412109375,
+          890.65283203125,
+          466.33221435546875,
+          939.9008178710938
+        ],
+        "imageSha256": "32dd6e0ffe25e9887bb7f427e7deecefbb316b72c0c49eb04eb607ae8b9a964c",
+        "pixelSha256": "050b8ca6cf31f3a86fc77efa06c7d4e970968ac142bc5fa69e8035b42655c9ce",
+        "name": "호우명 그릇",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/77-13-5.webp?v=20261012-choice",
+        "width": 119,
+        "height": 354,
+        "sourceXref": 194,
+        "sourceBBox": [
+          529.3883056640625,
+          867.633056640625,
+          557.7532958984375,
+          952.5420532226562
+        ],
+        "imageSha256": "0d95251bf0b5ec155de7d7f76c172f502b8befa5ff372ec8e9051221b18e03e8",
+        "pixelSha256": "0f5341a2ff9dca473b62f2cb9ea4248c716f6a87f43335955d8698abb9190e3b",
+        "name": "논산 관촉사 석조 미륵보살 입상",
+        "nameStatus": "identified"
+      }
+    ]
   },
   "77-14": {
     "exam": 77,
@@ -18691,7 +21401,40 @@
     "pngSha256": "ca0b73cbf1b9907657279c94c4cb1d70364401814f6d3a0965508b773fdf5307",
     "pixelSha256": "71a5311a8f374e11453a7fdd38f906c88ca4551823c5a4e86fd7827c50cebf06",
     "imageFile": "77-23.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/77-23.webp",
+      "box": [
+        11,
+        339,
+        411,
+        529
+      ],
+      "polygons": [
+        [
+          [
+            15.878992104204997,
+            343.7241272203469
+          ],
+          [
+            417.7560744814291,
+            343.92543750072326
+          ],
+          [
+            417.49569711279855,
+            863.7185500365341
+          ],
+          [
+            15.618614735574397,
+            863.5172397561577
+          ]
+        ]
+      ],
+      "style": "Back-facing music-headphone visitor in a salmon pink blouse and indigo apron-style knee-length skirt with a ribbon waist; headphones and tablet retained.",
+      "kind": "outfit",
+      "imageSha256": "979bb2e23d8d622c5a8fed7928df63573f44f3ed63cc18b73b4314c9a88bb5e6",
+      "protectedRects": []
+    }
   },
   "77-24": {
     "exam": 77,
@@ -18827,7 +21570,113 @@
     "pngSha256": "fe246f2687645c85a6abf303beb98f1b8f165f833edaf718b5aac7b6edc874d5",
     "pixelSha256": "fc58e29889101e042ff6928380f958a313395c7f7faf5c4a7bca3ddcb4b65b6b",
     "imageFile": "77-25.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/77-25.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        630
+      ],
+      "polygons": [
+        [
+          [
+            687,
+            42
+          ],
+          [
+            990,
+            42
+          ],
+          [
+            990,
+            315
+          ],
+          [
+            687,
+            315
+          ]
+        ],
+        [
+          [
+            515,
+            284
+          ],
+          [
+            992,
+            284
+          ],
+          [
+            992,
+            514
+          ],
+          [
+            515,
+            514
+          ]
+        ]
+      ],
+      "style": "갓과 한복을 입고 붓글씨를 쓰는 성인 미소녀",
+      "kind": "named",
+      "imageSha256": "f46eb90eaf80662fc3d3f295e26fc882f531ee6864f5e761316e86673eb3f5df",
+      "protectedRects": [
+        [
+          610,
+          515,
+          350,
+          99
+        ],
+        [
+          76.71671123837996,
+          51.4694277217377,
+          652.3775074041093,
+          40.055733472389164
+        ],
+        [
+          48.68588084628345,
+          107.51458853757276,
+          644.1530780540058,
+          40.055733472389164
+        ],
+        [
+          48.68588084628345,
+          163.55974935340737,
+          637.5514809576783,
+          40.055733472389164
+        ],
+        [
+          48.68588084628345,
+          219.60491016924243,
+          603.8054237206966,
+          40.055733472389164
+        ],
+        [
+          48.68588084628345,
+          275.6500709850775,
+          552.0090047571219,
+          40.055733472389164
+        ],
+        [
+          48.68588084628345,
+          331.6952318009121,
+          531.7462387366337,
+          40.055733472389164
+        ],
+        [
+          48.68588084628345,
+          387.74039261674716,
+          493.93354295671185,
+          40.055733472389164
+        ],
+        [
+          48.68588084628345,
+          443.7855534325822,
+          235.25750242997248,
+          40.055733472389164
+        ]
+      ]
+    }
   },
   "77-26": {
     "exam": 77,
@@ -19150,7 +21999,40 @@
     "pngSha256": "728576fa0a61cfc175430244cb5bbf0488d36b586fb6a25a7010d6d061ef59e5",
     "pixelSha256": "a76f6daa7b4f88fe9cb91b4a199502bb5982ba490846898bee6af60fac8e9bda",
     "imageFile": "77-32.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/77-32.webp",
+      "box": [
+        480,
+        206,
+        365,
+        522
+      ],
+      "polygons": [
+        [
+          [
+            484.35119437803377,
+            210.6005763047311
+          ],
+          [
+            840.8885117739751,
+            210.75487809561025
+          ],
+          [
+            840.6664051581254,
+            723.9653634683906
+          ],
+          [
+            484.12908776218404,
+            723.8110616775115
+          ]
+        ]
+      ],
+      "style": "Teal office skirt suit with knee-length pleated skirt, ivory blouse, chartreuse ribbon, small subtle cat-ear headband; refined adult curator.",
+      "kind": "outfit",
+      "imageSha256": "d494a95d18f43dc6f8cee58e5ff103ce7ca34f60633ac6efce1c32bc9ec8db95",
+      "protectedRects": []
+    }
   },
   "77-33": {
     "exam": 77,
@@ -19557,7 +22439,40 @@
     "pngSha256": "19be0174bfac78464a6750f549a5164151e89ba8b4a7c699f05865adc55409b6",
     "pixelSha256": "386fcf44fa65a1f33e105612e3437f663513723a4cc0a03251781ea04eae3d72",
     "imageFile": "77-39.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/77-39.webp",
+      "box": [
+        0,
+        200,
+        337,
+        526
+      ],
+      "polygons": [
+        [
+          [
+            -7.899971578820086,
+            204.2202928737147
+          ],
+          [
+            332.21287640491613,
+            204.20513223019205
+          ],
+          [
+            332.2361884491591,
+            727.1859508189823
+          ],
+          [
+            -7.876659534577087,
+            727.2011114625049
+          ]
+        ]
+      ],
+      "style": "Cream ruffled blouse, dark burgundy suspender A-line knee-length skirt with antique brass buttons, adult steampunk librarian styling.",
+      "kind": "outfit",
+      "imageSha256": "e81c70b9b5f695fff08befa0aa164128f8ef3de3db2b02ac1f5bccc75cd234fc",
+      "protectedRects": []
+    }
   },
   "77-40": {
     "exam": 77,
@@ -20259,7 +23174,40 @@
     "pngSha256": "5463a88035ee19d3c757d430426ef1a0c274628ecb38bbf8e6af096de9ced996",
     "pixelSha256": "fd2cef379bf687880f2a05f958d51318ffff9d72659bbed2b08f2ab301811294",
     "imageFile": "78-1.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-1.webp",
+      "box": [
+        632,
+        309,
+        369,
+        599
+      ],
+      "polygons": [
+        [
+          [
+            636.3560136776396,
+            313.33003722051063
+          ],
+          [
+            1000.2459872790594,
+            313.36746461539417
+          ],
+          [
+            1000.1851195311947,
+            905.1576020960538
+          ],
+          [
+            636.2951459297749,
+            905.1201747011703
+          ]
+        ]
+      ],
+      "style": "Tangerine-orange tailored knee-length skirt suit, ivory blouse, green silk neck scarf, elegant adult news presenter style.",
+      "kind": "outfit",
+      "imageSha256": "e06bf623f470fbe053cad0b7ba5df4dc02715233bd9ae004c9a52715f94f6e95",
+      "protectedRects": []
+    }
   },
   "78-2": {
     "exam": 78,
@@ -20620,7 +23568,40 @@
     "pngSha256": "5425c2e896c14a0e87247d37c5b060c1506cec502008bfcdddc6f18b0b618ddf",
     "pixelSha256": "b1c4225692bf879dd22eec2b12647abfed56d0afbd19493ba0350840a90f8fcf",
     "imageFile": "78-6.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-6.webp",
+      "box": [
+        0,
+        394,
+        226,
+        504
+      ],
+      "polygons": [
+        [
+          [
+            -23.28428630515446,
+            398.79401245038406
+          ],
+          [
+            221.39791261240475,
+            398.87577255987384
+          ],
+          [
+            221.22998533530563,
+            901.4291041940298
+          ],
+          [
+            -23.45221358225359,
+            901.34734408454
+          ]
+        ]
+      ],
+      "style": "Lavender tailored wrap knee-length skirt dress with a pale blouse and delicate waist bow; elegant modern curator.",
+      "kind": "outfit",
+      "imageSha256": "0f0bb49bd73b6d280d5583ac23bca2efe380bc94d719a6d4aa0b1c5efd988303",
+      "protectedRects": []
+    }
   },
   "78-7": {
     "exam": 78,
@@ -20738,7 +23719,40 @@
     "pngSha256": "53ee5e5b117d374a3dff1c2056394bae9631b298df7ce2cbd82f4288e466c7d4",
     "pixelSha256": "a94dfec1e2699f98df881612b4dabaccc26357095ff6260aac08fd6056c96e32",
     "imageFile": "78-8.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-8.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        566
+      ],
+      "polygons": [
+        [
+          [
+            26.409089929191452,
+            230.61075718869097
+          ],
+          [
+            229.75173643941008,
+            230.65327682379422
+          ],
+          [
+            229.6828924383139,
+            559.8875551814143
+          ],
+          [
+            26.34024592809527,
+            559.8450355463111
+          ]
+        ]
+      ],
+      "style": "Sporty navy one-piece swimsuit (Japanese sukumizu-inspired simple athletic cut, NO school badge or child styling), pale lavender hair ribbon, white open beach cover-up draped lightly at the shoulders, and matching sandals. An unmistakably adult woman age 25+ with mature adult proportions, still holding the microphone in the same neutral pose.",
+      "kind": "spice",
+      "imageSha256": "b907b35aae5557d6dc9c3192fceae87950cb074ee352d39cf6edf5a71f50a9ca",
+      "protectedRects": []
+    }
   },
   "78-9": {
     "exam": 78,
@@ -20833,7 +23847,100 @@
     "pngSha256": "2735f2d423df2b6f7c9a2a94931a6d6d19438066f5b1b762d8063690376b913f",
     "pixelSha256": "5e3a0587ba01793f4efea60dfa4f7b83bc6f3690cc4c9234dac4c2f69e855b47",
     "imageFile": "78-9.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      846
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/78-9-1.webp?v=20261012-choice",
+        "width": 155,
+        "height": 311,
+        "sourceXref": 2554,
+        "sourceBBox": [
+          81.61866760253906,
+          374.1468505859375,
+          118.61819458007812,
+          448.57696533203125
+        ],
+        "imageSha256": "624308a2574cc25f3070a4b751d14fdfacc9a3a9ace5dfe51425fd147af5f8f8",
+        "pixelSha256": "8bd1ef2b6e39685dd24c0186276fd2bd4fa3335802792c2d8c00078ddbccd50d",
+        "name": "금동 연가7년명 여래 입상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/78-9-2.webp?v=20261012-choice",
+        "width": 277,
+        "height": 314,
+        "sourceXref": 2565,
+        "sourceBBox": [
+          168.10165405273438,
+          374.3520812988281,
+          234.42666625976562,
+          449.62261962890625
+        ],
+        "imageSha256": "6b9d232ce73532b403924bd1a82b17db4e83db315629fcf810bba62c2fc71482",
+        "pixelSha256": "3c20e66a696cc410b1391cc0923849059f28d857f14da74e2319ccc2fc234c16",
+        "name": "철조 여래 좌상",
+        "nameStatus": "description"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/78-9-3.webp?v=20261012-choice",
+        "width": 257,
+        "height": 330,
+        "sourceXref": 2568,
+        "sourceBBox": [
+          272.3981018066406,
+          371.36279296875,
+          333.96783447265625,
+          450.46380615234375
+        ],
+        "imageSha256": "21341a9ddf8a9daa1db7f1a859f57313e0da5486a7cc79fc71518911a098be8f",
+        "pixelSha256": "8324ee1c1a80f0f2ebfae7303660f3abddc3d5e068a0d8bf219b072a597aac34",
+        "name": "이불병좌상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/78-9-4.webp?v=20261012-choice",
+        "width": 227,
+        "height": 347,
+        "sourceXref": 2569,
+        "sourceBBox": [
+          76.02835083007812,
+          465.5672607421875,
+          126.82986450195312,
+          543.2241821289062
+        ],
+        "imageSha256": "fe8b5ee72b1ce890ca130152c520efe87fe665100a367d1c9e1468650e7a7b67",
+        "pixelSha256": "3ad313d55a5e486e9c71f912d93d522bed92e1831cc8fa45d20cc7d1d9325547",
+        "name": "영주 부석사 소조여래좌상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/78-9-5.webp?v=20261012-choice",
+        "width": 279,
+        "height": 323,
+        "sourceXref": 2570,
+        "sourceBBox": [
+          167.4586181640625,
+          465.8636169433594,
+          234.21633911132812,
+          543.1951904296875
+        ],
+        "imageSha256": "7877f71c33a5d9960842512b26b1fddc2c08a11e4cb84e63aa0bf4fa01929c53",
+        "pixelSha256": "a2f61dbf448a018f030332aec390834affe2a58172fb3b3591ef94b24d1c760b",
+        "name": "금동 보살 좌상",
+        "nameStatus": "description"
+      }
+    ]
   },
   "78-10": {
     "exam": 78,
@@ -20916,7 +24023,40 @@
     "pngSha256": "bdfe5c7e9926a432bd1dd2e7ff5f3946a2f0ff6698896c12ac56725f6bc702a9",
     "pixelSha256": "1665176f0f7996aea2e837290d31469422fa56b49fd4a4cdcc5145d8e665e199",
     "imageFile": "78-10.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-10.webp",
+      "box": [
+        96,
+        242,
+        364,
+        551
+      ],
+      "polygons": [
+        [
+          [
+            101.2329425865516,
+            246.601827317221
+          ],
+          [
+            455.8097992650555,
+            246.7989066785653
+          ],
+          [
+            455.4940556600932,
+            814.8714547131333
+          ],
+          [
+            100.9171989815893,
+            814.674375351789
+          ]
+        ]
+      ],
+      "style": "Navy-and-ivory cat-maid inspired knee-length dress, modest bodice, white apron, small navy cat-ear headband and pale lavender hair bow; retain pointing gesture.",
+      "kind": "outfit",
+      "imageSha256": "ccb22729d3396664ca3e030ae796b90e0df4479fbc9e3128f11043dcfc7a3d5f",
+      "protectedRects": []
+    }
   },
   "78-11": {
     "exam": 78,
@@ -21098,7 +24238,140 @@
     "pngSha256": "ad9bd2897d6eeee5a411b6c3d566a5169d56eff4c66b3fd16d4a1d36916336af",
     "pixelSha256": "ea1f42fb6bac4986b91fb3098454278909244cdb64b0c10b8d6c83ca96787ebb",
     "imageFile": "78-14.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      764
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/78-14-1.webp?v=20261012-choice",
+        "width": 308,
+        "height": 357,
+        "sourceXref": 2524,
+        "sourceBBox": [
+          67.50382995605469,
+          771.0914306640625,
+          141.30499267578125,
+          856.6243286132812
+        ],
+        "imageSha256": "b33ea4e0a0c8ecc20d9c19a5a2cb82af7a677dad957a4ac7e6e8542f3bbe8073",
+        "pixelSha256": "7ef48e1f449a0bf5b921987ef92a7dfc405c49122c9872eda94d04747cf69ba6",
+        "name": "부여 정림사지 오층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/78-14-2.webp?v=20261012-choice",
+        "width": 260,
+        "height": 357,
+        "sourceXref": 2525,
+        "sourceBBox": [
+          176.64219665527344,
+          770.9352416992188,
+          238.9802703857422,
+          856.60107421875
+        ],
+        "imageSha256": "01c9132933d515b26ac774066a93c6b7bf00757e4f6fb6d331293197a5e37d5f",
+        "pixelSha256": "c8e976909d1d6e06d24d000b5dce4601081fbe039754d4a3eb64c98f15f5f533",
+        "name": "칠곡 송림사 오층 전탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/78-14-3.webp?v=20261012-choice",
+        "width": 265,
+        "height": 348,
+        "sourceXref": 2526,
+        "sourceBBox": [
+          267.84820556640625,
+          771.8748779296875,
+          331.4012451171875,
+          855.3465576171875
+        ],
+        "imageSha256": "29922f9f3ef7a4b6692200d49cf254d583319334b9735cf8e20681f8cfa942a9",
+        "pixelSha256": "128ec9c00a7139100b99937f2bd2c8518076f77a995ba77efd2bec6353e6eedd",
+        "name": "평창 월정사 팔각 구층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/78-14-4.webp?v=20261012-choice",
+        "width": 239,
+        "height": 334,
+        "sourceXref": 2528,
+        "sourceBBox": [
+          72.64266967773438,
+          868.776123046875,
+          129.9827423095703,
+          948.92724609375
+        ],
+        "imageSha256": "959e96c0de17df1b69158d1933f8f690b4ab2725f804e2372ad228620f0fd869",
+        "pixelSha256": "6e63ee608dd3e54085767e01cc65c374497234ef2a0338a708b2fdf7173c2800",
+        "name": "양양 진전사지 삼층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/78-14-5.webp?v=20261012-choice",
+        "width": 460,
+        "height": 279,
+        "sourceXref": 2529,
+        "sourceBBox": [
+          167.68890380859375,
+          886.1112060546875,
+          278.0852966308594,
+          953.01318359375
+        ],
+        "imageSha256": "842fcb12ad6c2255b1eb24f8f49e4105f25f9729e067d93587345c6811f9412a",
+        "pixelSha256": "619f20a7dfa6d515dca19b4106db7fc3a1fbf05b1154d3a31fe0b5308cf45d7b",
+        "name": "경주 분황사 모전 석탑",
+        "nameStatus": "identified"
+      }
+    ],
+    "appearanceEdit": {
+      "asset": "appearance-art/78-14.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        765
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            270
+          ],
+          [
+            1001,
+            270
+          ],
+          [
+            1001,
+            765
+          ],
+          [
+            0,
+            765
+          ]
+        ]
+      ],
+      "style": "서로 다른 네 명의 성인 미소녀 박물관 관람객",
+      "kind": "named",
+      "imageSha256": "bbf248e5a1ec88353d5b63dbf6927a72977d8d24bef51384a7d415b5d60a3b4a",
+      "protectedRects": [
+        [
+          349,
+          286,
+          293,
+          381
+        ]
+      ]
+    }
   },
   "78-15": {
     "exam": 78,
@@ -21175,7 +24448,40 @@
     "pngSha256": "ffbe9988fe10c8e0bd464c781a0ea8094bd31f36942c0662413b890ddd6c36d7",
     "pixelSha256": "3084c9be33a34779517cb930d34cf66f7b731085c43d704895470cd8f9173d2a",
     "imageFile": "78-15.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-15.webp",
+      "box": [
+        345,
+        182,
+        507,
+        600
+      ],
+      "polygons": [
+        [
+          [
+            349.6510298771757,
+            186.82636595790498
+          ],
+          [
+            847.506801732908,
+            186.74230688354038
+          ],
+          [
+            847.6064795843621,
+            777.1032411155002
+          ],
+          [
+            349.7507077286297,
+            777.1873001898648
+          ]
+        ]
+      ],
+      "style": "Only the standing CENTRAL adult teacher: pastel yellow blouse, sage-green knee-length pleated skirt and white ribbon belt. Keep every seated person unchanged with their own distinct faces, hair and skirts.",
+      "kind": "outfit",
+      "imageSha256": "a7ae635df612a4e56fab8b700c878ce55f03102cc17beb18494e8b849b7e9f1b",
+      "protectedRects": []
+    }
   },
   "78-16": {
     "exam": 78,
@@ -21351,7 +24657,40 @@
     "pngSha256": "57c8024749802ccfbee2cbca537401f690ea66f4855ed70467898a99eb8ed00e",
     "pixelSha256": "7484c6734df5f98ffd109f17d41560e38bb6bb1ee5e76c6e25f9a0b8830fe2cd",
     "imageFile": "78-19.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-19.webp",
+      "box": [
+        682,
+        327,
+        273,
+        484
+      ],
+      "polygons": [
+        [
+          [
+            686.8956979608618,
+            331.5329023619761
+          ],
+          [
+            950.4340653065033,
+            331.57615376408654
+          ],
+          [
+            950.3547831036365,
+            814.6564999168652
+          ],
+          [
+            686.816415757995,
+            814.6132485147548
+          ]
+        ]
+      ],
+      "style": "Navy knee-length field dress under a white-and-navy vest, brown walking boots and a camera strap, tasteful outdoor style.",
+      "kind": "outfit",
+      "imageSha256": "a2cfc3986eae7d0459ae30c20408b925abc09b81250c2833d7b28afac22cb7f6",
+      "protectedRects": []
+    }
   },
   "78-20": {
     "exam": 78,
@@ -21421,7 +24760,40 @@
     "pngSha256": "3db338bdaa1499861f7d0878aa9d1eec7b1da77434b067d98b681b2fbe5ffc05",
     "pixelSha256": "731cbdb219e39efe1e465ad0474e02ca199a9b41365cf24367d920019e814750",
     "imageFile": "78-20.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-20.webp",
+      "box": [
+        622,
+        356,
+        379,
+        467
+      ],
+      "polygons": [
+        [
+          [
+            626.5415674473917,
+            360.177734818238
+          ],
+          [
+            1029.3820185017212,
+            360.3331400336249
+          ],
+          [
+            1029.195553054133,
+            843.6877354734364
+          ],
+          [
+            626.3551019998033,
+            843.5323302580496
+          ]
+        ]
+      ],
+      "style": "Modern hanbok: powder-blue jeogori-inspired blouse and a lavender flowing knee-length chima skirt, a burgundy ribbon; retain presentation gesture.",
+      "kind": "outfit",
+      "imageSha256": "83777639eddf8acbef1f076f8a3c0f69f09869bc3825dfaa6bc2f9e204309a38",
+      "protectedRects": []
+    }
   },
   "78-21": {
     "exam": 78,
@@ -21595,7 +24967,101 @@
     "pngSha256": "470b8924298360e1b90a5ef28e0d172e5a15f196c0bee1dbe7cde95f10d321ba",
     "pixelSha256": "f20189e9540741f96954703b1ac17c7ddba96409619c54139695cc05066d5fe7",
     "imageFile": "78-26.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      741
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/78-26-1.webp?v=20261012-choice",
+        "width": 393,
+        "height": 304,
+        "sourceXref": 2377,
+        "sourceBBox": [
+          67.46456909179688,
+          333.4248962402344,
+          161.57481384277344,
+          406.2315673828125
+        ],
+        "imageSha256": "f6d5dfcb38feb7bcf6c4cbb868cee777a968e58977f77cbf5252d1c11ef063d6",
+        "pixelSha256": "c70fe76bcff3093dcbe58874bedcaa38753d05e6a5c41f561aa79e6cd123b1c7",
+        "name": "월하정인(신윤복)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/78-26-2.webp?v=20261012-choice",
+        "width": 356,
+        "height": 279,
+        "sourceXref": 2378,
+        "sourceBBox": [
+          217.98426818847656,
+          334.4451904296875,
+          309.444091796875,
+          406.12298583984375
+        ],
+        "imageSha256": "0c566cd0b6ba596f89e032b18d62c8bed078fcf20efb776cf49bf11064e50ac7",
+        "pixelSha256": "1ffe7b05ecc1d820dc3d735c0cecace854c28b81d259b74c80791d1c3240660e",
+        "name": "매화초옥도(전기)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/78-26-3.webp?v=20261012-choice",
+        "width": 401,
+        "height": 309,
+        "sourceXref": 2379,
+        "sourceBBox": [
+          66.44578552246094,
+          415.0343017578125,
+          162.5998077392578,
+          489.04931640625
+        ],
+        "imageSha256": "56a94ca05390f97b1fba231b1ceb2639af5234cf4caa9b12db7b63e915668730",
+        "pixelSha256": "33d05d7e2c0d1611918c3c447054aed71cb27cda6dc121a4bc37c8ef80f4878e",
+        "name": "나무 아래의 배를 그린 산수화",
+        "nameStatus": "description"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/78-26-4.webp?v=20261012-choice",
+        "width": 382,
+        "height": 306,
+        "sourceXref": 2380,
+        "sourceBBox": [
+          217.98426818847656,
+          416.04425048828125,
+          309.44354248046875,
+          489.45916748046875
+        ],
+        "imageSha256": "7732c66d5e031118a90363315ec5fa1dd1b94e56b6877ca00a08cc61fd3bf2d9",
+        "pixelSha256": "4b9a6f71bd3f3bceac915c6413ab2f16db415812ab9348de1d1f2912d97babec",
+        "name": "파적도·야묘도추(김득신)",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/78-26-5.webp?v=20261012-choice",
+        "width": 1008,
+        "height": 261,
+        "sourceXref": 2381,
+        "sourceBBox": [
+          67.464599609375,
+          497.80523681640625,
+          309.2598876953125,
+          560.3697509765625
+        ],
+        "imageSha256": "5a79df213c441240cc64cce5b3bf7e7b173c823e8d4cce82a3a0614db1c40bad",
+        "pixelSha256": "4957fb7183405836d5fe5ed8870e7b394d01df994486af37412fc30d52287376",
+        "name": "세한도(김정희)",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "6039a3c02ef414bdbff83b70857f9ffb76188c0b9c332f55372d7084ee23a98c"
   },
   "78-27": {
     "exam": 78,
@@ -21875,7 +25341,40 @@
     "pngSha256": "b78034501f85532e1e01bcc9f9454ea578468729614c74d6fe7fc54a67b03579",
     "pixelSha256": "c053210ef1c4079069204e737085361f11fe660ff7998bdea14397635b0a7baf",
     "imageFile": "78-34.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-34.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        487
+      ],
+      "polygons": [
+        [
+          [
+            377,
+            157
+          ],
+          [
+            606,
+            157
+          ],
+          [
+            606,
+            486
+          ],
+          [
+            377,
+            486
+          ]
+        ]
+      ],
+      "style": "중앙 은발 인물과 머리 위 원래 머리 잔상 제거",
+      "kind": "named",
+      "imageSha256": "35f838024bfc4e4ddcd43b27b02955c6d6c0439fad391b104a3c3c6247a098f6",
+      "protectedRects": []
+    }
   },
   "78-35": {
     "exam": 78,
@@ -22198,7 +25697,40 @@
     "pngSha256": "0def646498e94d30b0bcdb76dbdf699647d8ad9b9b0bab7f39e2dc733e03de01",
     "pixelSha256": "4a2054fdf4b0c1998df1fd1c5395c5cca47134182f3d91cdc8c4c3b0750728f1",
     "imageFile": "78-41.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-41.webp",
+      "box": [
+        658,
+        232,
+        343,
+        688
+      ],
+      "polygons": [
+        [
+          [
+            662.7075688418452,
+            236.5807109350928
+          ],
+          [
+            1018.8492153271991,
+            236.63022779325607
+          ],
+          [
+            1018.7548144381326,
+            915.5926924753721
+          ],
+          [
+            662.6131679527786,
+            915.5431756172089
+          ]
+        ]
+      ],
+      "style": "Navy tailored skirt suit with a knee-length pencil skirt, ivory blouse and a teal silk scarf; elegant officewear.",
+      "kind": "outfit",
+      "imageSha256": "c554fe0d7f573d2bc40c88ebd12c62f7be4f2e9d4c05132ae5d7407b0b118df9",
+      "protectedRects": []
+    }
   },
   "78-42": {
     "exam": 78,
@@ -22552,7 +26084,40 @@
     "pngSha256": "7d613bf45c7feeca009ca1960503d3cedebd9993a4b2e23eaec3ae64947364cc",
     "pixelSha256": "26b4106a8d608113c0a50273508ee4df0836a436bb0e5399d63d3304a7bfb89e",
     "imageFile": "78-47.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-47.webp",
+      "box": [
+        31,
+        258,
+        373,
+        602
+      ],
+      "polygons": [
+        [
+          [
+            35.65684309264168,
+            262.9255333809207
+          ],
+          [
+            399.982136422637,
+            262.91732096648457
+          ],
+          [
+            399.995591705412,
+            859.8306747636941
+          ],
+          [
+            35.670298375416635,
+            859.8388871781301
+          ]
+        ]
+      ],
+      "style": "Plum-purple wrap knee-length dress with a white lace collar and small ivory sash, calm adult news-presenter fashion.",
+      "kind": "outfit",
+      "imageSha256": "7dfe27a380501032d60b3c627d6304aa8503a70a9a9246119a0eb3d3d823fef6",
+      "protectedRects": []
+    }
   },
   "78-48": {
     "exam": 78,
@@ -22999,7 +26564,101 @@
     "pngSha256": "2d838a305d828c15d214807e6dbd33b0d07c48f1b0bc1ff21c9cae7781ddc4c9",
     "pixelSha256": "f3c1a82c20301e46c36ec643d7cc18c6234f431a00b786432a7a7424d6d671e0",
     "imageFile": "79-6.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      760
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/79-6-1.webp?v=20261012-choice",
+        "width": 167,
+        "height": 321,
+        "sourceXref": 2612,
+        "sourceBBox": [
+          81.49261474609375,
+          781.7955322265625,
+          121.46810913085938,
+          858.810791015625
+        ],
+        "imageSha256": "6676e41578cee85e7f5ea3e01e3543094762e58a80ed4133920e859cc0403fce",
+        "pixelSha256": "ad65e84d82c4cd3acb9594c2e4adbcde9be189c312396bcae54e2b1bdaf49a61",
+        "name": "부여 정림사지 오층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/79-6-2.webp?v=20261012-choice",
+        "width": 216,
+        "height": 300,
+        "sourceXref": 2613,
+        "sourceBBox": [
+          175.8829803466797,
+          784.36572265625,
+          227.57632446289062,
+          856.228759765625
+        ],
+        "imageSha256": "d775ad9e1a7fd78b45a485b31f25a2cb352bf61b3c6c0cdf7d2c4063e50859a2",
+        "pixelSha256": "ce5ef98526df57129ed087283000bd44e4f0260b66c4b5d4aa5c06e6a4ee4edf",
+        "name": "경주 불국사 다보탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/79-6-3.webp?v=20261012-choice",
+        "width": 284,
+        "height": 328,
+        "sourceXref": 2614,
+        "sourceBBox": [
+          267.12786865234375,
+          781.0177001953125,
+          335.27099609375,
+          859.606689453125
+        ],
+        "imageSha256": "5b6e7c172274a297dce6334fbf8b6539b012bcc7c7cefb5f8fbe6d9068b5faaa",
+        "pixelSha256": "657b408c19d0e573a1d7e112900e8e8cd9c622976a52a957658ab9571afb9af2",
+        "name": "안동 법흥사지 칠층 전탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/79-6-4.webp?v=20261012-choice",
+        "width": 240,
+        "height": 322,
+        "sourceXref": 2615,
+        "sourceBBox": [
+          72.77476501464844,
+          875.2611694335938,
+          130.1859893798828,
+          952.455322265625
+        ],
+        "imageSha256": "51ea329470d3bdbac2e37f2a3d8ca597a9f9b6d594fb346c7ec229e227665226",
+        "pixelSha256": "9f527a4e7f09d93d17e26cd87f1d244a06ce31ae46bbe054add55a18f3fcfdfc",
+        "name": "구례 화엄사 사사자 삼층 석탑",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/79-6-5.webp?v=20261012-choice",
+        "width": 268,
+        "height": 321,
+        "sourceXref": 2616,
+        "sourceBBox": [
+          169.70458984375,
+          875.422607421875,
+          233.9490203857422,
+          952.27001953125
+        ],
+        "imageSha256": "19647b979ebdfd594dda2caf333900e41774c2e5083680fc2933b0490f4948e3",
+        "pixelSha256": "3252f57e27adf5b2ae617586ac63b90d948d83765cba8c862e8a41af545cd3a2",
+        "name": "평창 월정사 팔각 구층 석탑",
+        "nameStatus": "identified"
+      }
+    ],
+    "promptImageSha256": "4de989ee9605d6e0cd114ac9cd09cc11cccf0acf653d23eecc59f8017064095f"
   },
   "79-7": {
     "exam": 79,
@@ -23210,7 +26869,100 @@
     "pngSha256": "2236f90d8eebe2518d6447aa56390d8fc867ce5a45dab2293fceb46654dbbc0e",
     "pixelSha256": "1b8db32f65f3abdc1259ccf02e3745587ba06d774e6dea63109987a9e0940514",
     "imageFile": "79-11.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "displayCrop": [
+      0,
+      0,
+      1001,
+      910
+    ],
+    "choiceImages": [
+      {
+        "number": 1,
+        "src": "choice-art/79-11-1.webp?v=20261012-choice",
+        "width": 257,
+        "height": 328,
+        "sourceXref": 2554,
+        "sourceBBox": [
+          70.75030517578125,
+          780.9559936523438,
+          132.21031188964844,
+          859.635986328125
+        ],
+        "imageSha256": "aa37557a726dd71f4ea2a3556f7d56fd528934bb234d0eb81c387c0f5b2dfec6",
+        "pixelSha256": "39dc476ba01020bb5d9e46a674067791c024f162eb9ccaf0a9d5df6ff64fee43",
+        "name": "이불병좌상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 2,
+        "src": "choice-art/79-11-2.webp?v=20261012-choice",
+        "width": 174,
+        "height": 330,
+        "sourceXref": 2555,
+        "sourceBBox": [
+          181.207763671875,
+          781.59521484375,
+          222.4457550048828,
+          859.80517578125
+        ],
+        "imageSha256": "07baa1a1807306b438843506392301f30f09712bd39816373fcc75b9a90c1392",
+        "pixelSha256": "15048e66e1c16e93251ed419ab6cb76decf3b1b46ee9370530af066f7174813a",
+        "name": "금관",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 3,
+        "src": "choice-art/79-11-3.webp?v=20261012-choice",
+        "width": 160,
+        "height": 321,
+        "sourceXref": 2556,
+        "sourceBBox": [
+          282.97735595703125,
+          781.876220703125,
+          321.3524475097656,
+          858.7169189453125
+        ],
+        "imageSha256": "70e86335db7f15f41c2f77cffeee3cebb7e28e03f11e1329304e3ae72493124b",
+        "pixelSha256": "b80823206d760862990458f1a9dd1ed1f0c2fd1bb3fc21d373db62698575f733",
+        "name": "금동 연가7년명 여래 입상",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 4,
+        "src": "choice-art/79-11-4.webp?v=20261012-choice",
+        "width": 133,
+        "height": 322,
+        "sourceXref": 2557,
+        "sourceBBox": [
+          85.55107116699219,
+          875.3076171875,
+          117.25111389160156,
+          952.4031982421875
+        ],
+        "imageSha256": "f542222d490dac972859dc6aee7afd35e9661554d8dbf2e831765e033d465f2a",
+        "pixelSha256": "764ed326c8b0e64f8a823206f34e1d499c8d3012f5d8c2a6df0838ef3de0c0c7",
+        "name": "백제 금동 대향로",
+        "nameStatus": "identified"
+      },
+      {
+        "number": 5,
+        "src": "choice-art/79-11-5.webp?v=20261012-choice",
+        "width": 209,
+        "height": 321,
+        "sourceXref": 2558,
+        "sourceBBox": [
+          176.80441284179688,
+          875.3386840820312,
+          226.84912109375,
+          952.3539428710938
+        ],
+        "imageSha256": "9d13bec86be7e734fb252ce4933d2282541fb1b43d2b6a8751ebbb6382103b86",
+        "pixelSha256": "b676cd022c42fa914aee6172924882764243272fd9a461ba40c9559adbfd0d01",
+        "name": "청자 상감 모란무늬 주전자",
+        "nameStatus": "identified"
+      }
+    ]
   },
   "79-12": {
     "exam": 79,
@@ -23467,7 +27219,40 @@
     "pngSha256": "722df98fe474386dbcaeaac1fa34c8df4cddf7593fe7fc0e745dedcd95950d01",
     "pixelSha256": "b89c0c4cc83581de02ff86d74bade55eb86c6f17eee552f22ee869d501c3a01a",
     "imageFile": "79-18.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/79-18.webp",
+      "box": [
+        0,
+        377,
+        406,
+        417
+      ],
+      "polygons": [
+        [
+          [
+            -16.097132869266623,
+            381.62818504558953
+          ],
+          [
+            401.03529091719304,
+            381.5185511243376
+          ],
+          [
+            401.1491766668012,
+            814.8282259614903
+          ],
+          [
+            -15.983247119658465,
+            814.937859882742
+          ]
+        ]
+      ],
+      "style": "Sky-blue sailor-collar knee-length one-piece dress, white pleated skirt panels and a navy ribbon belt; adult refined casual fashion.",
+      "kind": "outfit",
+      "imageSha256": "ab655f13f4d38b5fa61a928b8057115c972eea9964497623d0e4a39f14e921d3",
+      "protectedRects": []
+    }
   },
   "79-19": {
     "exam": 79,
@@ -23759,7 +27544,40 @@
     "pngSha256": "6955a1efd8e6ea100e67107ed0d7d94d38d364f3ccde958f272dc2bc25b4f298",
     "pixelSha256": "52b329c9c8a213aa359a30620e15a08af01a80498e32b81fa6e3d8c65e81e5b9",
     "imageFile": "79-25.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/79-25.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        723
+      ],
+      "polygons": [
+        [
+          [
+            552.5699676944648,
+            217.30704272246052
+          ],
+          [
+            996.5660645833264,
+            217.53622152414775
+          ],
+          [
+            996.3046198187701,
+            724.0422952118361
+          ],
+          [
+            552.3085229299085,
+            723.8131164101488
+          ]
+        ]
+      ],
+      "style": "Adult idol magical-girl cosplay: pastel pink and black fitted leotard with a short flowing translucent star-pattern overskirt, matching wrist ribbons and a tasteful cat-ear headband. Unmistakably adult face, mature adult proportions, same standing museum-guide gesture, no sexual pose.",
+      "kind": "spice",
+      "imageSha256": "523be8dc1636cfb29ed8f64708f04320d321fc522d360fc0a593cc7f9f835422",
+      "protectedRects": []
+    }
   },
   "79-26": {
     "exam": 79,
@@ -24450,7 +28268,40 @@
     "pngSha256": "1d67646465881a0e4a3f823e475bf4e607fc5b31980537b99c27f80c8c6b981e",
     "pixelSha256": "e19664206ff606cc62912d97aba99a7b0c4dcb0bbde339932e80949ae5d66b93",
     "imageFile": "79-36.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/79-36.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        714
+      ],
+      "polygons": [
+        [
+          [
+            518.7410906642017,
+            225.56105190569826
+          ],
+          [
+            728.1660569855337,
+            225.63620504353946
+          ],
+          [
+            727.994490914153,
+            703.7295987847671
+          ],
+          [
+            518.5695245928209,
+            703.6544456469259
+          ]
+        ]
+      ],
+      "style": "Stylish lilac-and-navy two-piece bikini swimsuit, an open sky-blue beach shrug and a tiny chiffon waist ribbon, matching low sandals, a star hair clip. Unmistakably adult woman age 25+, mature adult facial features and adult proportions, same neutral standing curator gesture, no sexual pose.",
+      "kind": "spice",
+      "imageSha256": "3afc4e5cd69e526c957b950c9859262d4f4b85fcca033d74c0e7c5f422fbaf50",
+      "protectedRects": []
+    }
   },
   "79-37": {
     "exam": 79,
@@ -24909,7 +28760,65 @@
     "pngSha256": "42ad00b98eed06ec13d8bf761765ceb6a3387a756803a3c92ed4f8bc466a33d1",
     "pixelSha256": "66ffaeb940e159fd6bf9798f893a5484ff2fc05de741be97f7fff099b35b28ea",
     "imageFile": "79-45.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/79-45.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        793
+      ],
+      "polygons": [
+        [
+          [
+            425,
+            223
+          ],
+          [
+            699,
+            223
+          ],
+          [
+            699,
+            771
+          ],
+          [
+            425,
+            771
+          ]
+        ],
+        [
+          [
+            238,
+            470
+          ],
+          [
+            295,
+            470
+          ],
+          [
+            295,
+            506
+          ],
+          [
+            238,
+            506
+          ]
+        ]
+      ],
+      "style": "차분한 구술 인터뷰의 성인 미소녀 아바타, 로즈 원피스",
+      "kind": "named",
+      "imageSha256": "dd385bc9ec7fbc7037511fa2f0db8b9d306089aab3e752f0a6d5e982c82c6227",
+      "protectedRects": [
+        [
+          0,
+          0,
+          1001,
+          218
+        ]
+      ]
+    }
   },
   "79-46": {
     "exam": 79,

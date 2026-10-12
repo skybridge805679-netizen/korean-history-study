@@ -34,3 +34,9 @@ python3 tools/rebuild_question_materials.py --pdf-dir /path/to/original-pdfs --o
 | 79회 | 2, 7, 8, 9, 10, 12, 13, 14, 16, 17, 19, 20, 22, 26, 29, 32, 33, 39, 47, 50 | 20 |
 
 나머지 326문항도 원본 기준으로 크롭을 정리했다. 인쇄 글자와 자료 내용, 실제 역사 인물은 보존하고 익명 인물에만 미소녀 규칙을 적용했다. 상세 인물 변경 및 화면 검증 기록은 [인물 그림 기록](../character-art/README.md)에 있다.
+
+## 사진 선택지와 의상 개선 후 재추출
+
+사진 선택지 21문항의 `displayCrop`은 화면에 표시하는 지문 그림 범위를 기록한다. 원본 자료 파일에는 전체 지문과 사진 선택지가 그대로 남아 있다. `choiceImages`에는 사진별 원본 PDF 이미지 객체, 픽셀 해시와 명칭의 확인 상태가 기록된다. 인물 변경은 `appearanceEdit`의 저장된 레이어와 마스크를 재사용한다. 재추출 도구는 `question-prompts`, `choice-art`, `question-art`도 생성하며 사진 픽셀 해시를 확인한다.
+
+자세한 기록은 [사진 선택지](../choice-art/README.md)와 [의상 개선](../appearance-art/README.md)에 있다.
