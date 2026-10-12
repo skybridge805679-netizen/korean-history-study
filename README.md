@@ -14,8 +14,11 @@ Python 3만 있으면 됩니다(추가 라이브러리 없음).
 
 ## GitHub Pages로 게시하기
 
-`.github/workflows/pages.yml`이 `main` 브랜치에 push될 때마다 `site/` 폴더를 GitHub Pages에 배포합니다.
-처음 한 번은 저장소 **Settings → Pages → Build and deployment → Source**를 **GitHub Actions**로 바꿔 주세요.
+두 가지 방법 중 하나를 고르세요.
+
+- **브랜치에서 바로 게시 (간단):** Settings → Pages → Source를 **Deploy from a branch**, 폴더를 **/ (root)** 로 둡니다.
+  루트의 `index.html`이 `site/`로 자동 이동시키므로 주소는 `https://<아이디>.github.io/<저장소>/` 그대로 쓰면 됩니다.
+- **GitHub Actions로 게시:** Source를 **GitHub Actions**로 바꾸면 `.github/workflows/pages.yml`이 `main`에 push될 때마다 `site/` 폴더만 배포합니다.
 
 ## 문제 풀이 단축키
 
