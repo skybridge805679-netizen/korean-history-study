@@ -1953,7 +1953,81 @@
     "pngSha256": "deaefc1e98cef7ecf3f8b2be3495dd65ec6a9adb8062bcadad6999bef7b25212",
     "pixelSha256": "850ff1e25708e30f7e01c1d9050ddafd25c9a60a859f5255bdde55fc5a106686",
     "imageFile": "70-37.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/70-37.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        816
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            270
+          ],
+          [
+            1001,
+            270
+          ],
+          [
+            1001,
+            741
+          ],
+          [
+            604,
+            741
+          ],
+          [
+            592,
+            684
+          ],
+          [
+            393,
+            684
+          ],
+          [
+            383,
+            741
+          ],
+          [
+            0,
+            741
+          ]
+        ]
+      ],
+      "style": "서로 다른 얼굴·갈색 땋은 머리와 은청색 올림머리의 성인 미소녀 한복 인물",
+      "kind": "named",
+      "imageSha256": "440c49380356c0b904842056ae3b2685397432af82e20fecd05f648c50083645",
+      "protectedRects": [
+        [
+          0,
+          0,
+          1001,
+          270
+        ],
+        [
+          260,
+          250,
+          88,
+          119
+        ],
+        [
+          715,
+          250,
+          128,
+          110
+        ],
+        [
+          370,
+          702,
+          241,
+          105
+        ]
+      ]
+    }
   },
   "70-38": {
     "exam": 70,
