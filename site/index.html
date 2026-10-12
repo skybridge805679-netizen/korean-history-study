@@ -84,7 +84,7 @@ select,input[type=search]{font:14px var(--body);padding:8px 10px;border-radius:8
 .omr button.done{background:var(--accent-soft);color:var(--accent);border-color:var(--accent)}
 .omr button.ok{background:var(--accent);color:var(--paper);border-color:var(--accent)}
 .omr button.bad{background:var(--red);color:var(--paper);border-color:var(--red)}
-.omr button.cur{outline:2px solid var(--ink);outline-offset:1px}
+.omr button.cur{outline:0;box-shadow:inset 0 0 0 2px var(--ink);color:var(--ink);font-weight:700}
 @media (max-width:480px){.omr{grid-template-columns:repeat(5,minmax(0,1fr))}}
 .nav2{display:flex;justify-content:space-between;gap:8px;margin-top:14px}
 .result{display:flex;flex-wrap:wrap;gap:24px;align-items:center}
@@ -297,6 +297,15 @@ body[data-view=run] .omr{grid-template-columns:repeat(25,minmax(0,1fr))}
   body[data-view=run] .q-right{top:76px;max-height:calc(100vh - 88px)}
   body[data-view=run] .q-left .qfig img{max-height:calc(100vh - 230px)}
   body[data-view=run] .exam-bar{margin-bottom:10px}
+
+  /* 사진 선택지: 3열로 줄이고 사진 높이를 화면에 맞춤, 확대 버튼은 카드 모서리에 */
+  .q-right .picture-choices{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+  .q-right .picture-choices li{position:relative;gap:0}
+  .q-right .picture-choice{padding:28px 6px 6px}
+  .q-right .picture-choice>.n{top:5px;left:7px}
+  .q-right .choice-photo{height:clamp(96px,calc((100vh - 430px) / 2),210px)}
+  .q-right .choice-zoom{position:absolute;top:4px;right:4px;min-height:0;padding:1px 8px;font-size:12px;background:var(--paper);border-color:var(--line);z-index:1}
+  .q-right .choice-caption{font-size:13px;margin-top:4px}
 
   /* 대시보드 3단 */
   .dash-grid{grid-template-columns:minmax(0,1fr) minmax(0,1.1fr) minmax(0,1fr);align-items:start}
