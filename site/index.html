@@ -201,6 +201,11 @@ body{font-size:16px;line-height:1.8}.ctx{font-family:var(--body);font-size:17px;
 <style>.tb-chapter{font-size:16px;line-height:1.85}.tb-title{font-size:22px;margin:4px 0 8px}.tb-lead{background:var(--bg);border-radius:10px;padding:12px 14px}.tb-sec h4{font-size:18px;margin:26px 0 8px}.tb-sec p{margin:0 0 12px}.tb-traps ul{padding-left:20px}.tb-traps li{margin:6px 0}.tb-check{border:1px solid var(--line,#ddd);border-radius:10px;padding:10px 12px;margin:8px 0}.tb-check summary{cursor:pointer;font-weight:600}.tb-check p{margin:8px 0 0}.tb-actions{margin-top:20px}.tb-card{display:flex;gap:14px;align-items:center;text-align:left;width:100%;cursor:pointer;font:inherit;color:inherit}.tb-no{flex:none;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:var(--accent);color:#fff;font-weight:700}.tb-chapter table.cmp{font-size:14px;width:100%}</style>
 <style>.kbd-hint{text-align:center;margin-top:8px}@media (pointer:coarse){.kbd-hint{display:none}}</style>
 <style>.memory-filter input[type=checkbox]{flex:none;min-width:0}.memory-filter label{display:inline-flex;align-items:center;gap:8px}.memory-source a{color:var(--accent)}.memory-card h3{overflow-wrap:anywhere}</style>
+<style>
+.qfig img{max-height:none;object-fit:contain;cursor:zoom-in}
+.zoom-wrap img{width:max(100%,1000px);min-width:0;max-width:none;height:auto}
+</style>
+<script src="question-figures.js?v=20261012-pdf-final"></script>
 <script src="reference-lessons.js"></script>
 <script src="textbook.js"></script>
 <script>
@@ -299,21 +304,27 @@ function startExam(r){stopTimer();go("run",{mode:"exam",from:"exam",title:`제${
 function startPractice(list,title,from){stopTimer();if(!list.length){go(from);return}go("run",{mode:"prac",from,title,list,i:0,ans:{},help:{},peek:{}})}
 
 const CHARACTER_KEYS=["70-11", "70-13", "70-17", "70-18", "70-23", "70-26", "70-27", "70-33", "70-35", "70-36", "70-38", "70-39", "70-40", "70-41", "70-44", "70-47", "70-5", "70-50", "71-1", "71-13", "71-20", "71-21", "71-24", "71-25", "71-27", "71-28", "71-32", "71-37", "71-38", "71-46", "71-5", "72-12", "72-15", "72-17", "72-21", "72-25", "72-26", "72-28", "72-34", "72-35", "72-41", "72-43", "72-44", "72-46", "72-49", "72-8", "73-10", "73-15", "73-21", "73-22", "73-3", "73-30", "73-34", "73-36", "73-37", "73-39", "73-45", "73-49", "73-7", "74-1", "74-13", "74-17", "74-2", "74-21", "74-23", "74-27", "74-3", "74-37", "74-43", "74-44", "74-45", "74-46", "74-47", "74-5", "74-7", "74-8", "75-12", "75-13", "75-15", "75-18", "75-20", "75-21", "75-24", "75-25", "75-27", "75-30", "75-34", "75-36", "75-39", "75-4", "75-40", "75-42", "75-44", "75-46", "75-48", "75-6", "76-13", "76-16", "76-19", "76-20", "76-22", "76-24", "76-30", "76-33", "76-37", "76-40", "76-45", "76-47", "76-48", "76-49", "77-11", "77-13", "77-17", "77-21", "77-23", "77-24", "77-31", "77-32", "77-35", "77-36", "77-39", "77-44", "77-46", "77-47", "77-48", "77-49", "78-1", "78-10", "78-14", "78-15", "78-19", "78-2", "78-20", "78-34", "78-36", "78-41", "78-43", "78-45", "78-47", "78-48", "78-5", "78-6", "78-8", "78-9", "79-11", "79-18", "79-23", "79-25", "79-27", "79-28", "79-3", "79-30", "79-36", "79-37", "79-4", "79-41", "79-44", "79-46", "79-48"];
+// 익명 대화 인물·인터뷰어만 미소녀풍으로 바꾸고, 글자·자료·실제 역사 인물은 원본으로 보존한다.
+CHARACTER_KEYS.push("70-19", "71-6", "71-17", "71-18", "71-26", "71-31", "72-18", "72-32", "73-17", "73-35", "73-44", "74-10", "74-22", "74-32", "75-41", "76-26", "78-4", "79-31", "79-34");
+CHARACTER_KEYS.push("76-6", "77-5");
+const QUESTION_FIGURES=window.QUESTION_FIGURES||{};
 function questionFigure(q){
+  const material=QUESTION_FIGURES[key(q)];
+  if(material)return `<figure class="qfig"><img src="${esc(material.src)}" width="${material.width}" height="${material.height}" loading="lazy" decoding="async" alt="제${q.r}회 ${q.n}번 원본 자료 그림"></figure>`;
  const k=key(q),updated=CHARACTER_KEYS.includes(k);
- return `<figure class="qfig"><img src="${updated?'character-art/'+k+'.svg?v=20261012-jpg':'fig/'+k+'.jpg'}" width="${FIG[k][0]}" height="${FIG[k][1]}" loading="lazy" alt="제${q.r}회 ${q.n}번 자료 그림"></figure>`;
+  return `<figure class="qfig"><img src="${updated?'character-art/'+k+'.svg?v=20261012-bishoujo-jpg':'fig/'+k+'.jpg'}" width="${FIG[k][0]}" height="${FIG[k][1]}" loading="lazy" alt="제${q.r}회 ${q.n}번 자료 그림"></figure>`;
 }
-function questionImage(q,img){const k=key(q);return `<img class="qimg" src="${CHARACTER_KEYS.includes(k)?`character-art/${k}.svg?v=20261012-jpg`:img}" alt="제${q.r}회 ${q.n}번 자료 그림">`}
+function questionImage(q,img){const k=key(q);return `<img class="qimg" src="${CHARACTER_KEYS.includes(k)?`character-art/${k}.svg?v=20261012-bishoujo-jpg`:img}" alt="제${q.r}회 ${q.n}번 자료 그림">`}
 
 function qHTML(q,chosen,reveal){
-  const img=IMG[key(q)];
+  const img=IMG[key(q)],original=QUESTION_FIGURES[key(q)];
   const ch=q.ch.map((c,i)=>{const n=i+1;let cls="";if(reveal){if(n===q.a)cls="ok";else if(n===chosen)cls="bad"}else if(n===chosen)cls="sel";
     return `<li><button class="choice ${cls}" data-c="${n}" aria-label="보기 ${n}. ${esc(c)}" aria-pressed="${n===chosen}" ${reveal?"disabled":""}><span class="n">${N[i]}</span><span>${esc(c)}</span></button></li>`}).join("");
   const ok=chosen===q.a;
   return `<article class="q"><div class="qhead"><span class="qno">${q.n}.</span><span class="chip">${q.era}</span><span class="chip gold">${q.topic}</span><span class="hint">제${q.r}회 · ${q.p}점</span></div>
   <p class="qtitle">${esc(q.q)}</p>
-  ${img?questionImage(q,img):""}
-  ${!img&&FIG[key(q)]?`${questionFigure(q)}<details class="ctxd"><summary>자료를 글로 읽기</summary><div class="ctx">${esc(q.ctx)}</div></details>`:`<div class="ctx">${esc(q.ctx)}</div>`}
+  ${original?questionFigure(q):img?questionImage(q,img):FIG[key(q)]?questionFigure(q):""}
+  ${original||!img&&FIG[key(q)]?`<details class="ctxd"><summary>자료를 글로 읽기</summary><div class="ctx">${esc(q.ctx)}</div></details>`:`<div class="ctx">${esc(q.ctx)}</div>`}
   <ul class="choices">${ch}</ul>
   ${reveal?`<div class="exp ${ok?"":"wrong"}"><b>${chosen==null?"미응답":ok?"정답입니다":"오답"} · 정답 ${N[q.a-1]}</b><p style="margin:6px 0 0">${linkTerms(esc(q.exp))}</p>${refChips(q)}</div>`:""}</article>`;
 }
