@@ -1,0 +1,391 @@
+{
+  "generatedOn": "2026-10-12",
+  "generator": "built-in image_gen",
+  "assetCount": 9,
+  "githubBaseCommit": "d44db9f798a97af9a84868c3dd3fab7f08c376ee",
+  "scope": "Nine scene artwork repairs identified in cloud handoff. Website integration and PC/mobile/grading checks delegated to Claude by the user. Other 56 unpublished cloud scene drafts are not declared complete by this batch.",
+  "textPolicy": "Restore whole authentic paragraphs and labels from original PDFs/material images. Do not repeat fragmented original-printed-line overlays. Context is a cross-check only, not a verbatim source guarantee.",
+  "assets": [
+    {
+      "questionKey": "71-1",
+      "file": "71-1-scene-v4.png",
+      "width": 1271,
+      "height": 1238,
+      "sha256": "8ad738b0e727b0c31ee4ebf1644a250f4a7afb608fbd67ff3ef52a9e5b67400c",
+      "status": "clean-art-layer-needs-original-dialogue-and-facts",
+      "originalMaterial": "site/question-materials/71-1.webp",
+      "sourceMap": "site/question-materials/source-map.json",
+      "sourcePdf": "71회 한국사_문제지(심화).pdf",
+      "sourcePdfSha256": "4faa9016aa092da3684782b3c46f7ba04165c954649334ad5ba9956f4399c4a6",
+      "sourcePdfPage": 1,
+      "sourceImageSize": [
+        1001,
+        975
+      ],
+      "originalContextForCrossCheck": "[체험 프로그램 기획안] (가) 시대로 떠나는 시간 여행 ▣ 기획 의도: 뗀석기를 처음 사용한 (가) 시대 사람들의 생활을 다양한 활동을 통해 체험할 수 있는 기회를 마련하고자 함. ▣ 체험 프로그램 예시: [그림: 주먹도끼로 고기 자르기] [그림: 마찰식 점화법으로 불 피우기] ▣ 장소: 연천 전곡리 유적 체험 마당",
+      "layout": {
+        "text": [
+          [
+            0.07,
+            0.08,
+            0.86,
+            0.18
+          ]
+        ],
+        "captions": [
+          [
+            0.08,
+            0.86,
+            0.84,
+            0.06
+          ]
+        ]
+      },
+      "layoutUnits": "normalized xywh; quad points clockwise; suggested safe interior, verify placement visually",
+      "sourceArt": "cloud handoff image-improvements/scene-render-71-1.png",
+      "preserveHistoricalIdentity": false
+    },
+    {
+      "questionKey": "71-5",
+      "file": "71-5-scene-v4.png",
+      "width": 1423,
+      "height": 1105,
+      "sha256": "04ca2fa4807b742945a4dcc6f09e6bec6814de58aef74d095a5266d3426362dd",
+      "status": "clean-art-layer-needs-original-dialogue-and-facts",
+      "originalMaterial": "site/question-materials/71-5.webp",
+      "sourceMap": "site/question-materials/source-map.json",
+      "sourcePdf": "71회 한국사_문제지(심화).pdf",
+      "sourcePdfSha256": "4faa9016aa092da3684782b3c46f7ba04165c954649334ad5ba9956f4399c4a6",
+      "sourcePdfPage": 2,
+      "sourceImageSize": [
+        1001,
+        777
+      ],
+      "originalContextForCrossCheck": "<한국사 주제 발표> 백제의 성장과 발전 — (가) 도읍을 사비로 옮기고, 국호를 남부여라고 하였어요. / (나) 동진에서 온 마라난타를 통해 불교를 수용하였어요. / (다) 고구려의 평양성을 공격하고 황해도 일부 지역을 차지하였어요.",
+      "layout": {
+        "text": [
+          [
+            0.06,
+            0.083,
+            0.25,
+            0.12
+          ],
+          [
+            0.39,
+            0.083,
+            0.23,
+            0.12
+          ],
+          [
+            0.71,
+            0.083,
+            0.23,
+            0.12
+          ]
+        ],
+        "title": [
+          [
+            0.06,
+            0.028,
+            0.88,
+            0.024
+          ]
+        ]
+      },
+      "layoutUnits": "normalized xywh; quad points clockwise; suggested safe interior, verify placement visually",
+      "sourceArt": "cloud handoff image-improvements/scene-render-71-5.png",
+      "preserveHistoricalIdentity": false
+    },
+    {
+      "questionKey": "72-17",
+      "file": "72-17-scene-v4.png",
+      "width": 1296,
+      "height": 1213,
+      "sha256": "7abe46df3e5fb16910327167539c8b6685ba09b399dac32e1e983387a2cd7809",
+      "status": "clean-art-layer-needs-original-dialogue-and-facts",
+      "originalMaterial": "site/question-materials/72-17.webp",
+      "sourceMap": "site/question-materials/source-map.json",
+      "sourcePdf": "제72회 심화 문제지.pdf",
+      "sourcePdfSha256": "87307e726a2605000a087b3c97ec2bae8e4c079ca2a2ef2b567cc9a4a415b9b5",
+      "sourcePdfPage": 4,
+      "sourceImageSize": [
+        1001,
+        1572
+      ],
+      "originalContextForCrossCheck": "이 탑은 원래 개성에 있었는데 지금은 국립 중앙 박물관에 옮겨져 새로운 영상 기법으로 전시되고 있습니다. (가) 시대에 만들어진 이 탑은 이후 원각사지 십층 석탑에 영향을 주기도 하였습니다. [사진: 개성 경천사지 십층 석탑]",
+      "layout": {
+        "text": [
+          [
+            0.035,
+            0.035,
+            0.52,
+            0.18
+          ]
+        ],
+        "authenticImageQuad": [
+          [
+            0.047,
+            0.275
+          ],
+          [
+            0.484,
+            0.32
+          ],
+          [
+            0.484,
+            0.84
+          ],
+          [
+            0.047,
+            0.88
+          ]
+        ]
+      },
+      "layoutUnits": "normalized xywh; quad points clockwise; suggested safe interior, verify placement visually",
+      "sourceArt": "cloud handoff image-improvements/scene-render-72-17.png",
+      "preserveHistoricalIdentity": false
+    },
+    {
+      "questionKey": "72-43",
+      "file": "72-43-scene-v4.png",
+      "width": 1426,
+      "height": 1103,
+      "sha256": "d9575b2927a09bb2352a90c89009c50e74061b5318b8252d85439be0e68d5362",
+      "status": "clean-art-layer-needs-original-dialogue-and-facts",
+      "originalMaterial": "site/question-materials/72-43.webp",
+      "sourceMap": "site/question-materials/source-map.json",
+      "sourcePdf": "제72회 심화 문제지.pdf",
+      "sourcePdfSha256": "87307e726a2605000a087b3c97ec2bae8e4c079ca2a2ef2b567cc9a4a415b9b5",
+      "sourcePdfPage": 11,
+      "sourceImageSize": [
+        1001,
+        774
+      ],
+      "originalContextForCrossCheck": "이것은 냉전과 분단의 상징물인 독일 베를린 장벽의 일부로, (가)을/를 기념하는 이 공원에 기증되었습니다. 이곳 제주도에서 일어난 (가)은/는 남한만의 단독 선거에 반대하는 무장대와 이를 진압하는 토벌대 간의 무력 충돌, 그 뒤 토벌대의 진압 과정에서 수많은 제주도민이 희생된 사건으로, 6·25 전쟁이 끝나고 나서야 종결되었습니다. [사진: 제주 4·3 평화 공원의 베를린 장벽]",
+      "layout": {
+        "text": [
+          [
+            0.145,
+            0.04,
+            0.82,
+            0.17
+          ]
+        ],
+        "authenticImages": [
+          [
+            0.358,
+            0.33,
+            0.245,
+            0.52
+          ]
+        ]
+      },
+      "layoutUnits": "normalized xywh; quad points clockwise; suggested safe interior, verify placement visually",
+      "sourceArt": "cloud handoff image-improvements/scene-render-72-43.png",
+      "preserveHistoricalIdentity": false
+    },
+    {
+      "questionKey": "73-10",
+      "file": "73-10-scene-v4.png",
+      "width": 1275,
+      "height": 1234,
+      "sha256": "401928d32599c4d9c9e9839091ea9bd26a98181cd5c3346592bdeedbaac06927",
+      "status": "clean-art-layer-needs-original-dialogue-and-facts",
+      "originalMaterial": "site/question-materials/73-10.webp",
+      "sourceMap": "site/question-materials/source-map.json",
+      "sourcePdf": "73회 심화 문제지.pdf",
+      "sourcePdfSha256": "d6ad706f1bd7ce3a0b18d7b7cdda9439d10b7b712121428b21af2c31268c4836",
+      "sourcePdfPage": 3,
+      "sourceImageSize": [
+        1001,
+        975
+      ],
+      "originalContextForCrossCheck": "경기도 양주 대모산성에서 태봉의 연호가 기록된 목간이 출토되었습니다. 태봉은 신라 왕족 출신으로 알려진 (가)이/가 세운 나라입니다. 목간의 정개 3년 병자는 916년에 해당합니다. [사진: '정개 3년 병자'가 적힌 목간(정개-연호, 병자-간지)]",
+      "layout": {
+        "text": [
+          [
+            0.195,
+            0.033,
+            0.765,
+            0.11
+          ]
+        ],
+        "authenticImages": [
+          [
+            0.045,
+            0.195,
+            0.523,
+            0.576
+          ]
+        ]
+      },
+      "layoutUnits": "normalized xywh; quad points clockwise; suggested safe interior, verify placement visually",
+      "sourceArt": "cloud handoff image-improvements/scene-render-73-10.png",
+      "preserveHistoricalIdentity": false
+    },
+    {
+      "questionKey": "73-7",
+      "file": "73-7-scene-v4.png",
+      "width": 1337,
+      "height": 1176,
+      "sha256": "d56207c1c59bfa724962bce8fc5df1d79296898c0b509bba34a3b81e86d48ff9",
+      "status": "clean-art-layer-needs-original-dialogue-and-facts",
+      "originalMaterial": "site/question-materials/73-7.webp",
+      "sourceMap": "site/question-materials/source-map.json",
+      "sourcePdf": "73회 심화 문제지.pdf",
+      "sourcePdfSha256": "d6ad706f1bd7ce3a0b18d7b7cdda9439d10b7b712121428b21af2c31268c4836",
+      "sourcePdfPage": 2,
+      "sourceImageSize": [
+        1001,
+        881
+      ],
+      "originalContextForCrossCheck": "이것은 보령 성주사지 대낭혜화상탑비로, 진성여왕의 명을 받아 최치원이 비문을 작성했습니다. 혜공왕 피살 이후 왕위 쟁탈전이 치열했던 시기에 당에서 수행하고 돌아와 9산 선문 중 하나인 성주산문을 개창한 낭혜화상의 행적이 기록되어 있습니다. [사진: 보령 성주사지 대낭혜화상탑비]",
+      "layout": {
+        "text": [
+          [
+            0.04,
+            0.04,
+            0.92,
+            0.16
+          ]
+        ],
+        "authenticImages": [
+          [
+            0.417,
+            0.475,
+            0.148,
+            0.225
+          ]
+        ]
+      },
+      "layoutUnits": "normalized xywh; quad points clockwise; suggested safe interior, verify placement visually",
+      "sourceArt": "cloud handoff image-improvements/scene-render-73-7.png",
+      "preserveHistoricalIdentity": false
+    },
+    {
+      "questionKey": "74-13",
+      "file": "74-13-scene-v4.png",
+      "width": 1470,
+      "height": 1070,
+      "sha256": "5e76f1e86cd202f080c1ef0092ad444c4c214daf93b22f790919cdc599ba2367",
+      "status": "clean-art-layer-needs-original-dialogue-and-facts",
+      "originalMaterial": "site/question-materials/74-13.webp",
+      "sourceMap": "site/question-materials/source-map.json",
+      "sourcePdf": "74회 한국사_문제지(심화).pdf",
+      "sourcePdfSha256": "7d7322d680119d7b7b89c7465edc1dd8d0f06e8180594aff69b7d34502a44c79",
+      "sourcePdfPage": 4,
+      "sourceImageSize": [
+        1001,
+        1405
+      ],
+      "originalContextForCrossCheck": "<한국사 모둠 활동> (가) 시대 문화유산 기념품 디자인 제작 발표회 — 1모둠: [사진: 청자 모자원숭이모양 연적] 청자 모자원숭이모양 연적으로 석고 방향제 만들기 / 2모둠: [사진: 청자 상감운학문 매병] 청자 상감운학문 매병으로 조명등 만들기 / 3모둠: [사진: 영주 부석사 소조여래좌상] \"우리 모둠은 영주 부석사 소조여래좌상을 소재로 하여 열쇠고리를 제작하고자 합니다.\"",
+      "layout": {
+        "text": [
+          [
+            0.33,
+            0.03,
+            0.63,
+            0.09
+          ]
+        ],
+        "authenticImages": [
+          [
+            0.098,
+            0.35,
+            0.207,
+            0.325
+          ],
+          [
+            0.36,
+            0.35,
+            0.207,
+            0.325
+          ],
+          [
+            0.615,
+            0.6,
+            0.185,
+            0.278
+          ]
+        ]
+      },
+      "layoutUnits": "normalized xywh; quad points clockwise; suggested safe interior, verify placement visually",
+      "sourceArt": "cloud handoff image-improvements/scene-render-74-13.png",
+      "preserveHistoricalIdentity": false
+    },
+    {
+      "questionKey": "74-32",
+      "file": "74-32-scene-v4.png",
+      "width": 1433,
+      "height": 1098,
+      "sha256": "7df5d57f3ec57ae9b3d8e86d9936f5a3a173b611347070c2ce2ad8ff795803f5",
+      "status": "clean-art-layer-needs-original-dialogue-and-facts",
+      "originalMaterial": "site/question-materials/74-32.webp",
+      "sourceMap": "site/question-materials/source-map.json",
+      "sourcePdf": "74회 한국사_문제지(심화).pdf",
+      "sourcePdfSha256": "7d7322d680119d7b7b89c7465edc1dd8d0f06e8180594aff69b7d34502a44c79",
+      "sourcePdfPage": 8,
+      "sourceImageSize": [
+        1001,
+        766
+      ],
+      "originalContextForCrossCheck": "\"몇 달 전 한성에서 시위대 부대원들과 일본군 사이에 시가전이 있었습니다. 애비슨 선생님께서는 이때 다친 부대원들을 치료해 주셨는데요, 기억에 남는 일이 있다면 말씀해 주세요.\" / \"군대 해산 명령에 맞서 시위대 대대장 박승환이 자결한 후 전개된 시가전에서 부상 입은 부대원들이 실려 왔습니다. 여자 간호사들은 그동안 남자 환자들의 치료를 꺼리던 관습과 달리 헌신적으로 치료에 나섰습니다. 오래된 관습이 한순간에 깨지는 놀라운 순간이었습니다.\"",
+      "layout": {
+        "text": [
+          [
+            0.035,
+            0.03,
+            0.43,
+            0.18
+          ],
+          [
+            0.53,
+            0.03,
+            0.43,
+            0.18
+          ]
+        ]
+      },
+      "layoutUnits": "normalized xywh; quad points clockwise; suggested safe interior, verify placement visually",
+      "sourceArt": "cloud handoff image-improvements/scene-render-74-32.png",
+      "preserveHistoricalIdentity": true
+    },
+    {
+      "questionKey": "75-41",
+      "file": "75-41-scene-v4.png",
+      "width": 1287,
+      "height": 1222,
+      "sha256": "4ed326b614b820130db2f971200f052e4e0cf25a9b48306129f75f991f894414",
+      "status": "clean-art-layer-needs-original-dialogue-and-facts",
+      "originalMaterial": "site/question-materials/75-41.webp",
+      "sourceMap": "site/question-materials/source-map.json",
+      "sourcePdf": "제75회 심화 문제지.pdf",
+      "sourcePdfSha256": "2af5466f3be54d75eb65098f042f5f9c56de01fd213a71dfbe460ea222cc137e",
+      "sourcePdfPage": 10,
+      "sourceImageSize": [
+        1001,
+        594
+      ],
+      "originalContextForCrossCheck": "\"자네 (가)에서 발행한 잡지 '한글' 이번 호 보았는가? '한글 맞춤법 통일안' 개정 신판이 발매되었다는 소식이 실렸더군.\" / \"읽었네. 최근 훈민정음 해례본의 발견으로 한글 창제일이 명확해졌다는군. 이제 (가)에서는 한글날을 창제일에 맞춰 10월 9일로 시정한다고 하네.\"",
+      "layout": {
+        "text": [
+          [
+            0.035,
+            0.027,
+            0.42,
+            0.145
+          ],
+          [
+            0.54,
+            0.027,
+            0.42,
+            0.145
+          ]
+        ]
+      },
+      "layoutUnits": "normalized xywh; quad points clockwise; suggested safe interior, verify placement visually",
+      "sourceArt": "cloud handoff image-improvements/scene-render-75-41.png",
+      "preserveHistoricalIdentity": false
+    }
+  ]
+}
