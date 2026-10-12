@@ -199,6 +199,20 @@ body{font-size:16px;line-height:1.8}.ctx{font-family:var(--body);font-size:17px;
 </style>
 <style>.ref-lesson{margin:12px 0}.ref-lesson h3{font-size:20px;margin:0}.ref-lesson .ref-summary{font-size:16px;line-height:1.8}.ref-lesson .ref-points{padding-left:22px}.ref-lesson .ref-points li{margin:6px 0}.ref-lesson table.cmp{width:100%}.ref-lesson .ref-source{font-size:13px;color:var(--muted)}.ref-recall{padding:12px;border-radius:8px;background:var(--accent-soft);margin-top:12px}.ref-terms{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}.ref-term{border-radius:999px;background:var(--bg);padding:2px 10px;font-size:13px}.ref-filters{margin-bottom:12px}.ref-filters input{flex:1;min-width:180px}.ref-lesson .ref-title{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}.ref-lesson .ref-title h3{flex:1;min-width:220px}@media(max-width:600px){.ref-lesson table.cmp{font-size:14px}.ref-lesson table.cmp th,.ref-lesson table.cmp td{padding:6px 7px}.ref-filters>*{max-width:100%}}</style>
 <style>.tb-chapter{font-size:16px;line-height:1.85}.tb-title{font-size:22px;margin:4px 0 8px}.tb-lead{background:var(--bg);border-radius:10px;padding:12px 14px}.tb-sec h4{font-size:18px;margin:26px 0 8px}.tb-sec p{margin:0 0 12px}.tb-traps ul{padding-left:20px}.tb-traps li{margin:6px 0}.tb-check{border:1px solid var(--line,#ddd);border-radius:10px;padding:10px 12px;margin:8px 0}.tb-check summary{cursor:pointer;font-weight:600}.tb-check p{margin:8px 0 0}.tb-actions{margin-top:20px}.tb-card{display:flex;gap:14px;align-items:center;text-align:left;width:100%;cursor:pointer;font:inherit;color:inherit}.tb-no{flex:none;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:var(--accent);color:#fff;font-weight:700}.tb-chapter table.cmp{font-size:14px;width:100%}</style>
+<style>
+/* PC: 왼쪽 문제·자료, 오른쪽 선택지·해설 */
+@media (min-width:1000px){
+body[data-view=run] .wrap,body[data-view=result] .wrap{max-width:1480px}
+body[data-view=run] .hd,body[data-view=result] .hd{max-width:1480px}
+body[data-view=run] .omr{grid-template-columns:repeat(25,minmax(0,1fr))}
+.q{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(360px,1fr);gap:28px;align-items:start}
+.q-left,.q-right{min-width:0}
+.q-right{position:sticky;top:calc(env(safe-area-inset-top,0px) + 132px);max-height:calc(100vh - 148px);overflow-y:auto;overscroll-behavior:contain;padding-right:4px}
+.q-left .qfig img{max-height:calc(100vh - 260px)}
+.q-right .exp{margin-top:12px}
+.q-right .nav2{margin-top:12px}
+}
+</style>
 <style>.kbd-hint{text-align:center;margin-top:8px}@media (pointer:coarse){.kbd-hint{display:none}}</style>
 <style>.memory-filter input[type=checkbox]{flex:none;min-width:0}.memory-filter label{display:inline-flex;align-items:center;gap:8px}.memory-source a{color:var(--accent)}.memory-card h3{overflow-wrap:anywhere}</style>
 <style>
@@ -246,7 +260,7 @@ document.addEventListener("keydown",e=>{
 });
 function render(){
   document.querySelectorAll("#nav button").forEach(b=>b.setAttribute("aria-current",b.dataset.v===view||(view==="run"&&b.dataset.v===ctx.from)));
-  const app=document.getElementById("app");
+  const app=document.getElementById("app");document.body.dataset.view=view;
   app.innerHTML=({home:vHome,exam:vExam,era:vEra,pick:vPick,wrong:vWrong,study:vStudy,stats:vStats,search:vSearch,memory:vMemory,backup:vBackup,run:vRun,result:vResult})[view]();
   if(view==="run")bindRun();
   afterRender();
@@ -321,12 +335,12 @@ function qHTML(q,chosen,reveal){
   const ch=q.ch.map((c,i)=>{const n=i+1;let cls="";if(reveal){if(n===q.a)cls="ok";else if(n===chosen)cls="bad"}else if(n===chosen)cls="sel";
     return `<li><button class="choice ${cls}" data-c="${n}" aria-label="보기 ${n}. ${esc(c)}" aria-pressed="${n===chosen}" ${reveal?"disabled":""}><span class="n">${N[i]}</span><span>${esc(c)}</span></button></li>`}).join("");
   const ok=chosen===q.a;
-  return `<article class="q"><div class="qhead"><span class="qno">${q.n}.</span><span class="chip">${q.era}</span><span class="chip gold">${q.topic}</span><span class="hint">제${q.r}회 · ${q.p}점</span></div>
+  return `<article class="q"><div class="q-left"><div class="qhead"><span class="qno">${q.n}.</span><span class="chip">${q.era}</span><span class="chip gold">${q.topic}</span><span class="hint">제${q.r}회 · ${q.p}점</span></div>
   <p class="qtitle">${esc(q.q)}</p>
   ${original?questionFigure(q):img?questionImage(q,img):FIG[key(q)]?questionFigure(q):""}
   ${original||!img&&FIG[key(q)]?`<details class="ctxd"><summary>자료를 글로 읽기</summary><div class="ctx">${esc(q.ctx)}</div></details>`:`<div class="ctx">${esc(q.ctx)}</div>`}
-  <ul class="choices">${ch}</ul>
-  ${reveal?`<div class="exp ${ok?"":"wrong"}"><b>${chosen==null?"미응답":ok?"정답입니다":"오답"} · 정답 ${N[q.a-1]}</b><p style="margin:6px 0 0">${linkTerms(esc(q.exp))}</p>${refChips(q)}</div>`:""}</article>`;
+  </div><div class="q-right"><ul class="choices">${ch}</ul>
+  ${reveal?`<div class="exp ${ok?"":"wrong"}"><b>${chosen==null?"미응답":ok?"정답입니다":"오답"} · 정답 ${N[q.a-1]}</b><p style="margin:6px 0 0">${linkTerms(esc(q.exp))}</p>${refChips(q)}</div>`:""}<!--qnav--><!--qextra--></div></article>`;
 }
 function vRun(){
   const c=ctx,q=c.list[c.i],exam=c.mode==="exam";
@@ -337,9 +351,8 @@ function vRun(){
    <div class="row">${exam?`<span class="timer" id="timer"></span><button class="btn pri" id="submit">답안 제출</button>`:`<button class="btn ghost" id="quit">그만 풀기</button>`}</div></div>
    ${c.confirm?`<div class="confirm"><span>${c.list.length-answered}문항을 비운 채 제출할까요?</span><button class="btn pri" id="submit2">제출하고 채점</button><button class="btn" id="cancel">계속 풀기</button></div>`:""}
    <div class="omr">${omr}</div>
-   ${qHTML(q,c.ans[c.i],reveal)}
-   <div class="nav2"><button class="btn" id="prev" ${c.i?"":"disabled"}>이전</button><span class="hint">${c.i+1} / ${c.list.length}</span><button class="btn ${reveal||exam?"pri":""}" id="next">${c.i===c.list.length-1?(exam?"제출 확인":"결과 보기"):"다음"}</button></div>
-   <p class="hint kbd-hint">키보드: 1~5 보기 선택 · ← → 이전/다음 문항</p>`;
+   ${qHTML(q,c.ans[c.i],reveal).replace("<!--qnav-->",`<div class="nav2"><button class="btn" id="prev" ${c.i?"":"disabled"}>이전</button><span class="hint">${c.i+1} / ${c.list.length}</span><button class="btn ${reveal||exam?"pri":""}" id="next">${c.i===c.list.length-1?(exam?"제출 확인":"결과 보기"):"다음"}</button></div>
+   <p class="hint kbd-hint">키보드: 1~5 보기 선택 · ← → 이전/다음 문항</p>`)}`;
 }
 function bindRun(){
   const c=ctx,exam=c.mode==="exam",app=document.getElementById("app");
@@ -1332,9 +1345,9 @@ function vMemory(){const needle=memoryQuery.trim().replace(/\s/g,'');const list=
 function approach(q){let ask='자료에서 인물·사건·제도의 이름을 찾고, 그 대상에 맞는 보기를 고르세요.';if(/옳지|적절하지|없는 것은/.test(q.q))ask='맞는 보기를 지워 가며, 마지막에 틀리거나 해당하지 않는 보기 하나를 고르세요.';else if(/사이|순서|시기|이후|이전/.test(q.q))ask='먼저 자료의 사건이나 인물을 특정한 뒤, 기준 사건의 앞·뒤를 표시하세요. 두 사건 사이라면 양 끝 연도부터 잡으세요.';else if(/인물/.test(q.q))ask='저술·활동·단체 중 두 가지 단서로 인물을 특정한 뒤, 같은 사람의 활동인지 보기를 비교하세요.';else if(/나라|국가|시대/.test(q.q))ask='유물·풍습·제도의 이름으로 나라나 시대를 찾으세요. 비슷한 말보다 결정적인 고유명사에 집중하세요.';return `<details class="coach" data-help="${key(q)}"><summary>어디서부터 풀지? 접근 힌트</summary><ol><li><b>질문 확인</b>: ${esc(ask)}</li><li><b>자료 읽기</b>: 고유명사·지역·제도·연도를 두 개 찾아 연결해 보세요.</li><li><b>보기 비교</b>: 대상이 같은지, 시대가 맞는지 각각 확인하세요.</li></ol><p class="hint">힌트를 열고 맞히면 ‘도움받아 정답’으로 기록됩니다.</p></details>`}
 function learningHTML(q){const x=learning(q);return `<section class="learning-tools"><h3>내가 막힌 지점</h3><div class="row">${REASONS.map(r=>`<button class="btn" data-reason="${key(q)}" data-value="${r}" aria-pressed="${x.reason===r}">${r}</button>`).join('')}</div>${x.reason?`<p class="hint">${x.reason==='시대·순서 혼동'?'아래 연표에서 기준 사건의 앞뒤를 비교해 보세요.':x.reason==='용어를 모름'?'해설의 밑줄 용어를 눌러 뜻을 확인해 보세요.':x.reason==='인물·단체 혼동'?'비교표와 암기팁에서 서로 다른 점을 한 줄로 적어 보세요.':'자료의 결정적인 단서와 오답 보기가 틀린 이유를 적어 보세요.'}</p>`:''}<label>내 말로 한 줄 정리<textarea data-note="${key(q)}" placeholder="내가 놓친 단서 / 헷갈린 두 대상의 차이">${esc(x.note||'')}</textarea></label><span class="hint" role="status" data-note-status>이 브라우저에 자동 저장됩니다.</span></section>`}
 const originalQHTML=qHTML;
-qHTML=function(q,chosen,reveal){let html=originalQHTML(q,chosen,reveal);html=html.replace('<p class="qtitle">'+esc(q.q)+'</p>','<p class="qtitle">'+esc(q.q).replace(/옳지 않은|적절하지 않은|없는 것은/g,x=>'<mark>'+x+'</mark>')+'</p>');const run=view==='run',exam=run&&ctx.mode==='exam';if(run&&!exam&&!reveal)html+=approach(q)+`<button class="btn" data-peek="${key(q)}">아직 모르겠어요 · 해설 먼저 읽기</button>`;
- if(reveal){if(run&&!exam)html+=`<span class="assist-label">${chosen==null?'해설 학습 중 · 답안 기록 없음':S.log[key(q)]?.assisted?'도움받아 푼 문제':chosen===q.a?'혼자 맞힌 문제':'직접 풀고 확인한 문제'}</span>`;const tips=TIPS.filter(t=>tipMatches(t,q));if(tips.length)html+=`<details class="tip-links"><summary>이 문제에 연결된 암기팁 ${tips.length}개</summary><div class="memory-grid">${tips.map(t=>memoryCard(t,true)).join('')}</div></details>`;html+=learningHTML(q);if(run&&!exam)html+=`<button class="btn" data-retry="${key(q)}">해설 닫고 다시 풀기</button>`;}
-return html};
+qHTML=function(q,chosen,reveal){let html=originalQHTML(q,chosen,reveal),extra='';html=html.replace('<p class="qtitle">'+esc(q.q)+'</p>','<p class="qtitle">'+esc(q.q).replace(/옳지 않은|적절하지 않은|없는 것은/g,x=>'<mark>'+x+'</mark>')+'</p>');const run=view==='run',exam=run&&ctx.mode==='exam';if(run&&!exam&&!reveal)extra+=approach(q)+`<button class="btn" data-peek="${key(q)}">아직 모르겠어요 · 해설 먼저 읽기</button>`;
+ if(reveal){if(run&&!exam)extra+=`<span class="assist-label">${chosen==null?'해설 학습 중 · 답안 기록 없음':S.log[key(q)]?.assisted?'도움받아 푼 문제':chosen===q.a?'혼자 맞힌 문제':'직접 풀고 확인한 문제'}</span>`;const tips=TIPS.filter(t=>tipMatches(t,q));if(tips.length)extra+=`<details class="tip-links"><summary>이 문제에 연결된 암기팁 ${tips.length}개</summary><div class="memory-grid">${tips.map(t=>memoryCard(t,true)).join('')}</div></details>`;extra+=learningHTML(q);if(run&&!exam)extra+=`<button class="btn" data-retry="${key(q)}">해설 닫고 다시 풀기</button>`;}
+return html.replace('<!--qextra-->',extra)};
 function vBackup(){return `<h2>학습 기록 백업</h2><p class="sub">기기나 브라우저를 바꾸기 전에 기록 파일을 내려받으세요. 사이트 파일에는 개인 기록이 들어 있지 않습니다.</p><section class="panel"><button class="btn pri" id="exportHistory">기록 파일 내려받기</button><label style="display:block;margin-top:20px">백업 가져오기 <input id="importHistory" type="file" accept="application/json,.json"></label><p class="hint">기존 기록과 합칩니다. 같은 문항의 풀이 기록은 더 최근 기록을 사용하고, 메모·암기팁 복습 표시는 가져온 파일을 적용합니다.</p><p id="importStatus" role="status"></p></section>`}
 function downloadHistory(){const blob=new Blob([JSON.stringify({format:'han-study-backup',version:1,exportedAt:new Date().toISOString(),state:S},null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='한능검-학습기록-'+new Date().toISOString().slice(0,10)+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
 function mergeBackup(raw){if(raw?.format!=='han-study-backup'||raw.version!==1||!raw.state||typeof raw.state!=='object')throw Error('이 사이트의 기록 파일이 아닙니다.');const b=raw.state;const next=JSON.parse(JSON.stringify(S));next.log??={};next.exams??={};next.mastered??={};next.learning??={};next.tipReview??={};next.tb??={};if(b.tb&&typeof b.tb==='object')for(const c of TEXTBOOK)if(typeof b.tb[c.id]==='boolean')next.tb[c.id]=b.tb[c.id];
