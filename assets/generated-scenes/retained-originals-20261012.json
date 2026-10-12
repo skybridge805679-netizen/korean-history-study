@@ -1,0 +1,1195 @@
+{
+  "scope": "99 existing scene originals recovered, not 99 newly generated or all visually approved. This is the baseline for further work; never treat broken overlay SVG as the original artwork.",
+  "handoffBranch": "pc-handoff-20261012",
+  "handoffZipSha256": "e09e1ec537644a3c5a5c4c17eb731683d9308c5ca7881e6c31e81182d3224aa4",
+  "scenes": [
+    {
+      "key": "70-11",
+      "originalFileInHandoff": "generated_images/exec-77d5a33f-489a-4f56-9faa-6ca0d2df47df.png",
+      "selectedFile": "70-11.png",
+      "sha256": "b9a2e1de2c66534419df216b6fee08598ede7d00925a94b15a5e7c2013895c99",
+      "size": [
+        1397,
+        1126
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "70-13",
+      "originalFileInHandoff": "generated_images/exec-00acb64d-1e28-425d-ba08-9ffbb726cdd0.png",
+      "selectedFile": "70-13.png",
+      "sha256": "f7e68da95906e8c45a705753bd9ccdafefda0f3414510392605d2d6fa6a50ef3",
+      "size": [
+        1356,
+        1160
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "70-19",
+      "originalFileInHandoff": "generated_images/exec-f4f8cfe5-0849-4b7b-aaa9-f63477ee444a.png",
+      "selectedFile": "70-19.png",
+      "sha256": "7d1fde72b864ad8f8a2a7fcf0928647efed116ed4c01b17ad2ffa0bf791b4a7b",
+      "size": [
+        1561,
+        1008
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "70-27",
+      "originalFileInHandoff": "generated_images/exec-80d15b1a-a7cc-4de8-9bc4-cec841b1cafc.png",
+      "selectedFile": "70-27.png",
+      "sha256": "a6519c01d9a95e6911d0f194a5ebe56ebffa4d6826d63af89b6df5034863ba01",
+      "size": [
+        1431,
+        1099
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "70-36",
+      "originalFileInHandoff": "generated_images/exec-1e151b4e-6fc8-4c98-9f1b-1c94b0c8f003.png",
+      "selectedFile": "70-36.png",
+      "sha256": "2a704b6395085b372e2a902bccd0683c2d37764f84d535b82672cb041506f3e7",
+      "size": [
+        1356,
+        1160
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "70-38",
+      "originalFileInHandoff": "generated_images/exec-51a1f32a-0a8a-4192-b276-c21367c64202.png",
+      "selectedFile": "70-38.png",
+      "sha256": "7e5947e12eeece59e75324ff698e53ffea57aad15dedd1007c39d42ecb95c705",
+      "size": [
+        1402,
+        1122
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "70-39",
+      "originalFileInHandoff": "generated_images/exec-37f687b7-4cf8-416d-b745-ccc803d99637.png",
+      "selectedFile": "70-39.png",
+      "sha256": "91aedcf6a905930b334973c47f619c0066c1b6e69d2df1b9cc7ab0b36f32a694",
+      "size": [
+        1269,
+        1239
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "70-44",
+      "originalFileInHandoff": "generated_images/exec-4bb8b36c-2d5e-4ddd-853c-62e6dcc7447c.png",
+      "selectedFile": "70-44.png",
+      "sha256": "644cfd538ab991db2cef9c73938241a3b642ac367b7f104984b9b5ca5bd14014",
+      "size": [
+        1645,
+        956
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "70-50",
+      "originalFileInHandoff": "generated_images/exec-8ab3889c-ab06-46c5-a778-570acd01345c.png",
+      "selectedFile": "70-50.png",
+      "sha256": "b8d14c2adabde8357fee929e4d32b5926381a7de9ea37b5a93284b90a9c4a977",
+      "size": [
+        1194,
+        1317
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-1",
+      "originalFileInHandoff": "generated_images/exec-3fcc5b5d-6a2e-4e1d-bc67-be525a586cfc.png",
+      "selectedFile": "71-1.png",
+      "sha256": "93797295e6b6586ef163f2af5e95a9178700f85ad948002507a017a880311ce8",
+      "size": [
+        1271,
+        1237
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "user-confirmed-retain"
+    },
+    {
+      "key": "71-5",
+      "originalFileInHandoff": "generated_images/exec-2a72b193-382c-48cd-94e1-6af75c3e2d63.png",
+      "selectedFile": "71-5.png",
+      "sha256": "c2ef933920f93f208ab7c27372fdb41a73118933e5da2871f1d4444b4c11e2a3",
+      "size": [
+        1424,
+        1104
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-6",
+      "originalFileInHandoff": "generated_images/exec-eb4ba366-f8d9-4a42-8681-7835d5a0a87a.png",
+      "selectedFile": "71-6.png",
+      "sha256": "3151309209ae99af54d08c477dbbf8e57ab42bf65ff9fb3d997a5bcfb3a0f467",
+      "size": [
+        1447,
+        1087
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-13",
+      "originalFileInHandoff": "generated_images/exec-17852d03-0268-4c53-a4a1-1c133d9fd922.png",
+      "selectedFile": "71-13.png",
+      "sha256": "e9165800ffeffc51c76f09559345ff3a3689f06bbc07119e76befd6afb2fe6c3",
+      "size": [
+        1566,
+        1005
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-17",
+      "originalFileInHandoff": "generated_images/exec-b620f4ba-3c7a-49ad-80b0-f259766ae645.png",
+      "selectedFile": "71-17.png",
+      "sha256": "38426f95988847f8a1e2d092c17b459d363c1d093446ca5be5d9b38015575c8d",
+      "size": [
+        1651,
+        953
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-18",
+      "originalFileInHandoff": "generated_images/exec-0298120f-744c-41a5-b778-bd0de6c97e6c.png",
+      "selectedFile": "71-18.png",
+      "sha256": "6bff4ab2363e59bd03dea1369612c2aebb54e386f39ae676f5472e4855686318",
+      "size": [
+        1164,
+        1351
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-21",
+      "originalFileInHandoff": "generated_images/exec-e69548df-b6d1-4a18-979d-c993d44dac6a.png",
+      "selectedFile": "71-21.png",
+      "sha256": "d17b6cca38f848b6acca9476cfeb8e1aa0aa3248984d96c60bc66f85c6bfb053",
+      "size": [
+        1503,
+        1047
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-24",
+      "originalFileInHandoff": "generated_images/exec-bc0372fa-88d4-46fc-8240-a9f2f43bd586.png",
+      "selectedFile": "71-24.png",
+      "sha256": "fd5f70ac3036d67a4494fa66a74cbac290203bd7951d13150688864cff62fc47",
+      "size": [
+        1320,
+        1192
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-25",
+      "originalFileInHandoff": "generated_images/exec-db21c34f-f24b-4ed3-bd4d-b8a1aaa10759.png",
+      "selectedFile": "71-25.png",
+      "sha256": "955f5ca1a0a6eddc8f18eef50b21a4f4d0bad97fa4166305987589baf5eb6e00",
+      "size": [
+        1466,
+        1073
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-26",
+      "originalFileInHandoff": "generated_images/exec-a2ce7cc9-60f6-48c9-8692-9313b335b955.png",
+      "selectedFile": "71-26.png",
+      "sha256": "fea59e88edabc1bdf57669f17464701b3a7d26baa05697e89b5118309582c55d",
+      "size": [
+        1507,
+        1044
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-27",
+      "originalFileInHandoff": "generated_images/exec-89cb6200-b16e-4f96-abc8-e0e914dea865.png",
+      "selectedFile": "71-27.png",
+      "sha256": "37c23485f5717bbdbab5bd3e92886d33fc67a022b7b44e1199789e1c5f7c2e9e",
+      "size": [
+        1452,
+        1083
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-31",
+      "originalFileInHandoff": "generated_images/exec-87da73f6-a801-4ec8-850e-d07c41366ba7.png",
+      "selectedFile": "71-31.png",
+      "sha256": "e33f36048fc1951beaf8b29eede03096423f9a21497e65cb4de28bef411dea88",
+      "size": [
+        1570,
+        1001
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-32",
+      "originalFileInHandoff": "generated_images/exec-291f3f85-319e-4cd6-a8a4-02e49261e521.png",
+      "selectedFile": "71-32.png",
+      "sha256": "aa60dc77b893e6b2deeef2105a63f246f49ad6a3b253229676cb07e2a46b90b2",
+      "size": [
+        1507,
+        1044
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "71-46",
+      "originalFileInHandoff": "generated_images/exec-e68f7664-c793-45ed-9356-6d9316835a3a.png",
+      "selectedFile": "71-46.png",
+      "sha256": "9a5e8da8782a0f96ca03ebb7ec6d943c19e08707d7007e1797d3b052bf7060f2",
+      "size": [
+        1544,
+        1018
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-17",
+      "originalFileInHandoff": "generated_images/exec-56c6db1d-b829-46e4-8cee-e8c7e1750521.png",
+      "selectedFile": "72-17.png",
+      "sha256": "b16fbe4799fa1d97fc38ee968fb5ae7a34a1b4e8b0c39d682ae4ab8f7483e0d7",
+      "size": [
+        1302,
+        1208
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-18",
+      "originalFileInHandoff": "generated_images/exec-9b7e625c-6b4c-4f8d-92dd-860c532df833.png",
+      "selectedFile": "72-18.png",
+      "sha256": "6c9c21bc4286fc2b2c18d92f55d17d65f2f4358f3680f6cb468fd17ac67c8b75",
+      "size": [
+        1648,
+        954
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-26",
+      "originalFileInHandoff": "generated_images/exec-b9192649-a579-4c5b-8599-a4a2e5efae41.png",
+      "selectedFile": "72-26.png",
+      "sha256": "d846cc4d9c3a4577aef91acbb95caeeb796aa559be817a430fe7fbd1f58ae6fb",
+      "size": [
+        1247,
+        1261
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-28",
+      "originalFileInHandoff": "generated_images/exec-ba84aa01-b313-4322-9ae2-9489cca56c25.png",
+      "selectedFile": "72-28.png",
+      "sha256": "e141d057c50d4989044d703cb8a8865bf3d63f28af8f3694cb03cdbf6783d854",
+      "size": [
+        1469,
+        1071
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-32",
+      "originalFileInHandoff": "generated_images/exec-e8f57272-af2c-469a-acbd-61ae0b1d9c52.png",
+      "selectedFile": "72-32.png",
+      "sha256": "d8351a6f3576662c988b052821051cc77080e4e02ce19d4c385c7584b2339fd3",
+      "size": [
+        1722,
+        913
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-34",
+      "originalFileInHandoff": "generated_images/exec-b5549fe9-8739-4b69-af2a-1c48dd797631.png",
+      "selectedFile": "72-34.png",
+      "sha256": "b6213ac03e6c2d96621891ad8240e597d6a577ff200dbc31651ec443e02733f5",
+      "size": [
+        1551,
+        1014
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-41",
+      "originalFileInHandoff": "generated_images/exec-d2a5b0fc-87fc-4f42-83d0-9f4bd2018806.png",
+      "selectedFile": "72-41.png",
+      "sha256": "603c0944a424074dfd20acfe5930d980c1e067e56fbdbc4d7ec8073343a2f79c",
+      "size": [
+        1335,
+        1178
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-43",
+      "originalFileInHandoff": "generated_images/exec-51d9eeab-11cb-456d-b079-a7e7fab816aa.png",
+      "selectedFile": "72-43.png",
+      "sha256": "2c2e39433443e086f6462a14918706af8489c336bb4716bfd0cdcba6201bab28",
+      "size": [
+        1426,
+        1103
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-44",
+      "originalFileInHandoff": "generated_images/exec-a10c07a2-70f1-46de-ad6a-729c713cdd8d.png",
+      "selectedFile": "72-44.png",
+      "sha256": "8ac886a06c515256adb1931bcf0618c1160a5f9d3928351484f5f06386c0bce0",
+      "size": [
+        1470,
+        1070
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-46",
+      "originalFileInHandoff": "generated_images/exec-015056cf-2e04-493c-a53e-d0487d23e21a.png",
+      "selectedFile": "72-46.png",
+      "sha256": "cd3517151a812577b107d22847d42d054e7b190ec0a32744fb730953ed243833",
+      "size": [
+        1329,
+        1183
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "72-49",
+      "originalFileInHandoff": "generated_images/exec-348d9fc1-9238-4bda-b05d-d3ad3637fc2b.png",
+      "selectedFile": "72-49.png",
+      "sha256": "0031919a29650a7f4ee183b4d333a70b9d253fc57e5d596c679194b1d1161aad",
+      "size": [
+        1382,
+        1138
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "73-7",
+      "originalFileInHandoff": "generated_images/exec-f792b6e0-e0b7-4dfa-961f-ce4744253a94.png",
+      "selectedFile": "73-7.png",
+      "sha256": "3520ef33f71258ecd353a03d89e01a7cd6b92f401a2553d455aaf976f120657b",
+      "size": [
+        1337,
+        1176
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "73-10",
+      "originalFileInHandoff": "generated_images/exec-115425da-e1a9-4298-bc8b-156e867122df.png",
+      "selectedFile": "73-10.png",
+      "sha256": "2e7270f1b19bb2f0a4167dbd6d97bc7747f71c7d60f2e417b15ab55d825870dc",
+      "size": [
+        1271,
+        1237
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "73-17",
+      "originalFileInHandoff": "generated_images/exec-b1861489-ebba-4050-b466-f2aeb4bbe87e.png",
+      "selectedFile": "73-17.png",
+      "sha256": "1c530a86da69a816c8cc55699269ca2d38546dbec116f9df840a18401e5af6c5",
+      "size": [
+        1575,
+        999
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "73-34",
+      "originalFileInHandoff": "generated_images/exec-55b1fa27-75b3-4617-b484-496f690ac6ba.png",
+      "selectedFile": "73-34.png",
+      "sha256": "6ef936bd179194738507111d179d895eab744ecc8b0dc06f6dcced5d4e6dd97d",
+      "size": [
+        1310,
+        1200
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "73-35",
+      "originalFileInHandoff": "generated_images/exec-7567e8fe-822d-4e06-9162-9f749b3c126a.png",
+      "selectedFile": "73-35.png",
+      "sha256": "69fb6a4d626fb796e5d2734e15886d2a89e703a6c555a146eab60e47d6a59d3d",
+      "size": [
+        1681,
+        936
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "73-39",
+      "originalFileInHandoff": "generated_images/exec-7642e1b8-0c63-41d3-b195-ed5fc4de7598.png",
+      "selectedFile": "73-39.png",
+      "sha256": "9468968901f682203888e7dc7ec672f66cb3cedc91b1eff6ae170f58c7758952",
+      "size": [
+        1325,
+        1187
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "73-44",
+      "originalFileInHandoff": "generated_images/exec-a99746b0-2711-4211-b353-e8eb33618140.png",
+      "selectedFile": "73-44.png",
+      "sha256": "ccb53aad344a4ec5193851db5004d0a3e74cfd95d01bf11683a90dc8e59ba221",
+      "size": [
+        1648,
+        954
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "74-1",
+      "originalFileInHandoff": "generated_images/exec-ab442658-75f6-4fa5-b659-cd8986fa85c7.png",
+      "selectedFile": "74-1.png",
+      "sha256": "9985c6e692ea25db53e20d069b0a06a3edcdb216015eaf12dc93159ecdcb7097",
+      "size": [
+        1387,
+        1134
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "74-2",
+      "originalFileInHandoff": "generated_images/exec-c76bc38a-0a27-48ae-ba2e-45e3602d7317.png",
+      "selectedFile": "74-2.png",
+      "sha256": "91e8fdb0d96475b709d19c4c613e80e1cde8dd104bc33f4843941c1c71d414ef",
+      "size": [
+        1493,
+        1053
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "74-10",
+      "originalFileInHandoff": "generated_images/exec-7f8491a4-b7ac-4f46-be20-4e45c9c028cd.png",
+      "selectedFile": "74-10.png",
+      "sha256": "dc51a7c2695767c7a1037ae7b1b751ad2c4f27f9f074ed32038f0e8689eb6766",
+      "size": [
+        1547,
+        1017
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "74-13",
+      "originalFileInHandoff": "generated_images/exec-f2de8da3-747f-41dc-9a17-2162138b90c1.png",
+      "selectedFile": "74-13.png",
+      "sha256": "b7edd5b4542203b7f241dcf2712918f4d0bc3873821f4b39a8884faa590ea8cb",
+      "size": [
+        1470,
+        1070
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "74-17",
+      "originalFileInHandoff": "generated_images/exec-83a2f000-0b92-42bf-b13f-1571965fc691.png",
+      "selectedFile": "74-17.png",
+      "sha256": "5d9ca644d8bfe2bf6522750e24308fa86947be8df6878e432501edadc0ba4bde",
+      "size": [
+        1805,
+        871
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "74-22",
+      "originalFileInHandoff": "generated_images/exec-3fe57842-a1a5-4762-8da9-ab14ae40bb4c.png",
+      "selectedFile": "74-22.png",
+      "sha256": "21014279e204ac4c43099531afb60721d59e454b47f21fa342777a8a677ae652",
+      "size": [
+        1806,
+        871
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "74-32",
+      "originalFileInHandoff": "generated_images/exec-d816ca83-0a1e-4188-843c-67a313f33f71.png",
+      "selectedFile": "74-32.png",
+      "sha256": "5b5430aaf9788d63ccd7e6181b37dd47f9880843eeaff2ee93c3783ee9a51213",
+      "size": [
+        1434,
+        1097
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "74-43",
+      "originalFileInHandoff": "generated_images/exec-928d7d11-c2a0-4bfa-b89d-e695c8245466.png",
+      "selectedFile": "74-43.png",
+      "sha256": "d39e6558b27d043049428eb7aaa6204f9bb69d54fe259a9706caa63ba8c5d93f",
+      "size": [
+        1354,
+        1162
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "74-44",
+      "originalFileInHandoff": "generated_images/exec-ca1b5330-6733-4f94-bc06-a0a166153322.png",
+      "selectedFile": "74-44.png",
+      "sha256": "8141ce3042510a96f456f8729fc1390d447c30416aa9010c67c194fcd71b0a95",
+      "size": [
+        1357,
+        1159
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "75-4",
+      "originalFileInHandoff": "generated_images/exec-9803dd25-a119-4521-8166-d31a132c4b2a.png",
+      "selectedFile": "75-4.png",
+      "sha256": "58e2c07683b43a266cb78f50aee94e0dde20beb3f970f29b912e5a77e11cef03",
+      "size": [
+        1568,
+        1003
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "75-12",
+      "originalFileInHandoff": "generated_images/exec-dd41f128-3a0e-466d-9b6e-e04be1f5c24a.png",
+      "selectedFile": "75-12.png",
+      "sha256": "329d67213270b8c91c101a95bc5f95b2f329299ad0c7bc71a72dc2da839c5bb2",
+      "size": [
+        1493,
+        1053
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "75-18",
+      "originalFileInHandoff": "generated_images/exec-2c73dc3a-86ca-4bcf-8177-78c5baa3f0e1.png",
+      "selectedFile": "75-18.png",
+      "sha256": "f76ef418e2514c77f43ce691a7dae59170766d8d4a2598d4fdcd6a353cde7e1c",
+      "size": [
+        1451,
+        1084
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "75-20",
+      "originalFileInHandoff": "generated_images/exec-ae2c71cf-d0fa-4a95-8852-8eaa543b5bf9.png",
+      "selectedFile": "75-20.png",
+      "sha256": "16c7110608dbcc51322a6231e6ede67026e9eadf3d4e79dcd38081bfe2b60170",
+      "size": [
+        1330,
+        1182
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "75-25",
+      "originalFileInHandoff": "generated_images/exec-83653418-b070-4247-844d-8d6546326173.png",
+      "selectedFile": "75-25.png",
+      "sha256": "0372bf27fa6bf74ea6b259a7d69b79e9bef72472ab265d3997a1f810b1954f0f",
+      "size": [
+        1293,
+        1216
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "75-39",
+      "originalFileInHandoff": "generated_images/exec-b67bb4fc-45ab-4276-b0d6-65b0b5cee3d4.png",
+      "selectedFile": "75-39.png",
+      "sha256": "d96787843f1c8773e61697fdc069141cbe3689ddf5401f8cbfeaa928d5c926ca",
+      "size": [
+        1639,
+        959
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "75-41",
+      "originalFileInHandoff": "generated_images/exec-7f5f09b5-6dfb-47e3-b0cd-c41b3946cf0a.png",
+      "selectedFile": "75-41.png",
+      "sha256": "4c677f1be675a482e7237ed753738d2df4ef07587ae37d5cb07857132d6e1931",
+      "size": [
+        1287,
+        1222
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "75-42",
+      "originalFileInHandoff": "generated_images/exec-833806c7-074a-4690-a2dd-91f6a7d55969.png",
+      "selectedFile": "75-42.png",
+      "sha256": "61f5dd1226f21873d99e18d41564f3cd20006963bc1e6b258ea5f2762678139f",
+      "size": [
+        1317,
+        1194
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "75-48",
+      "originalFileInHandoff": "generated_images/exec-07546dd9-d24b-44f3-b2ca-09c6f60b9e8f.png",
+      "selectedFile": "75-48.png",
+      "sha256": "15bf5b5a6e26963006783dde86fd4785bdefa0ab2df4dd0a7dbebe9eaf41c039",
+      "size": [
+        1415,
+        1112
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "76-16",
+      "originalFileInHandoff": "generated_images/exec-704b4963-d5ed-426b-befa-58028383d1ad.png",
+      "selectedFile": "76-16.png",
+      "sha256": "3449ad713e3fce11cd699210ae00ae29a849dbe0af2b5867a1d737fa13e51b38",
+      "size": [
+        1591,
+        989
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "76-24",
+      "originalFileInHandoff": "generated_images/exec-19421d36-5532-4506-8690-fb6dea6c8126.png",
+      "selectedFile": "76-24.png",
+      "sha256": "dcf24f3352efc61be87389e18fdd06dbf525cfa3c7b9a2ce036c9dca496d97f3",
+      "size": [
+        1721,
+        914
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "76-26",
+      "originalFileInHandoff": "generated_images/exec-df2985c7-5b0a-4ef5-af34-0ab4ba53c5ad.png",
+      "selectedFile": "76-26.png",
+      "sha256": "c587ef0bd3cb5ec217d88cb1c3caa512c057530aa5b406678ab8642b1daf9011",
+      "size": [
+        1556,
+        1011
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "76-30",
+      "originalFileInHandoff": "generated_images/exec-9b680f39-f0d8-46dd-a98e-112c7f7b9594.png",
+      "selectedFile": "76-30.png",
+      "sha256": "3fa4ccbec481dd159bf49271f73e0099775dc7efa6c3a6efa42feb7fd0d09f0f",
+      "size": [
+        1578,
+        997
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "76-33",
+      "originalFileInHandoff": "generated_images/exec-8b60b82d-8fd5-48aa-9415-feec70675061.png",
+      "selectedFile": "76-33.png",
+      "sha256": "97829df31586cc96d9b21b1db5244fe5dcabe1f6f307143ef86ef6d963435f51",
+      "size": [
+        1468,
+        1071
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "76-37",
+      "originalFileInHandoff": "generated_images/exec-254c751d-65ba-4d98-914c-f1315c31e634.png",
+      "selectedFile": "76-37.png",
+      "sha256": "d6ad064c672f716e8dced501167337283f5f90518840f4687bc7772cb4ad3605",
+      "size": [
+        1347,
+        1167
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "76-45",
+      "originalFileInHandoff": "generated_images/exec-d73026d0-3e33-41e1-a35b-79bb500ff49a.png",
+      "selectedFile": "76-45.png",
+      "sha256": "798fdb3d65a92262c9bcde40413f3f23ced877dfbd66915f10dc027f0cc40de9",
+      "size": [
+        1402,
+        1122
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "76-47",
+      "originalFileInHandoff": "generated_images/exec-cb64e0ac-4360-4a61-b74a-938b865d562e.png",
+      "selectedFile": "76-47.png",
+      "sha256": "b0842f9d8d00eeb65da1d4869c32bea28ca1d7d558784b18a4f7ace0ea7d578e",
+      "size": [
+        1392,
+        1130
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "76-49",
+      "originalFileInHandoff": "generated_images/exec-557e96de-e186-4dd9-9207-14e5b24d71d5.png",
+      "selectedFile": "76-49.png",
+      "sha256": "4e7eefd03c7de08288c11a27b430f6989e13a27161823b974831e5804126c4a5",
+      "size": [
+        1550,
+        1015
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "77-10",
+      "originalFileInHandoff": "generated_images/exec-92ff5c3f-e155-4d04-a90a-a8949d8f3e7f.png",
+      "selectedFile": "77-10.png",
+      "sha256": "6207c3e5e37c5d7ece5a086d7c95a098676eca3ab9a37f60ee78597be496470e",
+      "size": [
+        1577,
+        997
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "77-11",
+      "originalFileInHandoff": "generated_images/exec-bcbe5aeb-f585-456d-a4c8-4e635b7213f2.png",
+      "selectedFile": "77-11.png",
+      "sha256": "20e948b93652de3498d038731bdcda226ad6e877860092c1893ece3bd604fda1",
+      "size": [
+        1371,
+        1148
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "77-13",
+      "originalFileInHandoff": "generated_images/exec-27e20f29-c609-4428-9eab-27d1fbc3720a.png",
+      "selectedFile": "77-13.png",
+      "sha256": "5252b5f0f44d794371389cb9578dfc0c48e8c9266e09a3d42c915501e3126721",
+      "size": [
+        1502,
+        1047
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "77-21",
+      "originalFileInHandoff": "generated_images/exec-d8ddde55-5779-4d82-aafe-7518d9f8b69d.png",
+      "selectedFile": "77-21.png",
+      "sha256": "b1a1be9a953c8909fc67b1f11e783983239d8ab0c9ae3e159fb0c280cb64d4df",
+      "size": [
+        1407,
+        1118
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "77-24",
+      "originalFileInHandoff": "generated_images/exec-8934b0b1-e669-4333-894a-b0142a4b203e.png",
+      "selectedFile": "77-24.png",
+      "sha256": "1ab05528019e8954d04fdd1075e645bcb848635c7f9395a579b3e1bdb1a24b95",
+      "size": [
+        1399,
+        1124
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "77-35",
+      "originalFileInHandoff": "generated_images/exec-32d5c639-340f-4f7e-b91c-3549d00aa76b.png",
+      "selectedFile": "77-35.png",
+      "sha256": "c1343328cefc85d07564290dc874ea128cfe72f845b951a725535f8353e9438b",
+      "size": [
+        1387,
+        1134
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "77-36",
+      "originalFileInHandoff": "generated_images/exec-e74e06ae-2234-4e3e-bb17-05481ff4b05a.png",
+      "selectedFile": "77-36.png",
+      "sha256": "556636c78f14c03cd92f956188e9d021ef4bb978470ee94276973876b2e22d58",
+      "size": [
+        1287,
+        1222
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-1",
+      "originalFileInHandoff": "generated_images/exec-533800dc-2335-494a-999e-28758e804264.png",
+      "selectedFile": "78-1.png",
+      "sha256": "63aeaa34b72fd7b8dd9d44a3b8fb9cd4a4c27c11e0fc6edebbeb23287a76ceea",
+      "size": [
+        1317,
+        1194
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-2",
+      "originalFileInHandoff": "generated_images/exec-6c00fbb6-be60-44f5-a8d0-692d756454cf.png",
+      "selectedFile": "78-2.png",
+      "sha256": "f3f8fc20d80d1571de482a3c20792302fa4487a1d3b1ad72ffd8998a94653f32",
+      "size": [
+        1403,
+        1121
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-4",
+      "originalFileInHandoff": "generated_images/exec-507c9042-40ba-4018-8582-40f82fd59578.png",
+      "selectedFile": "78-4.png",
+      "sha256": "3f6a964a5cf1795783fbc3dbeca89a577323f464bf496bef55686600bbd2f494",
+      "size": [
+        1618,
+        972
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-8",
+      "originalFileInHandoff": "generated_images/exec-3ce466dd-b8b1-4333-8b39-73aa6d625550.png",
+      "selectedFile": "78-8.png",
+      "sha256": "11b05f26555b6e08e719feb868d16e1788c501a5473ccdb2be72e925a7c0d13b",
+      "size": [
+        1667,
+        943
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-9",
+      "originalFileInHandoff": "generated_images/exec-0e392ef9-52cf-4e79-baba-d9545d345abe.png",
+      "selectedFile": "78-9.png",
+      "sha256": "bf0c1f0c2e22f335bd0e27c03775bed8e64f66925ea8e134ab22962efd0076a3",
+      "size": [
+        1364,
+        1153
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-14",
+      "originalFileInHandoff": "generated_images/exec-7576beb2-fd59-4178-8379-53e8202b8474.png",
+      "selectedFile": "78-14.png",
+      "sha256": "36a4811fcd406ff9207e52fc606c7ace66cbf8d3989ec81b0b8b3549d73a8400",
+      "size": [
+        1436,
+        1095
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-15",
+      "originalFileInHandoff": "generated_images/exec-23345601-85c9-41ab-9090-9ff46c4fc14b.png",
+      "selectedFile": "78-15.png",
+      "sha256": "8d89e369f0b64eb4c0232c63186dd8068c9b091c1d884004ef314082cf5de27e",
+      "size": [
+        1315,
+        1196
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-19",
+      "originalFileInHandoff": "generated_images/exec-a3b31551-129a-4568-9caa-ca36dcc99a5e.png",
+      "selectedFile": "78-19.png",
+      "sha256": "ca5afbaf4d80a92105926def15d3aab0492d5e53fbe9997b7f27ffa31c8d5a43",
+      "size": [
+        1393,
+        1129
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-34",
+      "originalFileInHandoff": "generated_images/exec-beed2f90-7dcf-4247-b011-d51bbebb3840.png",
+      "selectedFile": "78-34.png",
+      "sha256": "729180ae0c3dfcebcf5285dd7b1fdee36f3ca939e1c4f95f7cfc1b06a9a257cc",
+      "size": [
+        1798,
+        875
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-36",
+      "originalFileInHandoff": "generated_images/exec-2db8e185-e6b9-405f-9bbb-af23da106f40.png",
+      "selectedFile": "78-36.png",
+      "sha256": "ead4e2de35d9363f6167cfad67ef5079d927f5a521ec91acb438a20f2bc5c0c4",
+      "size": [
+        1598,
+        984
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-45",
+      "originalFileInHandoff": "generated_images/exec-bb8a5bb3-e269-428e-bad7-c246e1fec75a.png",
+      "selectedFile": "78-45.png",
+      "sha256": "f9695aa392aa95ba3d491b85835ae9bef0eda98f5fbfc0292c3810760907108c",
+      "size": [
+        1509,
+        1042
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "78-47",
+      "originalFileInHandoff": "generated_images/exec-26a02b47-41db-4890-b371-ca0412711cdd.png",
+      "selectedFile": "78-47.png",
+      "sha256": "78e0e83834f13789e29718cbbd778819f81ff50285ac3b4f18e232f01a1b90fe",
+      "size": [
+        1353,
+        1162
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-3",
+      "originalFileInHandoff": "generated_images/exec-24776126-2748-49ba-88d4-d22f8e5bfec9.png",
+      "selectedFile": "79-3.png",
+      "sha256": "ed5c0f8bc9a0da9ec378da46f7a7c05121d94c617334866441d26067a80a94cc",
+      "size": [
+        1441,
+        1091
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-11",
+      "originalFileInHandoff": "generated_images/exec-84f78b72-aed9-44a7-aaf6-dbffccd874d9.png",
+      "selectedFile": "79-11.png",
+      "sha256": "d014081f0c0577804e2dcb687834ad6dccbcb28f8f5f3e3721218e91420e6264",
+      "size": [
+        1316,
+        1195
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-21",
+      "originalFileInHandoff": "generated_images/exec-1b56800c-a205-40ce-a648-9282069c8d38.png",
+      "selectedFile": "79-21.png",
+      "sha256": "09bbc9bcc9cbd9fd874c15395661e79a67cef4912e7d8240e35ab577d9793010",
+      "size": [
+        1287,
+        1222
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-25",
+      "originalFileInHandoff": "generated_images/exec-a1fc3e32-1910-4de0-b699-63d4e2d0aaac.png",
+      "selectedFile": "79-25.png",
+      "sha256": "3c7a64b1c7cf2f3aed18da50b83df78d3297220d235bca674aec23270cee410a",
+      "size": [
+        1475,
+        1066
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-27",
+      "originalFileInHandoff": "generated_images/exec-24944e5b-471c-4efd-9431-04f9db23cf19.png",
+      "selectedFile": "79-27.png",
+      "sha256": "a8b913b8a5e5bf714745dd67f8c679809f3da6db1ef1e454e5b05e7c8acfbdab",
+      "size": [
+        1315,
+        1196
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-28",
+      "originalFileInHandoff": "generated_images/exec-52a88e09-3be9-4d57-ba8d-3f261e862ff3.png",
+      "selectedFile": "79-28.png",
+      "sha256": "540e90285391790b464b27100b29423134244c452cb97539313a39a0eb6b88be",
+      "size": [
+        1458,
+        1079
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-31",
+      "originalFileInHandoff": "generated_images/exec-0d73dd02-feb9-419c-911e-ceaf5e7cd80d.png",
+      "selectedFile": "79-31.png",
+      "sha256": "d399c8b39f9f5f1c204baabaa840ff118212613d1788a9c02b60af1f2be9fb57",
+      "size": [
+        1722,
+        913
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-34",
+      "originalFileInHandoff": "generated_images/exec-9c78bfcb-9904-4765-a1cf-555d98d8ede6.png",
+      "selectedFile": "79-34.png",
+      "sha256": "36298b8368d8718e2dd670baed5fe3751a0ac3e044046cb1f25764c1e49178b4",
+      "size": [
+        1570,
+        1002
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-36",
+      "originalFileInHandoff": "generated_images/exec-ec30abad-c30f-448f-9f8a-058917ac1a83.png",
+      "selectedFile": "79-36.png",
+      "sha256": "d218c15ed8590a70fb3fa4423beb5d76badc33bb16192cba4641da60085695cc",
+      "size": [
+        1485,
+        1059
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-37",
+      "originalFileInHandoff": "generated_images/exec-8ed5ebf9-451a-4098-a41a-c01b37f8da6b.png",
+      "selectedFile": "79-37.png",
+      "sha256": "bc63d71b1e429fbfe20c86287efc7d95776b1d548467c7135d9d4abc602186b2",
+      "size": [
+        1366,
+        1151
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-46",
+      "originalFileInHandoff": "generated_images/exec-28633788-e73c-475b-a233-8275abef7280.png",
+      "selectedFile": "79-46.png",
+      "sha256": "49d1f7426da00cd776849e287a87eea99d67921d316a76ce74b1fcc69cc07afd",
+      "size": [
+        1541,
+        1020
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    },
+    {
+      "key": "79-48",
+      "originalFileInHandoff": "generated_images/exec-298db6b4-f5bc-491e-af7a-17e5643111d9.png",
+      "selectedFile": "79-48.png",
+      "sha256": "9f4e884a7840c7a9fd9a64481ce2aeee9a622a9237a2c0f46419e190a7fede8e",
+      "size": [
+        1394,
+        1128
+      ],
+      "selectionBasis": "matches retained scene artwork; all staged path records checked",
+      "visualStatus": "retained; individual review pending"
+    }
+  ]
+}
