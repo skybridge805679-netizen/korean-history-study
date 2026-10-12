@@ -45,7 +45,7 @@ def render_source(doc, rec):
 def render_art(key, rec, source_bytes):
     scene = rec.get("appearanceEdit", {}).get("replacesScene", False)
     original = ET.parse(ROOT / "site" / rec["artSource"]).getroot() if rec.get("artSource") and not scene else None
-    display_height = rec.get("displayCrop", [0, 0, rec["width"], rec["height"]])[3]
+    display_height = rec.get("sceneHeight", rec.get("displayCrop", [0, 0, rec["width"], rec["height"]])[3])
     svg = ET.Element(NS + "svg", {"width": str(rec["width"]), "height": str(display_height),
         "viewBox": f'0 0 {rec["width"]} {display_height}'})
     ET.SubElement(svg, NS + "title").text = f'제{rec["exam"]}회 {rec["question"]}번 자료'
@@ -73,6 +73,10 @@ def render_art(key, rec, source_bytes):
         ET.SubElement(svg, NS + "use", {"href": "#pdf-source", "clip-path": "url(#pdf-text)"})
     edit = rec.get("appearanceEdit")
     if edit:
+        if edit.get("canvasBackground"):
+            ET.SubElement(svg, NS + "rect", {"x": "0", "y": "0",
+                "width": str(rec["width"]), "height": str(display_height),
+                "fill": edit["canvasBackground"]})
         asset = (ROOT / "site" / edit["asset"]).read_bytes()
         assert digest(asset) == edit["imageSha256"], "Appearance artwork changed"
         clip = ET.SubElement(defs, NS + "clipPath", {"id": "appearance-edit"})
@@ -86,8 +90,17 @@ def render_art(key, rec, source_bytes):
             blob = (ROOT / "site" / material["asset"]).read_bytes()
             assert digest(blob) == material["imageSha256"], "Preserved material changed"
             x, y, width, height = material["targetBox"]
+            if material.get("backgroundBox"):
+                bx, by, bw, bh = material["backgroundBox"]
+                ET.SubElement(svg, NS + "rect", {"x": str(bx), "y": str(by),
+                    "width": str(bw), "height": str(bh),
+                    "fill": material["backgroundColor"]})
+            if material.get("fit"):
+                fit = material["fit"]
+            else:
+                fit = "none"
             attrs = {"x": str(x), "y": str(y), "width": str(width),
-                "height": str(height), "preserveAspectRatio": "none",
+                "height": str(height), "preserveAspectRatio": fit,
                 "data-preserved-material": str(index),
                 "href": "data:image/webp;base64," + base64.b64encode(blob).decode()}
             if material.get("clipPoints"):
@@ -118,6 +131,23 @@ def render_art(key, rec, source_bytes):
                     ET.SubElement(gradient, NS + "stop", {"offset": "1", "stop-color": "white"})
                     ET.SubElement(mask, NS + "rect", {"x": str(gx), "y": str(gy),
                         "width": str(gw), "height": str(gh), "fill": f"url(#{gradient_id})"})
+                attrs["mask"] = f"url(#{name})"
+            if material.get("excludeRect"):
+                # Preserve a factual photo except a fictional overlay baked into it.
+                name = f"material-exclusion-{index}"
+                mask = ET.SubElement(defs, NS + "mask", {"id": name,
+                    "maskUnits": "userSpaceOnUse", "x": str(x), "y": str(y),
+                    "width": str(width), "height": str(height)})
+                ET.SubElement(mask, NS + "rect", {"x": str(x), "y": str(y),
+                    "width": str(width), "height": str(height), "fill": "white"})
+                blur_id = f"{name}-blur"
+                blur = ET.SubElement(defs, NS + "filter", {"id": blur_id,
+                    "x": "-50%", "y": "-50%", "width": "200%", "height": "200%"})
+                ET.SubElement(blur, NS + "feGaussianBlur", {"stdDeviation": "3"})
+                ex, ey, ew, eh = material["excludeRect"]
+                ET.SubElement(mask, NS + "rect", {"x": str(ex), "y": str(ey),
+                    "width": str(ew), "height": str(eh), "fill": "black",
+                    "filter": f"url(#{blur_id})"})
                 attrs["mask"] = f"url(#{name})"
             ET.SubElement(svg, NS + "image", attrs)
         protected = ([] if scene else rec.get("protectedTextRects", [])) + edit.get("protectedRects", [])
