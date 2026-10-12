@@ -43,7 +43,8 @@ def render_source(doc, rec):
 
 
 def render_art(key, rec, source_bytes):
-    original = ET.parse(ROOT / "site" / rec["artSource"]).getroot() if rec.get("artSource") else None
+    scene = rec.get("appearanceEdit", {}).get("replacesScene", False)
+    original = ET.parse(ROOT / "site" / rec["artSource"]).getroot() if rec.get("artSource") and not scene else None
     display_height = rec.get("displayCrop", [0, 0, rec["width"], rec["height"]])[3]
     svg = ET.Element(NS + "svg", {"width": str(rec["width"]), "height": str(display_height),
         "viewBox": f'0 0 {rec["width"]} {display_height}'})
@@ -81,7 +82,45 @@ def render_art(key, rec, source_bytes):
         ET.SubElement(svg, NS + "image", {"x": str(x), "y": str(y), "width": str(width),
             "height": str(height), "preserveAspectRatio": "none", "clip-path": "url(#appearance-edit)",
             "data-appearance-edit": key, "href": "data:image/webp;base64," + base64.b64encode(asset).decode()})
-        protected = rec.get("protectedTextRects", []) + edit.get("protectedRects", [])
+        for index, material in enumerate(edit.get("preservedMaterials", [])):
+            blob = (ROOT / "site" / material["asset"]).read_bytes()
+            assert digest(blob) == material["imageSha256"], "Preserved material changed"
+            x, y, width, height = material["targetBox"]
+            attrs = {"x": str(x), "y": str(y), "width": str(width),
+                "height": str(height), "preserveAspectRatio": "none",
+                "data-preserved-material": str(index),
+                "href": "data:image/webp;base64," + base64.b64encode(blob).decode()}
+            if material.get("clipPoints"):
+                name = f"material-{index}"
+                clip = ET.SubElement(defs, NS + "clipPath", {"id": name})
+                ET.SubElement(clip, NS + "polygon", {"points": " ".join(f"{a},{b}" for a, b in material["clipPoints"])})
+                attrs["clip-path"] = f"url(#{name})"
+            if material.get("feather"):
+                # Soften only the outer border of a native photo; its factual core stays opaque.
+                name = f"material-edge-{index}"
+                distance = min(material["feather"], width / 8, height / 8)
+                mask = ET.SubElement(defs, NS + "mask", {"id": name,
+                    "maskUnits": "userSpaceOnUse", "x": str(x), "y": str(y),
+                    "width": str(width), "height": str(height)})
+                ET.SubElement(mask, NS + "rect", {"x": str(x + distance),
+                    "y": str(y + distance), "width": str(width - 2 * distance),
+                    "height": str(height - 2 * distance), "fill": "white"})
+                for side, values in enumerate([
+                    (x, y, width, distance, "0%", "0%", "0%", "100%"),
+                    (x, y + height - distance, width, distance, "0%", "100%", "0%", "0%"),
+                    (x, y + distance, distance, height - 2 * distance, "0%", "0%", "100%", "0%"),
+                    (x + width - distance, y + distance, distance, height - 2 * distance, "100%", "0%", "0%", "0%")]):
+                    gx, gy, gw, gh, x1, y1, x2, y2 = values
+                    gradient_id = f"{name}-{side}"
+                    gradient = ET.SubElement(defs, NS + "linearGradient", {"id": gradient_id,
+                        "x1": x1, "y1": y1, "x2": x2, "y2": y2})
+                    ET.SubElement(gradient, NS + "stop", {"offset": "0", "stop-color": "black"})
+                    ET.SubElement(gradient, NS + "stop", {"offset": "1", "stop-color": "white"})
+                    ET.SubElement(mask, NS + "rect", {"x": str(gx), "y": str(gy),
+                        "width": str(gw), "height": str(gh), "fill": f"url(#{gradient_id})"})
+                attrs["mask"] = f"url(#{name})"
+            ET.SubElement(svg, NS + "image", attrs)
+        protected = ([] if scene else rec.get("protectedTextRects", [])) + edit.get("protectedRects", [])
         if protected:
             clip = ET.SubElement(defs, NS + "clipPath", {"id": "appearance-facts"})
             for x, y, width, height in protected:

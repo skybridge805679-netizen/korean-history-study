@@ -554,35 +554,157 @@
     "appearanceEdit": {
       "asset": "appearance-art/70-13.webp",
       "box": [
-        594,
-        361,
-        407,
-        496
+        0,
+        0,
+        1001,
+        857
       ],
       "polygons": [
         [
           [
-            598.172053112717,
-            365.82969669997107
+            0,
+            0
           ],
           [
-            997.9098186339934,
-            365.7602617099307
+            1001,
+            0
           ],
           [
-            997.9962135895064,
-            863.1366773906269
+            1001,
+            857
           ],
           [
-            598.2584480682301,
-            863.2061123806673
+            0,
+            857
           ]
         ]
       ],
-      "style": "Teal fitted museum-guide blazer, ivory blouse, charcoal pleated knee-length skirt and a small elegant ribbon; no trousers.",
-      "kind": "outfit",
-      "imageSha256": "209a7b7c1b034cc21cf25d2739d04520663d0efe8a81682d1343b66a4324108c",
-      "protectedRects": []
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "6da07d4ee759cb1f3f3a9c5665ad11e2cc8edbb2899b8caff8036682f40bc3fd",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1356,
+        1160
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/70-13-fact-0.webp",
+          "sourceBox": [
+            276,
+            442,
+            426,
+            702
+          ],
+          "targetBox": [
+            276,
+            442,
+            150,
+            260
+          ],
+          "imageSha256": "fe17294962b6004693a75f9203dd69f5c9748bf0f059a512cc91c8893082cbab",
+          "pixelSha256": "3c791049a22b759af72e88c73d2fc811703e0509e48bf2cccc9b73a183adda80",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-13-fact-1.webp",
+          "sourceBox": [
+            112,
+            24,
+            960,
+            222
+          ],
+          "targetBox": [
+            112,
+            24,
+            848,
+            198
+          ],
+          "imageSha256": "84d50571c6d64348a6cbcd9c0911443562dbff2bc4d2495eddbd183fc41ca2af",
+          "pixelSha256": "32e9f2de366a1e29dca3a4d94341787870b43b691af94d0d457ee1037c1d6b6a",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-13-fact-2.webp",
+          "sourceBox": [
+            682,
+            31,
+            966,
+            65
+          ],
+          "targetBox": [
+            682,
+            31,
+            284,
+            34
+          ],
+          "imageSha256": "4cd3e8ddc1913eba2869c832b7d07147d040c22a35781c668dd7530d50e042b7",
+          "pixelSha256": "f6147ffa3cbb36c7547302e52de571de6ca0938d32dab58787b080041e268d12",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-13-fact-3.webp",
+          "sourceBox": [
+            111,
+            71,
+            966,
+            104
+          ],
+          "targetBox": [
+            111,
+            71,
+            855,
+            33
+          ],
+          "imageSha256": "63267d5fd69e930dbc1c080a295b1633ea2a09ed0ed3550141cc18a9e0a097d6",
+          "pixelSha256": "1ce4e46c2c51910746e1e89b5f55574955b2a88bd51620c2bf9db95d5c1cb72d",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-13-fact-4.webp",
+          "sourceBox": [
+            724,
+            110,
+            966,
+            144
+          ],
+          "targetBox": [
+            724,
+            110,
+            242,
+            34
+          ],
+          "imageSha256": "365e08964db2d1a1cafe32baf381ed91f9db591cac3be9f6d63a0e5e539e12d5",
+          "pixelSha256": "96d34ab5ad59896b7bc77c75eba77d370e769351833e259a27d6de25efa5ede1",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-13-fact-5.webp",
+          "sourceBox": [
+            111,
+            150,
+            966,
+            183
+          ],
+          "targetBox": [
+            111,
+            150,
+            855,
+            33
+          ],
+          "imageSha256": "111bd363291e5b2bddbe77d0e11151452ef92ffb3c52fbcadc2954adb401bae0",
+          "pixelSha256": "b4e1b8cda6ad8e684e1de1598743d85574420f432fa59670bec66508d0c7ef07",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
     }
   },
   "70-14": {
@@ -976,7 +1098,162 @@
     "pngSha256": "d0a30b104e1f8460a3b09f3b3238e78715e8c8f27cecc5c79cf2d5664dd7a180",
     "pixelSha256": "658be12e8f8f1f61fee92007945d95039c87130a19b25a285107437dac0588a1",
     "imageFile": "70-19.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/70-19.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        647
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            647
+          ],
+          [
+            0,
+            647
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "934adc914fc33b431f8f9ef9d8354d5cfc81dd46e6141286428224be668f72ff",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1561,
+        1008
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/70-19-fact-0.webp",
+          "sourceBox": [
+            24,
+            24,
+            545,
+            179
+          ],
+          "targetBox": [
+            24,
+            24,
+            521,
+            155
+          ],
+          "imageSha256": "05078af5a4dd9e6df108800afdefed0b36c72f365fc5d0500bc98cd14b731dbd",
+          "pixelSha256": "27748e76bc9408e4141178928a7e475c4863121bffb717d8266daac3a279980d",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-19-fact-1.webp",
+          "sourceBox": [
+            650,
+            24,
+            975,
+            145
+          ],
+          "targetBox": [
+            650,
+            24,
+            325,
+            121
+          ],
+          "imageSha256": "8c5fc5421521e77a103c301c7704e657143cbd1e51744b4d420f040cd5516c84",
+          "pixelSha256": "fbe835e503aa6f907b6ea1eee92668e1e4dd4810dab1fc5ea866ae59b5107c9f",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-19-fact-2.webp",
+          "sourceBox": [
+            53,
+            28,
+            558,
+            63
+          ],
+          "targetBox": [
+            53,
+            28,
+            505,
+            35
+          ],
+          "imageSha256": "8b5b8078f8368ea4bc51018874e3a3c3547d524176ebe19056055a8513a96005",
+          "pixelSha256": "a394d6e15cc8a8d3ed44386105056bb132bc098cce2cd214b14d97cbf3b1d1d9",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-19-fact-3.webp",
+          "sourceBox": [
+            29,
+            69,
+            558,
+            104
+          ],
+          "targetBox": [
+            29,
+            69,
+            529,
+            35
+          ],
+          "imageSha256": "afc2c2789dbec011d8fcc3ee1c1db405b608c177895bd8244dfb7e90d29a65e2",
+          "pixelSha256": "a6f9f4e72a2e134f285d6895577b29afbd8c35c5a3a657687ca263d3ac9e104b",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-19-fact-4.webp",
+          "sourceBox": [
+            29,
+            110,
+            558,
+            144
+          ],
+          "targetBox": [
+            29,
+            110,
+            529,
+            34
+          ],
+          "imageSha256": "8a63a2b60b8fdcaaa209dc1b308bded2f700c061c36550989f337281335b2b98",
+          "pixelSha256": "f6983f61e560b84acf3e45bf05ffd8e1a90fc8e0b30a72d89424a6f2509ca890",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-19-fact-5.webp",
+          "sourceBox": [
+            29,
+            150,
+            347,
+            185
+          ],
+          "targetBox": [
+            29,
+            150,
+            318,
+            35
+          ],
+          "imageSha256": "1b28f3beb37c7550b3a6eee29ca952ef220dcc5a85b4da3911469116af6bfb4b",
+          "pixelSha256": "2742d390b17645165d42a0fa6c7044504b05ac5fa0eedb849b4081d2c2e3b126",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "70-20": {
     "exam": 70,
@@ -1924,7 +2201,219 @@
     "pngSha256": "de10340daf5546c05b944d536c8cd72a21b0832440f0c124e4ba008e4f5eece8",
     "pixelSha256": "80c345b8ffdd6c5237e96ebddea5c92b3c8897696b49364b79200b0186890b00",
     "imageFile": "70-36.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/70-36.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        857
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            857
+          ],
+          [
+            0,
+            857
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "f37ac3102f3df5f5005662e3cb0f4283deb9d2228526ef49c1772d1e0609abf0",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1356,
+        1160
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/70-36-fact-0.webp",
+          "sourceBox": [
+            271,
+            260,
+            746,
+            603
+          ],
+          "targetBox": [
+            271,
+            260,
+            475,
+            343
+          ],
+          "imageSha256": "1d1d518e7b67b558b63a24f8d5d291af62c47e8fcd59756812e60c211be663b8",
+          "pixelSha256": "88bc15aaee6c601920c798a947683e59b9a25e99dda79573c28f3f690eb7f4cd",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-36-fact-1.webp",
+          "sourceBox": [
+            29,
+            25,
+            265,
+            101
+          ],
+          "targetBox": [
+            29,
+            25,
+            236,
+            76
+          ],
+          "imageSha256": "5963df28fa95226bc9360d9bd388620625bf0d0e76ec95f34b894331e6abb353",
+          "pixelSha256": "01314f4653400fc144c2755f1e3408b58f1a3ff808c7a856b9fe230bc9b91608",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-36-fact-2.webp",
+          "sourceBox": [
+            409,
+            24,
+            978,
+            221
+          ],
+          "targetBox": [
+            409,
+            24,
+            569,
+            197
+          ],
+          "imageSha256": "e351ee198dc56ccc09b21b3a912f3beaf41cef37532410346705a79c167e1787",
+          "pixelSha256": "14fbdd6dc6c16f08737eee09f97177bc7eda463f77c1e05b11a4e4de75488211",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-36-fact-3.webp",
+          "sourceBox": [
+            424,
+            28,
+            984,
+            62
+          ],
+          "targetBox": [
+            424,
+            28,
+            560,
+            34
+          ],
+          "imageSha256": "12b42aa91eda9877c62531d1510565813950ee15b89318999dcc6c2b3aed598a",
+          "pixelSha256": "ada318bf91766ccb287a001c331f52793ce3203820752c28ca15c65ebe9c3203",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-36-fact-4.webp",
+          "sourceBox": [
+            401,
+            68,
+            984,
+            101
+          ],
+          "targetBox": [
+            401,
+            68,
+            583,
+            33
+          ],
+          "imageSha256": "5bbb5b9fb44feff1e0039cc693bb0d0544f9fc1ca39405ac6008653709782b20",
+          "pixelSha256": "b72b7817383121dffff0a6e10fbf9b4ce55941501e93d1248dcbcf7d7d10c9a6",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-36-fact-5.webp",
+          "sourceBox": [
+            401,
+            107,
+            984,
+            141
+          ],
+          "targetBox": [
+            401,
+            107,
+            583,
+            34
+          ],
+          "imageSha256": "d362eb33fb6143e90d8c301a2ea16d2df440e431063fdac1c6204f5f74ab8aa9",
+          "pixelSha256": "f9d4ca76d3da7c4e75c1c6cda26717e37288213970e1340c4aac7c909af2457a",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-36-fact-6.webp",
+          "sourceBox": [
+            401,
+            146,
+            984,
+            180
+          ],
+          "targetBox": [
+            401,
+            146,
+            583,
+            34
+          ],
+          "imageSha256": "d5154225414389c8c43e4cf15dbede809c07a4d15063a052ea9bbb109f6fd384",
+          "pixelSha256": "321a2fb657e606a0947cec333583e0e5e367edc0bd7cf4f5f04c4f84157171e8",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-36-fact-7.webp",
+          "sourceBox": [
+            401,
+            186,
+            837,
+            219
+          ],
+          "targetBox": [
+            401,
+            186,
+            436,
+            33
+          ],
+          "imageSha256": "246687ee995d82c809d141339269607866291ab86e4dc9580af5af12fc8c4e60",
+          "pixelSha256": "0c33a67a513e5f4ffeb58ad505733c7673f3737f614f08376b50e07c97838304",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/70-36-fact-8.webp",
+          "sourceBox": [
+            52,
+            28,
+            273,
+            62
+          ],
+          "targetBox": [
+            52,
+            28,
+            221,
+            34
+          ],
+          "imageSha256": "996163eac8146f94e8646cd4fbcf7680ae86955e95f6ed7c312c29ec18f1f6a5",
+          "pixelSha256": "1a03357b28d4d5ffdca79fa2c037a426595245af0da618a524732235f2b8035c",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "70-37": {
     "exam": 70,
@@ -3177,7 +3666,200 @@
     "pngSha256": "f1be758914ed4aa6083d5f1d7220515b7ba534959e43a7c8c781569d8aab7d3c",
     "pixelSha256": "d12e84ca0f968095b33e8c3a064a720f9df607b7cfcef249e590767d651c962a",
     "imageFile": "71-6.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-6.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        752
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            752
+          ],
+          [
+            0,
+            752
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "d9ac4ecc84d8474cd849593ec41867a70b734056d337ebd49b5360de5494008f",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1447,
+        1087
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/71-6-fact-0.webp",
+          "sourceBox": [
+            27,
+            22,
+            442,
+            186
+          ],
+          "targetBox": [
+            27,
+            22,
+            415,
+            164
+          ],
+          "imageSha256": "16b598a9d9bd53045146b424c331bc26a71d6122a347dc1b4d7e01bd6f32e5c1",
+          "pixelSha256": "aee11254d26bcabbf82f9707d70abaf24f1e88ff1b5c5165f75965b7bcac9541",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-6-fact-1.webp",
+          "sourceBox": [
+            570,
+            24,
+            953,
+            185
+          ],
+          "targetBox": [
+            570,
+            24,
+            383,
+            161
+          ],
+          "imageSha256": "72a8d9e421592fdd3a0d8e4e564b02e79381c006f8a9fd163e82afdb4a96e602",
+          "pixelSha256": "a308917af94d1d66c77fed82c796f1e041f25e6a81f18dd7af4597d18ac1b7db",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-6-fact-2.webp",
+          "sourceBox": [
+            56,
+            30,
+            454,
+            65
+          ],
+          "targetBox": [
+            56,
+            30,
+            398,
+            35
+          ],
+          "imageSha256": "237c9721a14dcdb95fe4fb7be05bd1ba595e22dea07ae979b393df20377f8f38",
+          "pixelSha256": "6e296b717dfc1b94f4da355aeada7da89cc78fa3724cfccbc1e7d002f30a1c0f",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-6-fact-3.webp",
+          "sourceBox": [
+            31,
+            71,
+            454,
+            106
+          ],
+          "targetBox": [
+            31,
+            71,
+            423,
+            35
+          ],
+          "imageSha256": "32f1520743a1d8b20815c616c9edf0f9261d0eb1c771ac75f79bbc2c266acf41",
+          "pixelSha256": "e8e45b194e4f6cc13531c7e178fc4b6272f5d20d329d026b8ed71342313c3289",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-6-fact-4.webp",
+          "sourceBox": [
+            31,
+            113,
+            454,
+            148
+          ],
+          "targetBox": [
+            31,
+            113,
+            423,
+            35
+          ],
+          "imageSha256": "4294ca1a17422c82b6c7fef2b7f892b4a340324cfa9875514aaa30823ba0a59d",
+          "pixelSha256": "428ed639bddd3f43db1914c2db06e1bb1afece6da6abcb1964d767c54a6291bb",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-6-fact-5.webp",
+          "sourceBox": [
+            593,
+            30,
+            962,
+            65
+          ],
+          "targetBox": [
+            593,
+            30,
+            369,
+            35
+          ],
+          "imageSha256": "6d3d6abe42b97c8d813cdf5d0b50eb6b8b2e544a9a72a2da383ff5ef74934919",
+          "pixelSha256": "cda7ee7f7e55fdeb7b9b84c8e21fe82092a1c95f476783acf3a02a8c602a207b",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-6-fact-6.webp",
+          "sourceBox": [
+            569,
+            71,
+            962,
+            106
+          ],
+          "targetBox": [
+            569,
+            71,
+            393,
+            35
+          ],
+          "imageSha256": "ebe2fa7c6142b5a50246611163d5d1a9d2923ad94f1f25beead170650099b1d7",
+          "pixelSha256": "fba6249faba8171a489e46bbf7c8a68320e2705080c18733d7a96cf5ccf7e37f",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-6-fact-7.webp",
+          "sourceBox": [
+            569,
+            113,
+            962,
+            148
+          ],
+          "targetBox": [
+            569,
+            113,
+            393,
+            35
+          ],
+          "imageSha256": "23e28bdfa33a0e8639102b48b735583060a4482317ad8e80593e4dc8a1050a29",
+          "pixelSha256": "a27a656f71f5bc56df005c626c5249a82cdf8c97191aa913b7ae97c491759638",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "71-7": {
     "exam": 71,
@@ -3797,7 +4479,298 @@
     "pngSha256": "ffdfe5b99db9388236c8628ae7bf65730c949b6a10173dc7a339e1e92774c871",
     "pixelSha256": "dad106aa45ad6e54522da4612baa4953a9dbf9f200d7b2d390bc96c89aff7044",
     "imageFile": "71-17.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-17.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        578
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            578
+          ],
+          [
+            0,
+            578
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "80ec7d2a8e2a958c9dcaeeb581fd599e8ed20d2222793b8b60cdf4e8b260c9b5",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1651,
+        953
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/71-17-fact-0.webp",
+          "sourceBox": [
+            555,
+            218,
+            902,
+            570
+          ],
+          "targetBox": [
+            555,
+            218,
+            347,
+            352
+          ],
+          "imageSha256": "379595bea2843a659ab668d836db0ba7002cbc0efcb9a399d607b06c0152dd0e",
+          "pixelSha256": "448d3d32d53d3135c61bd1c9a1b78fcd0096d32062270d619e34c49a10410d2d",
+          "role": "authentic-material",
+          "sourceScale": 2,
+          "clipPoints": [
+            [
+              695,
+              225
+            ],
+            [
+              752,
+              225
+            ],
+            [
+              765,
+              243
+            ],
+            [
+              765,
+              283
+            ],
+            [
+              778,
+              312
+            ],
+            [
+              774,
+              337
+            ],
+            [
+              804,
+              354
+            ],
+            [
+              838,
+              377
+            ],
+            [
+              858,
+              411
+            ],
+            [
+              878,
+              446
+            ],
+            [
+              890,
+              487
+            ],
+            [
+              890,
+              568
+            ],
+            [
+              567,
+              568
+            ],
+            [
+              566,
+              531
+            ],
+            [
+              571,
+              485
+            ],
+            [
+              586,
+              442
+            ],
+            [
+              602,
+              410
+            ],
+            [
+              627,
+              386
+            ],
+            [
+              651,
+              366
+            ],
+            [
+              679,
+              348
+            ],
+            [
+              687,
+              330
+            ],
+            [
+              681,
+              306
+            ],
+            [
+              677,
+              280
+            ],
+            [
+              683,
+              249
+            ]
+          ]
+        },
+        {
+          "asset": "appearance-art/71-17-fact-1.webp",
+          "sourceBox": [
+            25,
+            24,
+            430,
+            137
+          ],
+          "targetBox": [
+            25,
+            24,
+            405,
+            113
+          ],
+          "imageSha256": "52851eecf7477d448c13bdea90ca035b4c013215cdb5b83622f22f2ca9cc6ed9",
+          "pixelSha256": "80a0a284352e388ccc2cb8102f27a597787355f0b2a554f2d46bbab59a937a11",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-17-fact-2.webp",
+          "sourceBox": [
+            475,
+            22,
+            980,
+            181
+          ],
+          "targetBox": [
+            475,
+            22,
+            505,
+            159
+          ],
+          "imageSha256": "f29176efa8c659b937b8ed21c08560077253b95cd4336d99d278c258cebe1a5a",
+          "pixelSha256": "8362609fef0cb5a2b66b602dfd18f25b047863de6528fe858670c4c63bf7499c",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-17-fact-3.webp",
+          "sourceBox": [
+            495,
+            28,
+            986,
+            62
+          ],
+          "targetBox": [
+            495,
+            28,
+            491,
+            34
+          ],
+          "imageSha256": "91d947cad723f726e9281c733b00b3f81835aa5d363f877abeb70f09af1c45fa",
+          "pixelSha256": "ee0a32cd9681b67b41ada4163da6af978ffd54fdb4de9658ed0a2fb8d1b05396",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-17-fact-4.webp",
+          "sourceBox": [
+            472,
+            67,
+            986,
+            101
+          ],
+          "targetBox": [
+            472,
+            67,
+            514,
+            34
+          ],
+          "imageSha256": "4c152e8057969e9de0d0d70f823f137f5577ec3fc3fb76e2d7512a61728449b5",
+          "pixelSha256": "03437c99aa63e915c9c0ae0d4ccc034c60c5430778449282ff1f7abde126bf0f",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-17-fact-5.webp",
+          "sourceBox": [
+            472,
+            107,
+            986,
+            140
+          ],
+          "targetBox": [
+            472,
+            107,
+            514,
+            33
+          ],
+          "imageSha256": "edd3dac4582c26a3e47f1121c93a9f5a1fc6311525093833d648f1ef0f2170dd",
+          "pixelSha256": "80daaf53f7347ba888c39ed4ce1ef74ae1f24ca084cc80347d27e07066534e5b",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-17-fact-6.webp",
+          "sourceBox": [
+            51,
+            28,
+            438,
+            62
+          ],
+          "targetBox": [
+            51,
+            28,
+            387,
+            34
+          ],
+          "imageSha256": "7295122668dd79640189dc168dbddd096ad02281b40c5bcf7bcc0819ccb186c9",
+          "pixelSha256": "3f967dcd8a318c153f7e56238fce41649e85f2485e2882345f8f05ea17769d0c",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-17-fact-7.webp",
+          "sourceBox": [
+            28,
+            67,
+            438,
+            101
+          ],
+          "targetBox": [
+            28,
+            67,
+            410,
+            34
+          ],
+          "imageSha256": "0afa989f192a5158826056acf73c787b069283d3b382d117e43e6148759a0cd2",
+          "pixelSha256": "ad07f8901207f0b7a58a322c8c73451ec2410d07447f27e8f5f975d461311530",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "71-18": {
     "exam": 71,
@@ -4366,7 +5339,257 @@
     "pngSha256": "9b281fe55e9b6e462383457513a7db55310b91a74dcfad820393024536e498c8",
     "pixelSha256": "7b6e4de71fb88cc274fc4a0b5fc58e735edecc2fae8f729e55401ecf7a4ef8c8",
     "imageFile": "71-24.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-24.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        905
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            905
+          ],
+          [
+            0,
+            905
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "28e6b29c66b6eefb2776f0087be283af62587534d1e11b67e2e5e050fd6ea9f8",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1320,
+        1192
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/71-24-fact-0.webp",
+          "sourceBox": [
+            289,
+            269,
+            575,
+            665
+          ],
+          "targetBox": [
+            289,
+            269,
+            286,
+            396
+          ],
+          "imageSha256": "17bd96ed6a44ba8ad860278b742f7133bf0cd8fbaadfd37ae3d4e0cf18bb1bf0",
+          "pixelSha256": "85ba9cce78e45a357e7ca1d8baa710bf7c430bd52a8c08c2f095cb1aa7cee1de",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-1.webp",
+          "sourceBox": [
+            28,
+            24,
+            340,
+            221
+          ],
+          "targetBox": [
+            28,
+            24,
+            312,
+            197
+          ],
+          "imageSha256": "6561edac2a275fe6c89b101088349caeed80a14c198cd682704f068391c091a7",
+          "pixelSha256": "6f1c2aaea80410918fafa687a409cb202b7e6f77b5dd94164c52e9c6b3e9db13",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-2.webp",
+          "sourceBox": [
+            448,
+            24,
+            975,
+            221
+          ],
+          "targetBox": [
+            448,
+            24,
+            527,
+            197
+          ],
+          "imageSha256": "573950d467d780eee3b3492b21463d491d118dd42a48aec1fcafeca53dea1111",
+          "pixelSha256": "8c091d0756ba88e689cf121d1a402495339fb3f5896423bea12f4a1b56173fe4",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-3.webp",
+          "sourceBox": [
+            470,
+            28,
+            986,
+            62
+          ],
+          "targetBox": [
+            470,
+            28,
+            516,
+            34
+          ],
+          "imageSha256": "a4fac91bcf57489dec34ba8d6a913298b83825f9e3bce769187f29aa9a6c5bd2",
+          "pixelSha256": "3efe73b2b89ccfc5fcf3b8e3fe57c689d48b11d37d7a382b0142c93c63d5a42c",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-4.webp",
+          "sourceBox": [
+            447,
+            67,
+            986,
+            101
+          ],
+          "targetBox": [
+            447,
+            67,
+            539,
+            34
+          ],
+          "imageSha256": "0360145781f5072ff267127525fdc265edeeac2d40727e58fc414eebd3a48341",
+          "pixelSha256": "1b3d384063b3f752a03393930f7fbe1d68c95bdba38afa85bfa19b67b07ffd3b",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-5.webp",
+          "sourceBox": [
+            447,
+            107,
+            986,
+            140
+          ],
+          "targetBox": [
+            447,
+            107,
+            539,
+            33
+          ],
+          "imageSha256": "9cfb0aea64245a69e426cff71f2d72b4888d9e2cbbf9cf611310397c8df99e68",
+          "pixelSha256": "ac771df9ea55bf04d0d3b229988c94da6adf08d8ad55fdd880f4f84fd2696163",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-6.webp",
+          "sourceBox": [
+            447,
+            146,
+            986,
+            179
+          ],
+          "targetBox": [
+            447,
+            146,
+            539,
+            33
+          ],
+          "imageSha256": "9bcee4d5aa1833e9ebb80bd305bcb2c93667d4cb0ee74c8566ddf39333b404b6",
+          "pixelSha256": "028e4d75ab92f3b6366c37435e4c092ca4abdd21660fb539d8e1100f5a912212",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-7.webp",
+          "sourceBox": [
+            51,
+            28,
+            346,
+            62
+          ],
+          "targetBox": [
+            51,
+            28,
+            295,
+            34
+          ],
+          "imageSha256": "b0e2f97534cace4ac3d86f3e1384722762072041411cc1959ca4b93a31538f58",
+          "pixelSha256": "5facb45f7b404927d9effdbad68e4d709e3a480957e53cf90ed9c1c26439c67f",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-8.webp",
+          "sourceBox": [
+            28,
+            67,
+            346,
+            101
+          ],
+          "targetBox": [
+            28,
+            67,
+            318,
+            34
+          ],
+          "imageSha256": "16a744081beab78a6426106c9f88f4fe91c6f4a0aaadc3607a6f2a4f1183e317",
+          "pixelSha256": "c383432b250ca97c4906e042635739830432f03184c8c88a928d4e5eddc6d2c4",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-9.webp",
+          "sourceBox": [
+            28,
+            107,
+            346,
+            140
+          ],
+          "targetBox": [
+            28,
+            107,
+            318,
+            33
+          ],
+          "imageSha256": "b15c88474e89ecbd55a65c4c4d9509c14325fbc46415673ea262fb220a162ade",
+          "pixelSha256": "3c8d1407f13aaf71bbd2b6e75f80b4102ce6328dff7a4c40aa53c923e0faec43",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-24-fact-10.webp",
+          "sourceBox": [
+            28,
+            146,
+            346,
+            179
+          ],
+          "targetBox": [
+            28,
+            146,
+            318,
+            33
+          ],
+          "imageSha256": "33470337dff8b3bb72d2c3aca489ec9851476c8279af6f96c75fb4a76d11cf62",
+          "pixelSha256": "c02c25d34530e93e94a83c6acb8c7172a33e24bee72e995776e7944076c3ed17",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "71-25": {
     "exam": 71,
@@ -4449,7 +5672,143 @@
     "pngSha256": "1fcd5d34e7b82c223ddc1776a567883a8dbf56e27dd7595188a21946d0780bd2",
     "pixelSha256": "e352fbb8c1f3ad464006ac627946c092d9fe22bd1e96c6cc69211a043c117454",
     "imageFile": "71-25.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-25.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        733
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            733
+          ],
+          [
+            0,
+            733
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "d295062a5cef433772e3dba014e7466c32c22af483b1e827c7b05dfd86ec96cc",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1466,
+        1073
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/71-25-fact-0.webp",
+          "sourceBox": [
+            47,
+            224,
+            541,
+            474
+          ],
+          "targetBox": [
+            46,
+            218,
+            496,
+            257
+          ],
+          "imageSha256": "dd7d073e065b73318fd575e380c7c763b1e26ff7efaffc8229c14e2b2ca6471d",
+          "pixelSha256": "bf680c7143a7cbd82fe362827a152bb0fe274df937e7129ba85d15039a679690",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-25-fact-1.webp",
+          "sourceBox": [
+            135,
+            23,
+            980,
+            177
+          ],
+          "targetBox": [
+            135,
+            23,
+            845,
+            154
+          ],
+          "imageSha256": "a5e0fe0f565d5896105e7bf70f911cc52ecc0088746d65d8084c468cc72542cd",
+          "pixelSha256": "e740e489d441e421f2a530e17ee9d4de4f864adab0732583d7459bb323e35042",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-25-fact-2.webp",
+          "sourceBox": [
+            156,
+            26,
+            986,
+            60
+          ],
+          "targetBox": [
+            156,
+            26,
+            830,
+            34
+          ],
+          "imageSha256": "da485b322a2fc79d44b390228ec8ee68c89e9916c8a9f008b70fc8165267ee70",
+          "pixelSha256": "5f9de132d93751ed71079e60e8772bd814746f774fd914808c25ec0f970ef792",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-25-fact-3.webp",
+          "sourceBox": [
+            133,
+            65,
+            986,
+            99
+          ],
+          "targetBox": [
+            133,
+            65,
+            853,
+            34
+          ],
+          "imageSha256": "67b36f649c87417dd944e61f91373f42ca6b7ba96659fa09eddeb13c7705cdd5",
+          "pixelSha256": "38f3494e8b4af66371917c96a9e4203b3d36692a4f1f1c324c9ef9167380bb69",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-25-fact-4.webp",
+          "sourceBox": [
+            133,
+            105,
+            986,
+            138
+          ],
+          "targetBox": [
+            133,
+            105,
+            853,
+            33
+          ],
+          "imageSha256": "45de65c1c319be794e2a98f4d15b70f54d210130af86bb702b0275e421678b8a",
+          "pixelSha256": "94e48e52e6fe1536bbd1b97034ac9767192b2bdc898a614762a29ce7ed6ad6d8",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "71-26": {
     "exam": 71,
@@ -4526,7 +5885,162 @@
     "pngSha256": "ed34abcd92a692f9f5e1a833c3da952bc122dbe78d30e7a27f658329fb1ee452",
     "pixelSha256": "2bddd5306564f10a2330ae6f491c7603a568177037b7299f5314b8182714d926",
     "imageFile": "71-26.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/71-26.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        694
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            694
+          ],
+          [
+            0,
+            694
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "3542e1ae62f5ac3c78c56562b4789578f9d2f67d77081d3a7eeb51d52b1852ec",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1507,
+        1044
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/71-26-fact-0.webp",
+          "sourceBox": [
+            27,
+            24,
+            518,
+            143
+          ],
+          "targetBox": [
+            27,
+            24,
+            491,
+            119
+          ],
+          "imageSha256": "3b78f7c0a8d8011578c5cc30238bdc5239233da44a8524a9e81949f9939be123",
+          "pixelSha256": "05960ee39afb99fce947fd7fec04566fd80e64693135b6700117d65a7158bb47",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-26-fact-1.webp",
+          "sourceBox": [
+            609,
+            25,
+            975,
+            145
+          ],
+          "targetBox": [
+            609,
+            25,
+            366,
+            120
+          ],
+          "imageSha256": "35775d3bbf67f86a87c2b1aae1b9a93919afabd9b9c1803b22d9878f9bfcdcba",
+          "pixelSha256": "95d8a41c7317206e4449561e5ba6b57f2f1c17eab0d90b0a4353841f2f23ece3",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-26-fact-2.webp",
+          "sourceBox": [
+            632,
+            27,
+            985,
+            61
+          ],
+          "targetBox": [
+            632,
+            27,
+            353,
+            34
+          ],
+          "imageSha256": "ddf73b7798372a5973476b8b7fd2573c4fc4da9ced2739fe810cb284368d6653",
+          "pixelSha256": "a2affefaf61a4a21183b9d4cb7cd70c7ccf1a5e86569c345a023e831574d1be9",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-26-fact-3.webp",
+          "sourceBox": [
+            608,
+            67,
+            985,
+            100
+          ],
+          "targetBox": [
+            608,
+            67,
+            377,
+            33
+          ],
+          "imageSha256": "235fb3bae552ccc52a60338495c143c78ab9369b051d8dd43f94f95e3fff937b",
+          "pixelSha256": "8dbfb59da2bbf65b543fd3993cc59fe18e1ba71feacc33075f1260a40bb0a5fb",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-26-fact-4.webp",
+          "sourceBox": [
+            53,
+            27,
+            527,
+            61
+          ],
+          "targetBox": [
+            53,
+            27,
+            474,
+            34
+          ],
+          "imageSha256": "6f5e95273fb7874a0fefca16b57410bb793938d6bdaefa49fcc8f348f14afcb5",
+          "pixelSha256": "02f07a3dcc89a60b194ca471c4262d76dfe6c4120df9c93105a83ecd8a15123f",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/71-26-fact-5.webp",
+          "sourceBox": [
+            29,
+            67,
+            527,
+            100
+          ],
+          "targetBox": [
+            29,
+            67,
+            498,
+            33
+          ],
+          "imageSha256": "6caa7447fdc7bfb0ee44164a1411a7a082fe50e8bdae8bce2e7be4153cc3e65b",
+          "pixelSha256": "7c8de50a6f603f195676c22a4ce925803933912c926fdfb325252a18bc13773c",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "71-27": {
     "exam": 71,
@@ -6582,7 +8096,200 @@
     "pngSha256": "158105c7a96f8ff5c18d849bb430c3215bfdd8d259d7d01c0ddf148c9eac6736",
     "pixelSha256": "86da84605af2658043d89df6383a4646eb7fac091dd3b0341ab2505847ee2aa6",
     "imageFile": "72-18.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/72-18.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        580
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            580
+          ],
+          [
+            0,
+            580
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "fa186384a346ac8e14c8fe5347238b6a39f790f8c1f4e1da8e18ba394a23e903",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1648,
+        954
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/72-18-fact-0.webp",
+          "sourceBox": [
+            27,
+            24,
+            515,
+            191
+          ],
+          "targetBox": [
+            27,
+            24,
+            488,
+            167
+          ],
+          "imageSha256": "dff659f1e3f3ed19ca900fd10d12664e2c1a14ee285e7f22408f70c9b8143a76",
+          "pixelSha256": "43dd460dbd361ec119d60781982b89e02a2a887e9d55ea295e48408ec616c5f6",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-18-fact-1.webp",
+          "sourceBox": [
+            575,
+            24,
+            970,
+            190
+          ],
+          "targetBox": [
+            575,
+            24,
+            395,
+            166
+          ],
+          "imageSha256": "87051de085ddc96c098108644d26b6dbe02848c06bf1dbee054a0f5b966a822d",
+          "pixelSha256": "c1b38493c7e4c05c7fd12cebcd9a1f87d3d857eff7d23e7a1be46875dcad0402",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-18-fact-2.webp",
+          "sourceBox": [
+            621,
+            31,
+            981,
+            66
+          ],
+          "targetBox": [
+            621,
+            31,
+            360,
+            35
+          ],
+          "imageSha256": "54166b9f310256b124ed2a274838358b628b894ea667fe6e76be3b47e470f464",
+          "pixelSha256": "2ef428bb0028eb0fcff3f256b89447f4100b1d8ca85d576a19bab81f875d8e64",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-18-fact-3.webp",
+          "sourceBox": [
+            597,
+            72,
+            981,
+            108
+          ],
+          "targetBox": [
+            597,
+            72,
+            384,
+            36
+          ],
+          "imageSha256": "e11dd95103ca7504ebbfa470e759c8ff2175029c4993648420d1d23e956e3ca6",
+          "pixelSha256": "e18d683d9f52e3f5e8daa4e78e37108036bfc00c0e8682f73f11b8461864b0dc",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-18-fact-4.webp",
+          "sourceBox": [
+            597,
+            114,
+            981,
+            150
+          ],
+          "targetBox": [
+            597,
+            114,
+            384,
+            36
+          ],
+          "imageSha256": "b86e128f3425e8c73d9ce18fb2806525b227ab1c12d767818cdf2888b1afa70e",
+          "pixelSha256": "861caee33c06009ce0d68325dfb5e37d6412dd8a740e24b6402698dc2298b46c",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-18-fact-5.webp",
+          "sourceBox": [
+            55,
+            31,
+            522,
+            67
+          ],
+          "targetBox": [
+            55,
+            31,
+            467,
+            36
+          ],
+          "imageSha256": "8a0e3aa5d6315dace1540a8011e4d81a58553966461dbb2473cfe7d953b98daa",
+          "pixelSha256": "0fb0ad5b0b41fff2ef9be028a8bbf1478df0db5e295d4ac724b60d4491844996",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-18-fact-6.webp",
+          "sourceBox": [
+            31,
+            73,
+            522,
+            109
+          ],
+          "targetBox": [
+            31,
+            73,
+            491,
+            36
+          ],
+          "imageSha256": "06a83a0b8c98096f58443b89880f8f3323095f86e4574ed21050999fb6f7afa4",
+          "pixelSha256": "9b950cad0e91c441b0b28dd4ccd42e6018334747048b30f91985b24cf097802f",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-18-fact-7.webp",
+          "sourceBox": [
+            31,
+            115,
+            522,
+            150
+          ],
+          "targetBox": [
+            31,
+            115,
+            491,
+            35
+          ],
+          "imageSha256": "e4a65ae0cc8214723795523cdac9f480c5865dbecc108a8ed4ef93213294ce7b",
+          "pixelSha256": "c596780c2882083019e8216440882e086793db25cdaa376c451c6ec6179d0db4",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "72-19": {
     "exam": 72,
@@ -7401,7 +9108,162 @@
     "pngSha256": "a2bc3e5b1c2974eed5a111adc5873be46e6df7100e1141bfba378f3ed366a2e6",
     "pixelSha256": "56927b6c4ed1370acdaf55ade7634191ae8b5b8df4b3190e88572531f3c3b65d",
     "imageFile": "72-32.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/72-32.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        531
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            531
+          ],
+          [
+            0,
+            531
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "2c1de32542c861f8470402707feda059c16dc5a58dd7a79614ab00c3cc8ea077",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1722,
+        913
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/72-32-fact-0.webp",
+          "sourceBox": [
+            395,
+            0,
+            611,
+            531
+          ],
+          "targetBox": [
+            395,
+            0,
+            216,
+            531
+          ],
+          "imageSha256": "c11efa7ab27de535a116b454c4caf2236b2dcc87a99ea9566663ac28e1602b9c",
+          "pixelSha256": "223a44e446466b8670c167f667d2f3d6f80dbdc8993e2086a8dae962ddf53b25",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-32-fact-1.webp",
+          "sourceBox": [
+            25,
+            25,
+            147,
+            224
+          ],
+          "targetBox": [
+            25,
+            25,
+            122,
+            199
+          ],
+          "imageSha256": "8c408b14f112ce853ff17047ecc11493b343c177f577e21f6d7e204e60a69052",
+          "pixelSha256": "bb9a7632c58030906b8db1534796eb77a6582d52c93c6b22915f1d6f336df6cd",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-32-fact-2.webp",
+          "sourceBox": [
+            172,
+            23,
+            434,
+            224
+          ],
+          "targetBox": [
+            172,
+            23,
+            262,
+            201
+          ],
+          "imageSha256": "a5090bfc720428d54e57e00677307f704406a745c07f84c01acdd42045e7ad15",
+          "pixelSha256": "157d1c362959d08b7d1ac6e5cf6174bb7cc76d62562e2de5a29cca5fcff9046e",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-32-fact-3.webp",
+          "sourceBox": [
+            576,
+            24,
+            749,
+            224
+          ],
+          "targetBox": [
+            576,
+            24,
+            173,
+            200
+          ],
+          "imageSha256": "f7bbd170ca48e93c88147f148c591da4f6cef13816c078bd485c323a41c5ba4c",
+          "pixelSha256": "4c36ad1607a3352b5293fe7c7f8e8e2bd8b74a517c7e3bf9a24f995c50da6f7b",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-32-fact-4.webp",
+          "sourceBox": [
+            804,
+            25,
+            975,
+            224
+          ],
+          "targetBox": [
+            804,
+            25,
+            171,
+            199
+          ],
+          "imageSha256": "baffc8bac810de6fc28274668da37aed9b0461606bd0b20faa39b83ecdd75d0a",
+          "pixelSha256": "007ec13d4aabf874a222ddefec7a16c9d1a25b206093a52509feb39c9d99b347",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-32-fact-5.webp",
+          "sourceBox": [
+            183,
+            29,
+            441,
+            63
+          ],
+          "targetBox": [
+            183,
+            29,
+            258,
+            34
+          ],
+          "imageSha256": "2861c995e04d0c3ea0d15db0ba1eb3735c7696651307324327858691b64fd419",
+          "pixelSha256": "9ae95c4a15ce3ce67ff717e536a525bdf91f67c1ebf61f9f00e27f25bba4f961",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "72-33": {
     "exam": 72,
@@ -8064,7 +9926,143 @@
     "pngSha256": "ebf13f0f4b180a1528fe21a50dfd86a6b1db951d3a0051a95ac8e80bcb08b7d6",
     "pixelSha256": "3a231f226f6086ea074e0a7b560987277b57903def224d254248787dd56bdba4",
     "imageFile": "72-44.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/72-44.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        729
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            729
+          ],
+          [
+            0,
+            729
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "6bed6b9c7ac60b18292edc8919cfca0f6ef13fd3ec9f54708b4164434bcac1af",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1470,
+        1070
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/72-44-fact-0.webp",
+          "sourceBox": [
+            119,
+            259,
+            524,
+            656
+          ],
+          "targetBox": [
+            121,
+            248,
+            405,
+            393
+          ],
+          "imageSha256": "4f63ab061a7a8ff9d2ad049f32a991646cbd8f58f4e50e776715f60b0bd003e1",
+          "pixelSha256": "0a8f107991e8015b7fb6dfa140c42b0ee41dc4eb71e9047ca3946c2878ac4ef8",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-44-fact-1.webp",
+          "sourceBox": [
+            63,
+            24,
+            975,
+            184
+          ],
+          "targetBox": [
+            63,
+            24,
+            912,
+            160
+          ],
+          "imageSha256": "4e3dddef9c762b08c0d4bfebe092397df27070e16ba4d2dc2fc0f39f63a598ef",
+          "pixelSha256": "ea331adc7b7c7394a24b622874202a244cef1c2ae16b64f1bbe8f16741eae649",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-44-fact-2.webp",
+          "sourceBox": [
+            85,
+            29,
+            985,
+            63
+          ],
+          "targetBox": [
+            85,
+            29,
+            900,
+            34
+          ],
+          "imageSha256": "9f26d7b1755c456517be40d3250d7f29dcffed33e3f9302e4d43d5e4838499a1",
+          "pixelSha256": "d885ca23341c92c2b6e4dd6d63bc909c778a6a818ed09a347640606fc5daf93d",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-44-fact-3.webp",
+          "sourceBox": [
+            62,
+            68,
+            985,
+            102
+          ],
+          "targetBox": [
+            62,
+            68,
+            923,
+            34
+          ],
+          "imageSha256": "3ea4f9031f8f57afe24cda9da8a6408d01cf14abe8e6eb10579f6e1196fb6c2e",
+          "pixelSha256": "1beb7b502faad78fbe77d064fc66a2439c100bf2525e0945516ad92381c6b5d3",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/72-44-fact-4.webp",
+          "sourceBox": [
+            62,
+            108,
+            984,
+            141
+          ],
+          "targetBox": [
+            62,
+            108,
+            922,
+            33
+          ],
+          "imageSha256": "3bc3bbb683b6301eafc6efb715c1f7d53e9e8fe8347c82fc44da61a6fc128b19",
+          "pixelSha256": "035e75d01e2e05d4ffcaa45f70a9430e8678fc2dcf9793d4d372e11592889fdc",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "72-45": {
     "exam": 72,
@@ -9327,7 +11325,86 @@
     "pngSha256": "4bc68398b7fcf35e1ef020f06e14eeb3b5585112c2bc321b17ad26d4b55cf084",
     "pixelSha256": "7f30e6e7b019a321283f7ce1a38e05329fc80d59700ed47c297fba2215b1d43f",
     "imageFile": "73-17.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/73-17.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        635
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            635
+          ],
+          [
+            0,
+            635
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "f366318cfeb6929821fd2a2d101751ef558901b64c76eb48ce6baea018d8353d",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1575,
+        999
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/73-17-fact-0.webp",
+          "sourceBox": [
+            26,
+            24,
+            415,
+            143
+          ],
+          "targetBox": [
+            26,
+            24,
+            389,
+            119
+          ],
+          "imageSha256": "9ce4918abe3cb2fd50123cc93eba14c364ddd4024a7c5d14899814a665c84949",
+          "pixelSha256": "648be42cf281c02b3f1e0e3ca38b371c338e2aed00edc9058e63465763ee8b25",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/73-17-fact-1.webp",
+          "sourceBox": [
+            505,
+            25,
+            975,
+            143
+          ],
+          "targetBox": [
+            505,
+            25,
+            470,
+            118
+          ],
+          "imageSha256": "b18256df85b768f5089e99fd1afad706ea2f9485fdaa53cc027030f93968ca5b",
+          "pixelSha256": "0c63b7a2526e113be58090ca1225abfa4354f3bbea4b0b66ca7f54f3cdf2c6b1",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "73-18": {
     "exam": 73,
@@ -10218,7 +12295,86 @@
     "pngSha256": "bd0763d4bed1e5387e7c0593c4c2f9eedf5629e65cce751aad660fedbcf7dcd8",
     "pixelSha256": "fa35595e31f4d4f47c968e9f80101cd23d03a40cc702459edce0cb860674e8a8",
     "imageFile": "73-35.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/73-35.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        558
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            558
+          ],
+          [
+            0,
+            558
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "f00155ce08c0d8da24edf02839dfbce6027e139b4f46893ab6bba57a6612004c",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1681,
+        936
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/73-35-fact-0.webp",
+          "sourceBox": [
+            27,
+            25,
+            510,
+            140
+          ],
+          "targetBox": [
+            27,
+            25,
+            483,
+            115
+          ],
+          "imageSha256": "072f3d323ffbc29040bc0d4e9b40c518220c9255ea2f0de22d238fcd26d274e7",
+          "pixelSha256": "5c97f58381ed9c948d530c89a0410c9d5f4959631998d894773b3a34199d85d0",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/73-35-fact-1.webp",
+          "sourceBox": [
+            643,
+            24,
+            974,
+            138
+          ],
+          "targetBox": [
+            643,
+            24,
+            331,
+            114
+          ],
+          "imageSha256": "1048c3cf542a50340614eae7299016aabe2c709746a14a3df1954528c9c1cba9",
+          "pixelSha256": "0ef78574314312dbfec3a58c1de7c445d4cd529d1c925b46695b6b4fbd5f0db7",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "73-36": {
     "exam": 73,
@@ -10770,7 +12926,227 @@
     "pngSha256": "0beec963ee8837910c78f34ea89680c2ccd6654dc1caf6342e6d84a876bc3008",
     "pixelSha256": "339f40a4298abca3a239430be786a86ae5d4103b8deada31d89c2decc5056e85",
     "imageFile": "73-44.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/73-44.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        580
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            580
+          ],
+          [
+            0,
+            580
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "488567a6ea4233cecdd660011b26a1b5f367d19542d9718a5a03c37588485b79",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1648,
+        954
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/73-44-fact-0.webp",
+          "sourceBox": [
+            505,
+            282,
+            829,
+            575
+          ],
+          "targetBox": [
+            505,
+            282,
+            324,
+            293
+          ],
+          "imageSha256": "95f8f3b0668b903e8f2434d7a3f36d31e32a5c45640bea87caf2d073ec1a303f",
+          "pixelSha256": "248a2d8babb410b89cd7276c2b44f7ab19021f7b1cca917e6b2f68bc78f7d0ef",
+          "role": "authentic-material",
+          "sourceScale": 2,
+          "clipPoints": [
+            [
+              670,
+              290
+            ],
+            [
+              736,
+              290
+            ],
+            [
+              750,
+              304
+            ],
+            [
+              753,
+              347
+            ],
+            [
+              757,
+              371
+            ],
+            [
+              790,
+              402
+            ],
+            [
+              807,
+              444
+            ],
+            [
+              817,
+              495
+            ],
+            [
+              818,
+              574
+            ],
+            [
+              617,
+              574
+            ],
+            [
+              611,
+              565
+            ],
+            [
+              606,
+              550
+            ],
+            [
+              566,
+              546
+            ],
+            [
+              545,
+              537
+            ],
+            [
+              516,
+              527
+            ],
+            [
+              510,
+              516
+            ],
+            [
+              524,
+              507
+            ],
+            [
+              541,
+              505
+            ],
+            [
+              553,
+              505
+            ],
+            [
+              550,
+              495
+            ],
+            [
+              563,
+              493
+            ],
+            [
+              582,
+              504
+            ],
+            [
+              605,
+              513
+            ],
+            [
+              624,
+              517
+            ],
+            [
+              627,
+              450
+            ],
+            [
+              641,
+              412
+            ],
+            [
+              664,
+              390
+            ],
+            [
+              670,
+              374
+            ],
+            [
+              662,
+              350
+            ],
+            [
+              660,
+              316
+            ]
+          ]
+        },
+        {
+          "asset": "appearance-art/73-44-fact-1.webp",
+          "sourceBox": [
+            27,
+            25,
+            417,
+            221
+          ],
+          "targetBox": [
+            27,
+            25,
+            390,
+            196
+          ],
+          "imageSha256": "0a960e9414e2f6c85b4b513e1332dff9cdd1b30e4000c629f358b1b5880dc45c",
+          "pixelSha256": "879b7f752a90c8c7aa7da5af87273aa321bc20b4abe206ec25f628bd0ec4323c",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/73-44-fact-2.webp",
+          "sourceBox": [
+            490,
+            25,
+            974,
+            221
+          ],
+          "targetBox": [
+            490,
+            25,
+            484,
+            196
+          ],
+          "imageSha256": "1310808d89f3cf73c1dc96064df50cb4e7205dd1ea9f94fa91b660085172fd75",
+          "pixelSha256": "598c92daeff0e3731edf9bdf1c12473864d126f71c089174962a3088619f25fb",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "73-45": {
     "exam": 73,
@@ -11805,7 +14181,86 @@
     "pngSha256": "77fde9b8ec3916fb5c1861bb0407b79a53a2bfb59cd7fe3fd186269f4109466b",
     "pixelSha256": "b60f0bf1f948ec7f06b871a503afc834874b57a90873b56e99a1ff0aed932f8b",
     "imageFile": "74-10.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/74-10.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        658
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            658
+          ],
+          [
+            0,
+            658
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "0b972db8219db3eae7f96b601776ba37ac625eab79f0c5e865627557969cef5a",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1547,
+        1017
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/74-10-fact-0.webp",
+          "sourceBox": [
+            24,
+            25,
+            417,
+            110
+          ],
+          "targetBox": [
+            24,
+            25,
+            393,
+            85
+          ],
+          "imageSha256": "8b8b8b246c7079b993fc1d588cbf1bd4a2d5df1a25b093d3dbaa30763622d0f4",
+          "pixelSha256": "b9d5f3c0fc4375c0231cd507eb91933b877df4b179b64b934b7a749f9815dbd1",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/74-10-fact-1.webp",
+          "sourceBox": [
+            494,
+            26,
+            975,
+            156
+          ],
+          "targetBox": [
+            494,
+            26,
+            481,
+            130
+          ],
+          "imageSha256": "33cbbeeccc12777924ee1d1eccdff10462a9ce92ee2f2d3fbc659589d1e4e216",
+          "pixelSha256": "a8ff588e14983e34eb3b9a206b11ae403f2916fcbcd0dd3c5b366a5ad486034a",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "74-11": {
     "exam": 74,
@@ -12618,7 +15073,143 @@
     "pngSha256": "d9f3c0460962e9789f2c2f8eead1b40be37ef4d85d42e1317f1b76f0b6c5cb05",
     "pixelSha256": "184e06d0caef591e140a4c2bea1db9b913781645c2e4f30df09fc65b09e3163a",
     "imageFile": "74-22.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/74-22.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        483
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            483
+          ],
+          [
+            0,
+            483
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "4f047e1a5321c5206981f28efb321df1ca6e608b940f4b85a6d5b1e1bc29e3f3",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1806,
+        871
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/74-22-fact-0.webp",
+          "sourceBox": [
+            14,
+            239,
+            395,
+            471
+          ],
+          "targetBox": [
+            14,
+            239,
+            381,
+            232
+          ],
+          "imageSha256": "f03f85e918a0f0961d0b1cba74902316bc2ce766f041dd2797817e1ab12a0d8b",
+          "pixelSha256": "64e1c55179bee1cbd216c76851a5a7edf92b1a08ebf5cfa425c875da5e38282f",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/74-22-fact-1.webp",
+          "sourceBox": [
+            395,
+            0,
+            611,
+            483
+          ],
+          "targetBox": [
+            395,
+            0,
+            216,
+            483
+          ],
+          "imageSha256": "21d2e38cb5157c55de5a3d6606f0b82439f7baa572a3c210de3d1bec9509ae8e",
+          "pixelSha256": "af074e389500cadb5e12e078ac649437d9cd64c88ba79e2e0f9b4a2486ad5856",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/74-22-fact-2.webp",
+          "sourceBox": [
+            27,
+            26,
+            386,
+            219
+          ],
+          "targetBox": [
+            27,
+            26,
+            359,
+            193
+          ],
+          "imageSha256": "f9b10245606797d2e8785ffc66ca7a8ffc49f01668345d6fe8239669edb49c15",
+          "pixelSha256": "6fc59afd4fff175e9d431ab74eaaedf1f57c1dd6b262a321d017b484452543b5",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/74-22-fact-3.webp",
+          "sourceBox": [
+            453,
+            26,
+            706,
+            189
+          ],
+          "targetBox": [
+            453,
+            26,
+            253,
+            163
+          ],
+          "imageSha256": "d76b7d6937184df78568e65529d4141fd0fe22a48c26adaf6cd34e8cf36b6cd3",
+          "pixelSha256": "f146731429f57d0944f4ea83628e543e36e7e4c44e9f93864eb614276f32192f",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/74-22-fact-4.webp",
+          "sourceBox": [
+            739,
+            51,
+            977,
+            181
+          ],
+          "targetBox": [
+            739,
+            51,
+            238,
+            130
+          ],
+          "imageSha256": "a9b32e9b90dda8d80093a527c48871b90b72b362d50db972a5e8ba78a783deb3",
+          "pixelSha256": "5d180f681efe9c712f3ef1e71969dceada647ba91131150e1f259c739e837581",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "74-23": {
     "exam": 74,
@@ -15238,7 +17829,105 @@
     "pngSha256": "f67e8ba2367775f8dcc857278ff9df7d9205d39cb42ce8e9e14c6f919403b725",
     "pixelSha256": "b310c588fff962897a036c3e7794b97e1ec0d12e99ef9de8b7e63ab2210332ba",
     "imageFile": "75-20.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-20.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        890
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            890
+          ],
+          [
+            0,
+            890
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "ffd8a2e755cc3cfb78289c8eead26ca0bc251df3dabc96caac0af524063c9dee",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1330,
+        1182
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/75-20-fact-0.webp",
+          "sourceBox": [
+            172,
+            154,
+            349,
+            655
+          ],
+          "targetBox": [
+            148,
+            134,
+            186,
+            529
+          ],
+          "imageSha256": "078823e12d8702256a694de038692285665a2faf5dc2c820a5f4a4eee9e43737",
+          "pixelSha256": "08904749f1b88e5cbf5806fc910c841cbdc083d4602895412d7d9c9928c126ce",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-20-fact-1.webp",
+          "sourceBox": [
+            462,
+            380,
+            552,
+            484
+          ],
+          "targetBox": [
+            441,
+            372,
+            89,
+            114
+          ],
+          "imageSha256": "cd7b420d28609b63c9478aee8f7099b0398ecb4a08b68b61cc882e23dcec63dd",
+          "pixelSha256": "aef721431b0cb287397cddf744993fbc76b45f0d7e8675a7933c1a53a57b71f6",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-20-fact-2.webp",
+          "sourceBox": [
+            383,
+            28,
+            974,
+            306
+          ],
+          "targetBox": [
+            424,
+            26,
+            555,
+            257
+          ],
+          "imageSha256": "ee3f52ffa7668cf56599dadf7c3b3bffc844d2851ee79e50c6a4b7db7b406dca",
+          "pixelSha256": "a61af27d71983b2d35d52134a12584b47a52e9b36f630b9976a4a15b7fc6c6e5",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "75-21": {
     "exam": 75,
@@ -15683,7 +18372,295 @@
     "pngSha256": "d40f184997b94856a81f4cb129710bf97c733825ec2d6d6613b23b59d91467ac",
     "pixelSha256": "4574ee4b66bd2b40c849abbcf541a3c4d79356931528bc5997c9c1669a5ab2c9",
     "imageFile": "75-25.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/75-25.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        942
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            942
+          ],
+          [
+            0,
+            942
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "7977e81604e62ec4bde38db350615794118690df74fb11ece869992ae06a88b7",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1293,
+        1216
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/75-25-fact-0.webp",
+          "sourceBox": [
+            247,
+            284,
+            765,
+            666
+          ],
+          "targetBox": [
+            247,
+            284,
+            518,
+            382
+          ],
+          "imageSha256": "7daa4ea0288fc8a80982e62b2c86d1453fb77533c971ab18d08ab7f0ab500d3d",
+          "pixelSha256": "2f4bd9982f66e069070e46c19aa719e0adf5f38be4e14f1e1f1013b0ee0544c8",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-1.webp",
+          "sourceBox": [
+            26,
+            25,
+            391,
+            255
+          ],
+          "targetBox": [
+            26,
+            25,
+            365,
+            230
+          ],
+          "imageSha256": "932252a88ccd074bcb7e8cd20df68a48767fad95e14538e7706c389f247df795",
+          "pixelSha256": "3ca20e68c1b4d74806de8071968be3810dabd5de1ea9d2936405f9902cfdeb0b",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-2.webp",
+          "sourceBox": [
+            527,
+            26,
+            974,
+            256
+          ],
+          "targetBox": [
+            527,
+            26,
+            447,
+            230
+          ],
+          "imageSha256": "43530c065cccaf55f853ee1cd6a36a4250ef8cc7029d9fc442937e4fab88eaf2",
+          "pixelSha256": "46a1965d66240d92a885a45001bc8b3347f2ff9ffd23e4f7a496fb2bae6d2590",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-3.webp",
+          "sourceBox": [
+            50,
+            28,
+            397,
+            62
+          ],
+          "targetBox": [
+            50,
+            28,
+            347,
+            34
+          ],
+          "imageSha256": "40cb822338e30868448baddaea22dc14d3e614128711b3bf1297012d67234a9d",
+          "pixelSha256": "1e7d4de9d253b2ce0129d95df6208721ba44463d43f02c6add509678c9509756",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-4.webp",
+          "sourceBox": [
+            27,
+            67,
+            397,
+            101
+          ],
+          "targetBox": [
+            27,
+            67,
+            370,
+            34
+          ],
+          "imageSha256": "38f9791f289a1cd60516c4fcdc036fdf1c32227e7aa8452acb020468618282a9",
+          "pixelSha256": "e85f64a1aa826af46ac257a4774547dc6d4f70aa4e75a709aeb9f53e92b3020d",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-5.webp",
+          "sourceBox": [
+            27,
+            106,
+            397,
+            140
+          ],
+          "targetBox": [
+            27,
+            106,
+            370,
+            34
+          ],
+          "imageSha256": "53d45eaee329ab6cf44a84c9af5ae9f7420f80a38a4e85f3b302040550d41f56",
+          "pixelSha256": "17a18bab6a3c8536dcc4c6349e506fc9408bf791d36dcf2fe6f0c7a5c9d12cc4",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-6.webp",
+          "sourceBox": [
+            27,
+            146,
+            397,
+            179
+          ],
+          "targetBox": [
+            27,
+            146,
+            370,
+            33
+          ],
+          "imageSha256": "ce352abb54679f0708d8ab017cbbf6c88dc7e76b89099c1708c9bca39d46fd28",
+          "pixelSha256": "e3c3b00dc0fc5b18d6e15bb589f636162fd48d07a2e464e6cb4d7071c13f29b1",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-7.webp",
+          "sourceBox": [
+            27,
+            185,
+            397,
+            219
+          ],
+          "targetBox": [
+            27,
+            185,
+            370,
+            34
+          ],
+          "imageSha256": "68688f0e7a6a4e92754e72e2c5e801cb71c44054d2577defcc55e3a6ed3be575",
+          "pixelSha256": "af2fe547a3513ac725b9793a949254b6f51f9a62575e80d7b48fdf996b5333e2",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-8.webp",
+          "sourceBox": [
+            551,
+            28,
+            986,
+            62
+          ],
+          "targetBox": [
+            551,
+            28,
+            435,
+            34
+          ],
+          "imageSha256": "98570d2878fa78a79a95353fe21d6d37172b3d8135ead006bbb7d53cd8943c38",
+          "pixelSha256": "205244ac5eaf114f95306755323920fef64fa396514986e881449e3bd332d977",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-9.webp",
+          "sourceBox": [
+            528,
+            67,
+            986,
+            101
+          ],
+          "targetBox": [
+            528,
+            67,
+            458,
+            34
+          ],
+          "imageSha256": "93c791abb9e6a1129dfb0293cbbc445e88c4ac3fa9594f98e5615bd05984e254",
+          "pixelSha256": "a5df68b507e10199f03c16ff0b80fb5f57211117e59ac5f67417091c017132c4",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-10.webp",
+          "sourceBox": [
+            528,
+            106,
+            985,
+            140
+          ],
+          "targetBox": [
+            528,
+            106,
+            457,
+            34
+          ],
+          "imageSha256": "d63fad4464fb7ffbf702f8308f5331e00a2a6de32bc715fb75047ce11692ebb6",
+          "pixelSha256": "ba27f10bbcad403a47080f0dd057fb7e86eb8df59810ff9c53f729aff7747408",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-11.webp",
+          "sourceBox": [
+            528,
+            146,
+            985,
+            179
+          ],
+          "targetBox": [
+            528,
+            146,
+            457,
+            33
+          ],
+          "imageSha256": "e6e733f0ea04a1b0911a8e7765b727af6039e08af769ab18b27e6de80634dca0",
+          "pixelSha256": "6d9aeb149a900ce9685b5e3c37328ac8e12eebf9fe1d978f9fdfbdbcb6a9d585",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-25-fact-12.webp",
+          "sourceBox": [
+            528,
+            185,
+            985,
+            219
+          ],
+          "targetBox": [
+            528,
+            185,
+            457,
+            34
+          ],
+          "imageSha256": "8c263dac7e9d54a576951086a4c8d94a484bdbd393a7d5d33204f4bc7957fe85",
+          "pixelSha256": "7adb3f4a1c629f79ab670a77e0324c215cca4dea087519afcbaaaa49b8d6076e",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "75-26": {
     "exam": 75,
@@ -17251,53 +20228,157 @@
     "appearanceEdit": {
       "asset": "appearance-art/75-48.webp",
       "box": [
-        43,
-        179,
-        952,
-        608
+        0,
+        0,
+        1001,
+        787
       ],
       "polygons": [
         [
           [
-            47.65498648503599,
-            183.1939773753961
+            0,
+            0
           ],
           [
-            283.3870212214188,
-            183.23715655326635
+            1001,
+            0
           ],
           [
-            283.2769523233725,
-            784.1463581044432
+            1001,
+            787
           ],
           [
-            47.54491758698968,
-            784.1031789265729
-          ]
-        ],
-        [
-          [
-            733.1653498496108,
-            183.3195427188791
-          ],
-          [
-            990.1815376371492,
-            183.36662052780065
-          ],
-          [
-            990.071468739103,
-            784.2758220789775
-          ],
-          [
-            733.0552809515646,
-            784.2287442700559
+            0,
+            787
           ]
         ]
       ],
-      "style": "BOTH standing women: LEFT auburn-haired adult with rounder warm face in sunny ivory bow-neck knee-length dress; RIGHT dark-haired adult with sharper emerald almond eyes in sage green pleated midi dress with white collar. Clearly distinct faces and hairstyles, never twins.",
-      "kind": "outfit",
-      "imageSha256": "c8d23803050d1a4b8d35e8157d24f109d9ce93245fafe698d705b76776928abe",
-      "protectedRects": []
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "9c007ed9c2d81698f62febd6532241d20c58ec49490ab644d7ad195a83c4ccbf",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1415,
+        1112
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/75-48-fact-0.webp",
+          "sourceBox": [
+            237,
+            124,
+            736,
+            476
+          ],
+          "targetBox": [
+            237,
+            124,
+            499,
+            352
+          ],
+          "imageSha256": "682ad143c8f490c5c3e41c63813f15ee08ed30d758f95437ee2af0492831245f",
+          "pixelSha256": "8a77c17a2f408475141f2943e73b073e412c9835a5a17adc7d695dd1e06403fa",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-48-fact-1.webp",
+          "sourceBox": [
+            27,
+            25,
+            412,
+            146
+          ],
+          "targetBox": [
+            27,
+            25,
+            385,
+            121
+          ],
+          "imageSha256": "0634793f2fcc2d6f5ec47cc56cf3af01fdb3485cdc6ff2fc5110acd741fb8ab8",
+          "pixelSha256": "7120b08d7260ba3af1f3ed80c2e7b2d53e925f1b8b0f177bab08b44167496540",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-48-fact-2.webp",
+          "sourceBox": [
+            610,
+            25,
+            974,
+            148
+          ],
+          "targetBox": [
+            610,
+            25,
+            364,
+            123
+          ],
+          "imageSha256": "48b727ab8ceb4e894a431504430b73d4041350cf4034fda4d2a666891822d7e6",
+          "pixelSha256": "b7011278b84ef8eefd394a2b4745fb1dc3a8b37cfca907fe71ab3158f0134f0b",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-48-fact-3.webp",
+          "sourceBox": [
+            623,
+            28,
+            985,
+            62
+          ],
+          "targetBox": [
+            623,
+            28,
+            362,
+            34
+          ],
+          "imageSha256": "edcb7c9212ac7aa4e1bd137909ab701ce4847b763cbadcdd97079b7d7ec498c4",
+          "pixelSha256": "e9c2dfc3c5996866b4743e6dc1fe8647b0a07003ae7ed511a3f013d8140b7fde",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-48-fact-4.webp",
+          "sourceBox": [
+            600,
+            68,
+            985,
+            101
+          ],
+          "targetBox": [
+            600,
+            68,
+            385,
+            33
+          ],
+          "imageSha256": "e8305037e6bc5921818a402a86056ecbeb28205f0ab244ef447857d3473307de",
+          "pixelSha256": "2d261f7de37db47e935808c06b1838f16ce05568900d6170a17be6daab1859ab",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/75-48-fact-5.webp",
+          "sourceBox": [
+            600,
+            107,
+            916,
+            140
+          ],
+          "targetBox": [
+            600,
+            107,
+            316,
+            33
+          ],
+          "imageSha256": "d2a3ab9d9eb4a6de3a93551c5c4d132d11151ea19999542af9b09b3e835fa8ac",
+          "pixelSha256": "742244b186f78f310253e790de78df0109518411630bbf120b4042b70b7742ce",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
     }
   },
   "75-49": {
@@ -18819,7 +21900,181 @@
     "pngSha256": "7532f607bcc679af8847e1d4762d138b7443916e579dc0bad5ea532080a884f5",
     "pixelSha256": "2d792477df5ddf360dfe780b1e98a7f336bd4b7f768b763d4d932b944d88981a",
     "imageFile": "76-26.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/76-26.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        651
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            651
+          ],
+          [
+            0,
+            651
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "e89784690967a39995b532805b2b7da57a655d44a2d43f76f2c6f282ca406859",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1556,
+        1011
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/76-26-fact-0.webp",
+          "sourceBox": [
+            35,
+            24,
+            370,
+            139
+          ],
+          "targetBox": [
+            35,
+            24,
+            335,
+            115
+          ],
+          "imageSha256": "0a5fe6e16327fe6e166ff08cadd1c8483404e722e66e08573b45b62284cd719b",
+          "pixelSha256": "e0c9f47526bbdbdde1123f85b09fcb2f56dc80894db0a0608dc6c62849625faa",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-26-fact-1.webp",
+          "sourceBox": [
+            526,
+            24,
+            975,
+            140
+          ],
+          "targetBox": [
+            526,
+            24,
+            449,
+            116
+          ],
+          "imageSha256": "68127289897558e50c207f384654d061810b94fd3ce906e1e07257f5f0fa79f6",
+          "pixelSha256": "8e13cbb3600127595cbad9ca3957736c5349a9018c06bfca97adf5a4ed82d4d1",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-26-fact-2.webp",
+          "sourceBox": [
+            27,
+            67,
+            360,
+            101
+          ],
+          "targetBox": [
+            27,
+            67,
+            333,
+            34
+          ],
+          "imageSha256": "a6d2fe9a57a2116c8263df6ec40bed52ba539ecb4e83bc6de3e649884104966c",
+          "pixelSha256": "a247e0cb80730ef4a6a65ab26508c9c683290393cff7edabfc42f28e6e87498d",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-26-fact-3.webp",
+          "sourceBox": [
+            27,
+            107,
+            351,
+            140
+          ],
+          "targetBox": [
+            27,
+            107,
+            324,
+            33
+          ],
+          "imageSha256": "9839cdf9b70d8642ad26466b8d13aad86a134b24a925f5d6ff2a59f663f12a3d",
+          "pixelSha256": "7337fa5710ed92bb03d9ed7dd46689f81dac4bf1faa6dc5d1d353f1a71e7b8bf",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-26-fact-4.webp",
+          "sourceBox": [
+            536,
+            27,
+            985,
+            61
+          ],
+          "targetBox": [
+            536,
+            27,
+            449,
+            34
+          ],
+          "imageSha256": "2a4bfd85acd4b3bde67c565985a39e43125b63d940bfa921fb4a4e9e4685e665",
+          "pixelSha256": "6d66ef8f2bfd439150f435a8e3a36f673c83901fb9ceffd1d7039327a678ee4e",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-26-fact-5.webp",
+          "sourceBox": [
+            513,
+            67,
+            985,
+            100
+          ],
+          "targetBox": [
+            513,
+            67,
+            472,
+            33
+          ],
+          "imageSha256": "33eff8384eb24dd0df3a27ae905fed85f86333b70379975f058d4a81765927ae",
+          "pixelSha256": "f861ab38d2c19e6f0f9cc4c3b5b5e2edbad3eab697a4eb85bd9a6fa8d5bb3b7d",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-26-fact-6.webp",
+          "sourceBox": [
+            513,
+            106,
+            830,
+            140
+          ],
+          "targetBox": [
+            513,
+            106,
+            317,
+            34
+          ],
+          "imageSha256": "7525f29278d6822df8ed1d51bdd1a10e9b31fb5abe303ce6dd0683c7544e340b",
+          "pixelSha256": "e547d606fab457224f8657ac47fa4f7cab3e54071bde630c2b6033695bdc2ae6",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "76-27": {
     "exam": 76,
@@ -19458,35 +22713,119 @@
     "appearanceEdit": {
       "asset": "appearance-art/76-37.webp",
       "box": [
-        658,
-        228,
-        343,
-        637
+        0,
+        0,
+        1001,
+        868
       ],
       "polygons": [
         [
           [
-            662.6947391647086,
-            232.29704568902164
+            0,
+            0
           ],
           [
-            1004.6526810407659,
-            232.25515868163595
+            1001,
+            0
           ],
           [
-            1004.7296197299331,
-            860.3686821906731
+            1001,
+            868
           ],
           [
-            662.7716778538759,
-            860.410569198059
+            0,
+            868
           ]
         ]
       ],
-      "style": "A plum-and-ivory librarian maid-inspired knee-length dress, lace collar and cream apron, sensible low shoes; retain presentation gesture.",
-      "kind": "outfit",
-      "imageSha256": "597d5b02d1f299492ccb152b1ae88ae248afb468857004c445df71ed4971a6d4",
-      "protectedRects": []
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "adb835e3728fc905f7f268683aeeaccef29b58ac7086655e9bad4bff0330c181",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1347,
+        1167
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/76-37-fact-0.webp",
+          "sourceBox": [
+            45,
+            183,
+            685,
+            604
+          ],
+          "targetBox": [
+            45,
+            183,
+            640,
+            421
+          ],
+          "imageSha256": "a89f9272af7ed8a1c37187a3141814b950a9e5ed407e9bdd288546cdc777a937",
+          "pixelSha256": "cc575610ef82f684afb43b765e319a024147c28a2e1545291f04d754c39bb1e4",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-37-fact-1.webp",
+          "sourceBox": [
+            150,
+            24,
+            976,
+            146
+          ],
+          "targetBox": [
+            150,
+            24,
+            826,
+            122
+          ],
+          "imageSha256": "336658b72c92b7e990522f78bc3db0658c8540de9585b53b10e64dd801172ade",
+          "pixelSha256": "4b26184be63b3e09cf04c0f7449a2623c6473ea2279cb3ab6fb251f1807e4dd9",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-37-fact-2.webp",
+          "sourceBox": [
+            173,
+            29,
+            985,
+            63
+          ],
+          "targetBox": [
+            173,
+            29,
+            812,
+            34
+          ],
+          "imageSha256": "3b9b432c68d50ab7a3e3d2f27368366c621596f893733a37338e20dfb1f2c886",
+          "pixelSha256": "44e395bfa5a503500628181ec36605d73228ff79289a8e9fc9c963a5cec347b9",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-37-fact-3.webp",
+          "sourceBox": [
+            150,
+            68,
+            985,
+            102
+          ],
+          "targetBox": [
+            150,
+            68,
+            835,
+            34
+          ],
+          "imageSha256": "4bbe7e6ab5f1dc3bc5f5e24e2e5d84378cb098f93e5501f600f098ebdd0caded",
+          "pixelSha256": "2ddfb3678c8a4f2e6612915f360db87b1d40b24ca1c3b49962b22bcbc8a6cc85",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
     }
   },
   "76-38": {
@@ -19855,35 +23194,81 @@
     "appearanceEdit": {
       "asset": "appearance-art/76-45.webp",
       "box": [
-        671,
-        277,
-        329,
-        524
+        0,
+        0,
+        1001,
+        802
       ],
       "polygons": [
         [
           [
-            675.7608782663854,
-            281.5085368752194
+            0,
+            0
           ],
           [
-            995.0911012851334,
-            281.5803933404161
+            1001,
+            0
           ],
           [
-            994.9753325356498,
-            796.0568637595106
+            1001,
+            802
           ],
           [
-            675.6451095169018,
-            795.985007294314
+            0,
+            802
           ]
         ]
       ],
-      "style": "Green field-trip jacket, lemon pleated knee-length skirt, white blouse and ankle boots; practical feminine visitor fashion.",
-      "kind": "outfit",
-      "imageSha256": "0cf6f1550bc39bc11479686f0bb956b7fd3e13c0df5fd272140e739cec1318c0",
-      "protectedRects": []
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "c9839cbcdabd539fd1fe9712632cd58600dcdb9ddf56ff1c5680a308bf988963",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1402,
+        1122
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/76-45-fact-0.webp",
+          "sourceBox": [
+            14,
+            216,
+            735,
+            789
+          ],
+          "targetBox": [
+            14,
+            216,
+            721,
+            573
+          ],
+          "imageSha256": "9415360a12914092dbeace8d4315551ff68e85e31298bd93a991fff5e48df74e",
+          "pixelSha256": "6a1b1ecbab7b8ec873f1696e7cdac8b96c053220ce144b17bb625d35e588d003",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/76-45-fact-1.webp",
+          "sourceBox": [
+            30,
+            24,
+            977,
+            203
+          ],
+          "targetBox": [
+            30,
+            24,
+            947,
+            179
+          ],
+          "imageSha256": "970d9d209cae9d737a36e04d61a6c6c12beadc6b29f86a8482cd4a670b8bb98e",
+          "pixelSha256": "fd8346c0ae3ae70ec60fa2170eac2e725cca3edddda599ebc027d4350c504c5c",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
     }
   },
   "76-46": {
@@ -21615,7 +25000,200 @@
     "pngSha256": "f614ff3d99d968fa7aac9247ff78ca53cc230fc48ca88faba94d0d86b30d3750",
     "pixelSha256": "a8bfdbeee32ca3b7f89eaa7d66d3cf3b6eefb212f260c90685831ccbdf91dc46",
     "imageFile": "77-24.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/77-24.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        805
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            805
+          ],
+          [
+            0,
+            805
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "79c1e97826dbd738ff6913a7e30711dd188942d8e604fba7c581e494adc600e7",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1399,
+        1124
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/77-24-fact-0.webp",
+          "sourceBox": [
+            318,
+            324,
+            725,
+            572
+          ],
+          "targetBox": [
+            318,
+            324,
+            407,
+            248
+          ],
+          "imageSha256": "631432fc70919765ddbccfceed6d9211cd48e0c810f640105ffb461f0a0b5d3b",
+          "pixelSha256": "3bfe5ca677d988a602281e41e11af2fa57d6354622a42c7150123b0636cb173e",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-24-fact-1.webp",
+          "sourceBox": [
+            26,
+            24,
+            455,
+            256
+          ],
+          "targetBox": [
+            26,
+            24,
+            429,
+            232
+          ],
+          "imageSha256": "8567630f6a0c8eff299f7f421f5d9cf7a68429cc9d7f081dd9060e2582228af7",
+          "pixelSha256": "75554b352157b27b4f28795ad1518feca1558804e162aed8e6ceae9941fa5d55",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-24-fact-2.webp",
+          "sourceBox": [
+            536,
+            24,
+            975,
+            256
+          ],
+          "targetBox": [
+            536,
+            24,
+            439,
+            232
+          ],
+          "imageSha256": "be724032f15fbb276a7b8492f29b251d17381670e36288c08599f89902fd95f0",
+          "pixelSha256": "9261c5503312816059342869d8a7ad19bd9679c93a7abc0852d1bc9fc4837567",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-24-fact-3.webp",
+          "sourceBox": [
+            561,
+            28,
+            985,
+            61
+          ],
+          "targetBox": [
+            561,
+            28,
+            424,
+            33
+          ],
+          "imageSha256": "2bef43bb6691ad79a9723ec59054a128d913eeb820af53e791cb42020979052f",
+          "pixelSha256": "e047d94ab836a507c3eb15eaad8ade0f83ceeee7e84ee61c5b9d807d5bcdac8f",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-24-fact-4.webp",
+          "sourceBox": [
+            537,
+            67,
+            985,
+            101
+          ],
+          "targetBox": [
+            537,
+            67,
+            448,
+            34
+          ],
+          "imageSha256": "26ed69f03570f8cf47c2983d502504bc399be61f1d41f053146b93be3efa5b6d",
+          "pixelSha256": "1e40f6028c65bbf1ab41d63967d1ce77724a7d4cc1d577d6ad2fd541de8eeac9",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-24-fact-5.webp",
+          "sourceBox": [
+            537,
+            106,
+            985,
+            140
+          ],
+          "targetBox": [
+            537,
+            106,
+            448,
+            34
+          ],
+          "imageSha256": "eeddddba1277495a8a9dae6d66274ab8882885e31238bb16f4b74aa631d63552",
+          "pixelSha256": "35536613584b8ba69013c23a88e3b816f92c5135901b590ed87f8e5e09ed6260",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-24-fact-6.webp",
+          "sourceBox": [
+            826,
+            145,
+            985,
+            179
+          ],
+          "targetBox": [
+            826,
+            145,
+            159,
+            34
+          ],
+          "imageSha256": "1650b086cfe4362496f3ec86bdac0be345531746b3dfb511bd4fbc588b2fc787",
+          "pixelSha256": "5c028108c9dc29b069c321d41fd268540bcad4a9f44ffd71b46715f642382c3e",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-24-fact-7.webp",
+          "sourceBox": [
+            537,
+            185,
+            985,
+            218
+          ],
+          "targetBox": [
+            537,
+            185,
+            448,
+            33
+          ],
+          "imageSha256": "7823d3cdc5d8b8cfb33d93e1dd88b23f9307b1a5b5061d500ad464a96ec61c15",
+          "pixelSha256": "4a880c910397192b0701966a2b854343110f7d453edea682d15f7d2d247c1796",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "77-25": {
     "exam": 77,
@@ -22342,7 +25920,219 @@
     "pngSha256": "6ecdbc609d5c7935cb96e7bd4d061c4ec36c89ca4ec01a37683319dff25a1204",
     "pixelSha256": "830449f5589edadb9aa8eaa633ac4b9d3724249d0e2a6c451bbdbd392ae06bc0",
     "imageFile": "77-36.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/77-36.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        952
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            952
+          ],
+          [
+            0,
+            952
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "e555ab59ebf0c18a86e3fe36f4605f47f50b400bda15b35a076f4454b6bce578",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1287,
+        1222
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/77-36-fact-0.webp",
+          "sourceBox": [
+            343,
+            330,
+            655,
+            754
+          ],
+          "targetBox": [
+            343,
+            330,
+            312,
+            424
+          ],
+          "imageSha256": "0a97d38d6f6778d2ab5fca8c7416de79b68f06d9204180d6e5c2fb50036f6e95",
+          "pixelSha256": "01954ec3d79981f5f10b96176b633c89c975753cece426e93bfac1083aa3617f",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-36-fact-1.webp",
+          "sourceBox": [
+            43,
+            24,
+            408,
+            220
+          ],
+          "targetBox": [
+            43,
+            24,
+            365,
+            196
+          ],
+          "imageSha256": "41e762f873fba802e54c3630edc1819c458ecd14c93ecc77394d5f53b81b387f",
+          "pixelSha256": "029239b84289c10bae5630577dca04f829f2feffcdf9c9816b9b74492bf75b67",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-36-fact-2.webp",
+          "sourceBox": [
+            494,
+            24,
+            975,
+            298
+          ],
+          "targetBox": [
+            494,
+            24,
+            481,
+            274
+          ],
+          "imageSha256": "b8526d94fb4497e4b6ea1b0d11efd26216213fec41eacaf07597c7d7804abc49",
+          "pixelSha256": "3164489fbc1b97c86d836c624b0372db03b74d73997ef217aaddfb6c08f7425b",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-36-fact-3.webp",
+          "sourceBox": [
+            518,
+            28,
+            985,
+            62
+          ],
+          "targetBox": [
+            518,
+            28,
+            467,
+            34
+          ],
+          "imageSha256": "cc7ce34d303c5929133975c5a2715ec1bc7e8fa4b61a85dcfa366425ad9bc037",
+          "pixelSha256": "2e2b8eb058dcf464e61976b6a70eb3e3c8e489b9d72ccba2e13a3bb6126dd5ff",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-36-fact-4.webp",
+          "sourceBox": [
+            495,
+            67,
+            985,
+            101
+          ],
+          "targetBox": [
+            495,
+            67,
+            490,
+            34
+          ],
+          "imageSha256": "d4a578b2236293f2fe1e2b3dba24ef17218ea940dc4637a3ff2198053ed014f5",
+          "pixelSha256": "c917049acff1683576a59b06e9301ce07c2c64855bc0350ab1f73d3d7d75482c",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-36-fact-5.webp",
+          "sourceBox": [
+            495,
+            106,
+            985,
+            140
+          ],
+          "targetBox": [
+            495,
+            106,
+            490,
+            34
+          ],
+          "imageSha256": "c7e8e1d38662f99a33a588afbe8532f3fa2110f5f72ca7d1a13929b0ff7792d9",
+          "pixelSha256": "1d988686f3fc6e4972a5470e983dcf132d4f699e7efa743099f014a37f3888cc",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-36-fact-6.webp",
+          "sourceBox": [
+            495,
+            146,
+            985,
+            179
+          ],
+          "targetBox": [
+            495,
+            146,
+            490,
+            33
+          ],
+          "imageSha256": "34e2378b5619f067870b5e4abfc688c96a54c44163427402ecb61ca27ccd9b1a",
+          "pixelSha256": "cc22bd0ec14a8d15c4b20bad5b4b5807ba0d7109e902a2da35a1400713dcc659",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-36-fact-7.webp",
+          "sourceBox": [
+            495,
+            185,
+            985,
+            218
+          ],
+          "targetBox": [
+            495,
+            185,
+            490,
+            33
+          ],
+          "imageSha256": "04b060e9bcc2f4dcde780d467247fc7b85c5ac30a38aa28dd1135746373ae1af",
+          "pixelSha256": "457be480ca283dbb6fbe14a13ac7d1ae9ef1dbcd6baffc41321f12939267752e",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/77-36-fact-8.webp",
+          "sourceBox": [
+            495,
+            224,
+            985,
+            258
+          ],
+          "targetBox": [
+            495,
+            224,
+            490,
+            34
+          ],
+          "imageSha256": "d1bedbda9fcb5d79ee8adfd7a856e14b4afe0d1b19fb5742a3810b0fcbbf1bf9",
+          "pixelSha256": "d2372dc5cae82e3342872e6defb86b2bbad99a66094f4b190d798231ab552de6",
+          "role": "original-printed-line",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "77-37": {
     "exam": 77,
@@ -23488,7 +27278,86 @@
     "pngSha256": "72f1859c07c128c7d24b97fdaf635638ff14f9d9c39174499d2accb0717c8720",
     "pixelSha256": "82d38bd6798174b36dc4010c6fc939c850e23abad730e4f9d0f4b7ded98dd3d1",
     "imageFile": "78-4.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/78-4.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        602
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            602
+          ],
+          [
+            0,
+            602
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "b42ff4977b0697f1cf1ad4f04ddfaacdabb2f0b8b6d03700abd0d8357d66666b",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1618,
+        972
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/78-4-fact-0.webp",
+          "sourceBox": [
+            32,
+            27,
+            410,
+            184
+          ],
+          "targetBox": [
+            32,
+            27,
+            378,
+            157
+          ],
+          "imageSha256": "e1c5619931cc55d99e222051535108c9d7065e7538b202561257a6d47089eca1",
+          "pixelSha256": "b52b3f6791198bc96242dbc2bba76eebea5280d170ca60186e748d5e2559b054",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/78-4-fact-1.webp",
+          "sourceBox": [
+            514,
+            24,
+            975,
+            185
+          ],
+          "targetBox": [
+            514,
+            24,
+            461,
+            161
+          ],
+          "imageSha256": "39764c2e6230f434cc9a376ab7c7556bd7c43f8bf28dc4ba170ff51c53db5993",
+          "pixelSha256": "c9724f16a0804594c23d42b36663b1ff058565304b5018c8a72583679fd584a7",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "78-5": {
     "exam": 78,
@@ -23805,27 +27674,54 @@
       "polygons": [
         [
           [
-            26.409089929191452,
-            230.61075718869097
+            0,
+            0
           ],
           [
-            229.75173643941008,
-            230.65327682379422
+            1001,
+            0
           ],
           [
-            229.6828924383139,
-            559.8875551814143
+            1001,
+            566
           ],
           [
-            26.34024592809527,
-            559.8450355463111
+            0,
+            566
           ]
         ]
       ],
-      "style": "Sporty navy one-piece swimsuit (Japanese sukumizu-inspired simple athletic cut, NO school badge or child styling), pale lavender hair ribbon, white open beach cover-up draped lightly at the shoulders, and matching sandals. An unmistakably adult woman age 25+ with mature adult proportions, still holding the microphone in the same neutral pose.",
-      "kind": "spice",
-      "imageSha256": "b907b35aae5557d6dc9c3192fceae87950cb074ee352d39cf6edf5a71f50a9ca",
-      "protectedRects": []
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "2594e43b71a227fddabab169c267984ece3f7d320130a20dff2137d835b306a1",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1667,
+        943
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/78-8-fact-0.webp",
+          "sourceBox": [
+            68,
+            25,
+            944,
+            150
+          ],
+          "targetBox": [
+            68,
+            25,
+            876,
+            125
+          ],
+          "imageSha256": "737cc74b5f70bdb76137b6cd0c06ed5cbfa3e28c748a565d85bc333ff9748009",
+          "pixelSha256": "4812bdc9efa7c5b4f76152a8bad39926dbddc6ec53bd14f1a52b58ff281640f0",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
     }
   },
   "78-9": {
@@ -24014,7 +27910,105 @@
         "name": "금동 보살 좌상",
         "nameStatus": "description"
       }
-    ]
+    ],
+    "appearanceEdit": {
+      "asset": "appearance-art/78-9.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        846
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            846
+          ],
+          [
+            0,
+            846
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "1a9225a2438c6f008571a5ad0c804b5c95c597c57238254209cc56b706ec3022",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1364,
+        1153
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/78-9-fact-0.webp",
+          "sourceBox": [
+            244,
+            296,
+            773,
+            582
+          ],
+          "targetBox": [
+            244,
+            296,
+            529,
+            286
+          ],
+          "imageSha256": "b66f0c32226d79c2dd3c9edac5502435818902955bf9f02954e440e5a0dc5c57",
+          "pixelSha256": "3f35b0fa17e58a55cf23634b2c6c5a250d45c0d461d6456856780127bdffe818",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/78-9-fact-1.webp",
+          "sourceBox": [
+            40,
+            25,
+            231,
+            145
+          ],
+          "targetBox": [
+            40,
+            25,
+            191,
+            120
+          ],
+          "imageSha256": "301876e29b9c227ec0eb981962737720c6215d8c1a60af88b434a199a0000e11",
+          "pixelSha256": "13d178fd277661f0d78eb0bf9e4401dbd0759561d2882530a09eea60712ef882",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/78-9-fact-2.webp",
+          "sourceBox": [
+            351,
+            25,
+            971,
+            259
+          ],
+          "targetBox": [
+            351,
+            25,
+            620,
+            234
+          ],
+          "imageSha256": "6064ed5ef2835667de75da5c5beca25aaead343380dd790c13f96609aec34bc1",
+          "pixelSha256": "e696beb56e5c40c9358359d29609bc14371cd869f3b04fdb6444a709fdbbd360",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "78-10": {
     "exam": 78,
@@ -24412,38 +28406,97 @@
         0,
         0,
         1001,
-        765
+        764
       ],
       "polygons": [
         [
           [
             0,
-            270
+            0
           ],
           [
             1001,
-            270
+            0
           ],
           [
             1001,
-            765
+            764
           ],
           [
             0,
-            765
+            764
           ]
         ]
       ],
-      "style": "서로 다른 네 명의 성인 미소녀 박물관 관람객",
-      "kind": "named",
-      "imageSha256": "bbf248e5a1ec88353d5b63dbf6927a72977d8d24bef51384a7d415b5d60a3b4a",
-      "protectedRects": [
-        [
-          349,
-          286,
-          293,
-          381
-        ]
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "5c7fdd8f84bba38e79c8eec0e306bf97d079695f18d25bbb2973d35c535deee1",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1436,
+        1095
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/78-14-fact-0.webp",
+          "sourceBox": [
+            362,
+            295,
+            623,
+            652
+          ],
+          "targetBox": [
+            403,
+            310,
+            195,
+            255
+          ],
+          "imageSha256": "8bf52d7bfd52f9c56a7b7e16b933e87aeceec3e645b06052a583293bdf8c86b5",
+          "pixelSha256": "694b6418f8ae93817c9b7b59b0bae9c7f922083b6416c8f52671bbcc10932d90",
+          "role": "authentic-material",
+          "sourceScale": 1,
+          "sourceXref": 2536
+        },
+        {
+          "asset": "appearance-art/78-14-fact-1.webp",
+          "sourceBox": [
+            0,
+            0,
+            1001,
+            110
+          ],
+          "targetBox": [
+            0,
+            0,
+            1001,
+            110
+          ],
+          "imageSha256": "b7a196797b5b7e87e7db5de3ac3f7ffafeb266fda8b728e6a4e4c675ef233336",
+          "pixelSha256": "6c9ec93d46b463ae920b8fde74f30c314399bdfc1faa8dc2df9b282a7f98bf5b",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/78-14-fact-2.webp",
+          "sourceBox": [
+            72,
+            136,
+            939,
+            249
+          ],
+          "targetBox": [
+            72,
+            136,
+            867,
+            113
+          ],
+          "imageSha256": "5aa9f39f95f4a5ec4194aea67d1a274883334ee9c04d08b4aa7771d97c786497",
+          "pixelSha256": "d60b38a58e8218b8c1efbe0d62c1566ebf5c9dc85417162f04c826c889a36c7b",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
       ]
     }
   },
@@ -25427,27 +29480,92 @@
       "polygons": [
         [
           [
-            377,
-            157
+            0,
+            0
           ],
           [
-            606,
-            157
+            1001,
+            0
           ],
           [
-            606,
-            486
+            1001,
+            487
           ],
           [
-            377,
-            486
+            0,
+            487
           ]
         ]
       ],
-      "style": "중앙 은발 인물과 머리 위 원래 머리 잔상 제거",
-      "kind": "named",
-      "imageSha256": "35f838024bfc4e4ddcd43b27b02955c6d6c0439fad391b104a3c3c6247a098f6",
-      "protectedRects": []
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "d7c23ccd5daf7d6e611164f8181962dc474a605d2c83c402f4ced529cdf36aaa",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1798,
+        875
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/78-34-fact-0.webp",
+          "sourceBox": [
+            27,
+            24,
+            300,
+            139
+          ],
+          "targetBox": [
+            27,
+            24,
+            273,
+            115
+          ],
+          "imageSha256": "bd141ca6bee812592c69373f0ffb8660c9aaf74df4eb687e9dfec831e13edcee",
+          "pixelSha256": "6183b47e97de9128e068f66415bd17e4aaf5281ec6a168e1312451fd3aecbf44",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/78-34-fact-1.webp",
+          "sourceBox": [
+            367,
+            24,
+            634,
+            140
+          ],
+          "targetBox": [
+            367,
+            24,
+            267,
+            116
+          ],
+          "imageSha256": "0835b67fbcc77785303c07f375a1ada2a9cd15da03fa2cf52d129c876450ff6b",
+          "pixelSha256": "a9e99a33306ba6262c522c2e1a52e2f10656411b80a41552180610b66387ea6e",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/78-34-fact-2.webp",
+          "sourceBox": [
+            696,
+            24,
+            976,
+            141
+          ],
+          "targetBox": [
+            696,
+            24,
+            280,
+            117
+          ],
+          "imageSha256": "fb3c598441abb5cd82356d70bb9a3f62fa1ac960e20e2b43d2a91a58674a2ca8",
+          "pixelSha256": "d175b3be2069b908e58e09ee33b50fff233f3f0ea4a3f46f9e15f402ed256577",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
     }
   },
   "78-35": {
@@ -27036,7 +31154,105 @@
         "name": "청자 상감 모란무늬 주전자",
         "nameStatus": "identified"
       }
-    ]
+    ],
+    "appearanceEdit": {
+      "asset": "appearance-art/79-11.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        910
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            910
+          ],
+          [
+            0,
+            910
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "a988b68d8806676ddfc3926eb08f7643ff44b722d3871e7db8d7d422e3480cfa",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1316,
+        1195
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/79-11-fact-0.webp",
+          "sourceBox": [
+            262,
+            256,
+            742,
+            631
+          ],
+          "targetBox": [
+            262,
+            256,
+            480,
+            375
+          ],
+          "imageSha256": "554e2fee15ab3dc9c6250186bb192b4103fc7e178b5dcadc53cc599fd3ba965f",
+          "pixelSha256": "c52b3e839b649402fc816ab01b3b8146d6b33ca1ca1c876e2d51d7ef8ea743af",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-11-fact-1.webp",
+          "sourceBox": [
+            24,
+            69,
+            363,
+            225
+          ],
+          "targetBox": [
+            24,
+            69,
+            339,
+            156
+          ],
+          "imageSha256": "7335402fa7f4de3ef56517d1f26175901c662b8de917c531d8b8eb4749f47b24",
+          "pixelSha256": "92e681f9586a9c6fe9d057b4c5b4ad8a847788237a5b31d88e0828457ba3108b",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-11-fact-2.webp",
+          "sourceBox": [
+            417,
+            22,
+            975,
+            225
+          ],
+          "targetBox": [
+            417,
+            22,
+            558,
+            203
+          ],
+          "imageSha256": "21fccae1094c88eea6e70f31815b5b76738a4c1b13eb9cfec98e517ce966a8d6",
+          "pixelSha256": "33973f7321cf600eb76d9ba6dac94535cf902a1d6f314eee381f48d6b814595e",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "79-12": {
     "exam": 79,
@@ -27413,7 +31629,86 @@
     "pngSha256": "eb3e0b2b4f5fec2dce0b62bcd88250f938d92872eb9cee9043bb93e0178bf2b3",
     "pixelSha256": "ef728d25d416653c0234dc58572202a0a8d65dd2ba34f52057e563ae432cde53",
     "imageFile": "79-21.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/79-21.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        951
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            951
+          ],
+          [
+            0,
+            951
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "4cb45b3b773e0c24425b1a245f64cff29800a35fa7caa17210e17c4781246583",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1287,
+        1222
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/79-21-fact-0.webp",
+          "sourceBox": [
+            52,
+            75,
+            367,
+            223
+          ],
+          "targetBox": [
+            45,
+            66,
+            300,
+            139
+          ],
+          "imageSha256": "5585edceb05281f7e2ded6772215b6f89eb596768cd9f180292e2154ae78c0e3",
+          "pixelSha256": "6dede1d4236062a6037fc78318b23c4ecd9859ecca59ee43f7083047c6f6fe0b",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-21-fact-1.webp",
+          "sourceBox": [
+            645,
+            77,
+            974,
+            222
+          ],
+          "targetBox": [
+            653,
+            65,
+            317,
+            138
+          ],
+          "imageSha256": "323e4c53036f1f22b71643d7561a7adfe6dd6271f371059614cd23ec8fded59b",
+          "pixelSha256": "19e8be312e479ff4d5445a9b1fba51bbcea9b9150e4b21ca6b34b086809259d6",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "79-22": {
     "exam": 79,
@@ -28077,7 +32372,143 @@
     "pngSha256": "3b3a98eb9016a6a66e159ca6989992748adc3a832561918fdf1d88bc2b22977b",
     "pixelSha256": "b62f170e84d1150a59c462053673c2fac47243da0faa89b1537733d9a2305cc9",
     "imageFile": "79-31.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/79-31.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        531
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            531
+          ],
+          [
+            0,
+            531
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "4bd54babf8d228c7f0a0029e24b5e478b8e831065686d752ca8a30223b39d3cb",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1722,
+        913
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/79-31-fact-0.webp",
+          "sourceBox": [
+            395,
+            0,
+            611,
+            531
+          ],
+          "targetBox": [
+            395,
+            0,
+            216,
+            531
+          ],
+          "imageSha256": "290af33cf12bae14e96c7a132036b5d8fee5ac6c649f33f2fe1831465a818231",
+          "pixelSha256": "d62e76403ed15a47788b82af3f0d1b087095722607dfa80094fe1e46edb0c1f7",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-31-fact-1.webp",
+          "sourceBox": [
+            24,
+            25,
+            194,
+            225
+          ],
+          "targetBox": [
+            24,
+            25,
+            170,
+            200
+          ],
+          "imageSha256": "a6078926bdd3b5e0a1802a843960bc0b985a0d71b79bd76052453446f9299e69",
+          "pixelSha256": "fd7eacb8542cb07311ded90e4c663cf09d050bdcc38aca1f792810268cea7d71",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-31-fact-2.webp",
+          "sourceBox": [
+            240,
+            25,
+            442,
+            230
+          ],
+          "targetBox": [
+            240,
+            25,
+            202,
+            205
+          ],
+          "imageSha256": "e8590b50399561842c656c264959f694d61e5724d5ff7b5a0b07597699762516",
+          "pixelSha256": "5fe9f13adb4a13216f093527a3c79036eca4c4bd7e71d71c1f6cae78d00f4b5c",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-31-fact-3.webp",
+          "sourceBox": [
+            576,
+            63,
+            796,
+            219
+          ],
+          "targetBox": [
+            576,
+            63,
+            220,
+            156
+          ],
+          "imageSha256": "df62a17c772993c8da8746ffed0f6e901bd84ff8673dc4772b12825749e5fc25",
+          "pixelSha256": "4f45eaba04a24be7ba3ea777c78cd50e76e7867a3d2f90cc60e245f150c25592",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-31-fact-4.webp",
+          "sourceBox": [
+            822,
+            63,
+            978,
+            219
+          ],
+          "targetBox": [
+            822,
+            63,
+            156,
+            156
+          ],
+          "imageSha256": "b01a8d3c5aa8f633eca4a80bda2e754598817b4de417c25e961165082413a2f6",
+          "pixelSha256": "5b9841325d122b745f6394e6da3ba7c4a3dbe0c91d213569f170b58b5a5b6560",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "79-32": {
     "exam": 79,
@@ -28230,7 +32661,86 @@
     "pngSha256": "2d475cb71f9265b075966cd582b75cd749c924c76d20a43044255aaf296e9ae4",
     "pixelSha256": "d1790b15f00335d469052513df336824914970ca1471de1e7a0faa0b0f39d184",
     "imageFile": "79-34.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/79-34.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        639
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            639
+          ],
+          [
+            0,
+            639
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "aca5c37d15799d8f26a1e3ff9315210ccc44b8610deeb36531363b4246fc266e",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1570,
+        1002
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/79-34-fact-0.webp",
+          "sourceBox": [
+            126,
+            58,
+            419,
+            240
+          ],
+          "targetBox": [
+            126,
+            58,
+            293,
+            182
+          ],
+          "imageSha256": "a85912220dfb93b3a3b6e9fd680ed17b07be2d8acd2abb7615567f0363361a13",
+          "pixelSha256": "72df0de2dff5d354ac94979c740882f1fb9444b6e81e8f801db1811e09edf976",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-34-fact-1.webp",
+          "sourceBox": [
+            579,
+            47,
+            953,
+            247
+          ],
+          "targetBox": [
+            579,
+            47,
+            374,
+            200
+          ],
+          "imageSha256": "7d61a28abf7af061f7307cab46ab18c74180da560e0095f46b7f2c67c20a8560",
+          "pixelSha256": "983f8bb70c920167395ad40c2094ff021c16194f32beb82e708182cc8b053d93",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "79-35": {
     "exam": 79,
@@ -29087,7 +33597,105 @@
     "pngSha256": "db2203dc88fa1a05af4b4f1867d49e0f65209bc26ccda7870a2c99b6c6819f91",
     "pixelSha256": "c06cc5d2f622cb0c5c9c14bb901441e1876ae3d30b21c5cee10274f36a2cf580",
     "imageFile": "79-48.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "appearanceEdit": {
+      "asset": "appearance-art/79-48.webp",
+      "box": [
+        0,
+        0,
+        1001,
+        810
+      ],
+      "polygons": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1001,
+            0
+          ],
+          [
+            1001,
+            810
+          ],
+          [
+            0,
+            810
+          ]
+        ]
+      ],
+      "style": "장면 전체를 한 번에 재구성: 자연스러운 여성 체형·연결된 배경·고해상도 원화",
+      "kind": "scene-rebuild",
+      "imageSha256": "2227c6bab91705156c7718c5179cd633d2a9f366c30a67e6dd0ce771904bdfd9",
+      "protectedRects": [],
+      "replacesScene": true,
+      "generatedSize": [
+        1394,
+        1128
+      ],
+      "artEncoding": "WebP quality96; factual crops lossless",
+      "preservedMaterials": [
+        {
+          "asset": "appearance-art/79-48-fact-0.webp",
+          "sourceBox": [
+            264,
+            226,
+            758,
+            550
+          ],
+          "targetBox": [
+            264,
+            226,
+            494,
+            324
+          ],
+          "imageSha256": "86d0c5da273a1a3444d5cd503f8bb893c6253e1a89b4e715871c2df16703a8d3",
+          "pixelSha256": "f6b0778753a6151aa9e8b1421e6e2b8ed5aca471b42aadb4bbf97d4c02afa7f9",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-48-fact-1.webp",
+          "sourceBox": [
+            25,
+            107,
+            254,
+            180
+          ],
+          "targetBox": [
+            25,
+            107,
+            229,
+            73
+          ],
+          "imageSha256": "0c075a8f35e45c0b848f94cd2b2dac8f9a1d3c83b847607f6e57e27c54c7743a",
+          "pixelSha256": "1b0e04fa43bf9e835ba2d39ee719ef56420e0554dd1c8dda76f538d73e5a4b89",
+          "role": "authentic-material",
+          "sourceScale": 2
+        },
+        {
+          "asset": "appearance-art/79-48-fact-2.webp",
+          "sourceBox": [
+            382,
+            24,
+            980,
+            186
+          ],
+          "targetBox": [
+            382,
+            24,
+            598,
+            162
+          ],
+          "imageSha256": "e74953a3da8b62e86da291d363139128103e80ee039deb3241ae9b0e28d20a3d",
+          "pixelSha256": "565a58c1ec49e438336eac31ee5885ca4a14e7eced0915b713cd86c708030178",
+          "role": "authentic-material",
+          "sourceScale": 2
+        }
+      ]
+    }
   },
   "79-49": {
     "exam": 79,
