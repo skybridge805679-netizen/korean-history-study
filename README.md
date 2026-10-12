@@ -29,6 +29,7 @@ Python 3만 있으면 됩니다(추가 라이브러리 없음).
 ```
 run.py                  로컬 서버 (site/ 를 8791 포트로 제공)
 site/index.html         앱 전체 (문항 데이터·화면·스타일 포함)
+site/textbook.js        교과서 본문 (시대별 장 서술, 현재 일제강점기 8장)
 site/reference-lessons.js  39개 단원 개념노트
 site/fig/               문항 자료 그림 (JPEG)
 site/character-art/     캐릭터 일러스트로 다시 그린 자료 그림 (SVG)
