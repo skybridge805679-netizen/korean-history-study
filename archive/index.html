@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>생성 원화 보관함</title>
+<style>
+:root{--bg:#f3f4f1;--paper:#fff;--ink:#1d2321;--muted:#5f6a66;--line:#d9ddd7;--accent:#1f6b64;--accent-soft:#e1efec;--gold:#a07a1c}
+@media (prefers-color-scheme:dark){:root{--bg:#141817;--paper:#1c2120;--ink:#e7ebe8;--muted:#9aa6a1;--line:#2e3533;--accent:#5fb8ac;--accent-soft:#1e3532;--gold:#d4ad4f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 "Noto Sans KR",system-ui,sans-serif}
+header{position:sticky;top:0;z-index:3;background:var(--paper);border-bottom:1px solid var(--line);padding:12px 20px;display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center}
+h1{font-size:19px;margin:0}.hint{color:var(--muted);font-size:13px}
+input,select{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink)}
+main{padding:16px 20px 80px;max-width:1700px;margin:0 auto}
+section{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:0 0 16px}
+section h2{font-size:18px;margin:0 0 10px;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:12px}
+figure{margin:0;border:2px solid var(--line);border-radius:10px;overflow:hidden;background:var(--bg);cursor:pointer;position:relative}
+figure.pick{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent)}
+figure img{display:block;width:100%;height:auto;background:#fff}
+figcaption{display:flex;justify-content:space-between;gap:8px;padding:6px 10px;font-size:12.5px;color:var(--muted)}
+figure.cur{border-style:dashed}
+.badge{font-size:12px;font-weight:700;padding:1px 8px;border-radius:99px;background:var(--accent-soft);color:var(--accent)}
+.badge.gold{background:#f5ecd4;color:var(--gold)}
+#out{width:100%;min-height:60px;font:13px monospace}
+dialog{border:0;padding:0;background:transparent;max-width:96vw;max-height:96vh}dialog img{max-width:96vw;max-height:92vh;display:block}
+dialog::backdrop{background:rgba(0,0,0,.8)}
+</style></head><body>
+<header><h1>생성 원화 보관함</h1><span class="hint" id="summary"></span>
+<input id="q" type="search" placeholder="문항 번호 (예: 79-36)">
+<label class="hint"><input type="checkbox" id="multi"> 후보 2개 이상만</label>
+<span class="hint">그림을 누르면 ‘사이트에 쓸 그림’으로 고릅니다 · 더블클릭은 크게 보기</span></header>
+<main>
+<section><h2>고른 그림 <span class="hint">이 목록을 복사해 Claude에게 전달하세요. 브라우저에 자동 저장됩니다.</span></h2><textarea id="out" readonly></textarea></section>
+<div id="list"></div></main>
+<dialog id="dlg"><img id="big" alt=""></dialog>
+<script>
+let D,pick={};try{pick=JSON.parse(localStorage.getItem('art-pick')||'{}')}catch(e){}
+const $=s=>document.querySelector(s);
+const sortKey=k=>k==='미분류'?[999,0]:k.split('-').map(Number);
+function save(){try{localStorage.setItem('art-pick',JSON.stringify(pick))}catch(e){}
+ $('#out').value=Object.entries(pick).sort((a,b)=>{const x=sortKey(a[0]),y=sortKey(b[0]);return x[0]-y[0]||x[1]-y[1]}).map(([k,v])=>`${k}: ${v}`).join('\n')}
+function render(){
+ const q=$('#q').value.trim(),multi=$('#multi').checked;
+ const keys=Object.keys(D.byQuestion).sort((a,b)=>{const x=sortKey(a),y=sortKey(b);return x[0]-y[0]||x[1]-y[1]});
+ $('#list').innerHTML=keys.filter(k=>(!q||k.includes(q))&&(!multi||D.byQuestion[k].length>1)).map(k=>{
+  const ids=D.byQuestion[k],site=k!=='미분류';
+  return `<section id="q-${k}"><h2>${site?`제${k.split('-')[0]}회 ${k.split('-')[1]}번`:'문항 미확인'} <span class="badge">${ids.length}장</span>${pick[k]?`<span class="badge gold">선택: ${pick[k]}</span>`:''}</h2><div class="grid">
+  ${site?`<figure class="cur" data-k="${k}" data-id="현재 사이트"><img loading="lazy" src="../site/question-materials/${k}.webp" alt=""><figcaption><span>원본 시험지 자료</span><span>비교용</span></figcaption></figure>`:''}
+  ${ids.map((id,i)=>{const f=D.files[id];return `<figure class="${pick[k]===id?'pick':''}" data-k="${k}" data-id="${id}"><img loading="lazy" src="generated/${id}.webp" alt=""><figcaption><span>#${i+1} ${id.slice(0,8)}</span><span>${f.w}×${f.h}</span></figcaption></figure>`}).join('')}</div></section>`}).join('');
+ $('#summary').textContent=`${Object.keys(D.files).length}장 · ${keys.length-1}문항 + 미분류 ${D.byQuestion['미분류']?.length||0}장`;
+}
+document.addEventListener('click',e=>{const f=e.target.closest('figure');if(!f||f.classList.contains('cur'))return;const k=f.dataset.k,id=f.dataset.id;if(pick[k]===id)delete pick[k];else pick[k]=id;save();render()});
+document.addEventListener('dblclick',e=>{const i=e.target.closest('figure img');if(i){$('#big').src=i.src;$('#dlg').showModal()}});
+$('#dlg').onclick=()=>$('#dlg').close();
+$('#q').oninput=render;$('#multi').onchange=render;
+fetch('index.json').then(r=>r.json()).then(j=>{D=j;save();render()});
+</script></body></html>

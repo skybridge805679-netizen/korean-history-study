@@ -38,3 +38,9 @@ site/reference-lessons.js  39개 단원 개념노트
 site/fig/               문항 자료 그림 (JPEG)
 site/character-art/     캐릭터 일러스트로 다시 그린 자료 그림 (SVG)
 ```
+
+## 생성 원화 보관함
+
+`archive/`에는 GPT가 만든 장면 원화 243장 전부(인계 ZIP `pc-handoff-20261012`의 `generated_images/`)를 WebP로 옮겨 두었습니다.
+사이트 주소 뒤에 `/archive/`를 붙여 열면 문항별로 후보를 비교하고, 사이트에 쓸 그림을 골라 목록으로 복사할 수 있습니다.
+`archive/index.json`에 문항별 후보와 원본 PNG의 SHA-256을 기록했습니다.
