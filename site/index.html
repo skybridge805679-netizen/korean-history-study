@@ -198,6 +198,7 @@ ol.tl li.end .y{color:var(--gold)}
 body{font-size:16px;line-height:1.8}.ctx{font-family:var(--body);font-size:17px;line-height:1.95}.qtitle{font-size:18px;line-height:1.8}.choice{font-size:17px;line-height:1.8;min-height:52px}.exp{font-size:17px;line-height:1.95}.hint,.note,.chip,.refchip,.stat .k{font-size:14px}.btn,select,input[type=search]{min-height:44px;font-size:15px}.qfig img{max-height:560px;object-fit:contain;cursor:zoom-in}.memory-card{border-left:4px solid var(--accent)}.memory-card h3{font-family:var(--body);font-size:21px;margin:8px 0}.memory-card details{margin:12px 0}.memory-card summary,.coach summary{cursor:pointer;font-weight:700;padding:8px 0}.memory-card li{margin:6px 0}.memory-card .caution{padding:12px;background:var(--gold-soft);border-radius:8px}.memory-source{font-size:14px;color:var(--muted)}.learning-tools{margin-top:18px;padding-top:16px;border-top:1px solid var(--line)}.learning-tools textarea{width:100%;font:inherit;background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:10px;min-height:90px}.learning-tools label{display:block;margin:10px 0}.coach{margin:12px 0;padding:12px 16px;background:var(--accent-soft);border-radius:8px}.memory-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}.memory-grid .panel{margin:0}.memory-filter{margin:18px 0;gap:12px}.memory-filter input{flex:1;min-width:160px}.tip-links{margin:16px 0}.zoom-wrap{overflow:auto;max-height:70vh}.zoom-wrap img{max-width:none;min-width:650px;width:100%;height:auto}#refdlg{max-width:min(1000px,94vw)}.import-status{padding:12px;background:var(--accent-soft);border-radius:8px}.assist-label{display:block;font-size:14px;color:var(--muted);margin-top:8px}.question-note{white-space:pre-wrap}.learning-tools .btn[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent)}.qtitle mark{background:var(--gold-soft);color:var(--ink)}@media(max-width:480px){.wrap{padding-inline:12px}.q{padding:16px}.memory-grid{grid-template-columns:1fr}.exam-bar{position:static}.hd{align-items:center}.hd nav{width:100%}.ctx{padding:12px}.refhead{gap:10px}.memory-filter>*{max-width:100%}}
 </style>
 <style>.ref-lesson{margin:12px 0}.ref-lesson h3{font-size:20px;margin:0}.ref-lesson .ref-summary{font-size:16px;line-height:1.8}.ref-lesson .ref-points{padding-left:22px}.ref-lesson .ref-points li{margin:6px 0}.ref-lesson table.cmp{width:100%}.ref-lesson .ref-source{font-size:13px;color:var(--muted)}.ref-recall{padding:12px;border-radius:8px;background:var(--accent-soft);margin-top:12px}.ref-terms{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}.ref-term{border-radius:999px;background:var(--bg);padding:2px 10px;font-size:13px}.ref-filters{margin-bottom:12px}.ref-filters input{flex:1;min-width:180px}.ref-lesson .ref-title{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}.ref-lesson .ref-title h3{flex:1;min-width:220px}@media(max-width:600px){.ref-lesson table.cmp{font-size:14px}.ref-lesson table.cmp th,.ref-lesson table.cmp td{padding:6px 7px}.ref-filters>*{max-width:100%}}</style>
+<style>.kbd-hint{text-align:center;margin-top:8px}@media (pointer:coarse){.kbd-hint{display:none}}</style>
 <style>.memory-filter input[type=checkbox]{flex:none;min-width:0}.memory-filter label{display:inline-flex;align-items:center;gap:8px}.memory-source a{color:var(--accent)}.memory-card h3{overflow-wrap:anywhere}</style>
 <script src="reference-lessons.js"></script>
 <script>
@@ -221,8 +222,21 @@ function isWrong(k){const L=S.log[k];return L&&L.t>L.c&&!S.mastered[k]}
 
 // ---- view routing ----
 let view="home",ctx={};
-function go(v,c){view=v;ctx=c||{};if(!["run","result"].includes(v))history.replaceState(null,"","#"+v);render();window.scrollTo(0,0)}
-document.getElementById("nav").addEventListener("click",e=>{const b=e.target.closest("button");if(b){stopTimer();go(b.dataset.v)}});
+const VIEWS=["home","exam","era","pick","wrong","study","stats","search","memory","backup"];
+function go(v,c){view=v;ctx=c||{};if(!["run","result"].includes(v)&&location.hash!=="#"+v)history.pushState(null,"","#"+v);render();window.scrollTo(0,0)}
+function examInProgress(){return view==="run"&&ctx.mode==="exam"&&Object.keys(ctx.ans).length>0}
+function leaveOk(){return !examInProgress()||confirm("진행 중인 모의고사를 그만둘까요? 지금까지 고른 답안은 저장되지 않습니다.")}
+document.getElementById("nav").addEventListener("click",e=>{const b=e.target.closest("button");if(b&&leaveOk()){stopTimer();go(b.dataset.v)}});
+window.addEventListener("popstate",()=>{const h=location.hash.slice(1)||"home";if(!VIEWS.includes(h))return;if(!leaveOk()){history.pushState(null,"","#"+ctx.from);return}stopTimer();go(h)});
+window.addEventListener("beforeunload",e=>{if(examInProgress()){e.preventDefault();e.returnValue=""}});
+document.addEventListener("keydown",e=>{
+  if(view!=="run"||e.ctrlKey||e.metaKey||e.altKey||e.target.closest("input,textarea,select,[contenteditable]")||document.querySelector("dialog[open]"))return;
+  let b=null;
+  if(/^[1-5]$/.test(e.key))b=document.querySelector(`#app .choice[data-c="${e.key}"]:not([disabled])`);
+  else if(e.key==="ArrowLeft")b=document.querySelector("#prev:not([disabled])");
+  else if(e.key==="ArrowRight")b=document.querySelector("#next");
+  if(b){e.preventDefault();b.click()}
+});
 function render(){
   document.querySelectorAll("#nav button").forEach(b=>b.setAttribute("aria-current",b.dataset.v===view||(view==="run"&&b.dataset.v===ctx.from)));
   const app=document.getElementById("app");
@@ -285,9 +299,9 @@ function startPractice(list,title,from){stopTimer();if(!list.length){go(from);re
 const CHARACTER_KEYS=["70-11", "70-13", "70-17", "70-18", "70-23", "70-26", "70-27", "70-33", "70-35", "70-36", "70-38", "70-39", "70-40", "70-41", "70-44", "70-47", "70-5", "70-50", "71-1", "71-13", "71-20", "71-21", "71-24", "71-25", "71-27", "71-28", "71-32", "71-37", "71-38", "71-46", "71-5", "72-12", "72-15", "72-17", "72-21", "72-25", "72-26", "72-28", "72-34", "72-35", "72-41", "72-43", "72-44", "72-46", "72-49", "72-8", "73-10", "73-15", "73-21", "73-22", "73-3", "73-30", "73-34", "73-36", "73-37", "73-39", "73-45", "73-49", "73-7", "74-1", "74-13", "74-17", "74-2", "74-21", "74-23", "74-27", "74-3", "74-37", "74-43", "74-44", "74-45", "74-46", "74-47", "74-5", "74-7", "74-8", "75-12", "75-13", "75-15", "75-18", "75-20", "75-21", "75-24", "75-25", "75-27", "75-30", "75-34", "75-36", "75-39", "75-4", "75-40", "75-42", "75-44", "75-46", "75-48", "75-6", "76-13", "76-16", "76-19", "76-20", "76-22", "76-24", "76-30", "76-33", "76-37", "76-40", "76-45", "76-47", "76-48", "76-49", "77-11", "77-13", "77-17", "77-21", "77-23", "77-24", "77-31", "77-32", "77-35", "77-36", "77-39", "77-44", "77-46", "77-47", "77-48", "77-49", "78-1", "78-10", "78-14", "78-15", "78-19", "78-2", "78-20", "78-34", "78-36", "78-41", "78-43", "78-45", "78-47", "78-48", "78-5", "78-6", "78-8", "78-9", "79-11", "79-18", "79-23", "79-25", "79-27", "79-28", "79-3", "79-30", "79-36", "79-37", "79-4", "79-41", "79-44", "79-46", "79-48"];
 function questionFigure(q){
  const k=key(q),updated=CHARACTER_KEYS.includes(k);
- return `<figure class="qfig"><img src="${updated?'character-art/'+k+'.svg?v=20261005-78maid':'fig/'+k+'.jpg'}" width="${FIG[k][0]}" height="${FIG[k][1]}" loading="lazy" alt="제${q.r}회 ${q.n}번 자료 그림"></figure>`;
+ return `<figure class="qfig"><img src="${updated?'character-art/'+k+'.svg?v=20261012-jpg':'fig/'+k+'.jpg'}" width="${FIG[k][0]}" height="${FIG[k][1]}" loading="lazy" alt="제${q.r}회 ${q.n}번 자료 그림"></figure>`;
 }
-function questionImage(q,img){const k=key(q);return `<img class="qimg" src="${CHARACTER_KEYS.includes(k)?`character-art/${k}.svg?v=20261005-78maid`:img}" alt="제${q.r}회 ${q.n}번 자료 그림">`}
+function questionImage(q,img){const k=key(q);return `<img class="qimg" src="${CHARACTER_KEYS.includes(k)?`character-art/${k}.svg?v=20261012-jpg`:img}" alt="제${q.r}회 ${q.n}번 자료 그림">`}
 
 function qHTML(q,chosen,reveal){
   const img=IMG[key(q)];
@@ -311,7 +325,8 @@ function vRun(){
    ${c.confirm?`<div class="confirm"><span>${c.list.length-answered}문항을 비운 채 제출할까요?</span><button class="btn pri" id="submit2">제출하고 채점</button><button class="btn" id="cancel">계속 풀기</button></div>`:""}
    <div class="omr">${omr}</div>
    ${qHTML(q,c.ans[c.i],reveal)}
-   <div class="nav2"><button class="btn" id="prev" ${c.i?"":"disabled"}>이전</button><span class="hint">${c.i+1} / ${c.list.length}</span><button class="btn ${reveal||exam?"pri":""}" id="next">${c.i===c.list.length-1?(exam?"제출 확인":"결과 보기"):"다음"}</button></div>`;
+   <div class="nav2"><button class="btn" id="prev" ${c.i?"":"disabled"}>이전</button><span class="hint">${c.i+1} / ${c.list.length}</span><button class="btn ${reveal||exam?"pri":""}" id="next">${c.i===c.list.length-1?(exam?"제출 확인":"결과 보기"):"다음"}</button></div>
+   <p class="hint kbd-hint">키보드: 1~5 보기 선택 · ← → 이전/다음 문항</p>`;
 }
 function bindRun(){
   const c=ctx,exam=c.mode==="exam",app=document.getElementById("app");
@@ -1289,7 +1304,7 @@ document.addEventListener('input',e=>{if(e.target.matches('[data-note]')){const 
 document.addEventListener('change',async e=>{if(e.target.id==='reasonFilter'){reasonFilter=e.target.value;render()}if(e.target.id==='memoryEra'){memoryEra=e.target.value;render()}if(e.target.id==='memoryOnly'){memoryOnly=e.target.checked;render()}if(e.target.id==='importHistory'){const status=document.getElementById('importStatus');try{const f=e.target.files[0];if(!f)return;if(f.size>5000000)throw Error('기록 파일이 너무 큽니다.');mergeBackup(JSON.parse(await f.text()));status.textContent='기록을 가져왔습니다.'}catch(err){status.textContent='가져오지 못했습니다: '+err.message}}});
 const originalAfterRender=afterRender;afterRender=function(){originalAfterRender();document.querySelectorAll('.qfig,.qimg').forEach(el=>{const img=el.matches('img')?el:el.querySelector('img');if(!img)return;const button=document.createElement('button');button.className='btn';button.textContent='그림 크게 보기';button.onclick=()=>img.click();el.after(button)})};
 
-const h=location.hash.slice(1);if(["home","exam","era","pick","wrong","study","stats","search","memory","backup"].includes(h))view=h;
+const h=location.hash.slice(1);if(VIEWS.includes(h))view=h;
 render();
 </script>
 
