@@ -1,0 +1,23 @@
+{
+  "requestedCount": 3,
+  "completedCount": 2,
+  "remainingCount": 1,
+  "items": [
+    {
+      "key": "70-40",
+      "figure": {
+        "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+        "width": 1408,
+        "height": 1117,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "special": "Change ONLY the mature ADULT woman presenter to ordinary elegant opaque LINGERIE: a fully covering satin bra and matching underwear with delicate lace trim, breasts and crotch fully covered, no transparency. Age25+ adult face and anatomy. NO elbow gloves and NO legwear, no stockings or long gloves. Keep a neutral educational explanatory pose. Preserve every original Korean sentence, the historical photo and coherent background. Do not change actual historical figures in source photos. Keep reference canvas aspect.",
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-retry-three/references/70-40.jpg"
+      },
+      "status": "blocked",
+      "failure": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID f684ba43-4a56-4e3d-8b52-34127e005ae7.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"input\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")"
+    }
+  ]
+}

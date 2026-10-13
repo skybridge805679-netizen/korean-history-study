@@ -1,0 +1,48 @@
+{
+  "baseCommit": "6aa3311b00834f30930cf806966cb5846332a467",
+  "requestedCount": 3,
+  "items": [
+    {
+      "key": "71-5",
+      "figure": {
+        "src": "scene-art/71-5.svg?v=20261013-redraw-v1",
+        "width": 1001,
+        "height": 777,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "special": "Recompose the CURRENT MAIN scene into a high-resolution 16:9 WIDE landscape classroom illustration. Keep the three original characters and their existing outfits, identities, hairstyles and educational poses, do not substitute other costumes or an unrelated classroom scene. Mature ADULT women age25+, neutral nonsexual presentation. Preserve EVERY original title, statement and (가)/(나)/(다) label accurately. Enlarge text and use horizontal space effectively; all fully clothed characters remain naturally proportioned.",
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-retry-three/references/71-5.jpg"
+      }
+    },
+    {
+      "key": "79-25",
+      "figure": {
+        "src": "scene-art/79-25.png?v=20261013-wide-redraw",
+        "width": 1476,
+        "height": 1066,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "special": "Correct ONLY the ADULT female guide body and pose into a notably SKINNY slender figure: slim thighs, slim legs, narrow natural waist, slender arms and natural adult anatomy. Maintain her original current costume, face identity, hairstyle and all historical exhibit/text/background details. Use a natural calm explanatory standing pose, no sexual action or provocative camera angle, do not exaggerate curves. Keep reference canvas aspect.",
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-retry-three/references/79-25.jpg"
+      }
+    },
+    {
+      "key": "70-40",
+      "figure": {
+        "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+        "width": 1408,
+        "height": 1117,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "special": "Change ONLY the mature ADULT woman presenter to ordinary elegant opaque LINGERIE: a fully covering satin bra and matching underwear with delicate lace trim, breasts and crotch fully covered, no transparency. Age25+ adult face and anatomy. NO elbow gloves and NO legwear, no stockings or long gloves. Keep a neutral educational explanatory pose. Preserve every original Korean sentence, the historical photo and coherent background. Do not change actual historical figures in source photos. Keep reference canvas aspect.",
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-retry-three/references/70-40.jpg"
+      }
+    }
+  ]
+}

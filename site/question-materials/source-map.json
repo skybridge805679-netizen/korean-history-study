@@ -3787,9 +3787,10 @@
     "imageFile": "71-5.webp",
     "restoredFromText": false,
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-retry-three/manifest.json",
       "key": "71-5",
-      "src": "scene-art/71-5.svg?v=20261013-redraw-v1",
+      "src": "scene-art/71-5.png?v=20261013-retry-three",
+      "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }
   },
@@ -33211,9 +33212,9 @@
       "protectedRects": []
     },
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-retry-three/manifest.json",
       "key": "79-25",
-      "src": "scene-art/79-25.png?v=20261013-wide-redraw",
+      "src": "scene-art/79-25.png?v=20261013-retry-three",
       "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }

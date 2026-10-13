@@ -1,0 +1,73 @@
+{
+  "baseCommit": "6aa3311b00834f30930cf806966cb5846332a467",
+  "requestedCount": 3,
+  "generationCount": 2,
+  "appliedCount": 2,
+  "postGenerationImageEdits": 0,
+  "images": [
+    {
+      "key": "71-5",
+      "special": "Recompose the CURRENT MAIN scene into a high-resolution 16:9 WIDE landscape classroom illustration. Keep the three original characters and their existing outfits, identities, hairstyles and educational poses, do not substitute other costumes or an unrelated classroom scene. Mature ADULT women age25+, neutral nonsexual presentation. Preserve EVERY original title, statement and (가)/(나)/(다) label accurately. Enlarge text and use horizontal space effectively; all fully clothed characters remain naturally proportioned.",
+      "reference": {
+        "src": "scene-art/71-5.svg?v=20261013-redraw-v1",
+        "width": 1001,
+        "height": 777,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-retry-three/references/71-5.jpg"
+      },
+      "previousFigure": {
+        "src": "scene-art/71-5.svg?v=20261013-redraw-v1",
+        "width": 1001,
+        "height": 777,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-c8d728b6-a122-4f48-8937-347abacd02c4.png",
+      "file": "site/scene-art/71-5.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "75c785225f424cbef9ad13bde385fe9cd319f0bbc2ae0511bee4e478106a5ba5",
+      "prompt": "Create one finished detailed Korean history educational anime image from the supplied current-main reference. Preserve all original Korean text, answer blanks, historical materials, identities and background information. Clear legible Hangul, natural anatomy, refined lighting and fabrics. Apply only the requested change. The final PNG will be used exactly as generated with no later exam/text/photo overlays or resizing. Recompose the CURRENT MAIN scene into a high-resolution 16:9 WIDE landscape classroom illustration. Keep the three original characters and their existing outfits, identities, hairstyles and educational poses, do not substitute other costumes or an unrelated classroom scene. Mature ADULT women age25+, neutral nonsexual presentation. Preserve EVERY original title, statement and (가)/(나)/(다) label accurately. Enlarge text and use horizontal space effectively; all fully clothed characters remain naturally proportioned.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "79-25",
+      "special": "Correct ONLY the ADULT female guide body and pose into a notably SKINNY slender figure: slim thighs, slim legs, narrow natural waist, slender arms and natural adult anatomy. Maintain her original current costume, face identity, hairstyle and all historical exhibit/text/background details. Use a natural calm explanatory standing pose, no sexual action or provocative camera angle, do not exaggerate curves. Keep reference canvas aspect.",
+      "reference": {
+        "src": "scene-art/79-25.png?v=20261013-wide-redraw",
+        "width": 1476,
+        "height": 1066,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-retry-three/references/79-25.jpg"
+      },
+      "previousFigure": {
+        "src": "scene-art/79-25.png?v=20261013-wide-redraw",
+        "width": 1476,
+        "height": 1066,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-bce8a3f1-395f-4b26-b0a6-536bd7a0a34d.png",
+      "file": "site/scene-art/79-25.png",
+      "width": 1475,
+      "height": 1066,
+      "sha256": "2e3aaf4f49cb9ceb84c5a56697f9a54b59054004964e846fa2172d33e5628162",
+      "prompt": "Create one finished detailed Korean history educational anime image from the supplied current-main reference. Preserve all original Korean text, answer blanks, historical materials, identities and background information. Clear legible Hangul, natural anatomy, refined lighting and fabrics. Apply only the requested change. The final PNG will be used exactly as generated with no later exam/text/photo overlays or resizing. Correct ONLY the ADULT female guide body and pose into a notably SKINNY slender figure: slim thighs, slim legs, narrow natural waist, slender arms and natural adult anatomy. Maintain her original current costume, face identity, hairstyle and all historical exhibit/text/background details. Use a natural calm explanatory standing pose, no sexual action or provocative camera angle, do not exaggerate curves. Keep reference canvas aspect.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    }
+  ],
+  "failedAttempts": [
+    {
+      "key": "70-40",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID f684ba43-4a56-4e3d-8b52-34127e005ae7.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"input\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")"
+    }
+  ]
+}
