@@ -229,6 +229,13 @@
       "kind": "outfit",
       "imageSha256": "b9bfac5ac630f92e9445d5a34b2d9894f8e2fffdb8443e402e39e7b5b53dafff",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "70-5",
+      "src": "scene-art/70-5.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "70-6": {
@@ -897,7 +904,14 @@
     "pngSha256": "11efa5b151300f2f1bc298e9825a06bcdf2696d781cccf519d59ee8e6106e710",
     "pixelSha256": "f688ead3e021723c58819706c132a5c0c3e742d2dd667736b656105b3a28dc5e",
     "imageFile": "70-17.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "70-17",
+      "src": "scene-art/70-17.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "70-18": {
     "exam": 70,
@@ -1594,7 +1608,14 @@
     "pngSha256": "bcd4c2a0224aa106b6a0bc14c5216162d6a13d5c2d9d64b9d46a879949678313",
     "pixelSha256": "5517bfbde28b15a4adfcb6b490e31a0eb47654795c49dead2233c4a5225fc54c",
     "imageFile": "70-26.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "70-26",
+      "src": "scene-art/70-26.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "70-27": {
     "exam": 70,
@@ -2010,7 +2031,14 @@
     "pngSha256": "ff28cafc545468dff9754021f8c460824b63d716b7a51f093906501b559b7699",
     "pixelSha256": "d6873627681bf4c6512093b8f710885950744f5e37f4fdc3fd55fb8364e3c2e9",
     "imageFile": "70-33.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "70-33",
+      "src": "scene-art/70-33.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "70-34": {
     "exam": 70,
@@ -2149,6 +2177,13 @@
       "kind": "outfit",
       "imageSha256": "01f1a02fce16c49f89906aaa2f2287d58b2d94689a32fa4f5096db5b5a7aeb7f",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "70-35",
+      "src": "scene-art/70-35.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "70-36": {
@@ -2642,7 +2677,14 @@
     "pngSha256": "8a4ad21d546edabddab500dceadd442c27215ecc66f1b7e197c44c124c981272",
     "pixelSha256": "d03dadac14c2302f356366bfc8bf865d30571d34feebbc629cc957b403cad72a",
     "imageFile": "70-38.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "70-38",
+      "src": "scene-art/70-38.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "70-39": {
     "exam": 70,
@@ -2807,7 +2849,14 @@
     "pngSha256": "57e07c6c8059b934562f0592a1d5d673a5689dca092f48b9f32ff2cd7bb97fd8",
     "pixelSha256": "7837623dd4bfc860812179ea842c499c24dfa04f4a3ae3eced7c615086ed74da",
     "imageFile": "70-40.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "70-40",
+      "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "70-41": {
     "exam": 70,
@@ -2926,7 +2975,14 @@
     "pngSha256": "84387acd18a600cceed044a1a2915c673dd0a409e9de0b65870f065d8b59e2db",
     "pixelSha256": "2972beef9f6166d78cb8b3e9746eda2d0c950f6ea9c58c192b6fd315786ea8a5",
     "imageFile": "70-41.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "70-41",
+      "src": "scene-art/70-41.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "70-42": {
     "exam": 70,
@@ -3202,7 +3258,14 @@
     "pngSha256": "0cbc94a07ba327b1fc6f6355f0a67aa7860868978257d13644a9edb02c29b5eb",
     "pixelSha256": "b8cbae6f7f9493fe1e8386f7a87760fb072d038673540103e24b899560139326",
     "imageFile": "70-47.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "70-47",
+      "src": "scene-art/70-47.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "70-48": {
     "exam": 70,
@@ -6860,7 +6923,14 @@
     "pngSha256": "b89882c9be0da29f765da6e984b65aa0ab16c21bb5fe7ddedda50004a14f2c09",
     "pixelSha256": "8725fc9a64599ba40823904cc609444a4c07c38115fb4ce884a1a7059ed20460",
     "imageFile": "71-37.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "71-37",
+      "src": "scene-art/71-37.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "71-38": {
     "exam": 71,
@@ -6943,7 +7013,14 @@
     "pngSha256": "84a05772aec88291dbb4fdfa4a286c135d927b7192dfa8aac532ea18f006bb4b",
     "pixelSha256": "14ebe2edf7f83d161aca4b424c37e512b51f54c9e7806c11e4a8f89db7425cf0",
     "imageFile": "71-38.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "71-38",
+      "src": "scene-art/71-38.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "71-39": {
     "exam": 71,
@@ -7658,7 +7735,14 @@
     "pngSha256": "51d1941fa0730f5b7bf406f32a74ddcff5172ca2165e63565102be022c862954",
     "pixelSha256": "be20cbc8a1f41871918dff6ff9da6d568ce35140168f7540f5e751714c0881be",
     "imageFile": "72-8.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "72-8",
+      "src": "scene-art/72-8.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "72-9": {
     "exam": 72,
@@ -8464,6 +8548,13 @@
           "sourceScale": 2
         }
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "72-18",
+      "src": "scene-art/72-18.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "72-19": {
@@ -8926,7 +9017,14 @@
     "pngSha256": "35f77aa86249545122cd2b9b06b50e0171f66bd3ef61d6c4d447e0d8b260c80a",
     "pixelSha256": "3fb98831f1ead4ad30016fa041486c64a9a5eb1f2ac19020bfa85e864965884c",
     "imageFile": "72-25.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "72-25",
+      "src": "scene-art/72-25.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "72-26": {
     "exam": 72,
@@ -9445,6 +9543,13 @@
           "sourceScale": 2
         }
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "72-32",
+      "src": "scene-art/72-32.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "72-33": {
@@ -9557,7 +9662,14 @@
     "pngSha256": "381213c1d6218e853e14a5b5af6473120e447d895d510298a92734d38c3e3103",
     "pixelSha256": "4078d8b10e600efb8779e57d471ed0c9361211a00bcb6c1ad1aea3127ea8f588",
     "imageFile": "72-34.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "72-34",
+      "src": "scene-art/72-34.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "72-35": {
     "exam": 72,
@@ -9640,7 +9752,14 @@
     "pngSha256": "d7daec775b7790733740579d4b8ebe5fc50b3771a1aaa4ec1f6e144f81e0419c",
     "pixelSha256": "f89b1cc43cc7ba524ce6398e200b11c37cc778e7223a2a2fdf904b1fd42f39a2",
     "imageFile": "72-35.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "72-35",
+      "src": "scene-art/72-35.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "72-36": {
     "exam": 72,
@@ -9868,7 +9987,14 @@
     "pngSha256": "476942c241823433b0fed915ff98568a824d9f1ee751bc5d00dd3606bd0755cc",
     "pixelSha256": "42e741dba1c92d0e25b124f7f1cf4b872019e7a7f413fa99e4d3f66c128339b4",
     "imageFile": "72-41.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "72-41",
+      "src": "scene-art/72-41.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "72-42": {
     "exam": 72,
@@ -12270,7 +12396,14 @@
     "pngSha256": "2aed62c52d59425937f8ae7cecaa5bbaf803fd5e0adf64de50e3d11615082cf7",
     "pixelSha256": "fb76426a5c014ea488d3448660ea2dba0c11955b3db4c24486d24b1a483f64d2",
     "imageFile": "73-30.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "73-30",
+      "src": "scene-art/73-30.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "73-31": {
     "exam": 73,
@@ -12427,7 +12560,14 @@
     "pngSha256": "ea753f70d41e4d23d356fc629d9c9796c2f8c4e492cd1bf979438315a96753c4",
     "pixelSha256": "6146aa92f4a49de7c4398d1ea1fe6b0659e704e63c8bf81d37c00bd4c7589d27",
     "imageFile": "73-34.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "73-34",
+      "src": "scene-art/73-34.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "73-35": {
     "exam": 73,
@@ -12684,7 +12824,14 @@
     "pngSha256": "22e1970d9796fa73493b2928fd49a6748797fa47180dad63aaa50efcb4210876",
     "pixelSha256": "a8a093e09c8a14bbbf14821fe3fd07b45c197a6f3256a7b18c45bb7830c0e3cd",
     "imageFile": "73-36.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "73-36",
+      "src": "scene-art/73-36.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "73-37": {
     "exam": 73,
@@ -12761,7 +12908,14 @@
     "pngSha256": "ab09b537542a867864176c1ad8b94da0964411904643492ef792a8a734cfca18",
     "pixelSha256": "03a6035ce828464126521175b95968e8987fa9d581e975f9fc523a9610ab9a15",
     "imageFile": "73-37.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "73-37",
+      "src": "scene-art/73-37.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "73-38": {
     "exam": 73,
@@ -13425,7 +13579,14 @@
     "pngSha256": "51e862ab7d3f0db8f9be9e857ea25ad5bbe51146711ae768f12a91c91c32dff6",
     "pixelSha256": "d289e972b1d342a2aa169e0d3871543473a5c321dc88b9957bc2b9ca15db029c",
     "imageFile": "73-45.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "73-45",
+      "src": "scene-art/73-45.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "73-46": {
     "exam": 73,
@@ -13595,7 +13756,14 @@
     "pngSha256": "93a6ed5ff24cf787203568c2ee1a7aea99c364b6701c747d618c0ba00d54a605",
     "pixelSha256": "e5d3ee020023fb95dd5005504c5837aa167040ef4a0efd58b1832d91a3b42083",
     "imageFile": "73-49.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "73-49",
+      "src": "scene-art/73-49.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "73-50": {
     "exam": 73,
@@ -13707,7 +13875,14 @@
     "pngSha256": "a748a977eb47d39d9ef9495ddfe3f3df39e0ca7244c41b73c4a20391af764344",
     "pixelSha256": "a2891868cd41c40885f0bcf291b08efed8df73b200e72307357705f2060f292b",
     "imageFile": "74-1.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-1",
+      "src": "scene-art/74-1.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "74-2": {
     "exam": 74,
@@ -13829,6 +14004,13 @@
       "kind": "outfit",
       "imageSha256": "188a1b522fdd3b0f338b372c357b41ee73baebf69d1b837b39a7a976d8b7f5a9",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-2",
+      "src": "scene-art/74-2.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "74-3": {
@@ -14946,7 +15128,14 @@
     "pngSha256": "62ae0afa46f7e6d4048046b8b8c34d8df355ef43e3f2f9105c12f6fbdecad937",
     "pixelSha256": "43b64bfc20c2762079a1e11e05aae2f4be3d2b8c8f7595a5d9db03d381e39092",
     "imageFile": "74-17.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-17",
+      "src": "scene-art/74-17.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "74-18": {
     "exam": 74,
@@ -15255,6 +15444,13 @@
       "kind": "outfit",
       "imageSha256": "ab797962c5cb634e1f445e7dcab5a7193de67d3c0576f97969fe5c3c6a5015ab",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-21",
+      "src": "scene-art/74-21.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "74-22": {
@@ -15568,7 +15764,14 @@
     "pngSha256": "eee06f0ff64588971c81a2a6e0326df716362789c62aead795fb15b4eee3a29d",
     "pixelSha256": "4c86ae58770bc1a9a6cba7da86aac5e8ed4d13515a20797b8a6911885a7efaad",
     "imageFile": "74-23.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-23",
+      "src": "scene-art/74-23.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "74-24": {
     "exam": 74,
@@ -15768,7 +15971,14 @@
     "pngSha256": "17c44d6bcef0df4df64fe2dba95bb991c2a37ce37c3684fa5dd8a9b97e6343ae",
     "pixelSha256": "f6ca757d195189b5cb9eaf9e91af2d2e2e2444c7a03b42f7357b6dce68b9e803",
     "imageFile": "74-27.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-27",
+      "src": "scene-art/74-27.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "74-28": {
     "exam": 74,
@@ -16202,7 +16412,14 @@
     "pngSha256": "96bafcc269081de253a5e473475163587055b178c62df1bf161cd2051b91d981",
     "pixelSha256": "3e1805bdbf74296d0dbfca1206b0defbd1f8e0cc9db0c759714108782a7d28e9",
     "imageFile": "74-37.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-37",
+      "src": "scene-art/74-37.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "74-38": {
     "exam": 74,
@@ -16436,7 +16653,14 @@
     "pngSha256": "d96ff3f7e2c045fd8933bae677adfd6d1085281a354bc99641aac8d1a6bf15c3",
     "pixelSha256": "2e76b96a50b3c85ba780dcc32ebfdb31a6153f3562b9e548ca7268a5683ae3de",
     "imageFile": "74-43.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-43",
+      "src": "scene-art/74-43.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "74-44": {
     "exam": 74,
@@ -16549,7 +16773,14 @@
     "pngSha256": "ff0f71a9847869ea7b7b4d57f1eb88d3a8a74ea378c3a892ecab652870f7a2cc",
     "pixelSha256": "b78e851a713302afb465cda3d2c68d88b140a0adb52f3e1c99a7b25e393df96e",
     "imageFile": "74-44.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-44",
+      "src": "scene-art/74-44.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "74-45": {
     "exam": 74,
@@ -16644,7 +16875,14 @@
     "pngSha256": "8d239a9708bd283b85516d21b9d8b3fa64f1a7f14c075212ccf4f1db45cd6166",
     "pixelSha256": "2d5b9cc3499c21428a765c007c4b1110489ce6ff717b5c0f6b1732edba0d3fa6",
     "imageFile": "74-45.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-45",
+      "src": "scene-art/74-45.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "74-46": {
     "exam": 74,
@@ -16721,7 +16959,14 @@
     "pngSha256": "236197586124e649ade4d9f942a86f0b9fb4a591cf67da8aa1e87d0c363166be",
     "pixelSha256": "277a92601306e8eece01411c657d903b6832e7e33c9490e6ffd6cddc1b8ab06d",
     "imageFile": "74-46.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "74-46",
+      "src": "scene-art/74-46.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "74-47": {
     "exam": 74,
@@ -17286,7 +17531,14 @@
     "pngSha256": "e03f4364b13a6cc678491534e703a50e20ecab07ae28e995c2f1652aef2fac45",
     "pixelSha256": "d7198aec68181924954c3e14d29149656424c0ddde338343ee7778e091e7aa9c",
     "imageFile": "75-6.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "75-6",
+      "src": "scene-art/75-6.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "75-7": {
     "exam": 75,
@@ -19313,7 +19565,14 @@
     "pngSha256": "cf97152a24f7205090b5b4aba34ae634ceb8c3b4457a11ecc39e9877f34bfd0c",
     "pixelSha256": "eee2b75e99e574e09803e4d380d746e0e1daaa93efc566c8098ebf0c6afeb1e7",
     "imageFile": "75-30.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "75-30",
+      "src": "scene-art/75-30.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "75-31": {
     "exam": 75,
@@ -19519,7 +19778,14 @@
     "pngSha256": "1d1454b555353eb2c8b77dd3e6e367d1de9006d8f09784bce39208227230bdf2",
     "pixelSha256": "f5fcae16001f25b878515848ed28969f103e76c5ad49d892a14959560defb7fb",
     "imageFile": "75-34.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "75-34",
+      "src": "scene-art/75-34.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "75-35": {
     "exam": 75,
@@ -19643,7 +19909,14 @@
     "pngSha256": "abc6834405f103451b14d1768feabd5e351722c3a5f120ab3f9e78b3124542d5",
     "pixelSha256": "4ca7957ea424d4ed2594f1f8a55098245a60cfd596484020b03e21ce91e65241",
     "imageFile": "75-36.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "75-36",
+      "src": "scene-art/75-36.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "75-37": {
     "exam": 75,
@@ -19930,6 +20203,13 @@
       "kind": "outfit",
       "imageSha256": "b79ce9dfe543201ce7c50fca09500a5e796be698567681d38e5af831c102895a",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "75-40",
+      "src": "scene-art/75-40.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "75-41": {
@@ -20526,6 +20806,13 @@
       "kind": "outfit",
       "imageSha256": "e7bd9d461f8a86c32bf8003fc333803d9cd7b1dd3103ebafb714c7e1bbcb38e5",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "75-46",
+      "src": "scene-art/75-46.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "75-47": {
@@ -21794,7 +22081,14 @@
     "pngSha256": "fa24d1e584560e015f8e9182d17776fef86afa16f4ac5cd71e23c460fad2940c",
     "pixelSha256": "f59565870d297bbebe7e1583e0c48c38601e8715112b7fb201a4b4ba1d8824e0",
     "imageFile": "76-18.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "76-18",
+      "src": "scene-art/76-18.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "76-19": {
     "exam": 76,
@@ -22112,7 +22406,14 @@
     "pngSha256": "47c8987a8b5d96fc8c461bdf80189a81a71c4e2e0e34d4bf59aef7851d32cfa8",
     "pixelSha256": "948df64d18d800a798ca7f5e2ec609397e5cbb88176632f9e990ab8e7232be72",
     "imageFile": "76-22.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "76-22",
+      "src": "scene-art/76-22.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "76-23": {
     "exam": 76,
@@ -22793,7 +23094,14 @@
     "pngSha256": "65488d3cf1b70e4d1aadd8ef644bb0887d3da94973c0a395963eaf3433fa3626",
     "pixelSha256": "f4bf424a2f01aee0ef0f21caa50c2a5cf257326ce2b5de0f1fd9279e3d0aa833",
     "imageFile": "76-30.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "76-30",
+      "src": "scene-art/76-30.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "76-31": {
     "exam": 76,
@@ -22958,7 +23266,14 @@
     "pngSha256": "1844ed127ce41fc957f6ad5863f286ddeac0e281bfd385c96ccdf7395c89f9b1",
     "pixelSha256": "5eb28f6e0d1879a5be6c1cc25d78b760dd5129a333c8d019708b325e2a496a13",
     "imageFile": "76-33.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "76-33",
+      "src": "scene-art/76-33.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "76-34": {
     "exam": 76,
@@ -23423,7 +23738,14 @@
     "pngSha256": "0b7c963f52c485038abf89badb1a3eb9f2cc108003f64c941d93d17e3dbfdb18",
     "pixelSha256": "da90d278df8388083fa661dad43ec8f8df9850416791000ce95f4c71c97cf283",
     "imageFile": "76-40.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "76-40",
+      "src": "scene-art/76-40.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "76-41": {
     "exam": 76,
@@ -23990,6 +24312,13 @@
       "kind": "outfit",
       "imageSha256": "4514085aa8a8850467370ec320cfd9ea579dbdbf6a0aac897903666c31bc4291",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "76-48",
+      "src": "scene-art/76-48.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "76-49": {
@@ -24654,7 +24983,14 @@
     "pngSha256": "f10d63b54d48603a6871f8c8948209e2517adca963463f258af967aa343535c4",
     "pixelSha256": "8969b0070119b1ff2349d0a41468e23630320914f94e1af68a68334f104fd24b",
     "imageFile": "77-11.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "77-11",
+      "src": "scene-art/77-11.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "77-12": {
     "exam": 77,
@@ -25218,7 +25554,14 @@
     "pngSha256": "06a9076cbf834076cf545cb699891e59cda42e171766f318cbb24087eeebcf21",
     "pixelSha256": "d70a7431056c65a575e8fecf6d7ea92f525bdefd3a8189e6be977c6864e1ef21",
     "imageFile": "77-21.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "77-21",
+      "src": "scene-art/77-21.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "77-22": {
     "exam": 77,
@@ -25363,6 +25706,13 @@
       "kind": "outfit",
       "imageSha256": "979bb2e23d8d622c5a8fed7928df63573f44f3ed63cc18b73b4314c9a88bb5e6",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "77-23",
+      "src": "scene-art/77-23.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "77-24": {
@@ -25663,6 +26013,13 @@
           "sourceScale": 2
         }
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "77-24",
+      "src": "scene-art/77-24.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "77-25": {
@@ -26858,6 +27215,13 @@
       "kind": "outfit",
       "imageSha256": "e81c70b9b5f695fff08befa0aa164128f8ef3de3db2b02ac1f5bccc75cd234fc",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "77-39",
+      "src": "scene-art/77-39.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "77-40": {
@@ -27051,7 +27415,14 @@
     "pngSha256": "583d7b24a55e7e54dd5ded8bfbe0a51839ecc0c5e9081346ecde48a4f886d9c9",
     "pixelSha256": "72e1f543267c512068f2cc354207fb921a0d35336d955603bfdcb6322f92c7d5",
     "imageFile": "77-44.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "77-44",
+      "src": "scene-art/77-44.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "77-45": {
     "exam": 77,
@@ -27181,7 +27552,14 @@
     "pngSha256": "c549a2e20849ac5f00df2c7dc1d2517b12ce806d29d0a2ec7c074848de689ed9",
     "pixelSha256": "429037f57f1290f7417c622542002d25b88367cbe0c2f92450a60d403c4fb131",
     "imageFile": "77-46.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "77-46",
+      "src": "scene-art/77-46.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "77-47": {
     "exam": 77,
@@ -27977,7 +28355,14 @@
     "pngSha256": "ba33e78bb789884b564b0f5535fb5e1083cbe3bc39a82ee100ea316caad60e2c",
     "pixelSha256": "974114d966af0f43e857c0ac1b5f594be7f7f4e659c6f637ff102968d57ca1f7",
     "imageFile": "78-5.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "78-5",
+      "src": "scene-art/78-5.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
+    }
   },
   "78-6": {
     "exam": 78,
@@ -28087,6 +28472,13 @@
       "kind": "outfit",
       "imageSha256": "0f0bb49bd73b6d280d5583ac23bca2efe380bc94d719a6d4aa0b1c5efd988303",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "78-6",
+      "src": "scene-art/78-6.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "78-7": {
@@ -28265,6 +28657,13 @@
           "sourceScale": 2
         }
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "78-8",
+      "src": "scene-art/78-8.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "78-9": {
@@ -28667,6 +29066,13 @@
       "kind": "outfit",
       "imageSha256": "ccb22729d3396664ca3e030ae796b90e0df4479fbc9e3128f11043dcfc7a3d5f",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "78-10",
+      "src": "scene-art/78-10.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "78-11": {
@@ -32341,6 +32747,13 @@
           "sourceScale": 2
         }
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "79-21",
+      "src": "scene-art/79-21.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "79-22": {
@@ -33192,6 +33605,13 @@
           "sourceScale": 2
         }
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "79-31",
+      "src": "scene-art/79-31.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "79-32": {
@@ -34107,6 +34527,13 @@
           218
         ]
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "79-45",
+      "src": "scene-art/79-45.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "79-46": {
@@ -34400,6 +34827,13 @@
           "sourceScale": 2
         }
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-full-redraw/manifest.json",
+      "key": "79-48",
+      "src": "scene-art/79-48.png?v=20261013-full-redraw-final",
+      "usesUnmodifiedGeneratedPng": true,
+      "preservedCrops": []
     }
   },
   "79-49": {

@@ -1005,10 +1005,1716 @@
       "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect ratio 801:446. RECOMPOSE into a canvas about 20% NARROWER than reference while keeping its height, reducing wasted lateral space; enlarge all anonymous adult women clearly, improve detailed fashion fabrics and clothing quality, retain complete original speech text and cultural material. No after-generation crop; generate the final narrower composition directly. ",
       "usesUnmodifiedGeneratedPng": true,
       "overlays": []
+    },
+    {
+      "key": "70-17",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/70-17.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 887,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/70-17.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 887,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-67f2a339-a0e4-4ac1-947a-c96f471aaf55.png",
+      "sha256": "070ab9ea995aa3ef0fd04113223ee1822eb8d62e531dea6b35454f075ca2b63f",
+      "file": "site/scene-art/70-17.png",
+      "width": 1333,
+      "height": 1180,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:887.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "70-26",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/70-26.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 801,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/70-26.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 801,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-a7d0ee8d-dd04-4355-b1da-788d122b668e.png",
+      "sha256": "7454c3fa08594b11e739c44505783f01790b8e4c75537a65238cb338f473e6dd",
+      "file": "site/scene-art/70-26.png",
+      "width": 1402,
+      "height": 1122,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:801.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "70-33",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/70-33.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 753,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/70-33.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 753,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-93a46637-8721-417b-a9bd-d7c5a16121c4.png",
+      "sha256": "55ff7f093fda85dbcd2e1513726b34ba40fc6f1ff4b1c89a41e63fcaa2346b70",
+      "file": "site/scene-art/70-33.png",
+      "width": 1446,
+      "height": 1087,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:753.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "70-35",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/70-35.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 919,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/70-35.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 919,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-f84ef141-230f-469e-8f18-cbb1eceec06f.png",
+      "sha256": "4def6e1f7415d718adb684470ab9ab053da8ce73a316cdf7619d4d700bcd3c87",
+      "file": "site/scene-art/70-35.png",
+      "width": 1309,
+      "height": 1201,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:919.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "70-38",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "scene-art/70-38.webp?v=20261013",
+        "width": 1001,
+        "height": 800,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/70-38.webp?v=20261013",
+        "width": 1001,
+        "height": 800,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-c53ae078-2af5-4716-bee8-bbb606b20cfa.png",
+      "sha256": "c146f2a088f5bb0b7a1ff1d3e4143216ee0df2bee051427ea811453a87e0f808",
+      "file": "site/scene-art/70-38.png",
+      "width": 1403,
+      "height": 1121,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:800. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "70-40",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "question-art/70-40.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 794,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/70-40.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 794,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-2cf640ae-9960-4ee1-ab7c-ac86592d7d34.png",
+      "sha256": "97b1c8cb5d0a28b2f6e218e7918ccd71a8e0b3b9423355552ef0e32378fad5e7",
+      "file": "site/scene-art/70-40.png",
+      "width": 1408,
+      "height": 1117,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:794. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "70-41",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "question-art/70-41.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 828,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/70-41.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 828,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-ae2712bd-dc6c-4c9d-a47e-28dc7f62514b.png",
+      "sha256": "7384a9af7e4d5d72a0c02a70afb541e2cf7379965f1d43299c3450b240c2a4f8",
+      "file": "site/scene-art/70-41.png",
+      "width": 1379,
+      "height": 1141,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:828. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "70-47",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "question-art/70-47.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 691,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/70-47.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 691,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-a001916f-44ae-414e-97c1-ebacdbc3e2d6.png",
+      "sha256": "ba904316456f88df34a7f1d50bf23f3530500121fa69475f6e1209f4d6c4bf8f",
+      "file": "site/scene-art/70-47.png",
+      "width": 1510,
+      "height": 1042,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:691. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "70-5",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/70-5.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 605,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/70-5.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 605,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-a6e31022-13d4-40aa-b929-e0d2398592b5.png",
+      "sha256": "e8ebc1fcb9705b2c039cff8ad65bf0d30eb865ea6db7819b1aef5310bda0728f",
+      "file": "site/scene-art/70-5.png",
+      "width": 1614,
+      "height": 975,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:605.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "71-37",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/71-37.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 775,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/71-37.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 775,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-273be2f2-af2d-4c99-8179-aaa0d39d4183.png",
+      "sha256": "1b91184b62321e6532fd9b319a9ddd88346ae9c1f84a299de1e9c694cec77c25",
+      "file": "site/scene-art/71-37.png",
+      "width": 1426,
+      "height": 1103,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:775.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "71-38",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/71-38.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 923,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/71-38.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 923,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-1ae7a3fe-40cb-445e-933b-9dcf84ea0a75.png",
+      "sha256": "380deb65101e07746fffdf413e2cd5ccb36746b01fd032a503a08b6c9be332fb",
+      "file": "site/scene-art/71-38.png",
+      "width": 1306,
+      "height": 1204,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:923.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "72-18",
+      "group": "costume",
+      "special": "Change the adult women's existing hanbok to TIGHT, SOPHISTICATED MODERNIZED HANBOK, elegant fitted silhouettes with contemporary tailoring, polished silk fabrics and hanbok collar/ribbon details. Enlarge characters, adult natural anatomy, retain distinct identities and all original text and historical content.",
+      "reference": {
+        "src": "scene-art/72-18.webp?v=20261013",
+        "width": 1001,
+        "height": 580,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/72-18.webp?v=20261013",
+        "width": 1001,
+        "height": 580,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-7b045c99-afe0-4680-a674-b4ba64cbaa1c.png",
+      "sha256": "85bc7ef5780c16178e54c808a72e8b2d827f35fc33a6d708886f9d9cc01547a5",
+      "file": "site/scene-art/72-18.png",
+      "width": 1648,
+      "height": 954,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:580. Change the adult women's existing hanbok to TIGHT, SOPHISTICATED MODERNIZED HANBOK, elegant fitted silhouettes with contemporary tailoring, polished silk fabrics and hanbok collar/ribbon details. Enlarge characters, adult natural anatomy, retain distinct identities and all original text and historical content.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "72-25",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/72-25.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 796,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/72-25.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 796,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-61e5a900-5dad-426a-9487-0927f0ed4dfc.png",
+      "sha256": "36cea197689e72dc798cba90c6af810a6858f55408a8f43e275d98bf5ab8881c",
+      "file": "site/scene-art/72-25.png",
+      "width": 1406,
+      "height": 1119,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:796.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "72-32",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "scene-art/72-32.webp?v=20261013",
+        "width": 1001,
+        "height": 531,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/72-32.webp?v=20261013",
+        "width": 1001,
+        "height": 531,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-30373f24-6f27-4ca7-b6c5-a75daf86c377.png",
+      "sha256": "ecfc319e0c728b7bc9f403126dd29daff6ff207e3ebf0f5f78b20b1ce540fb82",
+      "file": "site/scene-art/72-32.png",
+      "width": 1723,
+      "height": 913,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:531. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "72-34",
+      "group": "costume",
+      "special": "Change the anonymous ADULT female guide outfit to a KUNOICHI costume: elegant fitted dark-violet shinobi kimono-style outfit with sash, short flowing skirt, gloves and shin guards, tasteful opaque outfit, adult age25+ mature face and natural anatomy, neutral informative museum-guide pose. Enlarge character; preserve historical materials and original dialogue.",
+      "reference": {
+        "src": "scene-art/72-34.webp?v=20261013",
+        "width": 1001,
+        "height": 654,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/72-34.webp?v=20261013",
+        "width": 1001,
+        "height": 654,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-bde4cf85-402a-4749-b692-f99e9026b500.png",
+      "sha256": "c2c1b3f21387f169d9f07f8cead0f809bca3569e431bcea70dab689e82d61986",
+      "file": "site/scene-art/72-34.png",
+      "width": 1552,
+      "height": 1013,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:654. Change the anonymous ADULT female guide outfit to a KUNOICHI costume: elegant fitted dark-violet shinobi kimono-style outfit with sash, short flowing skirt, gloves and shin guards, tasteful opaque outfit, adult age25+ mature face and natural anatomy, neutral informative museum-guide pose. Enlarge character; preserve historical materials and original dialogue.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "72-35",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/72-35.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 872,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/72-35.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 872,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-40b74493-9e3a-4a71-8187-151d73693de5.png",
+      "sha256": "d50f9ce8dbba8ca19dc272f309514a0f6a4db780cf81bfbb07b434eaeef1e63d",
+      "file": "site/scene-art/72-35.png",
+      "width": 1344,
+      "height": 1170,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:872.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "72-41",
+      "group": "redraw",
+      "special": "Correct character head-to-body proportions: mature adult face and natural adult anatomy approx 7-8 heads tall, enlarge sole guide without hiding text or exhibit, no oversized head or tiny doll body.",
+      "reference": {
+        "src": "scene-art/72-41.webp?v=20261013",
+        "width": 1001,
+        "height": 883,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/72-41.webp?v=20261013",
+        "width": 1001,
+        "height": 883,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-c46e19b6-5ede-47f9-92e6-881cf32c53b4.png",
+      "sha256": "96326c3d56046bc12f407615b854c0a154087db5304a445046078f29eab98fd1",
+      "file": "site/scene-art/72-41.png",
+      "width": 1335,
+      "height": 1178,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:883.  Correct character head-to-body proportions: mature adult face and natural adult anatomy approx 7-8 heads tall, enlarge sole guide without hiding text or exhibit, no oversized head or tiny doll body.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "72-8",
+      "group": "redraw",
+      "special": "Remove all trousers and trouser remnants; female guide wears a coherent skirt or dress outfit, adult proportions, complete natural legs and footwear.",
+      "reference": {
+        "src": "question-art/72-8.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 757,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/72-8.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 757,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-6b31ba7a-e8e6-436e-a867-04f52ae2b51a.png",
+      "sha256": "6e8e0bea39e3e538213a09cd260d0f00cd711caf2ccfa3214f98319e6b2aa326",
+      "file": "site/scene-art/72-8.png",
+      "width": 1443,
+      "height": 1090,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:757.  Remove all trousers and trouser remnants; female guide wears a coherent skirt or dress outfit, adult proportions, complete natural legs and footwear.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "73-30",
+      "group": "redraw",
+      "special": "Remove trousers and all old trouser fragments; female lecturer wears an elegant cohesive skirt outfit; natural adult body, full legs and feet.",
+      "reference": {
+        "src": "question-art/73-30.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 713,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/73-30.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 713,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-bb882e13-5062-4bf0-81c9-17cf124cc9f3.png",
+      "sha256": "e5424304c1efc4bb69a5c748516ea5aa248e4c876db580b941349161992afaa6",
+      "file": "site/scene-art/73-30.png",
+      "width": 1486,
+      "height": 1058,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:713.  Remove trousers and all old trouser fragments; female lecturer wears an elegant cohesive skirt outfit; natural adult body, full legs and feet.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "73-34",
+      "group": "costume",
+      "special": "Change the anonymous adult woman outfit to a WHITE ONE-PIECE DRESS and STRAW HAT, refined feminine summer styling, enlarge character with natural complete adult anatomy, all original text and historical materials intact.",
+      "reference": {
+        "src": "scene-art/73-34.webp?v=20261013",
+        "width": 1001,
+        "height": 917,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/73-34.webp?v=20261013",
+        "width": 1001,
+        "height": 917,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-e5ff2a74-bdf3-4fd6-9b64-436f91933eaf.png",
+      "sha256": "33c8ca7484c18a048172b9b0720b3f2550807898c6618ad80177a2fe096394f4",
+      "file": "site/scene-art/73-34.png",
+      "width": 1310,
+      "height": 1200,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:917. Change the anonymous adult woman outfit to a WHITE ONE-PIECE DRESS and STRAW HAT, refined feminine summer styling, enlarge character with natural complete adult anatomy, all original text and historical materials intact.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "73-36",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/73-36.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 776,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/73-36.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 776,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-1b690ab0-d143-4712-ba3c-b034edf7b612.png",
+      "sha256": "ba11deead08a6eaa9e4c169ae30fb154b9656de88f46cf4442406d97bd88dbad",
+      "file": "site/scene-art/73-36.png",
+      "width": 1424,
+      "height": 1104,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:776.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "73-37",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/73-37.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 832,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/73-37.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 832,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-8b5432ce-4b30-4922-addd-d507a6b934b2.png",
+      "sha256": "c2eb0347b5d21ef7a7bce7e2ceddaadc2b614973169679d928076b67b13f5a3a",
+      "file": "site/scene-art/73-37.png",
+      "width": 1376,
+      "height": 1143,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:832.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "73-45",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/73-45.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 581,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/73-45.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 581,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-e4813d66-779b-449c-8767-95d56a1ac44d.png",
+      "sha256": "35c4f32a25bd704b0e5541a53395cf0449cc1cc3d4703500a643f174ac203d9a",
+      "file": "site/scene-art/73-45.png",
+      "width": 1647,
+      "height": 955,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:581.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "73-49",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/73-49.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 746,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/73-49.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 746,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-6b09bb70-8f75-47ed-a786-4f02daaf8188.png",
+      "sha256": "b25b9057e452ba971a3002e02273ba6f966579c88fbc6a6c42130ea1bb820953",
+      "file": "site/scene-art/73-49.png",
+      "width": 1453,
+      "height": 1083,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:746.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-1",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "scene-art/74-1.webp?v=20261013",
+        "width": 1001,
+        "height": 819,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/74-1.webp?v=20261013",
+        "width": 1001,
+        "height": 819,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-6524ca5a-14b0-40bd-9abb-827ab4eb3d55.png",
+      "sha256": "8e0757d76c8baf56b01661c7c40c912fbd7785c9c7a1eeb17fc31f1a2e999b0a",
+      "file": "site/scene-art/74-1.png",
+      "width": 1387,
+      "height": 1134,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:819. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-17",
+      "group": "narrow",
+      "special": "",
+      "reference": {
+        "src": "scene-art/74-17.webp?v=20261013",
+        "width": 1001,
+        "height": 483,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/74-17.webp?v=20261013",
+        "width": 1001,
+        "height": 483,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-81516eac-da61-405e-bb17-e68ba24b64ef.png",
+      "sha256": "fb80a982e4454b1596d26493a5360e79a67461892b4952e88449f86cb168810b",
+      "file": "site/scene-art/74-17.png",
+      "width": 1614,
+      "height": 974,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 801:483. Recompose about 20% narrower, enlarge the adult women and improve outfit fabric and details, retain every original sentence and cultural exhibit. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-2",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "scene-art/74-2.webp?v=20261013",
+        "width": 1001,
+        "height": 705,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/74-2.webp?v=20261013",
+        "width": 1001,
+        "height": 705,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-6448314a-8972-4ad4-9b0d-ba54960a0733.png",
+      "sha256": "6f320cda7f11b4d793eff430f477e906d48d3a89e0e9fc7af42a49f67fe1e26d",
+      "file": "site/scene-art/74-2.png",
+      "width": 1494,
+      "height": 1052,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:705. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-21",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/74-21.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 563,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/74-21.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 563,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-6ef10e78-a73f-47c9-bf42-215b54390fa1.png",
+      "sha256": "57c1341b0320f974b64c01382d7a31334d647220884f116cba29e76ed55f346e",
+      "file": "site/scene-art/74-21.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:563.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-23",
+      "group": "redraw",
+      "special": "There must be EXACTLY ONE complete adult FEMALE guide character replacing the guide robot. Delete the separate robot completely, including robot body, base, screens, old face and every remnant. Enlarge and redraw the sole human character, natural full adult proportions. Recompose full museum background seamlessly.",
+      "reference": {
+        "src": "question-art/74-23.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 805,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/74-23.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 805,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-423dbde8-92b6-4e9e-b761-63e9a6d74c49.png",
+      "sha256": "1beaba784c2eae66083d007fc3fc8a2519d6841cf4ca9e720cc769e56c492108",
+      "file": "site/scene-art/74-23.png",
+      "width": 1399,
+      "height": 1124,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:805.  There must be EXACTLY ONE complete adult FEMALE guide character replacing the guide robot. Delete the separate robot completely, including robot body, base, screens, old face and every remnant. Enlarge and redraw the sole human character, natural full adult proportions. Recompose full museum background seamlessly.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-27",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/74-27.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 918,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/74-27.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 918,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-20615ac8-79ed-4c1d-8a8d-cdbdbaef5133.png",
+      "sha256": "ba475096d615439ed9e1332bc72a447955c4a7350e5840a0964a8340797ab00b",
+      "file": "site/scene-art/74-27.png",
+      "width": 1310,
+      "height": 1201,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:918.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-37",
+      "group": "redraw",
+      "special": "Remove trousers and every old trouser fragment, dress the female presenter in an elegant cohesive skirt outfit matching her existing top; natural full legs and footwear.",
+      "reference": {
+        "src": "question-art/74-37.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 760,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/74-37.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 760,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-057c79a1-0656-4b0b-baad-4ebfff46a049.png",
+      "sha256": "23bd4e555a27f7cdd9ea036c6b8e7d64c80e3831f90bdca03fc11293c6a2b50f",
+      "file": "site/scene-art/74-37.png",
+      "width": 1439,
+      "height": 1093,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:760.  Remove trousers and every old trouser fragment, dress the female presenter in an elegant cohesive skirt outfit matching her existing top; natural full legs and footwear.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-43",
+      "group": "redraw",
+      "special": "Repair cut-off hands: redraw complete anatomically natural hands and fingers connected to arms, both hands fully within canvas, keep explanatory gesture.",
+      "reference": {
+        "src": "scene-art/74-43.webp?v=20261013",
+        "width": 1001,
+        "height": 860,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/74-43.webp?v=20261013",
+        "width": 1001,
+        "height": 860,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-06e65987-c906-4663-9443-53241dc356ef.png",
+      "sha256": "f2e87cceac7d681438c3c0e3c919ad827f49b90ea69c402236379d830e5853d8",
+      "file": "site/scene-art/74-43.png",
+      "width": 1353,
+      "height": 1163,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:860.  Repair cut-off hands: redraw complete anatomically natural hands and fingers connected to arms, both hands fully within canvas, keep explanatory gesture.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-44",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "scene-art/74-44.webp?v=20261013",
+        "width": 1001,
+        "height": 855,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/74-44.webp?v=20261013",
+        "width": 1001,
+        "height": 855,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-bea68fb6-6f18-4961-a1f8-7a129005cdea.png",
+      "sha256": "356023216fc9d91b2eccb47564482e75784e10565bb391bcf757615cbb67aaf9",
+      "file": "site/scene-art/74-44.png",
+      "width": 1357,
+      "height": 1159,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:855. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-45",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/74-45.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 737,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/74-45.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 737,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-f632d299-51b4-4e1e-be51-1b7f2aa68edc.png",
+      "sha256": "8e118ed1de971ebb442a43fea225ed3cffa67d843833fc9caab625e6235eb0c8",
+      "file": "site/scene-art/74-45.png",
+      "width": 1462,
+      "height": 1076,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:737.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-46",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "question-art/74-46.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 788,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/74-46.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 788,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-572683d5-f89b-4d75-8d5f-f33d363d6aaf.png",
+      "sha256": "eb893214a62b9d47ec16867e9cc512b12782787e2ec1fa4b9324067ca7255965",
+      "file": "site/scene-art/74-46.png",
+      "width": 1413,
+      "height": 1113,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:788. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "75-30",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/75-30.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 702,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/75-30.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 702,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-f7040fc4-52e7-46db-8260-20e06c0074cf.png",
+      "sha256": "daff4345eddf4221dff6646e6d6123c78556251e5c79c685beca6bb9b8bf36b6",
+      "file": "site/scene-art/75-30.png",
+      "width": 1498,
+      "height": 1050,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:702.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "75-34",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/75-34.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 1017,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/75-34.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 1017,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-6ce22eae-d125-42a3-9de0-626a520aebc9.png",
+      "sha256": "922c01663effa53dd030e4982758500c32e34eefef2c5e8fc79b6879e1ba70b0",
+      "file": "site/scene-art/75-34.png",
+      "width": 1244,
+      "height": 1264,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:1017.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "75-36",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/75-36.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 698,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/75-36.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 698,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-61c473b4-d934-49b1-8b7d-86bf4fc989ce.png",
+      "sha256": "c11da1ec943b86c6147a614dc40f72b8e98e66a9f752857f7b3107bf1a5096ca",
+      "file": "site/scene-art/75-36.png",
+      "width": 1501,
+      "height": 1047,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:698.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "75-40",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/75-40.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 834,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/75-40.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 834,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-3d3f8be4-07d6-46f3-9dd2-45cad471781d.png",
+      "sha256": "41257c01af64a4e9a0f45197ab15441ae77174c335cd6d42d73a8715dfb4677f",
+      "file": "site/scene-art/75-40.png",
+      "width": 1374,
+      "height": 1145,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:834.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "75-46",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/75-46.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 691,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/75-46.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 691,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-4efa2ba0-1a12-4b56-a3d2-6bbb1a4a0e56.png",
+      "sha256": "37ce18bce2e7e7618bb61e88aef6c6fc651647529af9fc31f9ef5ad0218b8d25",
+      "file": "site/scene-art/75-46.png",
+      "width": 1510,
+      "height": 1042,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:691.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "75-6",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/75-6.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 559,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/75-6.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 559,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-523389fe-6a13-4dde-b5ce-ddd30e5030dc.png",
+      "sha256": "2a50f711ef68dc5ec074712ab0f12b6ce08dab27bdf3060b79768653bbfe2b68",
+      "file": "site/scene-art/75-6.png",
+      "width": 1679,
+      "height": 937,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:559.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "76-18",
+      "group": "news",
+      "special": "This is a FICTITIOUS television news presenter, not an actual historical man. Replace the male presenter with EXACTLY ONE beautiful ADULT female news presenter age25+ in elegant YELLOW traditional Korean hanbok (jeogori and flowing chima) appropriate to the source historical news format. Remove every old male face/body remnant and beard, no duplicate anchor. Keep television framing, original dialogue and the news headline 원의 황녀, 겁령구들과 입국하다 EXACTLY as shown in source (copy source spelling faithfully).",
+      "reference": {
+        "src": "question-materials/76-18.webp?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 613,
+        "imageChoices": false
+      },
+      "previousFigure": {
+        "src": "question-materials/76-18.webp?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 613,
+        "imageChoices": false
+      },
+      "generatedPng": "exec-41e09471-95ca-4baf-bbce-99c3db55e32f.png",
+      "sha256": "3c5dd42ea0aa4e8af5b0794c2e605cb38573360bbcba477f925979b132aa4273",
+      "file": "site/scene-art/76-18.png",
+      "width": 1602,
+      "height": 981,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:613. This is a FICTITIOUS television news presenter, not an actual historical man. Replace the male presenter with EXACTLY ONE beautiful ADULT female news presenter age25+ in elegant YELLOW traditional Korean hanbok (jeogori and flowing chima) appropriate to the source historical news format. Remove every old male face/body remnant and beard, no duplicate anchor. Keep television framing, original dialogue and the news headline 원의 황녀, 겁령구들과 입국하다 EXACTLY as shown in source (copy source spelling faithfully).",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "76-22",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/76-22.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 527,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/76-22.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 527,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-706ad822-e822-4187-944f-cc11dce0be75.png",
+      "sha256": "1644d202b05f04c76bec71c1b0df2c898ac143e15351a9aa3d332c26fc3bf053",
+      "file": "site/scene-art/76-22.png",
+      "width": 1728,
+      "height": 910,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:527.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "76-30",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "scene-art/76-30.webp?v=20261013",
+        "width": 1001,
+        "height": 633,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/76-30.webp?v=20261013",
+        "width": 1001,
+        "height": 633,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-cb214df3-cc9e-4b91-a240-88d7da0ac33f.png",
+      "sha256": "23674a060bab390131a75eca36b7ebe9432a170ed3a7d4058388e808dd96512e",
+      "file": "site/scene-art/76-30.png",
+      "width": 1577,
+      "height": 997,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:633. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "76-33",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "scene-art/76-33.webp?v=20261013",
+        "width": 1001,
+        "height": 732,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/76-33.webp?v=20261013",
+        "width": 1001,
+        "height": 732,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-d564f306-eabd-4cf3-b8e3-8513faaf55cf.png",
+      "sha256": "e7c3d20d425a0decbf7014c82f488b16c7da5994562b8f44a774dae96cb3d8c5",
+      "file": "site/scene-art/76-33.png",
+      "width": 1467,
+      "height": 1072,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:732. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "76-40",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/76-40.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 714,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/76-40.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 714,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-a9c7a5b6-3855-4c78-9f4e-7fd7a0338c18.png",
+      "sha256": "0bb733ee46e2f52436acc3f9e29f8b1ff6e5f87090130690c284cf96ca8b7ae7",
+      "file": "site/scene-art/76-40.png",
+      "width": 1485,
+      "height": 1059,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:714.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "76-48",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/76-48.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 930,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/76-48.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 930,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-29b59b12-a96b-4bee-98b0-05e10f42d062.png",
+      "sha256": "9ca2befb540b7977e45a69819740800cbb765be033341f786f18fb409a538636",
+      "file": "site/scene-art/76-48.png",
+      "width": 1301,
+      "height": 1209,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:930.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "77-11",
+      "group": "costume",
+      "special": "Change ONLY the anonymous adult female presenter outfit to elegant LINGERIE: tasteful opaque satin bra and matching underwear with elegant lace edging, fully covered breasts and crotch, no transparent intimate areas. Clearly ADULT woman age25+ with mature facial features and adult proportions, neutral historical presentation pose, no erotic action. Enlarge character, natural hands and anatomy, preserve original Korean text and historical materials.",
+      "reference": {
+        "src": "scene-art/77-11.webp?v=20261013",
+        "width": 1001,
+        "height": 838,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/77-11.webp?v=20261013",
+        "width": 1001,
+        "height": 838,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-da451333-b661-42a0-8eeb-40b7f6f05684.png",
+      "sha256": "a98b99b8be75577055fd1fe92036b347433331245ed88a8c08ee0c7e7e776e58",
+      "file": "site/scene-art/77-11.png",
+      "width": 1370,
+      "height": 1148,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:838. Change ONLY the anonymous adult female presenter outfit to elegant LINGERIE: tasteful opaque satin bra and matching underwear with elegant lace edging, fully covered breasts and crotch, no transparent intimate areas. Clearly ADULT woman age25+ with mature facial features and adult proportions, neutral historical presentation pose, no erotic action. Enlarge character, natural hands and anatomy, preserve original Korean text and historical materials.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "77-21",
+      "group": "costume",
+      "special": "Change the anonymous ADULT woman outfit to a BIKINI combined with a SCARF and GLOVES, all clearly visible, elegant coordinated colors. Age25+ mature face and adult anatomy, opaque bikini top/bottom, neutral explanatory gesture. Enlarge character; retain original text and historical exhibit.",
+      "reference": {
+        "src": "scene-art/77-21.webp?v=20261013",
+        "width": 1001,
+        "height": 796,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/77-21.webp?v=20261013",
+        "width": 1001,
+        "height": 796,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-a56491eb-01b7-4175-8975-6711d2be3052.png",
+      "sha256": "879bf6fc44a5102ea59ce1c58ad365a7ddda368d5caa62679b8806d807d90c88",
+      "file": "site/scene-art/77-21.png",
+      "width": 1405,
+      "height": 1119,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:796. Change the anonymous ADULT woman outfit to a BIKINI combined with a SCARF and GLOVES, all clearly visible, elegant coordinated colors. Age25+ mature face and adult anatomy, opaque bikini top/bottom, neutral explanatory gesture. Enlarge character; retain original text and historical exhibit.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "77-23",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/77-23.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 868,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/77-23.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 868,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-e9a89ae4-be07-4190-902f-985b9e9128ef.png",
+      "sha256": "f8e17d6bb590dbb1e2e484e521274286c97588513636510e03455c8a0b37c64a",
+      "file": "site/scene-art/77-23.png",
+      "width": 1347,
+      "height": 1168,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:868.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "77-24",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "question-art/77-24.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 805,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/77-24.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 805,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-fb35c568-989c-4981-a65c-a0726fe045e3.png",
+      "sha256": "296c90b7adea48c378d6be630cb307adcf5f005906672111101a27aa99d7c73f",
+      "file": "site/scene-art/77-24.png",
+      "width": 1399,
+      "height": 1124,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:805. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "77-39",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/77-39.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 726,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/77-39.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 726,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-0970c09a-9909-4391-9fa6-04b65a8a7781.png",
+      "sha256": "36fe5799b11c952e867658027c72bb9f378ae385193941e908868f1ba8b91744",
+      "file": "site/scene-art/77-39.png",
+      "width": 1473,
+      "height": 1068,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:726.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "77-44",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/77-44.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 829,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/77-44.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 829,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-1f36f433-3bf0-407c-8e64-83d1834b15c7.png",
+      "sha256": "609ec8f5481af3d3d7eaca195b0b71286928d433285576ad134a14720af4d5df",
+      "file": "site/scene-art/77-44.png",
+      "width": 1378,
+      "height": 1142,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:829.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "77-46",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/77-46.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 885,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/77-46.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 885,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-22aa071a-a232-402f-808d-ff06da204394.png",
+      "sha256": "676c263129e775a490e121029d27872bd7fd8b4cac8ade6ec4dcb599e7a013cd",
+      "file": "site/scene-art/77-46.png",
+      "width": 1334,
+      "height": 1179,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:885.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "78-10",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/78-10.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 793,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/78-10.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 793,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-b825c103-27d2-4a62-92ee-9589ea7090d9.png",
+      "sha256": "d8e6f8c1004e43233ce359088406e370d209f41c5e4758b5157faf4e3ca347c7",
+      "file": "site/scene-art/78-10.png",
+      "width": 1409,
+      "height": 1116,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:793.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "78-5",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/78-5.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 846,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/78-5.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 846,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-9a0cb4ba-80b4-4d12-8225-799cd0f98672.png",
+      "sha256": "a1d5e13c0e53856e7120c93bdfb86307f6d1730ef40a533e61061aae20b569b1",
+      "file": "site/scene-art/78-5.png",
+      "width": 1364,
+      "height": 1153,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:846.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "78-6",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/78-6.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 898,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/78-6.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 898,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-c8a7f2c9-0a4c-4bff-a2fe-a9e9ecc5a00b.png",
+      "sha256": "7c2b2f208a63a687eaec485a78f6aa7dab07448b5a63369bcbc0fa06001d9824",
+      "file": "site/scene-art/78-6.png",
+      "width": 1324,
+      "height": 1188,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:898.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "78-8",
+      "group": "narrow",
+      "special": "",
+      "reference": {
+        "src": "question-art/78-8.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 566,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/78-8.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 566,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-bd0f0816-0f7c-45e8-9453-f3f517bbba61.png",
+      "sha256": "cd066dc0299371bb09c3b92c593a35290ace06d3f39658bd87ebb7c18f764f98",
+      "file": "site/scene-art/78-8.png",
+      "width": 1492,
+      "height": 1054,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 801:566. Recompose about 20% narrower, enlarge the adult women and improve outfit fabric and details, retain every original sentence and cultural exhibit. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "79-21",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "question-art/79-21.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 951,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/79-21.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 951,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-f0aac41a-f46d-4fdf-91b1-1881f0c208d3.png",
+      "sha256": "d0cfaeb325fbddc44de2a121e851a9d7d3b00aa77708fea6da51cbee08be5281",
+      "file": "site/scene-art/79-21.png",
+      "width": 1287,
+      "height": 1222,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:951. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "79-31",
+      "group": "cleanup",
+      "special": "",
+      "reference": {
+        "src": "scene-art/79-31.webp?v=20261013",
+        "width": 1001,
+        "height": 531,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/79-31.webp?v=20261013",
+        "width": 1001,
+        "height": 531,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-628940f8-937b-43c3-aa73-77302f692b1c.png",
+      "sha256": "04e1b76f1c09d9b9a3f490474ba37a5bc65da3851828ec88622841a98961b4d5",
+      "file": "site/scene-art/79-31.png",
+      "width": 1721,
+      "height": 914,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:531. Remove ghost text, collage seams and character remnants while retaining every full original sentence once and the original cast/outfits. ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "79-45",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "scene-art/79-45.webp?v=20261013",
+        "width": 1001,
+        "height": 793,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "previousFigure": {
+        "src": "scene-art/79-45.webp?v=20261013",
+        "width": 1001,
+        "height": 793,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-e3ae5924-c351-4fa3-a70c-a4d92cd5e440.png",
+      "sha256": "df6625b00b0be5346936b5d5710618d5f56bd45f6baf8ad63ead15b09c13543f",
+      "file": "site/scene-art/79-45.png",
+      "width": 1409,
+      "height": 1116,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:793.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "79-48",
+      "group": "redraw",
+      "special": "",
+      "reference": {
+        "src": "question-art/79-48.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 810,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "previousFigure": {
+        "src": "question-art/79-48.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 810,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "generatedPng": "exec-caa3a8dc-8c2f-459a-9b8e-88e130283e40.png",
+      "sha256": "689c0b94e6d7ff335218406cc673d652551445f42acf672b057b113efbfb75f1",
+      "file": "site/scene-art/79-48.png",
+      "width": 1394,
+      "height": 1128,
+      "prompt": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available. Canvas aspect 1001:810.  ",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
     }
   ],
   "requestedCount": 100,
-  "generationCount": 37,
-  "appliedCount": 37,
+  "generationCount": 99,
+  "appliedCount": 99,
   "postGenerationImageEdits": 0
 }
