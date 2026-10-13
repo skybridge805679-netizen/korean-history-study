@@ -361,7 +361,7 @@
     },
     {
       "key": "76-24",
-      "generatedFile": "assets/generated-scenes/20261013-redraw/76-24.webp",
+      "generatedFile": "site/scene-art/76-24.png",
       "originalPng": "exec-ff60231c-8097-4997-88b7-976a4c0c444f.png",
       "originalPngSha256": "3f2ea73ffdf654af9dd4b19f775dc5460f4de0dff142d0ff53eb5d1949960a71",
       "generatedSize": [
@@ -369,8 +369,8 @@
         915
       ],
       "displaySize": [
-        1001,
-        532
+        1719,
+        915
       ],
       "previousFigure": {
         "src": "question-art/76-24.svg?v=20261012-pdf-final",
@@ -381,30 +381,14 @@
       },
       "sourceMaterial": "site/question-materials/76-24.webp",
       "sourceMaterialSha256": "9935ced682e1a903722daf95f1a340666a7a60014b61292f272941e0037ee8b2",
-      "preservedCrops": [
-        {
-          "sourceBox": [
-            528,
-            260,
-            680,
-            357
-          ],
-          "matrix": [
-            1,
-            0.033,
-            -0.124,
-            1.06,
-            539,
-            300
-          ]
-        }
-      ],
-      "finalFile": "site/scene-art/76-24.svg",
-      "finalSha256": "9146464296d1617c30ca754fe21f9df894838aff485674334690fa910dc0222d"
+      "preservedCrops": [],
+      "finalFile": "site/scene-art/76-24.png",
+      "finalSha256": "3f2ea73ffdf654af9dd4b19f775dc5460f4de0dff142d0ff53eb5d1949960a71",
+      "usesUnmodifiedGeneratedPng": true
     },
     {
       "key": "76-45",
-      "generatedFile": "assets/generated-scenes/20261013-redraw/76-45.webp",
+      "generatedFile": "site/scene-art/76-45.png",
       "originalPng": "exec-c6c6fa79-d731-46fe-b521-54ba72941593.png",
       "originalPngSha256": "b3d3c00b64c86d06c9a9b0397193c15b7125a5aa9844d43de38f69cd48ed90db",
       "generatedSize": [
@@ -412,8 +396,8 @@
         1123
       ],
       "displaySize": [
-        1001,
-        802
+        1401,
+        1123
       ],
       "previousFigure": {
         "src": "question-art/76-45.svg?v=20261013-restored",
@@ -424,27 +408,10 @@
       },
       "sourceMaterial": "site/question-materials/76-45.webp",
       "sourceMaterialSha256": "aa2df9c644d090cfe4fe3ba635b666722159ed66258b99214462a683472d8feb",
-      "preservedCrops": [
-        {
-          "sourceBox": [
-            14,
-            216,
-            735,
-            789
-          ],
-          "targetFraction": [
-            0.008,
-            0.302,
-            0.703,
-            0.689
-          ],
-          "clip": null,
-          "highResolutionSource": "site/appearance-art/76-45-fact-0.webp",
-          "highResolutionSourceSha256": "9415360a12914092dbeace8d4315551ff68e85e31298bd93a991fff5e48df74e"
-        }
-      ],
-      "finalFile": "site/scene-art/76-45.svg",
-      "finalSha256": "6e56906013137664c5b3197559730f260f20f2b34362e5f5c6cd5c1860c7d56a"
+      "preservedCrops": [],
+      "finalFile": "site/scene-art/76-45.png",
+      "finalSha256": "b3d3c00b64c86d06c9a9b0397193c15b7125a5aa9844d43de38f69cd48ed90db",
+      "usesUnmodifiedGeneratedPng": true
     },
     {
       "key": "76-47",
@@ -692,16 +659,16 @@
     },
     {
       "key": "70-27",
-      "generatedFile": "assets/generated-scenes/20261013-redraw/70-27.webp",
-      "originalPng": "exec-ec21ef97-5110-4489-be2e-a16ab147c6fa.png",
-      "originalPngSha256": "398c914d6189fe96bf75cd73927d0cd4ded8d8d46c0789efb3c2b78070729310",
+      "generatedFile": "site/scene-art/70-27.png",
+      "originalPng": "exec-4996ffd7-b99b-43c9-9432-07e29baba8ee.png",
+      "originalPngSha256": "4bfe9a2e1253df717bb00692bf960a264fa0d5017ba97c470bfed91d4810ff5b",
       "generatedSize": [
         1431,
         1099
       ],
       "displaySize": [
-        1001,
-        769
+        1431,
+        1099
       ],
       "previousFigure": {
         "src": "question-art/70-27.svg?v=20261012-style-v2",
@@ -755,8 +722,9 @@
       "sourceMaterial": "site/question-materials/70-27.webp",
       "sourceMaterialSha256": "08ec6a58edd0b827886cec527fa151129f588a2f71db9f7a3b0a59f9e7833bfc",
       "preservedCrops": [],
-      "finalFile": "site/scene-art/70-27.svg",
-      "finalSha256": "53db8d83f6fa8ca11ca1e8de89071d848d24c15624aa11543b06a9e1d0646532"
+      "finalFile": "site/scene-art/70-27.png",
+      "finalSha256": "4bfe9a2e1253df717bb00692bf960a264fa0d5017ba97c470bfed91d4810ff5b",
+      "usesUnmodifiedGeneratedPng": true
     },
     {
       "key": "72-46",

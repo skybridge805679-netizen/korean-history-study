@@ -1747,8 +1747,9 @@
     "sceneRedraw": {
       "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
       "key": "70-27",
-      "src": "scene-art/70-27.svg?v=20261013-redraw-v1",
-      "preservedCrops": []
+      "src": "scene-art/70-27.png?v=20261013-original",
+      "preservedCrops": [],
+      "usesUnmodifiedGeneratedPng": true
     }
   },
   "70-28": {
@@ -22091,25 +22092,9 @@
     "sceneRedraw": {
       "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
       "key": "76-24",
-      "src": "scene-art/76-24.svg?v=20261013-redraw-v1",
-      "preservedCrops": [
-        {
-          "sourceBox": [
-            528,
-            260,
-            680,
-            357
-          ],
-          "matrix": [
-            1,
-            0.033,
-            -0.124,
-            1.06,
-            539,
-            300
-          ]
-        }
-      ]
+      "src": "scene-art/76-24.png?v=20261013-original",
+      "preservedCrops": [],
+      "usesUnmodifiedGeneratedPng": true
     }
   },
   "76-25": {
@@ -23601,26 +23586,9 @@
     "sceneRedraw": {
       "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
       "key": "76-45",
-      "src": "scene-art/76-45.svg?v=20261013-redraw-v1",
-      "preservedCrops": [
-        {
-          "sourceBox": [
-            14,
-            216,
-            735,
-            789
-          ],
-          "targetFraction": [
-            0.008,
-            0.302,
-            0.703,
-            0.689
-          ],
-          "clip": null,
-          "highResolutionSource": "site/appearance-art/76-45-fact-0.webp",
-          "highResolutionSourceSha256": "9415360a12914092dbeace8d4315551ff68e85e31298bd93a991fff5e48df74e"
-        }
-      ]
+      "src": "scene-art/76-45.png?v=20261013-original",
+      "preservedCrops": [],
+      "usesUnmodifiedGeneratedPng": true
     }
   },
   "76-46": {
