@@ -3787,10 +3787,9 @@
     "imageFile": "71-5.webp",
     "restoredFromText": false,
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
       "key": "71-5",
-      "src": "scene-art/71-5.png?v=20261013-wide-redraw",
-      "usesUnmodifiedGeneratedPng": true,
+      "src": "scene-art/71-5.svg?v=20261013-redraw-v1",
       "preservedCrops": []
     }
   },
@@ -5385,9 +5384,9 @@
       "protectedRects": []
     },
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-review-fixes/manifest.json",
       "key": "71-21",
-      "src": "scene-art/71-21.png?v=20261013-wide-redraw",
+      "src": "scene-art/71-21.png?v=20261013-review-fixes",
       "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }
@@ -11227,9 +11226,9 @@
       "protectedRects": []
     },
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-review-fixes/manifest.json",
       "key": "73-7",
-      "src": "scene-art/73-7.png?v=20261013-wide-redraw",
+      "src": "scene-art/73-7.png?v=20261013-review-fixes",
       "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }
@@ -13152,9 +13151,9 @@
       "protectedRects": []
     },
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-review-fixes/manifest.json",
       "key": "73-39",
-      "src": "scene-art/73-39.png?v=20261013-wide-redraw",
+      "src": "scene-art/73-39.png?v=20261013-review-fixes",
       "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }
@@ -15788,9 +15787,9 @@
       ]
     },
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-review-fixes/manifest.json",
       "key": "74-22",
-      "src": "scene-art/74-22.png?v=20261013-wide-redraw",
+      "src": "scene-art/74-22.png?v=20261013-review-fixes",
       "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }
@@ -18381,9 +18380,9 @@
       }
     ],
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-review-fixes/manifest.json",
       "key": "75-18",
-      "src": "scene-art/75-18.png?v=20261013-wide-redraw",
+      "src": "scene-art/75-18.png?v=20261013-review-fixes",
       "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }
@@ -29951,9 +29950,9 @@
       "protectedRects": []
     },
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-review-fixes/manifest.json",
       "key": "78-19",
-      "src": "scene-art/78-19.png?v=20261013-wide-redraw",
+      "src": "scene-art/78-19.png?v=20261013-review-fixes",
       "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }
@@ -31485,9 +31484,9 @@
       "protectedRects": []
     },
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-review-fixes/manifest.json",
       "key": "78-47",
-      "src": "scene-art/78-47.png?v=20261013-wide-redraw",
+      "src": "scene-art/78-47.png?v=20261013-review-fixes",
       "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }
@@ -31936,9 +31935,9 @@
     "imageFile": "79-4.webp",
     "restoredFromText": false,
     "sceneRedraw": {
-      "manifest": "../../assets/generated-scenes/20261013-wide-redraw/manifest.json",
+      "manifest": "../../assets/generated-scenes/20261013-review-fixes/manifest.json",
       "key": "79-4",
-      "src": "scene-art/79-4.png?v=20261013-wide-redraw",
+      "src": "scene-art/79-4.png?v=20261013-review-fixes",
       "usesUnmodifiedGeneratedPng": true,
       "preservedCrops": []
     }

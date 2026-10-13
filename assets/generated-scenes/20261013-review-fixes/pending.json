@@ -1,0 +1,45 @@
+{
+  "requestedCount": 11,
+  "completedCount": 9,
+  "remainingCount": 2,
+  "items": [
+    {
+      "key": "79-25",
+      "special": "Make the adult female guide notably SKINNY with very SLENDER THIGHS and slim legs, a narrow waist and natural balanced adult anatomy, no bulky thighs. Fix the awkward pose to a calm NATURAL standing museum-guide explanatory pose with naturally connected arms, hands, hips, knees and feet. Preserve her current detailed costume and identity and all original exhibit/title/dialogue. Do not exaggerate curves; reference canvas aspect unchanged.",
+      "figure": {
+        "src": "scene-art/79-25.png?v=20261013-wide-redraw",
+        "width": 1476,
+        "height": 1066,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/79-25.jpg",
+        "width": 1024,
+        "height": 740,
+        "bytes": 340548
+      },
+      "status": "blocked",
+      "failure": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 9f4e053e-79e0-4c1e-ab5b-50088f40df45. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")"
+    },
+    {
+      "key": "70-40",
+      "special": "Change ONLY the main adult female presenter outfit to an elegant WEDDING LINGERIE SET: opaque white satin bridal bra and matching fully covering bridal underwear, delicate lace trim, coordinated WHITE LEGWEAR (thigh-high stockings) and WHITE ELBOW-LENGTH GLOVES, small tasteful bridal veil/accessories. Clearly mature ADULT woman age25+ with natural adult face/body proportions; neutral standing explanatory gesture, no erotic actions, fully covered breasts and crotch. All live classroom audience members are fully clothed ADULT people. Retain historical documentary/photo content and ALL original Korean dialogue, enlarge the main adult woman appropriately and keep a coherent scene. Preserve reference canvas aspect.",
+      "figure": {
+        "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+        "width": 1408,
+        "height": 1117,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/70-40.jpg",
+        "width": 1024,
+        "height": 812,
+        "bytes": 298700
+      },
+      "status": "blocked",
+      "failure": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 50146236-00c4-4eb9-b496-c2bcbfb76aee.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"input\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")"
+    }
+  ]
+}

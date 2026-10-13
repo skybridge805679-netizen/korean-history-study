@@ -1,0 +1,383 @@
+{
+  "baseCommit": "bef677c8dc93538c55c66961428ba51f7af86ff3",
+  "requestedCount": 11,
+  "generationCount": 9,
+  "unusedGeneratedImages": [
+    {
+      "key": "78-19",
+      "path": "/workspace/generated_images/exec-f7c2d097-6806-4873-8c5a-89b81c92d4f6.png",
+      "prompt": "Create ONE complete finished high-resolution Korean history anime educational illustration, correcting the supplied current-main picture according to the specific instructions. Rich refined linework, coherent detailed background, excellent face and clothing textures, natural adult anatomy. Keep all original Korean speech, titles, answer blanks and historical reference exhibits/photos intact, faithfully rendered once in LARGE clear well-spaced Hangul; no malformed glyphs, no fragmented duplicate text. Preserve the identities of actual historical people in historical materials. Anonymous living guides and visitors are mature ADULT women age25+, natural adult faces, body proportions, hands and legs. The main characters and text must be prominent and readable, fill spare background space appropriately. All words, portraits and backgrounds must be included directly in this FINAL finished image. It will be applied byte-for-byte as generated; no later pasted exam/text/photo overlays, cropping, rescaling or recompression. Keep native final canvas aspect 1393:1129. Correct the bunny-costume woman adult body proportions: mature adult face, head appropriately small, 7-8-head natural full-body ratio, balanced adult torso, TWO natural long legs connected through hips/knees/ankles, no oversized head or short chibi torso. Keep bunny costume, dark tights, cuffs, ears and bow tie, natural neutral museum-guide pose. Preserve historical shrine/background and all original text; enlarge and recompose only enough to keep full head/hands/feet visible. Preserve reference canvas aspect.",
+      "reason": "머리 크기와 등신 비율 추가 조정",
+      "sha256": "2fb36216d1a91a0e8ce2cc2b82600fc71c49e2d6eae9c81cad378b1601114587",
+      "applied": false
+    }
+  ],
+  "appliedCount": 9,
+  "rollbackCount": 1,
+  "postGenerationImageEdits": 0,
+  "images": [
+    {
+      "key": "79-4",
+      "special": "Replace the trouser-wearing anonymous female visitor clothing with an elegant SKIRT matching her current navy school-style outfit. All three adult women must wear skirts or dresses; NO trousers. Keep their distinct identities and every original Korean sentence, tomb numbers, archaeology displays and background.",
+      "reference": {
+        "src": "scene-art/79-4.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/79-4.jpg",
+        "width": 1024,
+        "height": 576,
+        "bytes": 300233
+      },
+      "previousFigure": {
+        "src": "scene-art/79-4.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-9914777e-9b3f-42a9-92ed-7a266679f3bb.png",
+      "file": "site/scene-art/79-4.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "72a0552baaad3a9d83153c41e9935a378e76e6059655fa801fd3a2cf61607ecd",
+      "prompt": "Create ONE complete finished high-resolution Korean history anime educational illustration, correcting the supplied current-main picture according to the specific instructions. Rich refined linework, coherent detailed background, excellent face and clothing textures, natural adult anatomy. Keep all original Korean speech, titles, answer blanks and historical reference exhibits/photos intact, faithfully rendered once in LARGE clear well-spaced Hangul; no malformed glyphs, no fragmented duplicate text. Preserve the identities of actual historical people in historical materials. Anonymous living guides and visitors are mature ADULT women age25+, natural adult faces, body proportions, hands and legs. The main characters and text must be prominent and readable, fill spare background space appropriately. All words, portraits and backgrounds must be included directly in this FINAL finished image. It will be applied byte-for-byte as generated; no later pasted exam/text/photo overlays, cropping, rescaling or recompression. Keep native final canvas aspect 1672:941 (16:9 landscape). Replace the trouser-wearing anonymous female visitor clothing with an elegant SKIRT matching her current navy school-style outfit. All three adult women must wear skirts or dresses; NO trousers. Keep their distinct identities and every original Korean sentence, tomb numbers, archaeology displays and background.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "78-47",
+      "special": "Substantially ENLARGE the adult female presenter to occupy about 45 percent of canvas width and 85 percent of usable canvas height, with large detailed face, mature natural proportions and natural hands. Recompose spare empty background for this, keep the expressway historic photo and all original Korean dialogue legible. Keep the canvas 16:9.",
+      "reference": {
+        "src": "scene-art/78-47.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/78-47.jpg",
+        "width": 1024,
+        "height": 576,
+        "bytes": 282720
+      },
+      "previousFigure": {
+        "src": "scene-art/78-47.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-f68327c1-85d2-4ec7-a4a8-d312ff1e559a.png",
+      "file": "site/scene-art/78-47.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9a88990d0a34d9c49eed78ce8f9599ea0db284bac83a55db4b57a13cc7b7a2d8",
+      "prompt": "Create ONE complete finished high-resolution Korean history anime educational illustration, correcting the supplied current-main picture according to the specific instructions. Rich refined linework, coherent detailed background, excellent face and clothing textures, natural adult anatomy. Keep all original Korean speech, titles, answer blanks and historical reference exhibits/photos intact, faithfully rendered once in LARGE clear well-spaced Hangul; no malformed glyphs, no fragmented duplicate text. Preserve the identities of actual historical people in historical materials. Anonymous living guides and visitors are mature ADULT women age25+, natural adult faces, body proportions, hands and legs. The main characters and text must be prominent and readable, fill spare background space appropriately. All words, portraits and backgrounds must be included directly in this FINAL finished image. It will be applied byte-for-byte as generated; no later pasted exam/text/photo overlays, cropping, rescaling or recompression. Keep native final canvas aspect 1672:941 (16:9 landscape). Substantially ENLARGE the adult female presenter to occupy about 45 percent of canvas width and 85 percent of usable canvas height, with large detailed face, mature natural proportions and natural hands. Recompose spare empty background for this, keep the expressway historic photo and all original Korean dialogue legible. Keep the canvas 16:9.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "75-18",
+      "special": "The current people and text panel are too small. ENLARGE ALL four adult women so their faces and mature natural body shapes are clearly visible, occupying 55-65 percent of canvas width. Make the Korean text panel substantially LARGER with large legible type, occupying about 45 percent of width in an upper side area. Keep the giant stone Buddhist statue recognizable, reduce unnecessary sky/stars/empty background. All original Korean text and the title 메타버스 전시관 must be preserved. Native 16:9 landscape.",
+      "reference": {
+        "src": "scene-art/75-18.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": true,
+        "choices": [
+          {
+            "number": 1,
+            "src": "choice-art/75-18-1.webp?v=20261012-choice",
+            "width": 316,
+            "height": 364,
+            "name": "익산 미륵사지 석탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 2,
+            "src": "choice-art/75-18-2.webp?v=20261012-choice",
+            "width": 302,
+            "height": 347,
+            "name": "경주 불국사 삼층 석탑·석가탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 3,
+            "src": "choice-art/75-18-3.webp?v=20261012-choice",
+            "width": 155,
+            "height": 361,
+            "name": "개성 경천사지 십층 석탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 4,
+            "src": "choice-art/75-18-4.webp?v=20261012-choice",
+            "width": 317,
+            "height": 364,
+            "name": "안동 법흥사지 칠층 전탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 5,
+            "src": "choice-art/75-18-5.webp?v=20261012-choice",
+            "width": 469,
+            "height": 275,
+            "name": "경주 분황사 모전 석탑",
+            "nameStatus": "identified"
+          }
+        ],
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/75-18.jpg",
+        "width": 1024,
+        "height": 576,
+        "bytes": 367605
+      },
+      "previousFigure": {
+        "src": "scene-art/75-18.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": true,
+        "choices": [
+          {
+            "number": 1,
+            "src": "choice-art/75-18-1.webp?v=20261012-choice",
+            "width": 316,
+            "height": 364,
+            "name": "익산 미륵사지 석탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 2,
+            "src": "choice-art/75-18-2.webp?v=20261012-choice",
+            "width": 302,
+            "height": 347,
+            "name": "경주 불국사 삼층 석탑·석가탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 3,
+            "src": "choice-art/75-18-3.webp?v=20261012-choice",
+            "width": 155,
+            "height": 361,
+            "name": "개성 경천사지 십층 석탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 4,
+            "src": "choice-art/75-18-4.webp?v=20261012-choice",
+            "width": 317,
+            "height": 364,
+            "name": "안동 법흥사지 칠층 전탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 5,
+            "src": "choice-art/75-18-5.webp?v=20261012-choice",
+            "width": 469,
+            "height": 275,
+            "name": "경주 분황사 모전 석탑",
+            "nameStatus": "identified"
+          }
+        ],
+        "sceneArt": true
+      },
+      "generatedPng": "exec-a99dceb1-943b-4c9e-912c-eebe792a5da0.png",
+      "file": "site/scene-art/75-18.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "89165aecc294c842d76630610b8e88cc6ade91e4bf9b6917add0c3f511a28ea1",
+      "prompt": "Create ONE complete finished high-resolution Korean history anime educational illustration, correcting the supplied current-main picture according to the specific instructions. Rich refined linework, coherent detailed background, excellent face and clothing textures, natural adult anatomy. Keep all original Korean speech, titles, answer blanks and historical reference exhibits/photos intact, faithfully rendered once in LARGE clear well-spaced Hangul; no malformed glyphs, no fragmented duplicate text. Preserve the identities of actual historical people in historical materials. Anonymous living guides and visitors are mature ADULT women age25+, natural adult faces, body proportions, hands and legs. The main characters and text must be prominent and readable, fill spare background space appropriately. All words, portraits and backgrounds must be included directly in this FINAL finished image. It will be applied byte-for-byte as generated; no later pasted exam/text/photo overlays, cropping, rescaling or recompression. Keep native final canvas aspect 1672:941 (16:9 landscape). The current people and text panel are too small. ENLARGE ALL four adult women so their faces and mature natural body shapes are clearly visible, occupying 55-65 percent of canvas width. Make the Korean text panel substantially LARGER with large legible type, occupying about 45 percent of width in an upper side area. Keep the giant stone Buddhist statue recognizable, reduce unnecessary sky/stars/empty background. All original Korean text and the title 메타버스 전시관 must be preserved. Native 16:9 landscape.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "74-22",
+      "special": "This question asks what happened BETWEEN TWO DIFFERENT HISTORICAL PERIODS separated by (가). Draw TWO VISUALLY SEPARATE SCENES with distinctly separate backgrounds: LEFT is the historical royal audience with king and official; RIGHT is the later historical discussion between the two adult hanbok women. There must be a clear vertical separation and central white (가) panel with arrows from left period to right period. Do NOT join them in a single continuous palace room. Preserve ALL original speech and identities; 16:9 landscape.",
+      "reference": {
+        "src": "scene-art/74-22.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/74-22.jpg",
+        "width": 1024,
+        "height": 576,
+        "bytes": 302874
+      },
+      "previousFigure": {
+        "src": "scene-art/74-22.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-93692312-190a-4a4a-8a87-abdb7ec93b1f.png",
+      "file": "site/scene-art/74-22.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c832b0b7b7908f161b5443d608391c7e8029a6eb5d5fed7fbfbd8a5c49447cac",
+      "prompt": "Create ONE complete finished high-resolution Korean history anime educational illustration, correcting the supplied current-main picture according to the specific instructions. Rich refined linework, coherent detailed background, excellent face and clothing textures, natural adult anatomy. Keep all original Korean speech, titles, answer blanks and historical reference exhibits/photos intact, faithfully rendered once in LARGE clear well-spaced Hangul; no malformed glyphs, no fragmented duplicate text. Preserve the identities of actual historical people in historical materials. Anonymous living guides and visitors are mature ADULT women age25+, natural adult faces, body proportions, hands and legs. The main characters and text must be prominent and readable, fill spare background space appropriately. All words, portraits and backgrounds must be included directly in this FINAL finished image. It will be applied byte-for-byte as generated; no later pasted exam/text/photo overlays, cropping, rescaling or recompression. Keep native final canvas aspect 1672:941 (16:9 landscape). This question asks what happened BETWEEN TWO DIFFERENT HISTORICAL PERIODS separated by (가). Draw TWO VISUALLY SEPARATE SCENES with distinctly separate backgrounds: LEFT is the historical royal audience with king and official; RIGHT is the later historical discussion between the two adult hanbok women. There must be a clear vertical separation and central white (가) panel with arrows from left period to right period. Do NOT join them in a single continuous palace room. Preserve ALL original speech and identities; 16:9 landscape.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "73-7",
+      "special": "The historical object is the stone monument 보령 성주사지 대낭혜화상탑비. Retain one accurate recognizable display/photo of that monument and its pavilion, but ENLARGE the adult female guide dramatically, about 40-45 percent of canvas width, with clearly detailed face and visible natural adult silhouette. Recompose spare background margins rather than making the guide tiny. Keep every original Korean sentence legible in a spacious large text panel, 16:9 landscape.",
+      "reference": {
+        "src": "scene-art/73-7.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/73-7.jpg",
+        "width": 1024,
+        "height": 576,
+        "bytes": 400071
+      },
+      "previousFigure": {
+        "src": "scene-art/73-7.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-70349ae4-3ba4-4b26-88e9-009d933e3868.png",
+      "file": "site/scene-art/73-7.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "47671e2c231959c7df367522dba03cfbfb1c7efc9f31ddb651f65caf933208ab",
+      "prompt": "Create ONE complete finished high-resolution Korean history anime educational illustration, correcting the supplied current-main picture according to the specific instructions. Rich refined linework, coherent detailed background, excellent face and clothing textures, natural adult anatomy. Keep all original Korean speech, titles, answer blanks and historical reference exhibits/photos intact, faithfully rendered once in LARGE clear well-spaced Hangul; no malformed glyphs, no fragmented duplicate text. Preserve the identities of actual historical people in historical materials. Anonymous living guides and visitors are mature ADULT women age25+, natural adult faces, body proportions, hands and legs. The main characters and text must be prominent and readable, fill spare background space appropriately. All words, portraits and backgrounds must be included directly in this FINAL finished image. It will be applied byte-for-byte as generated; no later pasted exam/text/photo overlays, cropping, rescaling or recompression. Keep native final canvas aspect 1672:941 (16:9 landscape). The historical object is the stone monument 보령 성주사지 대낭혜화상탑비. Retain one accurate recognizable display/photo of that monument and its pavilion, but ENLARGE the adult female guide dramatically, about 40-45 percent of canvas width, with clearly detailed face and visible natural adult silhouette. Recompose spare background margins rather than making the guide tiny. Keep every original Korean sentence legible in a spacious large text panel, 16:9 landscape.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "73-39",
+      "special": "Rewrite every original Korean sentence in a LARGE clean legible speech/text panel. Increase text size substantially and remove malformed glyphs and abnormal letter shapes. Maintain exact original content and the historical sheep movie photo, title caption, video UI, adult female presenter and coherent studio background. Use 16:9 layout, break lines cleanly and recompose to prioritize readable Korean. Copy these EXACT sentences in large type, with about 5-7 short lines instead of 3 long tiny lines: 이 영상은 면양 장려 사업을 선전하기 위해 제작한 영화의 일부로, 대공황 이후 일제가 농촌 진흥 운동을 추진하던 시기의 모습을 담고 있습니다. 면양 장려 사업은 일본 기업 등에 공업 원료를 공급하기 위한 목적으로 실시되었습니다. 이 사업은 한반도 남부 지방에 면화 재배를 확대하는 면작 증식 계획과 함께 남면북양 정책으로 불렸습니다. Keep the movie caption 북선의 양은 말한다 and timestamp 11:30/20:45. The text panel must occupy enough height (about 35-40% of canvas height) for LARGE legible Korean, not a narrow strip.",
+      "reference": {
+        "src": "scene-art/73-39.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/73-39.jpg",
+        "width": 1024,
+        "height": 576,
+        "bytes": 258327
+      },
+      "previousFigure": {
+        "src": "scene-art/73-39.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-b39771de-7cac-4890-b1a4-dcf64013d3cf.png",
+      "file": "site/scene-art/73-39.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0edd5158fad4e7d880f48e2a469b01c583a5f6bc0ed2ceb1f972170f4a39acda",
+      "prompt": "Create ONE complete finished high-resolution Korean history anime educational illustration, correcting the supplied current-main picture according to the specific instructions. Rich refined linework, coherent detailed background, excellent face and clothing textures, natural adult anatomy. Keep all original Korean speech, titles, answer blanks and historical reference exhibits/photos intact, faithfully rendered once in LARGE clear well-spaced Hangul; no malformed glyphs, no fragmented duplicate text. Preserve the identities of actual historical people in historical materials. Anonymous living guides and visitors are mature ADULT women age25+, natural adult faces, body proportions, hands and legs. The main characters and text must be prominent and readable, fill spare background space appropriately. All words, portraits and backgrounds must be included directly in this FINAL finished image. It will be applied byte-for-byte as generated; no later pasted exam/text/photo overlays, cropping, rescaling or recompression. Keep native final canvas aspect 1672:941 (16:9 landscape). Rewrite every original Korean sentence in a LARGE clean legible speech/text panel. Increase text size substantially and remove malformed glyphs and abnormal letter shapes. Maintain exact original content and the historical sheep movie photo, title caption, video UI, adult female presenter and coherent studio background. Use 16:9 layout, break lines cleanly and recompose to prioritize readable Korean. Copy these EXACT sentences in large type, with about 5-7 short lines instead of 3 long tiny lines: 이 영상은 면양 장려 사업을 선전하기 위해 제작한 영화의 일부로, 대공황 이후 일제가 농촌 진흥 운동을 추진하던 시기의 모습을 담고 있습니다. 면양 장려 사업은 일본 기업 등에 공업 원료를 공급하기 위한 목적으로 실시되었습니다. 이 사업은 한반도 남부 지방에 면화 재배를 확대하는 면작 증식 계획과 함께 남면북양 정책으로 불렸습니다. Keep the movie caption 북선의 양은 말한다 and timestamp 11:30/20:45. The text panel must occupy enough height (about 35-40% of canvas height) for LARGE legible Korean, not a narrow strip.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "71-21",
+      "special": "ENLARGE the adult female guide substantially to about 40-45 percent of canvas width, large detailed mature face and visible natural adult figure. Replace the awkward billowing long skirt with an elegant FITTED KNEE-LENGTH dress or fitted top and PENCIL SKIRT, feminine refined tailoring that clearly shows natural waist/hips silhouette, opaque nontransparent fabric. Keep her distinct identity, history buildings/exhibits, every original sentence and background information. Move speech panel into ample upper/side space, 16:9 landscape.",
+      "reference": {
+        "src": "scene-art/71-21.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/71-21.jpg",
+        "width": 1024,
+        "height": 576,
+        "bytes": 395676
+      },
+      "previousFigure": {
+        "src": "scene-art/71-21.png?v=20261013-wide-redraw",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-564220c1-0a71-4e7c-92ed-0265f1accac9.png",
+      "file": "site/scene-art/71-21.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c4a650807b2bfe558f7d8e825d0a45dbb60e39478e55c8820c5438e8c0b25846",
+      "prompt": "Create ONE complete finished high-resolution Korean history anime educational illustration, correcting the supplied current-main picture according to the specific instructions. Rich refined linework, coherent detailed background, excellent face and clothing textures, natural adult anatomy. Keep all original Korean speech, titles, answer blanks and historical reference exhibits/photos intact, faithfully rendered once in LARGE clear well-spaced Hangul; no malformed glyphs, no fragmented duplicate text. Preserve the identities of actual historical people in historical materials. Anonymous living guides and visitors are mature ADULT women age25+, natural adult faces, body proportions, hands and legs. The main characters and text must be prominent and readable, fill spare background space appropriately. All words, portraits and backgrounds must be included directly in this FINAL finished image. It will be applied byte-for-byte as generated; no later pasted exam/text/photo overlays, cropping, rescaling or recompression. Keep native final canvas aspect 1672:941 (16:9 landscape). ENLARGE the adult female guide substantially to about 40-45 percent of canvas width, large detailed mature face and visible natural adult figure. Replace the awkward billowing long skirt with an elegant FITTED KNEE-LENGTH dress or fitted top and PENCIL SKIRT, feminine refined tailoring that clearly shows natural waist/hips silhouette, opaque nontransparent fabric. Keep her distinct identity, history buildings/exhibits, every original sentence and background information. Move speech panel into ample upper/side space, 16:9 landscape.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    },
+    {
+      "key": "78-19",
+      "special": "Correct the bunny-costume woman adult body proportions: mature adult face, head appropriately small, 7-8-head natural full-body ratio, balanced adult torso, TWO natural long legs connected through hips/knees/ankles, no oversized head or short chibi torso. Keep bunny costume, dark tights, cuffs, ears and bow tie, natural neutral museum-guide pose. Preserve historical shrine/background and all original text; enlarge and recompose only enough to keep full head/hands/feet visible. Preserve reference canvas aspect.",
+      "reference": {
+        "src": "scene-art/78-19.png?v=20261013-wide-redraw",
+        "width": 1393,
+        "height": 1129,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-review-fixes/references/78-19.jpg",
+        "width": 1024,
+        "height": 830,
+        "bytes": 534022
+      },
+      "previousFigure": {
+        "src": "scene-art/78-19.png?v=20261013-wide-redraw",
+        "width": 1393,
+        "height": 1129,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "generatedPng": "exec-c0184ea3-1631-4489-9400-7ab7011c6915.png",
+      "file": "site/scene-art/78-19.png",
+      "width": 1393,
+      "height": 1129,
+      "sha256": "da5b7958654512da365591312c7fc9138030f8fac5ea487215b25cf25a91f3c0",
+      "prompt": "Edit this finished illustration ONLY to correct the mature adult female guide's anatomical proportions. Make her whole head (scalp to chin, excluding rabbit ears) approximately 20 percent SMALLER relative to her body while preserving her facial identity, purple hairstyle, mature adult expression and bunny ears. Give her a balanced adult figure approximately EIGHT HEADS TALL from scalp to feet, natural adult torso and longer naturally connected legs, with knees/ankles/hips in coherent positions. Keep the same opaque black bunny costume, dark tights, white cuffs, bow tie, heels and neutral explanatory gesture. Do not exaggerate bust or curves. Preserve all other content EXACTLY: the Korean speech panel with every word and (가) blank, historical shrine/stone monument, sky, trees, walls, stones, colors and overall canvas aspect. Keep complete hands, head and feet inside the frame. This must be a complete final high-resolution PNG with no pasted fragments or overlay seams.",
+      "usesUnmodifiedGeneratedPng": true,
+      "overlays": []
+    }
+  ],
+  "rollback": {
+    "key": "71-5",
+    "commit": "f2b31760bee539a8383892cd93bb7c75fc242418",
+    "figure": {
+      "src": "scene-art/71-5.svg?v=20261013-redraw-v1",
+      "width": 1001,
+      "height": 777,
+      "imageChoices": false,
+      "sceneArt": true
+    },
+    "file": "site/scene-art/71-5.svg",
+    "sha256": "fd87b410d62f79cf9bafd4b7e16b3f597c4b76b9e77dc2909d7a38181505cbd7"
+  },
+  "failedAttempts": [
+    {
+      "key": "70-40",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 50146236-00c4-4eb9-b496-c2bcbfb76aee.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"input\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")"
+    },
+    {
+      "key": "79-25",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 9f4e053e-79e0-4c1e-ab5b-50088f40df45. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")"
+    }
+  ]
+}
