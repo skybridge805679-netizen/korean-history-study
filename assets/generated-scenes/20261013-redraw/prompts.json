@@ -1,0 +1,85 @@
+{
+  "instruction": "Edit current main scene reference; preserve all Korean dialogue, answer labels and historical source material; redraw anonymous adult people and cohesive background in mature educational anime style. Original factual crops are preserved separately in final SVG.",
+  "scenes": [
+    {
+      "key": "75-48",
+      "aspect": "1001:787",
+      "details": "Two adult women in museum, auburn hair ivory dress and navy hair sage dress; exact original protest photograph and both full Korean paragraphs"
+    },
+    {
+      "key": "79-27",
+      "aspect": "1001:910",
+      "details": "Two adult women seated at an interview desk: left pink long hair and pale blue blouse; right brown bob and peach blouse. Two upper speech panels. The central exhibit contains the EXACT three historical book covers from the reference, retain ALL titles and details; never blank it out."
+    },
+    {
+      "key": "75-42",
+      "aspect": "1001:907",
+      "details": "One adult woman lecturer on left with long navy hair, pink blouse and ivory pleated skirt, four distinctly different adult women attendees at a table (two facing away), warm Korean lecture room. Retain the central exact historical cartoon picture of a modern boy from reference. Three complete speech bubbles, including bottom-left (가) blank; no hand can cover text."
+    },
+    {
+      "key": "71-31",
+      "aspect": "1001:637",
+      "details": "Exactly two distinct adult female historical roleplay presenters in Joseon hanbok: left blonde braided hair in pale blue jeogori/navy skirt and right curly brunette in mustard jeogori/burgundy skirt, book held between them. Two full upper speech panels, spacious padding. No fragment or picture inside text panels."
+    },
+    {
+      "key": "71-5",
+      "aspect": "1001:777",
+      "details": "Exactly three distinctly different ADULT women age25+ history presenters in mature sailor-inspired outfits in front of green classroom chalkboard, left blonde braid navy skirt, center silver bob lavender skirt, right auburn braid burgundy skirt. Retain the title (한국사 주제 발표) and 백제의 성장과 발전; preserve all 3 speech paragraphs AND bottom labels (가), (나), (다) clearly. Use mature adult proportions."
+    },
+    {
+      "key": "74-13",
+      "aspect": "1001:729",
+      "details": "Adult woman teacher with lavender ponytail ivory blouse grey midi skirt at RIGHT in warm classroom. Retain heading (한국사 모둠 활동), (가) 시대 문화유산 기념품 디자인 제작 발표회. EXACT 3 museum artifact pictures: seated stone Buddha on poster 1, blue celadon jar on poster 2, gilded seated Buddha on teacher's held poster3. Preserve labels1모둠 2모둠 3모둠 AND all their captions exactly. Upper speech panel includes the ENTIRE paragraph. Never omit (가). No choice images are part of this scene."
+    },
+    {
+      "key": "76-24",
+      "aspect": "1001:532",
+      "details": "Exactly three distinct adult women at history seminar desk, pink braided hair on left, blonde braided updo at middle, navy ponytail at right; ivory blouse and lilac vest and modest skirt. A single small tablet on desk retains EXACT historical male portrait in reference. Preserve all 3 speech panels, the left paragraph begins 이 인물이. No duplicated letters."
+    },
+    {
+      "key": "76-45",
+      "aspect": "1001:802",
+      "details": "Adult woman visitor with pink hair green field jacket yellow pleated skirt white blouse and ankle boots on right. Retain the EXACT documentary photograph of historical inscription stone and stone platforms in woods as central/background source material. Spacious top speech panel preserving entire long paragraph INCLUDING first two lines, no omissions. No duplication of monument."
+    },
+    {
+      "key": "76-47",
+      "aspect": "1001:812",
+      "details": "Exactly three distinct adult female presenters before whiteboard in warm seminar room; left auburn hair mint blouse, center navy hair navy cardigan, right silver bob grey cardigan. Retain whiteboard title 주제: 우리나라 헌법 개정의 역사; all three full speech paragraphs AND (가) (나) (다) labels beneath speakers. Middle paragraph must remain fully readable with zero text overlap."
+    },
+    {
+      "key": "79-3",
+      "aspect": "1001:758",
+      "details": "Adult woman museum lecturer on right with long chestnut hair, tan blazer ivory blouse black skirt. Keep the EXACT archaeological aerial photo with tombs labeled 1호 2호 3호 4호 and exact inset molar photograph marked 2호분 출토 어금니 and original red pointer. Retain entire top Korean paragraph, answer (가) blank and all map labels without any overprinted text. Do not invent tomb structures."
+    },
+    {
+      "key": "70-50",
+      "aspect": "1001:1106",
+      "details": "Redraw female news host as adult woman with dark teal hair purple blazer ivory blouse, in realistic anime television studio. Preserve upper full original paragraph with (가) (나) blanks, central Daegu228 bus scene, TV news banner 달빛동맹의 두 도시, 화합과 협력의 새 장을 열다. Retain separate bottom <보기> with EXACTLY FOUR entries ㄱ ㄴ ㄷ ㄹ as in reference; no doubled ㄴ lines or repeated paragraphs."
+    },
+    {
+      "key": "71-24",
+      "aspect": "1001:905",
+      "details": "Two adult women seated at seminar interview desk, left navy braided hair pink blazer ivory blouse; right purple ponytail tan jacket. Central framed EXACT historical inscription photo must remain completely intact. Both long upper speech paragraphs remain fully readable, especially the entire left bubble including leftmost characters. No text clipping."
+    },
+    {
+      "key": "70-11",
+      "aspect": "1001:806",
+      "details": "Adult woman lecturer on left with auburn long hair pink blouse grey skirt, four distinct adult women attendees at table with devices. Central display retains EXACT documentary archaeological photos of bronze tripod and bowl, with ruler and original title bar. Three speech panels: top left, right and bottom left, with original (가) labels and all text, properly placed and readable without overlaps."
+    },
+    {
+      "key": "70-27",
+      "aspect": "1001:769",
+      "details": "Museum teaching scene with adult woman docent on left short auburn hair pink blouse yellow skirt and adult women seated on right in three clearly staggered museum benches. Preserve the EXACT historical large folding-screen painting of mountain landscape, never invent a replacement. Large upper speech panel retains full original paragraph including (가) blank. Seamless museum walls, no black stripe below speech box. Current reference omits choice images, keep that scene-only format."
+    },
+    {
+      "key": "72-46",
+      "aspect": "1001:892",
+      "details": "Preserve desktop monitor video conference format, two LARGE primary video tiles below two full upper white speech panels, and 3 SMALL participant video tiles on right. All 5 participants distinctly different ADULT women: main left navy hair green blouse, main right blonde bob orange blouse, side auburn curly, silver short, chestnut ponytail. EXACT UI labels 전라도 경상도 수도권 강원도 충청도 and header 참여자의 구술로 살펴보는 지역별 (가), full dialogue paragraphs. No speaker omitted; original monitor composition intact."
+    },
+    {
+      "key": "74-32",
+      "aspect": "1001:766",
+      "details": "Early20th-century medical-office interview: left ADULT woman auburn wavy bob white blouse, right real historical man physician Avison, older Western male with ginger hair, mustache, round glasses, brown three-piece suit and ivory shirt. Preserve male identity and EXACT historical dialogue (no invented name). Two large upper white speech panels, right panel holds its entire long paragraph in readable size, above faces. Warm office antique furniture, natural hands and recording device."
+    }
+  ]
+}
