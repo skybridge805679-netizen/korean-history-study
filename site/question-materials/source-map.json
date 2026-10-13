@@ -444,7 +444,29 @@
     "pngSha256": "e0aca4e5fe6db74cd7696fa64f0ffcec20dc5296a44b408b60054fcfa726b806",
     "pixelSha256": "d9abd71ca72904a76618973b2a5221f55ee3f2e1296eef874f60d8a52d91ecd3",
     "imageFile": "70-11.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "70-11",
+      "src": "scene-art/70-11.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            330,
+            140,
+            698,
+            337
+          ],
+          "targetFraction": [
+            0.317,
+            0.169,
+            0.401,
+            0.261
+          ],
+          "clip": null
+        }
+      ]
+    }
   },
   "70-12": {
     "exam": 70,
@@ -1721,7 +1743,13 @@
         "name": "영통동구도(강세황)",
         "nameStatus": "identified"
       }
-    ]
+    ],
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "70-27",
+      "src": "scene-art/70-27.svg?v=20261013-redraw-v1",
+      "preservedCrops": []
+    }
   },
   "70-28": {
     "exam": 70,
@@ -3312,7 +3340,44 @@
     "pngSha256": "711b480d4f5d9f76eb0e283a2c1cd20cc261f7876599937f491d36f056e141c7",
     "pixelSha256": "1f3cd9d9fba688ea80061ac5e381eb51df2c9c830b920a4c6f88e8d0a78406d6",
     "imageFile": "70-50.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "70-50",
+      "src": "scene-art/70-50.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            416,
+            204,
+            954,
+            620
+          ],
+          "targetFraction": [
+            0.397,
+            0.211,
+            0.586,
+            0.386
+          ],
+          "clip": null
+        },
+        {
+          "sourceBox": [
+            0,
+            770,
+            1001,
+            1106
+          ],
+          "targetFraction": [
+            0,
+            0.725,
+            1,
+            0.275
+          ],
+          "clip": null
+        }
+      ]
+    }
   },
   "71-1": {
     "exam": 71,
@@ -3628,7 +3693,13 @@
     "pngSha256": "1348a838e1f444f0ceb305cb843f0442a2df0400c4e1e061cb59fa2b3c0e380d",
     "pixelSha256": "8f18e4dc28c69e088ff8fe9c86fc955c723aba405d33993fa5587086fa09bad8",
     "imageFile": "71-5.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "71-5",
+      "src": "scene-art/71-5.svg?v=20261013-redraw-v1",
+      "preservedCrops": []
+    }
   },
   "71-6": {
     "exam": 71,
@@ -5634,6 +5705,30 @@
           "sourceScale": 2
         }
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "71-24",
+      "src": "scene-art/71-24.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            289,
+            269,
+            575,
+            665
+          ],
+          "targetFraction": [
+            0.291,
+            0.287,
+            0.282,
+            0.436
+          ],
+          "clip": null,
+          "highResolutionSource": "site/appearance-art/71-24-fact-0.webp",
+          "highResolutionSourceSha256": "17bd96ed6a44ba8ad860278b742f7133bf0cd8fbaadfd37ae3d4e0cf18bb1bf0"
+        }
+      ]
     }
   },
   "71-25": {
@@ -6411,7 +6506,13 @@
     "pngSha256": "09cdd6944c31e04ab005ebf02ffa8dbead9738a2b81e2acfffe881b8c9dbcd3d",
     "pixelSha256": "7675440b37a72d3f0416837d9eb1f6606527bbc6e441c60c5bd1e5f83506395b",
     "imageFile": "71-31.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "71-31",
+      "src": "scene-art/71-31.svg?v=20261013-redraw-v1",
+      "preservedCrops": []
+    }
   },
   "71-32": {
     "exam": 71,
@@ -10279,7 +10380,13 @@
     "pngSha256": "6fafcff8df8c828ebed9fb62a152dcf23c320be130bd049c06205b9ff85d9b3a",
     "pixelSha256": "7e960b7166315fbca536cca965003c015dc02cca46b1947f7fb20471179cc47d",
     "imageFile": "72-46.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "72-46",
+      "src": "scene-art/72-46.svg?v=20261013-redraw-v1",
+      "preservedCrops": []
+    }
   },
   "72-47": {
     "exam": 72,
@@ -14545,7 +14652,59 @@
         "name": "평창 월정사 팔각 구층 석탑",
         "nameStatus": "identified"
       }
-    ]
+    ],
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "74-13",
+      "src": "scene-art/74-13.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            100,
+            240,
+            315,
+            474
+          ],
+          "targetFraction": [
+            0.101,
+            0.301,
+            0.213,
+            0.318
+          ],
+          "clip": null
+        },
+        {
+          "sourceBox": [
+            358,
+            240,
+            574,
+            474
+          ],
+          "targetFraction": [
+            0.354,
+            0.301,
+            0.213,
+            0.318
+          ],
+          "clip": null
+        },
+        {
+          "sourceBox": [
+            678,
+            498,
+            826,
+            675
+          ],
+          "targetFraction": [
+            0.65,
+            0.545,
+            0.157,
+            0.269
+          ],
+          "clip": null
+        }
+      ]
+    }
   },
   "74-14": {
     "exam": 74,
@@ -15753,7 +15912,13 @@
     "pngSha256": "be461f44117b7052fd4681c55384b4f2f19ecb640392ddd8e67ef0ba09a84354",
     "pixelSha256": "471374c1a907790f1de4e5665651e30994f833f21418ab6d6e85b25fdd31d2ff",
     "imageFile": "74-32.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "74-32",
+      "src": "scene-art/74-32.svg?v=20261013-redraw-v1",
+      "preservedCrops": []
+    }
   },
   "74-33": {
     "exam": 74,
@@ -19873,6 +20038,77 @@
       "kind": "outfit",
       "imageSha256": "d135413c205e7dbe169ef8128fdf5678e167acf5b1a8b05bd5dd6a238d246853",
       "protectedRects": []
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "75-42",
+      "src": "scene-art/75-42.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            315,
+            225,
+            658,
+            539
+          ],
+          "targetFraction": [
+            0.315,
+            0.245,
+            0.339,
+            0.34
+          ],
+          "clip": [
+            [
+              0.315,
+              0.245
+            ],
+            [
+              0.654,
+              0.245
+            ],
+            [
+              0.654,
+              0.585
+            ],
+            [
+              0.422,
+              0.585
+            ],
+            [
+              0.413,
+              0.565
+            ],
+            [
+              0.4,
+              0.547
+            ],
+            [
+              0.38,
+              0.534
+            ],
+            [
+              0.355,
+              0.534
+            ],
+            [
+              0.335,
+              0.547
+            ],
+            [
+              0.328,
+              0.566
+            ],
+            [
+              0.327,
+              0.585
+            ],
+            [
+              0.315,
+              0.585
+            ]
+          ]
+        }
+      ]
     }
   },
   "75-43": {
@@ -20422,6 +20658,30 @@
           "pixelSha256": "742244b186f78f310253e790de78df0109518411630bbf120b4042b70b7742ce",
           "role": "original-printed-line",
           "sourceScale": 2
+        }
+      ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "75-48",
+      "src": "scene-art/75-48.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            237,
+            124,
+            736,
+            476
+          ],
+          "targetFraction": [
+            0.234,
+            0.162,
+            0.507,
+            0.452
+          ],
+          "clip": null,
+          "highResolutionSource": "site/appearance-art/75-48-fact-0.webp",
+          "highResolutionSourceSha256": "682ad143c8f490c5c3e41c63813f15ee08ed30d758f95437ee2af0492831245f"
         }
       ]
     }
@@ -21827,7 +22087,30 @@
     "pngSha256": "149e7436cd9524d82aba5a639b55c4310c2c696d08e980b56421bd6ac68cf97b",
     "pixelSha256": "ce77bade3fa42524d095deae0cf0705215c622dfa077d029131ef936fb825a26",
     "imageFile": "76-24.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "76-24",
+      "src": "scene-art/76-24.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            528,
+            260,
+            680,
+            357
+          ],
+          "matrix": [
+            1,
+            0.033,
+            -0.124,
+            1.06,
+            539,
+            300
+          ]
+        }
+      ]
+    }
   },
   "76-25": {
     "exam": 76,
@@ -23314,6 +23597,30 @@
           "sourceScale": 2
         }
       ]
+    },
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "76-45",
+      "src": "scene-art/76-45.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            14,
+            216,
+            735,
+            789
+          ],
+          "targetFraction": [
+            0.008,
+            0.302,
+            0.703,
+            0.689
+          ],
+          "clip": null,
+          "highResolutionSource": "site/appearance-art/76-45-fact-0.webp",
+          "highResolutionSourceSha256": "9415360a12914092dbeace8d4315551ff68e85e31298bd93a991fff5e48df74e"
+        }
+      ]
     }
   },
   "76-46": {
@@ -23438,7 +23745,13 @@
     "pngSha256": "c0ed7152f864c0ef627becc94492f34cac2afba1b1dde57339f6d22962f1f421",
     "pixelSha256": "28aecc15829b0939c5fccfc200d0b6fbf96be9e68bb02d50e34597c90490ad3e",
     "imageFile": "76-47.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "76-47",
+      "src": "scene-art/76-47.svg?v=20261013-redraw-v1",
+      "preservedCrops": []
+    }
   },
   "76-48": {
     "exam": 76,
@@ -30705,7 +31018,62 @@
     "pngSha256": "e00288b938b7d2f35fdbd20bc8fc7d44363e188f836f07e8e4bf4db95241eeed",
     "pixelSha256": "71d3cc6c3eaa7b7c8be6dd1122db9a4de22902ad17e52ea9781f3ebf59ef9aaa",
     "imageFile": "79-3.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "79-3",
+      "src": "scene-art/79-3.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            35,
+            257,
+            753,
+            692
+          ],
+          "targetFraction": [
+            0.033,
+            0.343,
+            0.708,
+            0.542
+          ],
+          "clip": [
+            [
+              0.033,
+              0.343
+            ],
+            [
+              0.741,
+              0.343
+            ],
+            [
+              0.741,
+              0.595
+            ],
+            [
+              0.59,
+              0.595
+            ],
+            [
+              0.59,
+              0.82
+            ],
+            [
+              0.741,
+              0.82
+            ],
+            [
+              0.741,
+              0.885
+            ],
+            [
+              0.033,
+              0.885
+            ]
+          ]
+        }
+      ]
+    }
   },
   "79-4": {
     "exam": 79,
@@ -32154,7 +32522,44 @@
     "pngSha256": "58804bf8ebef500b40612300bc0b3559ada46a9a1341e61e9c653ba21a978716",
     "pixelSha256": "028787bb550eea05c7754f558c999d2c4646b71ec2f2b121f878c94d20f74ac3",
     "imageFile": "79-27.webp",
-    "restoredFromText": false
+    "restoredFromText": false,
+    "sceneRedraw": {
+      "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
+      "key": "79-27",
+      "src": "scene-art/79-27.svg?v=20261013-redraw-v1",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            259,
+            306,
+            733,
+            650
+          ],
+          "targetFraction": [
+            0.27,
+            0.363,
+            0.472,
+            0.35
+          ],
+          "clip": null
+        },
+        {
+          "sourceBox": [
+            25,
+            149,
+            270,
+            263
+          ],
+          "targetFraction": [
+            0.025,
+            0.14,
+            0.26,
+            0.13
+          ],
+          "clip": null
+        }
+      ]
+    }
   },
   "79-28": {
     "exam": 79,

@@ -1,0 +1,814 @@
+{
+  "baseCommit": "b4bf0a5d28030161ab06a8c263b467c8b1723a4c",
+  "images": [
+    {
+      "key": "75-48",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/75-48.webp",
+      "originalPng": "exec-8a0a33f8-d3dc-4038-b85a-a778e4b5f6c3.png",
+      "originalPngSha256": "e5605e8a44b3c4e747c3eebc0bbc785b3c2f43b65c6023e66520cfe21c7c3d9a",
+      "generatedSize": [
+        1415,
+        1112
+      ],
+      "displaySize": [
+        1001,
+        787
+      ],
+      "previousFigure": {
+        "src": "question-art/75-48.svg?v=20261013-restored",
+        "width": 1001,
+        "height": 787,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/75-48.webp",
+      "sourceMaterialSha256": "772c61b7a3073510dc45c7f9c30c0d24e4210953db4aa73d78fd6625167beaaa",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            237,
+            124,
+            736,
+            476
+          ],
+          "targetFraction": [
+            0.234,
+            0.162,
+            0.507,
+            0.452
+          ],
+          "clip": null,
+          "highResolutionSource": "site/appearance-art/75-48-fact-0.webp",
+          "highResolutionSourceSha256": "682ad143c8f490c5c3e41c63813f15ee08ed30d758f95437ee2af0492831245f"
+        }
+      ],
+      "finalFile": "site/scene-art/75-48.svg",
+      "finalSha256": "ce3c0dedce6657352e6724c910876ca44016aded98276c65393569decec752ce"
+    },
+    {
+      "key": "79-27",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/79-27.webp",
+      "originalPng": "exec-05049ba7-225d-437b-9523-8d97e7df009b.png",
+      "originalPngSha256": "fd2e2af57a44a37116e6b57db554f2854d66827a080484d8dc53380287b099c1",
+      "generatedSize": [
+        1315,
+        1196
+      ],
+      "displaySize": [
+        1001,
+        910
+      ],
+      "previousFigure": {
+        "src": "question-art/79-27.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 910,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/79-27.webp",
+      "sourceMaterialSha256": "0c22a351d83002a6d4755a5571efc76728a1a2af78eabf0c8b5edc3fd24a190a",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            259,
+            306,
+            733,
+            650
+          ],
+          "targetFraction": [
+            0.27,
+            0.363,
+            0.472,
+            0.35
+          ],
+          "clip": null
+        },
+        {
+          "sourceBox": [
+            25,
+            149,
+            270,
+            263
+          ],
+          "targetFraction": [
+            0.025,
+            0.14,
+            0.26,
+            0.13
+          ],
+          "clip": null
+        }
+      ],
+      "finalFile": "site/scene-art/79-27.svg",
+      "finalSha256": "1f4e11dd2b64d79125b0b0cb8e03c073603ec024110458fbbae48d00132372a7"
+    },
+    {
+      "key": "75-42",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/75-42.webp",
+      "originalPng": "exec-d1617672-4a4d-48d7-ba01-8b4c85f10b8e.png",
+      "originalPngSha256": "9693af4cc0d87d841c7369c9d3b0b399be3e331a7202d80341edab2daef3d5bb",
+      "generatedSize": [
+        1317,
+        1194
+      ],
+      "displaySize": [
+        1001,
+        907
+      ],
+      "previousFigure": {
+        "src": "question-art/75-42.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 907,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/75-42.webp",
+      "sourceMaterialSha256": "2c7a941ee7726d9b915487bbc76a91ca07fbb8b98d063e2b371b7ff05c15bf1d",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            315,
+            225,
+            658,
+            539
+          ],
+          "targetFraction": [
+            0.315,
+            0.245,
+            0.339,
+            0.34
+          ],
+          "clip": [
+            [
+              0.315,
+              0.245
+            ],
+            [
+              0.654,
+              0.245
+            ],
+            [
+              0.654,
+              0.585
+            ],
+            [
+              0.422,
+              0.585
+            ],
+            [
+              0.413,
+              0.565
+            ],
+            [
+              0.4,
+              0.547
+            ],
+            [
+              0.38,
+              0.534
+            ],
+            [
+              0.355,
+              0.534
+            ],
+            [
+              0.335,
+              0.547
+            ],
+            [
+              0.328,
+              0.566
+            ],
+            [
+              0.327,
+              0.585
+            ],
+            [
+              0.315,
+              0.585
+            ]
+          ]
+        }
+      ],
+      "finalFile": "site/scene-art/75-42.svg",
+      "finalSha256": "e566ebee044f25429829179cd0b95f8d8de7f6d1abfa5d549abe5799b5964fa5"
+    },
+    {
+      "key": "71-31",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/71-31.webp",
+      "originalPng": "exec-06b9c021-917e-4608-bc9f-7e32e92ba3fb.png",
+      "originalPngSha256": "d6b02d759f1b00e235ea648a45ec6122a92e16295b5f0261d15bd4c61795315f",
+      "generatedSize": [
+        1573,
+        1000
+      ],
+      "displaySize": [
+        1001,
+        637
+      ],
+      "previousFigure": {
+        "src": "question-art/71-31.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 637,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/71-31.webp",
+      "sourceMaterialSha256": "3975700edab4a1f7c01e62d388ebc32a05e7f0dad870f5d5801257d852249427",
+      "preservedCrops": [],
+      "finalFile": "site/scene-art/71-31.svg",
+      "finalSha256": "443c27c2ac19d42dbecac18ce39ed38171912c41fa605927ad9708da8ae68189"
+    },
+    {
+      "key": "71-5",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/71-5.webp",
+      "originalPng": "exec-48796b4b-f7fe-4bec-88f2-c062a6fc9feb.png",
+      "originalPngSha256": "cf5110f43ac1f2a90505b2d2d3598b4fc933ac9a463ab6e48e1f17ba0cfeadd7",
+      "generatedSize": [
+        1423,
+        1105
+      ],
+      "displaySize": [
+        1001,
+        777
+      ],
+      "previousFigure": {
+        "src": "question-art/71-5.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 777,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/71-5.webp",
+      "sourceMaterialSha256": "7c09583cc5b38c863573e9fc0d596ad02bd7526490e7f3ff1cdf9044b4ecdd2a",
+      "preservedCrops": [],
+      "finalFile": "site/scene-art/71-5.svg",
+      "finalSha256": "fd87b410d62f79cf9bafd4b7e16b3f597c4b76b9e77dc2909d7a38181505cbd7"
+    },
+    {
+      "key": "74-13",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/74-13.webp",
+      "originalPng": "exec-537be237-3fea-4e3c-a901-15705cbd9b62.png",
+      "originalPngSha256": "d27f88f200c274d4f362a84f027adafd3cd890e68952e2e2c754573f2c950931",
+      "generatedSize": [
+        1470,
+        1070
+      ],
+      "displaySize": [
+        1001,
+        729
+      ],
+      "previousFigure": {
+        "src": "question-art/74-13.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 729,
+        "imageChoices": true,
+        "characterArt": true,
+        "choices": [
+          {
+            "number": 1,
+            "src": "choice-art/74-13-1.webp?v=20261012-choice",
+            "width": 165,
+            "height": 148,
+            "name": "도기 기마 인물형 명기",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 2,
+            "src": "choice-art/74-13-2.webp?v=20261012-choice",
+            "width": 149,
+            "height": 182,
+            "name": "청자 투각 칠보무늬 향로",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 3,
+            "src": "choice-art/74-13-3.webp?v=20261012-choice",
+            "width": 153,
+            "height": 192,
+            "name": "청동 은입사 포류수금문 정병",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 4,
+            "src": "choice-art/74-13-4.webp?v=20261012-choice",
+            "width": 149,
+            "height": 96,
+            "name": "나전 국화넝쿨무늬 합",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 5,
+            "src": "choice-art/74-13-5.webp?v=20261012-choice",
+            "width": 123,
+            "height": 179,
+            "name": "평창 월정사 팔각 구층 석탑",
+            "nameStatus": "identified"
+          }
+        ]
+      },
+      "sourceMaterial": "site/question-materials/74-13.webp",
+      "sourceMaterialSha256": "607ed26326f23693f80f83d054563adb56d0021e16e7ec0c5079883f752219ba",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            100,
+            240,
+            315,
+            474
+          ],
+          "targetFraction": [
+            0.101,
+            0.301,
+            0.213,
+            0.318
+          ],
+          "clip": null
+        },
+        {
+          "sourceBox": [
+            358,
+            240,
+            574,
+            474
+          ],
+          "targetFraction": [
+            0.354,
+            0.301,
+            0.213,
+            0.318
+          ],
+          "clip": null
+        },
+        {
+          "sourceBox": [
+            678,
+            498,
+            826,
+            675
+          ],
+          "targetFraction": [
+            0.65,
+            0.545,
+            0.157,
+            0.269
+          ],
+          "clip": null
+        }
+      ],
+      "finalFile": "site/scene-art/74-13.svg",
+      "finalSha256": "8dd6b33712966a25e089b6bf974bf0cd81a795db933329200af2abff221bd921"
+    },
+    {
+      "key": "76-24",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/76-24.webp",
+      "originalPng": "exec-ff60231c-8097-4997-88b7-976a4c0c444f.png",
+      "originalPngSha256": "3f2ea73ffdf654af9dd4b19f775dc5460f4de0dff142d0ff53eb5d1949960a71",
+      "generatedSize": [
+        1719,
+        915
+      ],
+      "displaySize": [
+        1001,
+        532
+      ],
+      "previousFigure": {
+        "src": "question-art/76-24.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 532,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/76-24.webp",
+      "sourceMaterialSha256": "9935ced682e1a903722daf95f1a340666a7a60014b61292f272941e0037ee8b2",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            528,
+            260,
+            680,
+            357
+          ],
+          "matrix": [
+            1,
+            0.033,
+            -0.124,
+            1.06,
+            539,
+            300
+          ]
+        }
+      ],
+      "finalFile": "site/scene-art/76-24.svg",
+      "finalSha256": "9146464296d1617c30ca754fe21f9df894838aff485674334690fa910dc0222d"
+    },
+    {
+      "key": "76-45",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/76-45.webp",
+      "originalPng": "exec-c6c6fa79-d731-46fe-b521-54ba72941593.png",
+      "originalPngSha256": "b3d3c00b64c86d06c9a9b0397193c15b7125a5aa9844d43de38f69cd48ed90db",
+      "generatedSize": [
+        1401,
+        1123
+      ],
+      "displaySize": [
+        1001,
+        802
+      ],
+      "previousFigure": {
+        "src": "question-art/76-45.svg?v=20261013-restored",
+        "width": 1001,
+        "height": 802,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/76-45.webp",
+      "sourceMaterialSha256": "aa2df9c644d090cfe4fe3ba635b666722159ed66258b99214462a683472d8feb",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            14,
+            216,
+            735,
+            789
+          ],
+          "targetFraction": [
+            0.008,
+            0.302,
+            0.703,
+            0.689
+          ],
+          "clip": null,
+          "highResolutionSource": "site/appearance-art/76-45-fact-0.webp",
+          "highResolutionSourceSha256": "9415360a12914092dbeace8d4315551ff68e85e31298bd93a991fff5e48df74e"
+        }
+      ],
+      "finalFile": "site/scene-art/76-45.svg",
+      "finalSha256": "6e56906013137664c5b3197559730f260f20f2b34362e5f5c6cd5c1860c7d56a"
+    },
+    {
+      "key": "76-47",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/76-47.webp",
+      "originalPng": "exec-cc79b725-b8a8-4d07-a49f-efd10b55b8d2.png",
+      "originalPngSha256": "7b51fedbbda211f9481c8ce594a1335c45de27d8678b8e6f6fc9718c85893992",
+      "generatedSize": [
+        1392,
+        1130
+      ],
+      "displaySize": [
+        1001,
+        812
+      ],
+      "previousFigure": {
+        "src": "question-art/76-47.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 812,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/76-47.webp",
+      "sourceMaterialSha256": "202224cf3fabb4a4fcb3f105dc5f1cf7873dae030f8be43a3f46b5849be65e32",
+      "preservedCrops": [],
+      "finalFile": "site/scene-art/76-47.svg",
+      "finalSha256": "73ccdcb85c7910c8ad8f618b2b281a3ae303f341513140e8eb19024e82c60b88"
+    },
+    {
+      "key": "79-3",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/79-3.webp",
+      "originalPng": "exec-32533abd-3301-491a-8160-8b1729e491e9.png",
+      "originalPngSha256": "542b70543a01bc61c96f22113b6cdf3e910ba6df6479c829ed95665b90ccb9aa",
+      "generatedSize": [
+        1441,
+        1091
+      ],
+      "displaySize": [
+        1001,
+        758
+      ],
+      "previousFigure": {
+        "src": "question-art/79-3.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 758,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/79-3.webp",
+      "sourceMaterialSha256": "dd4e067704b165ca3e9b1d5274947aa6d4741f3ae84160ed007d3a16177ff3a8",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            35,
+            257,
+            753,
+            692
+          ],
+          "targetFraction": [
+            0.033,
+            0.343,
+            0.708,
+            0.542
+          ],
+          "clip": [
+            [
+              0.033,
+              0.343
+            ],
+            [
+              0.741,
+              0.343
+            ],
+            [
+              0.741,
+              0.595
+            ],
+            [
+              0.59,
+              0.595
+            ],
+            [
+              0.59,
+              0.82
+            ],
+            [
+              0.741,
+              0.82
+            ],
+            [
+              0.741,
+              0.885
+            ],
+            [
+              0.033,
+              0.885
+            ]
+          ]
+        }
+      ],
+      "finalFile": "site/scene-art/79-3.svg",
+      "finalSha256": "fe4e74d33a03e7abe371024d8300fb5b40caff42a541573e04b1332820a3add8"
+    },
+    {
+      "key": "70-50",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/70-50.webp",
+      "originalPng": "exec-1005f09d-8fdb-402c-b16d-65c3ef815006.png",
+      "originalPngSha256": "935b17a51607db846e1251f450d5c6d7e5f250d4fb2139bb946606cfff871766",
+      "generatedSize": [
+        1194,
+        1317
+      ],
+      "displaySize": [
+        1001,
+        1106
+      ],
+      "previousFigure": {
+        "src": "question-art/70-50.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 1106,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/70-50.webp",
+      "sourceMaterialSha256": "3a2cefd6c5ca6a4077f92098d34279074883fd6c0ac7af1ccb127857b156187e",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            416,
+            204,
+            954,
+            620
+          ],
+          "targetFraction": [
+            0.397,
+            0.211,
+            0.586,
+            0.386
+          ],
+          "clip": null
+        },
+        {
+          "sourceBox": [
+            0,
+            770,
+            1001,
+            1106
+          ],
+          "targetFraction": [
+            0,
+            0.725,
+            1,
+            0.275
+          ],
+          "clip": null
+        }
+      ],
+      "finalFile": "site/scene-art/70-50.svg",
+      "finalSha256": "eae93efaf671184afc1b561b64afd6d94b91e1c6c43158bb47a76f68e406ad8a"
+    },
+    {
+      "key": "71-24",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/71-24.webp",
+      "originalPng": "exec-3e7c1cbe-0669-4e54-989b-57140757d78f.png",
+      "originalPngSha256": "b5be2de01e9149b607d6e8008d9454c0b59f1980e94aab8f315e32470ac948b6",
+      "generatedSize": [
+        1320,
+        1192
+      ],
+      "displaySize": [
+        1001,
+        905
+      ],
+      "previousFigure": {
+        "src": "question-art/71-24.svg?v=20261013-restored",
+        "width": 1001,
+        "height": 905,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/71-24.webp",
+      "sourceMaterialSha256": "4731bbec0a22af667a8c9910673cf212a487bba6f757e4c1abf9a1b2c63c26db",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            289,
+            269,
+            575,
+            665
+          ],
+          "targetFraction": [
+            0.291,
+            0.287,
+            0.282,
+            0.436
+          ],
+          "clip": null,
+          "highResolutionSource": "site/appearance-art/71-24-fact-0.webp",
+          "highResolutionSourceSha256": "17bd96ed6a44ba8ad860278b742f7133bf0cd8fbaadfd37ae3d4e0cf18bb1bf0"
+        }
+      ],
+      "finalFile": "site/scene-art/71-24.svg",
+      "finalSha256": "361da40b689908f15e1774b81c56fc7d4cc567a8f96721fc0ca63f0cb0e82a31"
+    },
+    {
+      "key": "70-11",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/70-11.webp",
+      "originalPng": "exec-06aca34b-b3ef-41f0-a1ae-1233ae85e289.png",
+      "originalPngSha256": "526710211f56c4376b0dd1a2955f446468b3fb80182206450078610639909174",
+      "generatedSize": [
+        1397,
+        1126
+      ],
+      "displaySize": [
+        1001,
+        806
+      ],
+      "previousFigure": {
+        "src": "question-art/70-11.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 806,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/70-11.webp",
+      "sourceMaterialSha256": "113e8e85f4be274da958d48bbc056e1e20befee13cac5be43e79895181ca9748",
+      "preservedCrops": [
+        {
+          "sourceBox": [
+            330,
+            140,
+            698,
+            337
+          ],
+          "targetFraction": [
+            0.317,
+            0.169,
+            0.401,
+            0.261
+          ],
+          "clip": null
+        }
+      ],
+      "finalFile": "site/scene-art/70-11.svg",
+      "finalSha256": "ce54e480d0abb9611e62e529b7729521eddbb04843d39b30edb3c08ee4564247"
+    },
+    {
+      "key": "70-27",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/70-27.webp",
+      "originalPng": "exec-ec21ef97-5110-4489-be2e-a16ab147c6fa.png",
+      "originalPngSha256": "398c914d6189fe96bf75cd73927d0cd4ded8d8d46c0789efb3c2b78070729310",
+      "generatedSize": [
+        1431,
+        1099
+      ],
+      "displaySize": [
+        1001,
+        769
+      ],
+      "previousFigure": {
+        "src": "question-art/70-27.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 769,
+        "imageChoices": true,
+        "characterArt": true,
+        "choices": [
+          {
+            "number": 1,
+            "src": "choice-art/70-27-1.webp?v=20261012-choice",
+            "width": 157,
+            "height": 188,
+            "name": "씨름(김홍도)",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 2,
+            "src": "choice-art/70-27-2.webp?v=20261012-choice",
+            "width": 133,
+            "height": 185,
+            "name": "금강전도(정선)",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 3,
+            "src": "choice-art/70-27-3.webp?v=20261012-choice",
+            "width": 164,
+            "height": 136,
+            "name": "파적도·야묘도추(김득신)",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 4,
+            "src": "choice-art/70-27-4.webp?v=20261012-choice",
+            "width": 163,
+            "height": 122,
+            "name": "월하정인(신윤복)",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 5,
+            "src": "choice-art/70-27-5.webp?v=20261012-choice",
+            "width": 200,
+            "height": 122,
+            "name": "영통동구도(강세황)",
+            "nameStatus": "identified"
+          }
+        ]
+      },
+      "sourceMaterial": "site/question-materials/70-27.webp",
+      "sourceMaterialSha256": "08ec6a58edd0b827886cec527fa151129f588a2f71db9f7a3b0a59f9e7833bfc",
+      "preservedCrops": [],
+      "finalFile": "site/scene-art/70-27.svg",
+      "finalSha256": "53db8d83f6fa8ca11ca1e8de89071d848d24c15624aa11543b06a9e1d0646532"
+    },
+    {
+      "key": "72-46",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/72-46.webp",
+      "originalPng": "exec-a7d65dca-a7b7-4925-b4d5-395acffd635f.png",
+      "originalPngSha256": "5326d7196ac784bcfcfbd1268b9f0e8bd2cce5bd4a2f561e779ef2d9c1fb6353",
+      "generatedSize": [
+        1328,
+        1184
+      ],
+      "displaySize": [
+        1001,
+        892
+      ],
+      "previousFigure": {
+        "src": "question-art/72-46.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 892,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/72-46.webp",
+      "sourceMaterialSha256": "1bbf05a6070196d6b52be65a4e13c5d367f21328282c20388665a7719f9882ac",
+      "preservedCrops": [],
+      "finalFile": "site/scene-art/72-46.svg",
+      "finalSha256": "01a29a6952e9f50ba8c0be60a632af803fbaae1689258514e6333f30ebb08cab"
+    },
+    {
+      "key": "74-32",
+      "generatedFile": "assets/generated-scenes/20261013-redraw/74-32.webp",
+      "originalPng": "exec-89a50619-edf2-4fa2-93b4-2bc2f3c51e75.png",
+      "originalPngSha256": "6737c0c88f5ca1de0c65ad90c3b604698dfa0ff26ac5b7fc2454c170d6e5f0ba",
+      "generatedSize": [
+        1433,
+        1098
+      ],
+      "displaySize": [
+        1001,
+        766
+      ],
+      "previousFigure": {
+        "src": "question-art/74-32.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 766,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "sourceMaterial": "site/question-materials/74-32.webp",
+      "sourceMaterialSha256": "d0379b5719844761dfe28887b24d6130081670587c55d9de632dbf687ca4905d",
+      "preservedCrops": [],
+      "finalFile": "site/scene-art/74-32.svg",
+      "finalSha256": "f1fb4b0dd8661cf301900e0f51b2a67184b25c1f6cc7c932884f4b332bd525ba"
+    }
+  ]
+}
