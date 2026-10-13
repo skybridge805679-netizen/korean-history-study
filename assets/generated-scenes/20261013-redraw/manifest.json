@@ -3,7 +3,7 @@
   "images": [
     {
       "key": "75-48",
-      "generatedFile": "assets/generated-scenes/20261013-redraw/75-48.webp",
+      "generatedFile": "site/scene-art/75-48.png",
       "originalPng": "exec-8a0a33f8-d3dc-4038-b85a-a778e4b5f6c3.png",
       "originalPngSha256": "e5605e8a44b3c4e747c3eebc0bbc785b3c2f43b65c6023e66520cfe21c7c3d9a",
       "generatedSize": [
@@ -11,8 +11,8 @@
         1112
       ],
       "displaySize": [
-        1001,
-        787
+        1415,
+        1112
       ],
       "previousFigure": {
         "src": "question-art/75-48.svg?v=20261013-restored",
@@ -23,27 +23,10 @@
       },
       "sourceMaterial": "site/question-materials/75-48.webp",
       "sourceMaterialSha256": "772c61b7a3073510dc45c7f9c30c0d24e4210953db4aa73d78fd6625167beaaa",
-      "preservedCrops": [
-        {
-          "sourceBox": [
-            237,
-            124,
-            736,
-            476
-          ],
-          "targetFraction": [
-            0.234,
-            0.162,
-            0.507,
-            0.452
-          ],
-          "clip": null,
-          "highResolutionSource": "site/appearance-art/75-48-fact-0.webp",
-          "highResolutionSourceSha256": "682ad143c8f490c5c3e41c63813f15ee08ed30d758f95437ee2af0492831245f"
-        }
-      ],
-      "finalFile": "site/scene-art/75-48.svg",
-      "finalSha256": "ce3c0dedce6657352e6724c910876ca44016aded98276c65393569decec752ce"
+      "preservedCrops": [],
+      "finalFile": "site/scene-art/75-48.png",
+      "finalSha256": "e5605e8a44b3c4e747c3eebc0bbc785b3c2f43b65c6023e66520cfe21c7c3d9a",
+      "usesUnmodifiedGeneratedPng": true
     },
     {
       "key": "79-27",

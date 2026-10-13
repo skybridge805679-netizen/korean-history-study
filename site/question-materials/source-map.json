@@ -20665,26 +20665,9 @@
     "sceneRedraw": {
       "manifest": "../../assets/generated-scenes/20261013-redraw/manifest.json",
       "key": "75-48",
-      "src": "scene-art/75-48.svg?v=20261013-redraw-v1",
-      "preservedCrops": [
-        {
-          "sourceBox": [
-            237,
-            124,
-            736,
-            476
-          ],
-          "targetFraction": [
-            0.234,
-            0.162,
-            0.507,
-            0.452
-          ],
-          "clip": null,
-          "highResolutionSource": "site/appearance-art/75-48-fact-0.webp",
-          "highResolutionSourceSha256": "682ad143c8f490c5c3e41c63813f15ee08ed30d758f95437ee2af0492831245f"
-        }
-      ]
+      "src": "scene-art/75-48.png?v=20261013-original",
+      "preservedCrops": [],
+      "usesUnmodifiedGeneratedPng": true
     }
   },
   "75-49": {
