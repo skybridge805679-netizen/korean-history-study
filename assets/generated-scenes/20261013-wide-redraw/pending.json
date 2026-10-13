@@ -1,0 +1,27 @@
+{
+  "requestedCount": 44,
+  "completedCount": 43,
+  "remainingCount": 1,
+  "items": [
+    {
+      "key": "70-40",
+      "group": "costume",
+      "special": "Change ONLY the adult female presenter to elegant opaque LINGERIE with matching LEGWEAR and ELBOW-LENGTH GLOVES. Satin bra and matching underwear with refined lace edges, fully covered breasts and crotch, tasteful opaque materials, coordinated thigh-high stockings and long gloves visibly included. Mature adult woman age25+, neutral educational presentation pose, natural adult anatomy. Enlarge her, preserve every original Korean sentence, historical material and background.",
+      "figure": {
+        "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+        "width": 1408,
+        "height": 1117,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/70-40.jpg",
+        "width": 1024,
+        "height": 812,
+        "bytes": 244666
+      },
+      "status": "blocked",
+      "failure": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 24e51bba-e77b-4b43-a2f1-4893861f0146.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"input\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")"
+    }
+  ]
+}

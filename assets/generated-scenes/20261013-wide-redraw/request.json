@@ -1,0 +1,870 @@
+{
+  "baseCommit": "f2b31760bee539a8383892cd93bb7c75fc242418",
+  "requestCount": 44,
+  "items": [
+    {
+      "key": "79-4",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "question-art/79-4.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 918,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/79-4.jpg",
+        "width": 1001,
+        "height": 918,
+        "bytes": 227909
+      }
+    },
+    {
+      "key": "79-27",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/79-27.svg?v=20261013-redraw-v1",
+        "width": 1001,
+        "height": 910,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/79-27.jpg",
+        "width": 1001,
+        "height": 910,
+        "bytes": 241773
+      }
+    },
+    {
+      "key": "79-46",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/79-46.webp?v=20261013",
+        "width": 1001,
+        "height": 663,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/79-46.jpg",
+        "width": 1001,
+        "height": 663,
+        "bytes": 208233
+      }
+    },
+    {
+      "key": "78-1",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/78-1.webp?v=20261013",
+        "width": 1001,
+        "height": 908,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/78-1.jpg",
+        "width": 1001,
+        "height": 908,
+        "bytes": 284645
+      }
+    },
+    {
+      "key": "78-15",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/78-15.webp?v=20261013",
+        "width": 1001,
+        "height": 911,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/78-15.jpg",
+        "width": 1001,
+        "height": 911,
+        "bytes": 263357
+      }
+    },
+    {
+      "key": "78-47",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/78-47.webp?v=20261013",
+        "width": 1001,
+        "height": 860,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/78-47.jpg",
+        "width": 1001,
+        "height": 860,
+        "bytes": 242172
+      }
+    },
+    {
+      "key": "77-17",
+      "group": "wide",
+      "special": "Fix the CENTRAL female character body proportions: small natural adult head, long balanced adult torso and limbs, anatomically coherent 7-8 head proportions; remove the large-headed/chibi proportions.",
+      "figure": {
+        "src": "scene-art/77-17.png?v=20261013-full-redraw",
+        "width": 1379,
+        "height": 1141,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/77-17.jpg",
+        "width": 1024,
+        "height": 847,
+        "bytes": 283973
+      }
+    },
+    {
+      "key": "77-32",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "question-art/77-32.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 729,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/77-32.jpg",
+        "width": 1001,
+        "height": 729,
+        "bytes": 139722
+      }
+    },
+    {
+      "key": "77-36",
+      "group": "wide",
+      "special": "Correct all leg anatomy: each adult woman has exactly two naturally connected legs, coherent hip/knee/ankle locations, feet in perspective, no tangled or extra limbs.",
+      "figure": {
+        "src": "scene-art/77-36.webp?v=20261013",
+        "width": 1001,
+        "height": 952,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/77-36.jpg",
+        "width": 1001,
+        "height": 952,
+        "bytes": 296535
+      }
+    },
+    {
+      "key": "76-9",
+      "group": "wide",
+      "special": "Replace the rebelling anonymous male farmers with ADULT rural village women age25+, in rustic Korean rural women clothes with chima skirts. They are fully clothed strong country women participating in the uprising. No anonymous male rebels remain. Preserve real historical portraits and the original uprising information.",
+      "figure": {
+        "src": "question-materials/76-9.webp?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 574,
+        "imageChoices": false
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/76-9.jpg",
+        "width": 1001,
+        "height": 574,
+        "bytes": 125803
+      }
+    },
+    {
+      "key": "75-12",
+      "group": "wide",
+      "special": "Move speech balloons into ample upper/background space and enlarge the female character significantly. Keep every original line legible, complete head and natural hands, balance the scene.",
+      "figure": {
+        "src": "scene-art/75-12.webp?v=20261013",
+        "width": 1001,
+        "height": 706,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/75-12.jpg",
+        "width": 1001,
+        "height": 706,
+        "bytes": 364640
+      }
+    },
+    {
+      "key": "75-18",
+      "group": "wide",
+      "special": "Redraw the female character completely with refined detailed face, natural mature adult anatomy and elegant coherent clothes; repair any compositing traces.",
+      "figure": {
+        "src": "scene-art/75-18.webp?v=20261013",
+        "width": 1001,
+        "height": 748,
+        "imageChoices": true,
+        "characterArt": true,
+        "choices": [
+          {
+            "number": 1,
+            "src": "choice-art/75-18-1.webp?v=20261012-choice",
+            "width": 316,
+            "height": 364,
+            "name": "익산 미륵사지 석탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 2,
+            "src": "choice-art/75-18-2.webp?v=20261012-choice",
+            "width": 302,
+            "height": 347,
+            "name": "경주 불국사 삼층 석탑·석가탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 3,
+            "src": "choice-art/75-18-3.webp?v=20261012-choice",
+            "width": 155,
+            "height": 361,
+            "name": "개성 경천사지 십층 석탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 4,
+            "src": "choice-art/75-18-4.webp?v=20261012-choice",
+            "width": 317,
+            "height": 364,
+            "name": "안동 법흥사지 칠층 전탑",
+            "nameStatus": "identified"
+          },
+          {
+            "number": 5,
+            "src": "choice-art/75-18-5.webp?v=20261012-choice",
+            "width": 469,
+            "height": 275,
+            "name": "경주 분황사 모전 석탑",
+            "nameStatus": "identified"
+          }
+        ],
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/75-18.jpg",
+        "width": 1001,
+        "height": 748,
+        "bytes": 310583
+      }
+    },
+    {
+      "key": "75-20",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "question-art/75-20.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 890,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/75-20.jpg",
+        "width": 1001,
+        "height": 890,
+        "bytes": 208918
+      }
+    },
+    {
+      "key": "75-25",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/75-25.webp?v=20261013",
+        "width": 1001,
+        "height": 942,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/75-25.jpg",
+        "width": 1001,
+        "height": 942,
+        "bytes": 314518
+      }
+    },
+    {
+      "key": "75-34",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/75-34.png?v=20261013-full-redraw-final",
+        "width": 1244,
+        "height": 1264,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/75-34.jpg",
+        "width": 1008,
+        "height": 1024,
+        "bytes": 284690
+      }
+    },
+    {
+      "key": "75-39",
+      "group": "wide",
+      "special": "Reposition speech balloons for a substantially larger adult female guide. Render ALL people in the HISTORICAL BACKGROUND in BLACK AND WHITE while the main female guide and foreground scene remain in full color. Preserve original dialogue.",
+      "figure": {
+        "src": "scene-art/75-39.webp?v=20261013",
+        "width": 1001,
+        "height": 586,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/75-39.jpg",
+        "width": 1001,
+        "height": 586,
+        "bytes": 250574
+      }
+    },
+    {
+      "key": "75-44",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "question-art/75-44.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 810,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/75-44.jpg",
+        "width": 1001,
+        "height": 810,
+        "bytes": 206660
+      }
+    },
+    {
+      "key": "74-7",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/74-7.png?v=20261013-full-redraw",
+        "width": 1334,
+        "height": 1179,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/74-7.jpg",
+        "width": 1024,
+        "height": 905,
+        "bytes": 280129
+      }
+    },
+    {
+      "key": "74-22",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/74-22.webp?v=20261013",
+        "width": 1001,
+        "height": 483,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/74-22.jpg",
+        "width": 1001,
+        "height": 483,
+        "bytes": 153708
+      }
+    },
+    {
+      "key": "74-43",
+      "group": "wide",
+      "special": "Repair both hands fully and naturally; no clipped fingertips, no disconnected arm/hand. Keep hands inside canvas and outside speech panels.",
+      "figure": {
+        "src": "scene-art/74-43.png?v=20261013-full-redraw-final",
+        "width": 1353,
+        "height": 1163,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/74-43.jpg",
+        "width": 1024,
+        "height": 880,
+        "bytes": 325195
+      }
+    },
+    {
+      "key": "73-7",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/73-7.webp?v=20261013",
+        "width": 1001,
+        "height": 881,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/73-7.jpg",
+        "width": 1001,
+        "height": 881,
+        "bytes": 361264
+      }
+    },
+    {
+      "key": "73-15",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "question-art/73-15.svg?v=20261012-pdf-final",
+        "width": 1001,
+        "height": 895,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/73-15.jpg",
+        "width": 1001,
+        "height": 895,
+        "bytes": 234443
+      }
+    },
+    {
+      "key": "73-39",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/73-39.webp?v=20261013",
+        "width": 1001,
+        "height": 897,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/73-39.jpg",
+        "width": 1001,
+        "height": 897,
+        "bytes": 237868
+      }
+    },
+    {
+      "key": "73-44",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/73-44.webp?v=20261013",
+        "width": 1001,
+        "height": 580,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/73-44.jpg",
+        "width": 1001,
+        "height": 580,
+        "bytes": 169618
+      }
+    },
+    {
+      "key": "72-21",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "question-art/72-21.svg?v=20261012-style-v2",
+        "width": 1001,
+        "height": 846,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/72-21.jpg",
+        "width": 1001,
+        "height": 846,
+        "bytes": 249339
+      }
+    },
+    {
+      "key": "72-24",
+      "group": "wide",
+      "special": "The question asks which fact occurred during the UNDERLINED 전란. Draw a clearly visible black UNDERLINE DIRECTLY BENEATH the exact word 전란 in the original historical explanation. Do not omit the word or its underline. Preserve the existing musical poster concept, Princess Aesuk costume, every poster title/date/venue/detail and all historical information. Recompose as a finished 16:9 landscape musical poster, with polished adult female Princess Aesuk and ample legible text areas. Copy this exact poster text: 초대합니다 / 창작 뮤지컬 / 비운의 의순 공주, 애숙 / 삼전도에서의 굴욕적인 항복으로 전란은 끝났습니다. 이후 조선의 공주를 부인으로 삼겠다는 청 섭정왕의 요구로 조선 국왕의 양녀가 되어 원치 않은 결혼을 해야 했던 의순 공주 이애숙. 그녀의 굴곡진 삶을 한 편의 뮤지컬로 선보입니다. / 일시: 2024년 ○○월 ○○일 ○○시 / 장소: 의정부 △△ 문화회관 대극장. Underline only 전란 within 전란은 in that first sentence, with a clear horizontal black line beneath the two syllables.",
+      "figure": {
+        "src": "scene-art/72-24.png?v=20261013-full-redraw",
+        "width": 1086,
+        "height": 1448,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/72-24.jpg",
+        "width": 768,
+        "height": 1024,
+        "bytes": 328725
+      }
+    },
+    {
+      "key": "72-26",
+      "group": "wide",
+      "special": "Write the label 귤림서원 EXACTLY, with large crisp fully legible Hangul. Keep each of the four syllables separated clearly, no distorted typography. Preserve every other original label and sentence.",
+      "figure": {
+        "src": "scene-art/72-26.webp?v=20261013",
+        "width": 1001,
+        "height": 1008,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/72-26.jpg",
+        "width": 1001,
+        "height": 1008,
+        "bytes": 419697
+      }
+    },
+    {
+      "key": "72-28",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/72-28.webp?v=20261013",
+        "width": 1001,
+        "height": 730,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/72-28.jpg",
+        "width": 1001,
+        "height": 730,
+        "bytes": 225423
+      }
+    },
+    {
+      "key": "72-44",
+      "group": "wide",
+      "special": "Raise the entire scene quality substantially: sophisticated polished lighting, rich material textures and intricate elegant clothing, refined adult face and natural hands; preserve every original historical reference and text.",
+      "figure": {
+        "src": "question-art/72-44.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 729,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/72-44.jpg",
+        "width": 1001,
+        "height": 729,
+        "bytes": 168519
+      }
+    },
+    {
+      "key": "71-5",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/71-5.svg?v=20261013-redraw-v1",
+        "width": 1001,
+        "height": 777,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/71-5.jpg",
+        "width": 1001,
+        "height": 777,
+        "bytes": 214877
+      }
+    },
+    {
+      "key": "71-21",
+      "group": "wide",
+      "special": "Relocate speech panels into clean upper/background space to enlarge the main adult female character, preserve complete original sentences and natural complete anatomy.",
+      "figure": {
+        "src": "scene-art/71-21.webp?v=20261013",
+        "width": 1001,
+        "height": 697,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/71-21.jpg",
+        "width": 1001,
+        "height": 697,
+        "bytes": 309494
+      }
+    },
+    {
+      "key": "71-32",
+      "group": "wide",
+      "special": "Relocate speech panels into clean upper/background space to enlarge the main adult female character, preserve complete original sentences and natural complete anatomy.",
+      "figure": {
+        "src": "scene-art/71-32.webp?v=20261013",
+        "width": 1001,
+        "height": 693,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/71-32.jpg",
+        "width": 1001,
+        "height": 693,
+        "bytes": 264829
+      }
+    },
+    {
+      "key": "70-13",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/70-13.webp?v=20261013",
+        "width": 1001,
+        "height": 857,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/70-13.jpg",
+        "width": 1001,
+        "height": 857,
+        "bytes": 223617
+      }
+    },
+    {
+      "key": "70-44",
+      "group": "wide",
+      "special": "",
+      "figure": {
+        "src": "scene-art/70-44.webp?v=20261013",
+        "width": 1001,
+        "height": 582,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/70-44.jpg",
+        "width": 1001,
+        "height": 582,
+        "bytes": 168767
+      }
+    },
+    {
+      "key": "79-25",
+      "group": "slim",
+      "special": "Make the adult female characters noticeably SKINNY/slender with narrower waist, slim arms and legs, natural healthy adult proportions. Keep their existing outfits, fabric details, original background and complete Korean text; retain mature adult faces, no extreme emaciation.",
+      "figure": {
+        "src": "scene-art/79-25.webp?v=20261013",
+        "width": 1001,
+        "height": 723,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/79-25.jpg",
+        "width": 1001,
+        "height": 723,
+        "bytes": 224584
+      }
+    },
+    {
+      "key": "78-8",
+      "group": "slim",
+      "special": "Make the adult female characters noticeably SKINNY/slender with narrower waist, slim arms and legs, natural healthy adult proportions. Keep their existing outfits, fabric details, original background and complete Korean text; retain mature adult faces, no extreme emaciation.",
+      "figure": {
+        "src": "scene-art/78-8.png?v=20261013-full-redraw-final",
+        "width": 1492,
+        "height": 1054,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/78-8.jpg",
+        "width": 1024,
+        "height": 723,
+        "bytes": 307946
+      }
+    },
+    {
+      "key": "72-18",
+      "group": "slim",
+      "special": "Make the adult female characters noticeably SKINNY/slender with narrower waist, slim arms and legs, natural healthy adult proportions. Keep their existing outfits, fabric details, original background and complete Korean text; retain mature adult faces, no extreme emaciation.",
+      "figure": {
+        "src": "scene-art/72-18.png?v=20261013-full-redraw-final",
+        "width": 1648,
+        "height": 954,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/72-18.jpg",
+        "width": 1024,
+        "height": 593,
+        "bytes": 241592
+      }
+    },
+    {
+      "key": "78-19",
+      "group": "costume",
+      "special": "Change the adult female guide outfit to a BUNNY-GIRL COSTUME: elegant opaque bunny bodysuit, rabbit-ear headband, bow tie, wrist cuffs, dark tights and refined shoes. Clearly mature adult woman age25+, natural adult face and anatomy, neutral museum-guide explanatory gesture. Enlarge the character, preserve all original Korean text and the historical shrine background.",
+      "figure": {
+        "src": "scene-art/78-19.webp?v=20261013",
+        "width": 1001,
+        "height": 811,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/78-19.jpg",
+        "width": 1001,
+        "height": 811,
+        "bytes": 390883
+      }
+    },
+    {
+      "key": "78-45",
+      "group": "costume",
+      "special": "Change the main adult woman to a SAILOR NAVY COSPLAY uniform: stylish navy-and-white sailor collar, fitted top, elegant skirt, sailor hat and coordinated shoes. Mature adult woman age25+ with refined adult facial features, neutral informative pose. Enlarge her, preserve original text and historical scene.",
+      "figure": {
+        "src": "scene-art/78-45.webp?v=20261013",
+        "width": 1001,
+        "height": 692,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/78-45.jpg",
+        "width": 1001,
+        "height": 692,
+        "bytes": 283811
+      }
+    },
+    {
+      "key": "77-46",
+      "group": "costume",
+      "special": "Change the adult female guide to a SPARKLING MAGICAL-GIRL COSPLAY outfit: ornate jewel accents, luminous ribbons, detailed layered skirt, gloves and coordinated boots. Clearly mature adult woman age25+. Correct legs fully with exactly two anatomically natural connected legs and feet, no overlap or extra limbs. Enlarge character and preserve every original Korean sentence and exhibit.",
+      "figure": {
+        "src": "scene-art/77-46.png?v=20261013-full-redraw-final",
+        "width": 1334,
+        "height": 1179,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/77-46.jpg",
+        "width": 1024,
+        "height": 905,
+        "bytes": 312430
+      }
+    },
+    {
+      "key": "76-19",
+      "group": "costume",
+      "special": "Change the adult female REPORTER to an OFFICE LADY look: polished fitted blazer, blouse and pencil skirt, BLACK STOCKINGS visibly covering both legs, elegant office heels. Enlarge her, repair all leg anatomy with exactly two coherent hip-knee-ankle chains, natural stance, no extra feet or crossed/tangled impossible legs. Preserve original report text and background.",
+      "figure": {
+        "src": "scene-art/76-19.png?v=20261013-full-redraw",
+        "width": 1547,
+        "height": 1017,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/76-19.jpg",
+        "width": 1024,
+        "height": 673,
+        "bytes": 290182
+      }
+    },
+    {
+      "key": "76-26",
+      "group": "costume",
+      "special": "Change the adult woman outfit to stylish MODERNIZED HANBOK with contemporary fitted tailoring and recognizable hanbok collar/ribbon/chima details. Make her substantially slender/skinny, natural mature adult proportions, refined textiles, enlarge character and preserve all original text/background.",
+      "figure": {
+        "src": "question-art/76-26.svg?v=20261012-whole-scene-v3",
+        "width": 1001,
+        "height": 651,
+        "imageChoices": false,
+        "characterArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/76-26.jpg",
+        "width": 1001,
+        "height": 651,
+        "bytes": 191799
+      }
+    },
+    {
+      "key": "71-46",
+      "group": "costume",
+      "special": "Change the adult woman to a fashionable modern INFLUENCER outfit: stylish coordinated feminine street fashion, sophisticated layering/accessories and elegant skirt. Enlarge her, mature adult face age25+, natural adult body, preserve full original history dialogue and background.",
+      "figure": {
+        "src": "scene-art/71-46.webp?v=20261013",
+        "width": 1001,
+        "height": 660,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/71-46.jpg",
+        "width": 1001,
+        "height": 660,
+        "bytes": 271066
+      }
+    },
+    {
+      "key": "70-40",
+      "group": "costume",
+      "special": "Change ONLY the adult female presenter to elegant opaque LINGERIE with matching LEGWEAR and ELBOW-LENGTH GLOVES. Satin bra and matching underwear with refined lace edges, fully covered breasts and crotch, tasteful opaque materials, coordinated thigh-high stockings and long gloves visibly included. Mature adult woman age25+, neutral educational presentation pose, natural adult anatomy. Enlarge her, preserve every original Korean sentence, historical material and background.",
+      "figure": {
+        "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+        "width": 1408,
+        "height": 1117,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "referenceInput": {
+        "file": "assets/generated-scenes/20261013-wide-redraw/references/70-40.jpg",
+        "width": 1024,
+        "height": 812,
+        "bytes": 244666
+      }
+    }
+  ],
+  "inputPolicy": {
+    "imagesPerCall": 1,
+    "maxLongEdge": 1024,
+    "maxBytes": 1048576,
+    "maxConcurrentGenerations": 2
+  },
+  "outputPolicy": "Use generated PNG byte-for-byte, no overlays, crops, rescaling or recompression.",
+  "generationInstructions": "Create ONE finished high-resolution Korean history educational anime illustration from the supplied CURRENT MAIN reference. Redraw the entire scene including background coherently, refined detailed anime linework, polished rich lighting and clothing textures. Preserve ALL original Korean dialogue, titles, labels, answer blanks and historical reference images faithfully and legibly, write each sentence once, no invented history, no duplicate glyph fragments. Retain the identities and content of real historical portraits, documents, reference photos and exhibits. All anonymous living foreground guides/presenters/visitors are mature ADULT women age25+ with natural adult faces and body proportions; historical source material remains historically faithful. Retain existing outfits unless a specific change is requested, retain distinct hairstyles and original informative poses, correct natural connected hands and two-leg anatomy. Give main women more detail and adequate prominence, all required hands/heads fully within frame. Place speech panels cleanly away from faces/hands. Preserve all source information, no empty historical frames, no ghost bodies, text remnants, pasted strips or compositing seams. This output is the FINAL finished production image including all words and pictures; it will be applied exactly as generated, with NO later exam/text/photo overlays, crops, resizing or recompression. Generate at highest native detail available."
+}

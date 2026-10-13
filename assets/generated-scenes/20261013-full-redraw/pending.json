@@ -1,14 +1,18 @@
 {
   "generationInstructions": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available.",
   "requestCount": 100,
-  "items": [
+  "items": [],
+  "retryPolicy": "완성본 재생성 금지. 생성 서비스에서 거절된 문항은 미완료로 유지한다.",
+  "remainingCount": 0,
+  "completedCount": 99,
+  "supersededItems": [
     {
       "key": "78-19",
       "group": "costume",
       "special": "Change the anonymous adult female guide outfit to a BIKINI with matching KNEE SOCKS and ELBOW-LENGTH GLOVES. Unmistakably age25+ mature face and adult anatomy, tasteful opaque bikini top and bottom, both socks and gloves fully visible, natural neutral explanatory pose. Enlarge character, preserve full original historical material and Korean dialogue.",
       "width": 1001,
       "height": 811,
-      "status": "blocked",
+      "status": "superseded",
       "reason": "moderation_blocked",
       "referenceInput": {
         "width": 1001,
@@ -17,10 +21,10 @@
         "maxImagesPerCall": 1,
         "file": "assets/generated-scenes/20261013-full-redraw/references/78-19.jpg"
       },
-      "failure": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 0f607790-4aea-40fc-8512-0384747e56c2.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"input\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")"
+      "failure": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 0f607790-4aea-40fc-8512-0384747e56c2.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"input\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "supersededBy": "../20261013-wide-redraw/manifest.json",
+      "note": "후속 사용자 요청에서 비키니 대신 바니걸 의상으로 변경하여 적용 완료"
     }
   ],
-  "retryPolicy": "완성본 재생성 금지. 생성 서비스에서 거절된 문항은 미완료로 유지한다.",
-  "remainingCount": 1,
-  "completedCount": 99
+  "supersededCount": 1
 }
