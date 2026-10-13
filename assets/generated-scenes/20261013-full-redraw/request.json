@@ -1,0 +1,1222 @@
+[
+  {
+    "key": "79-18",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/79-18.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 794,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "79-23",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/79-23.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 738,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "79-30",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/79-30.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 753,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "79-41",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/79-41.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 846,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "79-44",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/79-44.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 812,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "79-45",
+    "group": "redraw",
+    "figure": {
+      "src": "scene-art/79-45.webp?v=20261013",
+      "width": 1001,
+      "height": 793,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "79-48",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/79-48.svg?v=20261012-whole-scene-v3",
+      "width": 1001,
+      "height": 810,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "78-5",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/78-5.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 846,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "78-6",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/78-6.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 898,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "78-10",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/78-10.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 793,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "78-20",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/78-20.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 823,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "78-34",
+    "group": "redraw",
+    "figure": {
+      "src": "scene-art/78-34.webp?v=20261013",
+      "width": 1001,
+      "height": 487,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "78-41",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/78-41.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 934,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "78-43",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/78-43.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 921,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-17",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/77-17.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 828,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-23",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/77-23.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 868,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-31",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/77-31.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 653,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-39",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/77-39.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 726,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-44",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/77-44.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 829,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-46",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/77-46.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 885,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-47",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/77-47.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 817,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-48",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/77-48.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 766,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-49",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/77-49.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 742,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": "Solve the trousers issue: remove ALL trouser legs and their remnants from anonymous female presenter, replace with a coherent elegant skirt or dress, naturally proportioned full adult body and legs."
+  },
+  {
+    "key": "76-13",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/76-13.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 763,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "76-19",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/76-19.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 658,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "76-20",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/76-20.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 760,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "76-22",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/76-22.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 527,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "76-40",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/76-40.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 714,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "76-48",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/76-48.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 930,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-6",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-6.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 559,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-13",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-13.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 671,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-15",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-15.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 869,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-21",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-21.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 881,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-24",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-24.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 677,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-27",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-27.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 632,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-30",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-30.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 702,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-34",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-34.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 1017,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-36",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-36.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 698,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-40",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-40.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 834,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "75-46",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/75-46.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 691,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-3",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-3.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 776,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-5",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-5.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 848,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-7",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-7.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 886,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-8",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-8.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 840,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-21",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-21.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 563,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-23",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-23.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 805,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": "There must be EXACTLY ONE complete adult FEMALE guide character replacing the guide robot. Delete the separate robot completely, including robot body, base, screens, old face and every remnant. Enlarge and redraw the sole human character, natural full adult proportions. Recompose full museum background seamlessly."
+  },
+  {
+    "key": "74-27",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-27.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 918,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-37",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-37.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 760,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": "Remove trousers and every old trouser fragment, dress the female presenter in an elegant cohesive skirt outfit matching her existing top; natural full legs and footwear."
+  },
+  {
+    "key": "74-43",
+    "group": "redraw",
+    "figure": {
+      "src": "scene-art/74-43.webp?v=20261013",
+      "width": 1001,
+      "height": 860,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": "Repair cut-off hands: redraw complete anatomically natural hands and fingers connected to arms, both hands fully within canvas, keep explanatory gesture."
+  },
+  {
+    "key": "74-45",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-45.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 737,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-47",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/74-47.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 1065,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "73-3",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/73-3.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 803,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": "Remove guide robot entirely: no robotic lower half, screen, wheels, robot base, mechanical limbs or odd image on screen. Replace with EXACTLY ONE complete human ADULT female museum guide from head to shoes, enlarged natural adult anatomy. Keep original historical exhibit and full dialogue; seamless museum background."
+  },
+  {
+    "key": "73-21",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/73-21.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 899,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "73-22",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/73-22.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 819,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "73-30",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/73-30.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 713,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": "Remove trousers and all old trouser fragments; female lecturer wears an elegant cohesive skirt outfit; natural adult body, full legs and feet."
+  },
+  {
+    "key": "73-36",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/73-36.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 776,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "73-37",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/73-37.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 832,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "73-45",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/73-45.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 581,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "73-49",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/73-49.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 746,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "72-8",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/72-8.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 757,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": "Remove all trousers and trouser remnants; female guide wears a coherent skirt or dress outfit, adult proportions, complete natural legs and footwear."
+  },
+  {
+    "key": "72-12",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/72-12.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 637,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "72-15",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/72-15.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 1073,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "72-24",
+    "group": "redraw",
+    "figure": {
+      "src": "question-materials/72-24.webp?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 821,
+      "imageChoices": false
+    },
+    "special": "Recompose the entire illustration as ONE professionally designed Korean MUSICAL POSTER, carrying ALL information from the reference: every original title, date, venue, credits and factual text preserved and readable. Main poster visual: one beautiful unmistakably ADULT anime woman portraying Princess Aesuk, dressed in the EXACT Princess Aesuk costume shown in reference, including its colors, accessories and historical silhouette. No invented costume or invented poster facts. Rich theatrical background and dramatic tasteful stage lighting, cohesive full poster, polished readable typography."
+  },
+  {
+    "key": "72-25",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/72-25.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 796,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "72-35",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/72-35.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 872,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "72-41",
+    "group": "redraw",
+    "figure": {
+      "src": "scene-art/72-41.webp?v=20261013",
+      "width": 1001,
+      "height": 883,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": "Correct character head-to-body proportions: mature adult face and natural adult anatomy approx 7-8 heads tall, enlarge sole guide without hiding text or exhibit, no oversized head or tiny doll body."
+  },
+  {
+    "key": "71-37",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/71-37.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 775,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "71-38",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/71-38.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 923,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-5",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/70-5.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 605,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-17",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/70-17.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 887,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-18",
+    "group": "redraw",
+    "figure": {
+      "src": "scene-art/70-18.webp?v=20261013",
+      "width": 1001,
+      "height": 849,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-23",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/70-23.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 987,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-26",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/70-26.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 801,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-33",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/70-33.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 753,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-35",
+    "group": "redraw",
+    "figure": {
+      "src": "question-art/70-35.svg?v=20261012-style-v2",
+      "width": 1001,
+      "height": 919,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "79-21",
+    "group": "cleanup",
+    "figure": {
+      "src": "question-art/79-21.svg?v=20261012-whole-scene-v3",
+      "width": 1001,
+      "height": 951,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "79-31",
+    "group": "cleanup",
+    "figure": {
+      "src": "scene-art/79-31.webp?v=20261013",
+      "width": 1001,
+      "height": 531,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "77-24",
+    "group": "cleanup",
+    "figure": {
+      "src": "question-art/77-24.svg?v=20261012-whole-scene-v3",
+      "width": 1001,
+      "height": 805,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "76-30",
+    "group": "cleanup",
+    "figure": {
+      "src": "scene-art/76-30.webp?v=20261013",
+      "width": 1001,
+      "height": 633,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "76-33",
+    "group": "cleanup",
+    "figure": {
+      "src": "scene-art/76-33.webp?v=20261013",
+      "width": 1001,
+      "height": 732,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "76-37",
+    "group": "cleanup",
+    "figure": {
+      "src": "scene-art/76-37.webp?v=20261013",
+      "width": 1001,
+      "height": 868,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-1",
+    "group": "cleanup",
+    "figure": {
+      "src": "scene-art/74-1.webp?v=20261013",
+      "width": 1001,
+      "height": 819,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-2",
+    "group": "cleanup",
+    "figure": {
+      "src": "scene-art/74-2.webp?v=20261013",
+      "width": 1001,
+      "height": 705,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-44",
+    "group": "cleanup",
+    "figure": {
+      "src": "scene-art/74-44.webp?v=20261013",
+      "width": 1001,
+      "height": 855,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-46",
+    "group": "cleanup",
+    "figure": {
+      "src": "question-art/74-46.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 788,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "72-32",
+    "group": "cleanup",
+    "figure": {
+      "src": "scene-art/72-32.webp?v=20261013",
+      "width": 1001,
+      "height": 531,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-38",
+    "group": "cleanup",
+    "figure": {
+      "src": "scene-art/70-38.webp?v=20261013",
+      "width": 1001,
+      "height": 800,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-40",
+    "group": "cleanup",
+    "figure": {
+      "src": "question-art/70-40.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 794,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-41",
+    "group": "cleanup",
+    "figure": {
+      "src": "question-art/70-41.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 828,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "70-47",
+    "group": "cleanup",
+    "figure": {
+      "src": "question-art/70-47.svg?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 691,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "79-36",
+    "group": "narrow",
+    "figure": {
+      "src": "scene-art/79-36.webp?v=20261013",
+      "width": 1001,
+      "height": 446,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "78-8",
+    "group": "narrow",
+    "figure": {
+      "src": "question-art/78-8.svg?v=20261012-whole-scene-v3",
+      "width": 1001,
+      "height": 566,
+      "imageChoices": false,
+      "characterArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "74-17",
+    "group": "narrow",
+    "figure": {
+      "src": "scene-art/74-17.webp?v=20261013",
+      "width": 1001,
+      "height": 483,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": ""
+  },
+  {
+    "key": "78-19",
+    "group": "costume",
+    "figure": {
+      "src": "scene-art/78-19.webp?v=20261013",
+      "width": 1001,
+      "height": 811,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": "Change the anonymous adult female guide outfit to a BIKINI with matching KNEE SOCKS and ELBOW-LENGTH GLOVES. Unmistakably age25+ mature face and adult anatomy, tasteful opaque bikini top and bottom, both socks and gloves fully visible, natural neutral explanatory pose. Enlarge character, preserve full original historical material and Korean dialogue."
+  },
+  {
+    "key": "77-11",
+    "group": "costume",
+    "figure": {
+      "src": "scene-art/77-11.webp?v=20261013",
+      "width": 1001,
+      "height": 838,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": "Change ONLY the anonymous adult female presenter outfit to elegant LINGERIE: tasteful opaque satin bra and matching underwear with elegant lace edging, fully covered breasts and crotch, no transparent intimate areas. Clearly ADULT woman age25+ with mature facial features and adult proportions, neutral historical presentation pose, no erotic action. Enlarge character, natural hands and anatomy, preserve original Korean text and historical materials."
+  },
+  {
+    "key": "77-21",
+    "group": "costume",
+    "figure": {
+      "src": "scene-art/77-21.webp?v=20261013",
+      "width": 1001,
+      "height": 796,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": "Change the anonymous ADULT woman outfit to a BIKINI combined with a SCARF and GLOVES, all clearly visible, elegant coordinated colors. Age25+ mature face and adult anatomy, opaque bikini top/bottom, neutral explanatory gesture. Enlarge character; retain original text and historical exhibit."
+  },
+  {
+    "key": "73-34",
+    "group": "costume",
+    "figure": {
+      "src": "scene-art/73-34.webp?v=20261013",
+      "width": 1001,
+      "height": 917,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": "Change the anonymous adult woman outfit to a WHITE ONE-PIECE DRESS and STRAW HAT, refined feminine summer styling, enlarge character with natural complete adult anatomy, all original text and historical materials intact."
+  },
+  {
+    "key": "72-18",
+    "group": "costume",
+    "figure": {
+      "src": "scene-art/72-18.webp?v=20261013",
+      "width": 1001,
+      "height": 580,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": "Change the adult women's existing hanbok to TIGHT, SOPHISTICATED MODERNIZED HANBOK, elegant fitted silhouettes with contemporary tailoring, polished silk fabrics and hanbok collar/ribbon details. Enlarge characters, adult natural anatomy, retain distinct identities and all original text and historical content."
+  },
+  {
+    "key": "72-34",
+    "group": "costume",
+    "figure": {
+      "src": "scene-art/72-34.webp?v=20261013",
+      "width": 1001,
+      "height": 654,
+      "imageChoices": false,
+      "characterArt": true,
+      "sceneArt": true
+    },
+    "special": "Change the anonymous ADULT female guide outfit to a KUNOICHI costume: elegant fitted dark-violet shinobi kimono-style outfit with sash, short flowing skirt, gloves and shin guards, tasteful opaque outfit, adult age25+ mature face and natural anatomy, neutral informative museum-guide pose. Enlarge character; preserve historical materials and original dialogue."
+  },
+  {
+    "key": "76-18",
+    "group": "news",
+    "figure": {
+      "src": "question-materials/76-18.webp?v=20261012-pdf-final",
+      "width": 1001,
+      "height": 613,
+      "imageChoices": false
+    },
+    "special": "This is a FICTITIOUS news anchor, not a historical man. Replace ALL male-presenter remnants with EXACTLY ONE beautiful ADULT female anime news anchor age25+ in a refined feminine skirt suit, mature face, natural complete adult anatomy. No remaining male face/body or duplicate anchor. Retain news desk, documentary materials and original full Korean broadcast text."
+  }
+]

@@ -1,0 +1,1022 @@
+{
+  "quotaResetAt": "2026-10-13T12:11:12+09:00",
+  "generationInstructions": "Create ONE complete polished high-resolution Korean history educational anime illustration, redrawing the ENTIRE BACKGROUND and anonymous characters coherently from the supplied current-main scene. This is the final production image, not a clean layer or template. Include ALL Korean speech, titles, labels, blank answers and historical reference materials already in the source, faithfully and legibly; write each original sentence once, no fragmented duplicate glyphs, no missing lines. Do not invent historical content. Preserve identities of actual historical people in portraits, paintings and exhibits. Anonymous depicted presenters/visitors should remain distinct beautiful ADULT women age25+ with mature faces, natural adult anatomy and proportionate heads (7-8 head body proportions where full body shown), distinct hairstyles and elegant feminine clothing. Retain current outfits unless a specific change is requested; any trouser-wearing anonymous female guide should instead have a coherent elegant skirt or dress matching the source outfit theme. Make people larger and more detailed by recomposing needless background margins, keep complete heads, anatomically natural connected hands, and all relevant exhibits visible. Use refined anime linework, rich cohesive scene lighting, excellent clothing fabrics and folds. Speech panels have ample space and legible original Korean typography, never covering faces or hands. Fill the whole canvas with a cohesive background, no white patchwork voids, no ghost heads, text traces, pasted fragments, overlay artifacts or collage seams. Historical source displays must retain their content and labels, no empty frames. Produce a FINISHED image directly with all text and pictures included. It will be used exactly as generated; NO later text/photo overlays will be added. Upscale by rendering at highest native detail and resolution available.",
+  "requestCount": 100,
+  "items": [
+    {
+      "key": "79-45",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 793,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 793,
+        "bytes": 143191,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/79-45.jpg"
+      }
+    },
+    {
+      "key": "79-48",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 810,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 810,
+        "bytes": 215525,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/79-48.jpg"
+      }
+    },
+    {
+      "key": "78-5",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 846,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 846,
+        "bytes": 183012,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/78-5.jpg"
+      }
+    },
+    {
+      "key": "78-6",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 898,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 898,
+        "bytes": 161817,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/78-6.jpg"
+      }
+    },
+    {
+      "key": "78-10",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 793,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 793,
+        "bytes": 175575,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/78-10.jpg"
+      }
+    },
+    {
+      "key": "77-23",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 868,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 868,
+        "bytes": 182770,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/77-23.jpg"
+      }
+    },
+    {
+      "key": "77-39",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 726,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 726,
+        "bytes": 176573,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/77-39.jpg"
+      }
+    },
+    {
+      "key": "77-44",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 829,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 829,
+        "bytes": 169518,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/77-44.jpg"
+      }
+    },
+    {
+      "key": "77-46",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 885,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 885,
+        "bytes": 217872,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/77-46.jpg"
+      }
+    },
+    {
+      "key": "76-22",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 527,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 527,
+        "bytes": 126796,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/76-22.jpg"
+      }
+    },
+    {
+      "key": "76-40",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 714,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 714,
+        "bytes": 148389,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/76-40.jpg"
+      }
+    },
+    {
+      "key": "76-48",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 930,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 930,
+        "bytes": 219282,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/76-48.jpg"
+      }
+    },
+    {
+      "key": "75-6",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 559,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 559,
+        "bytes": 112146,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/75-6.jpg"
+      }
+    },
+    {
+      "key": "75-30",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 702,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 702,
+        "bytes": 229637,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/75-30.jpg"
+      }
+    },
+    {
+      "key": "75-34",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 1017,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 1017,
+        "bytes": 217885,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/75-34.jpg"
+      }
+    },
+    {
+      "key": "75-36",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 698,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 698,
+        "bytes": 178437,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/75-36.jpg"
+      }
+    },
+    {
+      "key": "75-40",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 834,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 834,
+        "bytes": 187701,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/75-40.jpg"
+      }
+    },
+    {
+      "key": "75-46",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 691,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 691,
+        "bytes": 165145,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/75-46.jpg"
+      }
+    },
+    {
+      "key": "74-21",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 563,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 563,
+        "bytes": 128838,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-21.jpg"
+      }
+    },
+    {
+      "key": "74-23",
+      "group": "redraw",
+      "special": "There must be EXACTLY ONE complete adult FEMALE guide character replacing the guide robot. Delete the separate robot completely, including robot body, base, screens, old face and every remnant. Enlarge and redraw the sole human character, natural full adult proportions. Recompose full museum background seamlessly.",
+      "width": 1001,
+      "height": 805,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 805,
+        "bytes": 161120,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-23.jpg"
+      }
+    },
+    {
+      "key": "74-27",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 918,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 918,
+        "bytes": 218539,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-27.jpg"
+      }
+    },
+    {
+      "key": "74-37",
+      "group": "redraw",
+      "special": "Remove trousers and every old trouser fragment, dress the female presenter in an elegant cohesive skirt outfit matching her existing top; natural full legs and footwear.",
+      "width": 1001,
+      "height": 760,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 760,
+        "bytes": 164630,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-37.jpg"
+      }
+    },
+    {
+      "key": "74-43",
+      "group": "redraw",
+      "special": "Repair cut-off hands: redraw complete anatomically natural hands and fingers connected to arms, both hands fully within canvas, keep explanatory gesture.",
+      "width": 1001,
+      "height": 860,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 860,
+        "bytes": 276615,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-43.jpg"
+      }
+    },
+    {
+      "key": "74-45",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 737,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 737,
+        "bytes": 139316,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-45.jpg"
+      }
+    },
+    {
+      "key": "73-30",
+      "group": "redraw",
+      "special": "Remove trousers and all old trouser fragments; female lecturer wears an elegant cohesive skirt outfit; natural adult body, full legs and feet.",
+      "width": 1001,
+      "height": 713,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 713,
+        "bytes": 144196,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/73-30.jpg"
+      }
+    },
+    {
+      "key": "73-36",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 776,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 776,
+        "bytes": 155488,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/73-36.jpg"
+      }
+    },
+    {
+      "key": "73-37",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 832,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 832,
+        "bytes": 170653,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/73-37.jpg"
+      }
+    },
+    {
+      "key": "73-45",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 581,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 581,
+        "bytes": 149418,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/73-45.jpg"
+      }
+    },
+    {
+      "key": "73-49",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 746,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 746,
+        "bytes": 164646,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/73-49.jpg"
+      }
+    },
+    {
+      "key": "72-8",
+      "group": "redraw",
+      "special": "Remove all trousers and trouser remnants; female guide wears a coherent skirt or dress outfit, adult proportions, complete natural legs and footwear.",
+      "width": 1001,
+      "height": 757,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 757,
+        "bytes": 177962,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/72-8.jpg"
+      }
+    },
+    {
+      "key": "72-25",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 796,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 796,
+        "bytes": 140739,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/72-25.jpg"
+      }
+    },
+    {
+      "key": "72-35",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 872,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 872,
+        "bytes": 216726,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/72-35.jpg"
+      }
+    },
+    {
+      "key": "72-41",
+      "group": "redraw",
+      "special": "Correct character head-to-body proportions: mature adult face and natural adult anatomy approx 7-8 heads tall, enlarge sole guide without hiding text or exhibit, no oversized head or tiny doll body.",
+      "width": 1001,
+      "height": 883,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 883,
+        "bytes": 221724,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/72-41.jpg"
+      }
+    },
+    {
+      "key": "71-37",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 775,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 775,
+        "bytes": 147918,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/71-37.jpg"
+      }
+    },
+    {
+      "key": "71-38",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 923,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 923,
+        "bytes": 218941,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/71-38.jpg"
+      }
+    },
+    {
+      "key": "70-5",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 605,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 605,
+        "bytes": 131902,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/70-5.jpg"
+      }
+    },
+    {
+      "key": "70-17",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 887,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 887,
+        "bytes": 212903,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/70-17.jpg"
+      }
+    },
+    {
+      "key": "70-26",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 801,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 801,
+        "bytes": 118780,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/70-26.jpg"
+      }
+    },
+    {
+      "key": "70-33",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 753,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 753,
+        "bytes": 153217,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/70-33.jpg"
+      }
+    },
+    {
+      "key": "70-35",
+      "group": "redraw",
+      "special": "",
+      "width": 1001,
+      "height": 919,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 919,
+        "bytes": 167437,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/70-35.jpg"
+      }
+    },
+    {
+      "key": "79-21",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 951,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 951,
+        "bytes": 384022,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/79-21.jpg"
+      }
+    },
+    {
+      "key": "79-31",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 531,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 531,
+        "bytes": 181505,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/79-31.jpg"
+      }
+    },
+    {
+      "key": "77-24",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 805,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 805,
+        "bytes": 241239,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/77-24.jpg"
+      }
+    },
+    {
+      "key": "76-30",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 633,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 633,
+        "bytes": 195987,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/76-30.jpg"
+      }
+    },
+    {
+      "key": "76-33",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 732,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 732,
+        "bytes": 230272,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/76-33.jpg"
+      }
+    },
+    {
+      "key": "74-1",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 819,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 819,
+        "bytes": 236249,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-1.jpg"
+      }
+    },
+    {
+      "key": "74-2",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 705,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 705,
+        "bytes": 315228,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-2.jpg"
+      }
+    },
+    {
+      "key": "74-44",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 855,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 855,
+        "bytes": 295933,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-44.jpg"
+      }
+    },
+    {
+      "key": "74-46",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 788,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 788,
+        "bytes": 196121,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-46.jpg"
+      }
+    },
+    {
+      "key": "72-32",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 531,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 531,
+        "bytes": 191156,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/72-32.jpg"
+      }
+    },
+    {
+      "key": "70-38",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 800,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 800,
+        "bytes": 205902,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/70-38.jpg"
+      }
+    },
+    {
+      "key": "70-40",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 794,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 794,
+        "bytes": 134833,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/70-40.jpg"
+      }
+    },
+    {
+      "key": "70-41",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 828,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 828,
+        "bytes": 156947,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/70-41.jpg"
+      }
+    },
+    {
+      "key": "70-47",
+      "group": "cleanup",
+      "special": "",
+      "width": 1001,
+      "height": 691,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 691,
+        "bytes": 150031,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/70-47.jpg"
+      }
+    },
+    {
+      "key": "78-8",
+      "group": "narrow",
+      "special": "",
+      "width": 1001,
+      "height": 566,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 566,
+        "bytes": 158201,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/78-8.jpg"
+      }
+    },
+    {
+      "key": "74-17",
+      "group": "narrow",
+      "special": "",
+      "width": 1001,
+      "height": 483,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 483,
+        "bytes": 173846,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/74-17.jpg"
+      }
+    },
+    {
+      "key": "78-19",
+      "group": "costume",
+      "special": "Change the anonymous adult female guide outfit to a BIKINI with matching KNEE SOCKS and ELBOW-LENGTH GLOVES. Unmistakably age25+ mature face and adult anatomy, tasteful opaque bikini top and bottom, both socks and gloves fully visible, natural neutral explanatory pose. Enlarge character, preserve full original historical material and Korean dialogue.",
+      "width": 1001,
+      "height": 811,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 811,
+        "bytes": 390883,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/78-19.jpg"
+      }
+    },
+    {
+      "key": "77-11",
+      "group": "costume",
+      "special": "Change ONLY the anonymous adult female presenter outfit to elegant LINGERIE: tasteful opaque satin bra and matching underwear with elegant lace edging, fully covered breasts and crotch, no transparent intimate areas. Clearly ADULT woman age25+ with mature facial features and adult proportions, neutral historical presentation pose, no erotic action. Enlarge character, natural hands and anatomy, preserve original Korean text and historical materials.",
+      "width": 1001,
+      "height": 838,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 838,
+        "bytes": 244523,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/77-11.jpg"
+      }
+    },
+    {
+      "key": "77-21",
+      "group": "costume",
+      "special": "Change the anonymous ADULT woman outfit to a BIKINI combined with a SCARF and GLOVES, all clearly visible, elegant coordinated colors. Age25+ mature face and adult anatomy, opaque bikini top/bottom, neutral explanatory gesture. Enlarge character; retain original text and historical exhibit.",
+      "width": 1001,
+      "height": 796,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 796,
+        "bytes": 319026,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/77-21.jpg"
+      }
+    },
+    {
+      "key": "73-34",
+      "group": "costume",
+      "special": "Change the anonymous adult woman outfit to a WHITE ONE-PIECE DRESS and STRAW HAT, refined feminine summer styling, enlarge character with natural complete adult anatomy, all original text and historical materials intact.",
+      "width": 1001,
+      "height": 917,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 917,
+        "bytes": 351339,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/73-34.jpg"
+      }
+    },
+    {
+      "key": "72-18",
+      "group": "costume",
+      "special": "Change the adult women's existing hanbok to TIGHT, SOPHISTICATED MODERNIZED HANBOK, elegant fitted silhouettes with contemporary tailoring, polished silk fabrics and hanbok collar/ribbon details. Enlarge characters, adult natural anatomy, retain distinct identities and all original text and historical content.",
+      "width": 1001,
+      "height": 580,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 580,
+        "bytes": 180427,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/72-18.jpg"
+      }
+    },
+    {
+      "key": "72-34",
+      "group": "costume",
+      "special": "Change the anonymous ADULT female guide outfit to a KUNOICHI costume: elegant fitted dark-violet shinobi kimono-style outfit with sash, short flowing skirt, gloves and shin guards, tasteful opaque outfit, adult age25+ mature face and natural anatomy, neutral informative museum-guide pose. Enlarge character; preserve historical materials and original dialogue.",
+      "width": 1001,
+      "height": 654,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 654,
+        "bytes": 333244,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/72-34.jpg"
+      }
+    },
+    {
+      "key": "76-18",
+      "group": "news",
+      "special": "This is a FICTITIOUS television news presenter, not an actual historical man. Replace the male presenter with EXACTLY ONE beautiful ADULT female news presenter age25+ in elegant YELLOW traditional Korean hanbok (jeogori and flowing chima) appropriate to the source historical news format. Remove every old male face/body remnant and beard, no duplicate anchor. Keep television framing, original dialogue and the news headline 원의 황녀, 겁령구들과 입국하다 EXACTLY as shown in source (copy source spelling faithfully).",
+      "width": 1001,
+      "height": 613,
+      "status": "pending",
+      "reason": "usage_limit_reached",
+      "referenceInput": {
+        "width": 1001,
+        "height": 613,
+        "bytes": 112179,
+        "maxImagesPerCall": 1,
+        "file": "assets/generated-scenes/20261013-full-redraw/references/76-18.jpg"
+      }
+    }
+  ],
+  "retryPolicy": {
+    "referenceImagesPerCall": 1,
+    "maxReferenceLongEdge": 1024,
+    "maxReferenceBytes": 1048576,
+    "maxConcurrentGenerations": 2,
+    "noCompletedImageEdits": true
+  }
+}
