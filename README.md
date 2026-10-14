@@ -37,11 +37,14 @@ site/core-notes/*.js    핵심노트 97개(해설 아래 비교표·연결 키�
 site/textbook.js        교과서 본문 (시대별 장 서술, 현재 일제강점기 8장)
 site/reference-lessons.js  39개 단원 개념노트
 site/question-explanations.js  500문항의 단서·정답 근거·보기별 해설
+site/question-core-notes.js  500문항의 단서·보기 비교·답 가리기 복습 노트
+site/question-note-timelines.js  시간 조건 문항의 시간축 76개
 site/fig/               문항 자료 그림 (JPEG)
 site/character-art/     캐릭터 일러스트로 다시 그린 자료 그림 (SVG)
 ```
 
 문항별 해설의 작성 기준과 검증 방법은 [해설 보완 기록](docs/question-explanations.md)에 정리되어 있습니다.
+문항별 핵심노트와 복습 기능은 [핵심노트 개선 기록](docs/question-core-notes.md)에 정리되어 있습니다.
 
 ## 생성 원화 보관함
 
