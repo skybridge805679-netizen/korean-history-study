@@ -1,0 +1,1529 @@
+{
+  "baseCommit": "e9d6855ab589fcfda9a7df51f39edf6aa2fe481e",
+  "reviewedCount": 108,
+  "restoredCount": 42,
+  "restoredLineCount": 46,
+  "imageFilesChanged": 0,
+  "items": [
+    {
+      "key": "79-4",
+      "question": "밑줄 그은 '이 나라'의 경제 상황으로 옳은 것은?",
+      "src": "scene-art/79-4.png?v=20261013-review-fixes",
+      "imageSha256": "72a0552baaad3a9d83153c41e9935a378e76e6059655fa801fd3a2cf61607ecd",
+      "status": "restored",
+      "sourceMaterial": "question-materials/79-4.webp"
+    },
+    {
+      "key": "79-6",
+      "question": "밑줄 그은 '이 탑'으로 옳은 것은?",
+      "src": "question-prompts/79-6.webp?v=20261012-style-v2",
+      "imageSha256": "4de989ee9605d6e0cd114ac9cd09cc11cccf0acf653d23eecc59f8017064095f",
+      "status": "retained",
+      "sourceMaterial": "question-materials/79-6.webp"
+    },
+    {
+      "key": "79-23",
+      "question": "밑줄 그은 '이 왕'의 재위 기간에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/79-23.png?v=20261013-full-redraw",
+      "imageSha256": "866e46b384abb9703fce760af92522c6c150b088de294b55013a26ce79eda58b",
+      "status": "restored",
+      "sourceMaterial": "question-materials/79-23.webp"
+    },
+    {
+      "key": "79-26",
+      "question": "밑줄 그은 '이들'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/79-26.webp?v=20261012-pdf-final",
+      "imageSha256": "9ed8b28d4355120127dad75f1671ffff4f83aff86d1966cd3d811b10a9f246a2",
+      "status": "retained",
+      "sourceMaterial": "question-materials/79-26.webp"
+    },
+    {
+      "key": "79-29",
+      "question": "밑줄 그은 '소요'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/79-29.webp?v=20261012-pdf-final",
+      "imageSha256": "820ef6ec094d323c2aa7d3124dd02194d7b1816b37150d76d54e5264f0f76615",
+      "status": "retained",
+      "sourceMaterial": "question-materials/79-29.webp"
+    },
+    {
+      "key": "79-35",
+      "question": "밑줄 그은 '이 운동'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/79-35.webp?v=20261012-pdf-final",
+      "imageSha256": "d862bb2dca24cd20b81d743a44c65147b841ec22cebf0241e2ac5db49b121851",
+      "status": "retained",
+      "sourceMaterial": "question-materials/79-35.webp"
+    },
+    {
+      "key": "79-39",
+      "question": "밑줄 그은 '시위 운동'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/79-39.webp?v=20261012-pdf-final",
+      "imageSha256": "6177c9f659de7e596b51f5fc20069da953694a52e98ea461ef0c41191daad1ca",
+      "status": "retained",
+      "sourceMaterial": "question-materials/79-39.webp"
+    },
+    {
+      "key": "79-40",
+      "question": "밑줄 그은 '이 사건' 이후에 있었던 사실로 옳은 것은?",
+      "src": "question-materials/79-40.webp?v=20261012-pdf-final",
+      "imageSha256": "37e4ac60fe2c45e07bd378775af27a1d38ff6b29c2e970957d4932c31849dcc7",
+      "status": "retained",
+      "sourceMaterial": "question-materials/79-40.webp"
+    },
+    {
+      "key": "79-42",
+      "question": "밑줄 그은 '이 단체'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/79-42.webp?v=20261012-pdf-final",
+      "imageSha256": "dd2af7bb8c0b332d4b0857eee54d0d2104fcce2a0d70bb0dddc9f83d442fe8f3",
+      "status": "retained",
+      "sourceMaterial": "question-materials/79-42.webp"
+    },
+    {
+      "key": "79-45",
+      "question": "밑줄 그은 '이 사건'에 대한 설명으로 가장 적절한 것은?",
+      "src": "scene-art/79-45.png?v=20261013-full-redraw-final",
+      "imageSha256": "df6625b00b0be5346936b5d5710618d5f56bd45f6baf8ad63ead15b09c13543f",
+      "status": "restored",
+      "sourceMaterial": "question-materials/79-45.webp"
+    },
+    {
+      "key": "79-46",
+      "question": "밑줄 그은 '그'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/79-46.png?v=20261013-wide-redraw",
+      "imageSha256": "ef772f3b60687d74ff417fe95453c53b01c612218aaba6e1ed49db2f9eb27484",
+      "status": "retained",
+      "sourceMaterial": "question-materials/79-46.webp"
+    },
+    {
+      "key": "78-4",
+      "question": "밑줄 그은 '왕'에 대한 설명으로 옳은 것은?",
+      "src": "question-art/78-4.svg?v=20261012-whole-scene-v3",
+      "imageSha256": "dc0b9dc90103d690f42e3c4dd11ecd9f2a79fc70cac138fed2ddcb6bce8e3f7b",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-4.webp"
+    },
+    {
+      "key": "78-6",
+      "question": "밑줄 그은 '이 국가'의 사회 모습으로 가장 적절한 것은?",
+      "src": "scene-art/78-6.png?v=20261013-full-redraw-final",
+      "imageSha256": "7c2b2f208a63a687eaec485a78f6aa7dab07448b5a63369bcbc0fa06001d9824",
+      "status": "restored",
+      "sourceMaterial": "question-materials/78-6.webp"
+    },
+    {
+      "key": "78-8",
+      "question": "밑줄 그은 '시기'에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/78-8.png?v=20261013-wide-redraw",
+      "imageSha256": "7099f91cb289846cc5afebe9409e0e2df1cf6d5d9581a1dacce406facafd90d9",
+      "status": "restored",
+      "sourceMaterial": "question-materials/78-8.webp"
+    },
+    {
+      "key": "78-10",
+      "question": "밑줄 그은 '이 전투' 이후에 전개된 사실로 옳은 것은?",
+      "src": "scene-art/78-10.png?v=20261013-full-redraw-final",
+      "imageSha256": "d8e6f8c1004e43233ce359088406e370d209f41c5e4758b5157faf4e3ca347c7",
+      "status": "restored",
+      "sourceMaterial": "question-materials/78-10.webp"
+    },
+    {
+      "key": "78-15",
+      "question": "밑줄 그은 '이 국가'에서 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "scene-art/78-15.png?v=20261013-wide-redraw",
+      "imageSha256": "68ef3f3b4a1b1d51b171f53c04fb7977528231027ca47d8b92117a458492ea1f",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-15.webp"
+    },
+    {
+      "key": "78-16",
+      "question": "밑줄 그은 '임금'의 재위 시기에 있었던 사실로 옳은 것은?",
+      "src": "question-materials/78-16.webp?v=20261012-pdf-final",
+      "imageSha256": "5c508f8a1b705f4905496390a5994eaf1a0a5c0fd01d26ca847d89983e0c006d",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-16.webp"
+    },
+    {
+      "key": "78-17",
+      "question": "밑줄 그은 '인물'의 활동으로 옳은 것은?",
+      "src": "question-materials/78-17.webp?v=20261012-pdf-final",
+      "imageSha256": "de64c1e7be2afcdf82dc3ac33f402b3f70c4ac1efa08e607676c247d4425a71d",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-17.webp"
+    },
+    {
+      "key": "78-21",
+      "question": "밑줄 그은 '그'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/78-21.webp?v=20261012-pdf-final",
+      "imageSha256": "8ecb4cb017a9d0a5ca33aeafd6200803981241423451e42a70f7c92a34f821b7",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-21.webp"
+    },
+    {
+      "key": "78-24",
+      "question": "밑줄 그은 '왕'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/78-24.webp?v=20261012-pdf-final",
+      "imageSha256": "4f2f95e7eb5a8731b451e9ea668f1344b9995e5ad519ee8d28cb834109478d81",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-24.webp"
+    },
+    {
+      "key": "78-34",
+      "question": "밑줄 그은 '신문'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/78-34.png?v=20261013-full-redraw",
+      "imageSha256": "833f3ff188dcd322f82627514b785e1d8ffb821db6cee57cba9bb44c9c25e6d4",
+      "status": "restored",
+      "sourceMaterial": "question-materials/78-34.webp"
+    },
+    {
+      "key": "78-36",
+      "question": "밑줄 그은 '시기'에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/78-36.webp?v=20261013",
+      "imageSha256": "da6eedeb990e53df63ec70be1b916f0dc462bf74f1ff4dbed6dc8e0aefdcdc5a",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-36.webp"
+    },
+    {
+      "key": "78-38",
+      "question": "밑줄 그은 '운동'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/78-38.webp?v=20261012-pdf-final",
+      "imageSha256": "99ca9e67ebf4b2603c8560f70bd30d2691261153eb458f477163425cbc9cd3c2",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-38.webp"
+    },
+    {
+      "key": "78-40",
+      "question": "밑줄 그은 '이 시기'에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "question-materials/78-40.webp?v=20261012-pdf-final",
+      "imageSha256": "7192115e8cb20bd37c924ac724713331aaebb2bb2e491f0274e1047bb084246e",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-40.webp"
+    },
+    {
+      "key": "78-45",
+      "question": "밑줄 그은 '이 전쟁' 중에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/78-45.png?v=20261013-wide-redraw",
+      "imageSha256": "5721c6f44273f097ec721105c4eade533f815f1d96128105d53f54d50ae68289",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-45.webp"
+    },
+    {
+      "key": "78-48",
+      "question": "밑줄 그은 '현행 헌법'에 대한 설명으로 옳은 것은?",
+      "src": "question-art/78-48.svg?v=20261012-pdf-final",
+      "imageSha256": "c9f538f65ddd2882ea0b323a179151c9acc9c98e3862bf5351a7e615c17ea3eb",
+      "status": "retained",
+      "sourceMaterial": "question-materials/78-48.webp"
+    },
+    {
+      "key": "77-1",
+      "question": "밑줄 그은 '이 시대'의 생활 모습으로 가장 적절한 것은?",
+      "src": "question-materials/77-1.webp?v=20261012-pdf-final",
+      "imageSha256": "2030842a973c00c55617f901e31b0d2a6019fceaac044ffaf2b793967e1a64a3",
+      "status": "retained",
+      "sourceMaterial": "question-materials/77-1.webp"
+    },
+    {
+      "key": "77-3",
+      "question": "밑줄 그은 '이 나라'에 대한 탐구 활동으로 가장 적절한 것은?",
+      "src": "question-materials/77-3.webp?v=20261012-pdf-final",
+      "imageSha256": "57d25d90312f49ad19653823f2f70f66d8650c56b7b096a974e5a5733b917c1b",
+      "status": "retained",
+      "sourceMaterial": "question-materials/77-3.webp"
+    },
+    {
+      "key": "77-15",
+      "question": "밑줄 그은 '인물'이 활동한 시기에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "question-materials/77-15.webp?v=20261012-pdf-final",
+      "imageSha256": "bfcb1bfd424165d3f82c2c1a6e2d68cfc154e6d163834b65084033e511ea00a8",
+      "status": "retained",
+      "sourceMaterial": "question-materials/77-15.webp"
+    },
+    {
+      "key": "77-23",
+      "question": "밑줄 그은 '시기'에 볼 수 있는 모습으로 적절하지 않은 것은?",
+      "src": "scene-art/77-23.png?v=20261013-full-redraw-final",
+      "imageSha256": "f8e17d6bb590dbb1e2e484e521274286c97588513636510e03455c8a0b37c64a",
+      "status": "retained",
+      "sourceMaterial": "question-materials/77-23.webp"
+    },
+    {
+      "key": "77-30",
+      "question": "밑줄 그은 '이 개혁'의 내용으로 옳은 것은?",
+      "src": "question-materials/77-30.webp?v=20261012-pdf-final",
+      "imageSha256": "720304b3467b53e10eda5a8acca1701f3baef719cf44587ec687304e00433b04",
+      "status": "retained",
+      "sourceMaterial": "question-materials/77-30.webp"
+    },
+    {
+      "key": "77-32",
+      "question": "밑줄 그은 '이 지역'에서 전개된 민족 운동에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/77-32.png?v=20261013-wide-redraw",
+      "imageSha256": "74df79abe7993cae803ba264e6a470dc5fbc43ab1bd1da2b6d38b94e5bbd08c1",
+      "status": "retained",
+      "sourceMaterial": "question-materials/77-32.webp"
+    },
+    {
+      "key": "77-35",
+      "question": "밑줄 그은 '이 학교'에 대한 설명으로 옳은 것은?",
+      "src": "question-art/77-35.svg?v=20261012-retained-original",
+      "imageSha256": "d2dce4d4bf18227461ade3562d867c6eba2fbd80859dedc11c8d2ffd94228074",
+      "status": "retained",
+      "sourceMaterial": "question-materials/77-35.webp"
+    },
+    {
+      "key": "77-36",
+      "question": "밑줄 그은 '이 단체'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/77-36.png?v=20261013-wide-redraw",
+      "imageSha256": "514cb565ccdadad7b9a9dc1b926b545001c05de683024e34d4d4d9fcb2989adf",
+      "status": "restored",
+      "sourceMaterial": "question-materials/77-36.webp"
+    },
+    {
+      "key": "77-37",
+      "question": "밑줄 그은 '이 정책'이 실시된 시기에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "question-materials/77-37.webp?v=20261012-pdf-final",
+      "imageSha256": "bd69ce4f38ee379f386e60b1f9a6b07ac60a2975ca95ee0b74c94a106a8af47d",
+      "status": "retained",
+      "sourceMaterial": "question-materials/77-37.webp"
+    },
+    {
+      "key": "77-41",
+      "question": "밑줄 그은 '이 부대'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/77-41.webp?v=20261012-pdf-final",
+      "imageSha256": "6e65b4490ecaec6e101c2d7685099dd67b7c8f4636ff6f035d41c4b8e39874c5",
+      "status": "retained",
+      "sourceMaterial": "question-materials/77-41.webp"
+    },
+    {
+      "key": "77-44",
+      "question": "밑줄 그은 '시기'에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "scene-art/77-44.png?v=20261013-full-redraw-final",
+      "imageSha256": "609ec8f5481af3d3d7eaca195b0b71286928d433285576ad134a14720af4d5df",
+      "status": "restored",
+      "sourceMaterial": "question-materials/77-44.webp"
+    },
+    {
+      "key": "77-49",
+      "question": "밑줄 그은 '이 정부' 시기에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/77-49.png?v=20261013-full-redraw",
+      "imageSha256": "dacbc4129dd857359391701ecc550a2d9b9eba2590eaa4f40141f473b7a924a9",
+      "status": "restored",
+      "sourceMaterial": "question-materials/77-49.webp"
+    },
+    {
+      "key": "76-1",
+      "question": "밑줄 그은 '이 시대'의 생활 모습으로 옳은 것은?",
+      "src": "question-materials/76-1.webp?v=20261012-pdf-final",
+      "imageSha256": "4fa2be46f994022ede891cb299b1820fd4e9d5d95197f5416cb63accda4d46ab",
+      "status": "retained",
+      "sourceMaterial": "question-materials/76-1.webp"
+    },
+    {
+      "key": "76-21",
+      "question": "밑줄 그은 '전쟁' 중에 있었던 사실로 옳은 것은?",
+      "src": "question-materials/76-21.webp?v=20261012-pdf-final",
+      "imageSha256": "592fa7f165c68b14d0f0fd0da8eb9763e3d162a67329875a3d17dd0d676414b4",
+      "status": "retained",
+      "sourceMaterial": "question-materials/76-21.webp"
+    },
+    {
+      "key": "76-24",
+      "question": "밑줄 그은 '이 인물'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/76-24.png?v=20261013-original",
+      "imageSha256": "3f2ea73ffdf654af9dd4b19f775dc5460f4de0dff142d0ff53eb5d1949960a71",
+      "status": "retained",
+      "sourceMaterial": "question-materials/76-24.webp"
+    },
+    {
+      "key": "76-29",
+      "question": "밑줄 그은 '중건' 시기에 있었던 사실로 옳은 것은?",
+      "src": "question-materials/76-29.webp?v=20261012-pdf-final",
+      "imageSha256": "e339b32d29c06d24639d927069840c631c16d257494ba71794203cd753c68ad0",
+      "status": "retained",
+      "sourceMaterial": "question-materials/76-29.webp"
+    },
+    {
+      "key": "76-30",
+      "question": "밑줄 그은 '이 장정'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/76-30.png?v=20261013-full-redraw-final",
+      "imageSha256": "23674a060bab390131a75eca36b7ebe9432a170ed3a7d4058388e808dd96512e",
+      "status": "restored",
+      "sourceMaterial": "question-materials/76-30.webp"
+    },
+    {
+      "key": "76-33",
+      "question": "밑줄 그은 '개혁'의 내용으로 옳은 것은?",
+      "src": "scene-art/76-33.png?v=20261013-full-redraw-final",
+      "imageSha256": "e7c3d20d425a0decbf7014c82f488b16c7da5994562b8f44a774dae96cb3d8c5",
+      "status": "restored",
+      "sourceMaterial": "question-materials/76-33.webp"
+    },
+    {
+      "key": "76-36",
+      "question": "밑줄 그은 '이 시기'에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "question-materials/76-36.webp?v=20261012-pdf-final",
+      "imageSha256": "83093cb657eec5cee9409af65150ed46a105bb360d2edaa51b1c9cd177e27109",
+      "status": "retained",
+      "sourceMaterial": "question-materials/76-36.webp"
+    },
+    {
+      "key": "76-39",
+      "question": "밑줄 그은 '이 운동'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/76-39.webp?v=20261012-pdf-final",
+      "imageSha256": "d832eafe2c1be0bc3fca6b601421a4b9463358ba21682bae471aa24eb0bf039e",
+      "status": "retained",
+      "sourceMaterial": "question-materials/76-39.webp"
+    },
+    {
+      "key": "76-45",
+      "question": "밑줄 그은 '이 사건'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/76-45.png?v=20261013-original",
+      "imageSha256": "b3d3c00b64c86d06c9a9b0397193c15b7125a5aa9844d43de38f69cd48ed90db",
+      "status": "retained",
+      "sourceMaterial": "question-materials/76-45.webp"
+    },
+    {
+      "key": "76-48",
+      "question": "밑줄 그은 '정부' 시기에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "scene-art/76-48.png?v=20261013-full-redraw-final",
+      "imageSha256": "9ca2befb540b7977e45a69819740800cbb765be033341f786f18fb409a538636",
+      "status": "restored",
+      "sourceMaterial": "question-materials/76-48.webp"
+    },
+    {
+      "key": "75-5",
+      "question": "밑줄 그은 '그 나라'의 경제 상황으로 가장 적절한 것은?",
+      "src": "question-materials/75-5.webp?v=20261012-pdf-final",
+      "imageSha256": "f053cdad107958f68a865a0d3329683b9946d9984567fb60a63e4b760a489967",
+      "status": "retained",
+      "sourceMaterial": "question-materials/75-5.webp"
+    },
+    {
+      "key": "75-25",
+      "question": "밑줄 그은 '시기'에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "scene-art/75-25.png?v=20261013-wide-redraw",
+      "imageSha256": "ac3dc8834317c132bebf0d90556664851cbfeeee0e98fbe2b9996f4d63420624",
+      "status": "restored",
+      "sourceMaterial": "question-materials/75-25.webp"
+    },
+    {
+      "key": "75-30",
+      "question": "밑줄 그은 '전쟁' 기간에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/75-30.png?v=20261013-full-redraw-final",
+      "imageSha256": "daff4345eddf4221dff6646e6d6123c78556251e5c79c685beca6bb9b8bf36b6",
+      "status": "restored",
+      "sourceMaterial": "question-materials/75-30.webp"
+    },
+    {
+      "key": "75-34",
+      "question": "밑줄 그은 '시기'에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/75-34.png?v=20261013-wide-redraw",
+      "imageSha256": "ad01a37992febaaecade950bc37e674de13cc768087e542b50068a2a189315e1",
+      "status": "restored",
+      "sourceMaterial": "question-materials/75-34.webp"
+    },
+    {
+      "key": "75-44",
+      "question": "밑줄 그은 '이 시기'에 시행된 일제의 정책으로 옳은 것은?",
+      "src": "scene-art/75-44.png?v=20261013-wide-redraw",
+      "imageSha256": "67f8125c6508267ef556a2b6f2b42ddff2b0173b6023ea8eace7165097427322",
+      "status": "restored",
+      "sourceMaterial": "question-materials/75-44.webp"
+    },
+    {
+      "key": "75-46",
+      "question": "밑줄 그은 '정부' 시기에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/75-46.png?v=20261013-full-redraw-final",
+      "imageSha256": "37ce18bce2e7e7618bb61e88aef6c6fc651647529af9fc31f9ef5ad0218b8d25",
+      "status": "restored",
+      "sourceMaterial": "question-materials/75-46.webp"
+    },
+    {
+      "key": "75-48",
+      "question": "밑줄 그은 '민주화 운동'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/75-48.png?v=20261013-original",
+      "imageSha256": "e5605e8a44b3c4e747c3eebc0bbc785b3c2f43b65c6023e66520cfe21c7c3d9a",
+      "status": "restored",
+      "sourceMaterial": "question-materials/75-48.webp"
+    },
+    {
+      "key": "74-2",
+      "question": "밑줄 그은 '이 나라'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/74-2.png?v=20261013-full-redraw-final",
+      "imageSha256": "6f320cda7f11b4d793eff430f477e906d48d3a89e0e9fc7af42a49f67fe1e26d",
+      "status": "restored",
+      "sourceMaterial": "question-materials/74-2.webp"
+    },
+    {
+      "key": "74-6",
+      "question": "밑줄 그은 '이 왕'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/74-6.webp?v=20261012-pdf-final",
+      "imageSha256": "aa58c5cc5b87851ee5ce0ed73cf7b3ebabd3a5f4786dfce26a0fbfc61254e9df",
+      "status": "retained",
+      "sourceMaterial": "question-materials/74-6.webp"
+    },
+    {
+      "key": "74-11",
+      "question": "밑줄 그은 '이 왕'이 추진한 정책으로 옳은 것은?",
+      "src": "question-materials/74-11.webp?v=20261012-pdf-final",
+      "imageSha256": "9c6e5a04cd5df8b36efa5f2894f912c816febd471bbbe645ee7002f717b2e94e",
+      "status": "retained",
+      "sourceMaterial": "question-materials/74-11.webp"
+    },
+    {
+      "key": "74-17",
+      "question": "밑줄 그은 '이 시기'에 볼 수 있는 모습으로 적절한 것은?",
+      "src": "scene-art/74-17.png?v=20261013-full-redraw-final",
+      "imageSha256": "fb80a982e4454b1596d26493a5360e79a67461892b4952e88449f86cb168810b",
+      "status": "restored",
+      "sourceMaterial": "question-materials/74-17.webp"
+    },
+    {
+      "key": "74-21",
+      "question": "밑줄 그은 '이 전란' 이후에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/74-21.png?v=20261013-full-redraw-final",
+      "imageSha256": "57c1341b0320f974b64c01382d7a31334d647220884f116cba29e76ed55f346e",
+      "status": "retained",
+      "sourceMaterial": "question-materials/74-21.webp"
+    },
+    {
+      "key": "74-26",
+      "question": "밑줄 그은 '이 시기'에 볼 수 있는 모습으로 적절하지 않은 것은?",
+      "src": "question-materials/74-26.webp?v=20261012-pdf-final",
+      "imageSha256": "274274ac9364be7706cafb1181e24b5f2df8fdc8a4c6f616979f3dc9c1582963",
+      "status": "retained",
+      "sourceMaterial": "question-materials/74-26.webp"
+    },
+    {
+      "key": "74-27",
+      "question": "밑줄 그은 '이 시기'의 경제 상황으로 옳은 것은?",
+      "src": "scene-art/74-27.png?v=20261013-full-redraw-final",
+      "imageSha256": "ba475096d615439ed9e1332bc72a447955c4a7350e5840a0964a8340797ab00b",
+      "status": "retained",
+      "sourceMaterial": "question-materials/74-27.webp"
+    },
+    {
+      "key": "74-30",
+      "question": "밑줄 그은 '개혁'의 내용으로 옳은 것은?",
+      "src": "question-materials/74-30.webp?v=20261012-pdf-final",
+      "imageSha256": "3d3f034bd4c66b6bbe0b1bc5e75b758f3712dc11e7decaec2fdac6bbf36a335b",
+      "status": "retained",
+      "sourceMaterial": "question-materials/74-30.webp"
+    },
+    {
+      "key": "74-33",
+      "question": "밑줄 그은 '이곳'에서 있었던 민족 운동으로 옳은 것은?",
+      "src": "question-materials/74-33.webp?v=20261012-pdf-final",
+      "imageSha256": "1d1d2983d471acb93d83a44ce27ffb2f648c7c05268dec6e61f46b488ce52ab3",
+      "status": "retained",
+      "sourceMaterial": "question-materials/74-33.webp"
+    },
+    {
+      "key": "74-38",
+      "question": "밑줄 그은 '이 단체'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/74-38.webp?v=20261012-pdf-final",
+      "imageSha256": "7ae17f7a36f6c8e81c984b2073cbb3d493a5f8777b38ebaf32ac6b8ce90eab67",
+      "status": "retained",
+      "sourceMaterial": "question-materials/74-38.webp"
+    },
+    {
+      "key": "74-43",
+      "question": "밑줄 그은 '시기'에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/74-43.png?v=20261013-wide-redraw",
+      "imageSha256": "355fed014863cd404dd83a42f31f6b94c848cb8e561597e457ea4bd781b83100",
+      "status": "restored",
+      "sourceMaterial": "question-materials/74-43.webp"
+    },
+    {
+      "key": "74-45",
+      "question": "밑줄 그은 '이 전쟁' 중에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/74-45.png?v=20261013-full-redraw-final",
+      "imageSha256": "8e118ed1de971ebb442a43fea225ed3cffa67d843833fc9caab625e6235eb0c8",
+      "status": "restored",
+      "sourceMaterial": "question-materials/74-45.webp"
+    },
+    {
+      "key": "73-5",
+      "question": "밑줄 그은 '왕'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/73-5.webp?v=20261012-pdf-final",
+      "imageSha256": "aac42a0a5cc0fbcaabfb773625fe5c1e1ceeb4c6eeb3791ab74b26a0cd9570ea",
+      "status": "retained",
+      "sourceMaterial": "question-materials/73-5.webp"
+    },
+    {
+      "key": "73-7",
+      "question": "밑줄 그은 '시기'에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/73-7.png?v=20261013-review-fixes",
+      "imageSha256": "47671e2c231959c7df367522dba03cfbfb1c7efc9f31ddb651f65caf933208ab",
+      "status": "restored",
+      "sourceMaterial": "question-materials/73-7.webp"
+    },
+    {
+      "key": "73-30",
+      "question": "밑줄 그은 '이 시기'에 볼 수 있는 모습으로 적절하지 않은 것은?",
+      "src": "scene-art/73-30.png?v=20261013-full-redraw-final",
+      "imageSha256": "e5424304c1efc4bb69a5c748516ea5aa248e4c876db580b941349161992afaa6",
+      "status": "restored",
+      "sourceMaterial": "question-materials/73-30.webp"
+    },
+    {
+      "key": "73-37",
+      "question": "밑줄 그은 '시기'에 시행된 일제의 정책으로 옳은 것은?",
+      "src": "scene-art/73-37.png?v=20261013-full-redraw-final",
+      "imageSha256": "c2eb0347b5d21ef7a7bce7e2ceddaadc2b614973169679d928076b67b13f5a3a",
+      "status": "restored",
+      "sourceMaterial": "question-materials/73-37.webp"
+    },
+    {
+      "key": "73-39",
+      "question": "밑줄 그은 '시기'에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "scene-art/73-39.png?v=20261013-review-fixes",
+      "imageSha256": "0edd5158fad4e7d880f48e2a469b01c583a5f6bc0ed2ceb1f972170f4a39acda",
+      "status": "restored",
+      "sourceMaterial": "question-materials/73-39.webp"
+    },
+    {
+      "key": "73-40",
+      "question": "밑줄 그은 '사건'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/73-40.webp?v=20261012-pdf-final",
+      "imageSha256": "b599c0593cd5809edffda0d4c81f586f37343962e596d3359ac6b82d9645b4ff",
+      "status": "retained",
+      "sourceMaterial": "question-materials/73-40.webp"
+    },
+    {
+      "key": "73-44",
+      "question": "밑줄 그은 '운동'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/73-44.png?v=20261013-wide-redraw",
+      "imageSha256": "66420b15487f6aaaaef35af30468b70e85ed05018dc588fb0b6066c2068e7d77",
+      "status": "restored",
+      "sourceMaterial": "question-materials/73-44.webp"
+    },
+    {
+      "key": "72-2",
+      "question": "밑줄 그은 '이 나라'에 대한 탐구 활동으로 가장 적절한 것은?",
+      "src": "question-materials/72-2.webp?v=20261012-pdf-final",
+      "imageSha256": "66f600c6765eb919c3448dd239f0df959c7d50e06618c64a24a4cc12079bdcbc",
+      "status": "retained",
+      "sourceMaterial": "question-materials/72-2.webp"
+    },
+    {
+      "key": "72-7",
+      "question": "밑줄 그은 '이 국가'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/72-7.webp?v=20261012-pdf-final",
+      "imageSha256": "07068372f76cc2adf1cb3a2f3e802c87331dcfeae2f8e08974ced4e30ab03ca2",
+      "status": "retained",
+      "sourceMaterial": "question-materials/72-7.webp"
+    },
+    {
+      "key": "72-15",
+      "question": "밑줄 그은 '시기'의 사실로 옳은 것은?",
+      "src": "scene-art/72-15.png?v=20261013-full-redraw",
+      "imageSha256": "5ef183c0efad89a6bffa39a50babc98e096006d676d429d624e8d35175963642",
+      "status": "restored",
+      "sourceMaterial": "question-materials/72-15.webp"
+    },
+    {
+      "key": "72-18",
+      "question": "밑줄 그은 '임금'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/72-18.png?v=20261013-wide-redraw",
+      "imageSha256": "3ac5e773fc70e0d19ee434b16df3facd7563aeb76a4cfca979eb217230058c7b",
+      "status": "restored",
+      "sourceMaterial": "question-materials/72-18.webp"
+    },
+    {
+      "key": "72-20",
+      "question": "밑줄 그은 '전하'의 재위 기간에 있었던 사실로 옳은 것은?",
+      "src": "question-materials/72-20.webp?v=20261012-pdf-final",
+      "imageSha256": "9dbece21736e450980f4a524ddec18c94f4b3b33798e3680d45a7627b7789c7f",
+      "status": "retained",
+      "sourceMaterial": "question-materials/72-20.webp"
+    },
+    {
+      "key": "72-21",
+      "question": "밑줄 그은 '이 사건'이 일어난 시기를 연표에서 옳게 고른 것은?",
+      "src": "scene-art/72-21.png?v=20261013-wide-redraw",
+      "imageSha256": "8d6eb67b7af903569ed8c153a0c37c0f073ced40cfb7e2c9a2fdab182b9fb4e0",
+      "status": "retained",
+      "sourceMaterial": "question-materials/72-21.webp"
+    },
+    {
+      "key": "72-24",
+      "question": "밑줄 그은 '전란' 중에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/72-24.png?v=20261013-wide-redraw",
+      "imageSha256": "9618e0a38bd33b7128be831394476305e7937e0b04bf41f94016eaec0f9e90fd",
+      "status": "retained",
+      "sourceMaterial": "question-materials/72-24.webp"
+    },
+    {
+      "key": "72-25",
+      "question": "밑줄 그은 '이 법'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/72-25.png?v=20261013-full-redraw-final",
+      "imageSha256": "36cea197689e72dc798cba90c6af810a6858f55408a8f43e275d98bf5ab8881c",
+      "status": "restored",
+      "sourceMaterial": "question-materials/72-25.webp"
+    },
+    {
+      "key": "72-31",
+      "question": "밑줄 그은 '사건' 이후에 전개된 사실로 옳은 것은?",
+      "src": "question-materials/72-31.webp?v=20261012-pdf-final",
+      "imageSha256": "0176417fc0ce485d84258f76e4572b906d22f993bee74127217ebbd6fec326ee",
+      "status": "retained",
+      "sourceMaterial": "question-materials/72-31.webp"
+    },
+    {
+      "key": "72-34",
+      "question": "밑줄 그은 '이 시기'의 의병 활동에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/72-34.png?v=20261013-full-redraw-final",
+      "imageSha256": "c2c1b3f21387f169d9f07f8cead0f809bca3569e431bcea70dab689e82d61986",
+      "status": "restored",
+      "sourceMaterial": "question-materials/72-34.webp"
+    },
+    {
+      "key": "72-35",
+      "question": "밑줄 그은 '개혁'의 내용으로 옳은 것은?",
+      "src": "scene-art/72-35.png?v=20261013-full-redraw-final",
+      "imageSha256": "d50f9ce8dbba8ca19dc272f309514a0f6a4db780cf81bfbb07b434eaeef1e63d",
+      "status": "restored",
+      "sourceMaterial": "question-materials/72-35.webp"
+    },
+    {
+      "key": "72-38",
+      "question": "밑줄 그은 '이 지역'을 지도에서 옳게 찾은 것은?",
+      "src": "question-materials/72-38.webp?v=20261012-pdf-final",
+      "imageSha256": "74e132aabeb8ea786718d32ce100b15d449f1865e87efd0f3dcab61c810c841b",
+      "status": "retained",
+      "sourceMaterial": "question-materials/72-38.webp"
+    },
+    {
+      "key": "72-41",
+      "question": "밑줄 그은 '시기'에 볼 수 있는 사회 모습으로 가장 적절한 것은?",
+      "src": "scene-art/72-41.png?v=20261013-full-redraw-final",
+      "imageSha256": "96326c3d56046bc12f407615b854c0a154087db5304a445046078f29eab98fd1",
+      "status": "restored",
+      "sourceMaterial": "question-materials/72-41.webp"
+    },
+    {
+      "key": "72-45",
+      "question": "밑줄 그은 '당시 헌법'이 시행된 시기에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "question-materials/72-45.webp?v=20261012-pdf-final",
+      "imageSha256": "dcc28375b2cb5c0ead4acde642b85446dd04c8e85078fca0812f8af1611fd15e",
+      "status": "retained",
+      "sourceMaterial": "question-materials/72-45.webp"
+    },
+    {
+      "key": "71-6",
+      "question": "밑줄 그은 '왕'에 대한 설명으로 옳은 것은?",
+      "src": "question-art/71-6.svg?v=20261012-whole-scene-v3",
+      "imageSha256": "4ff6cc44eae278629627cde4f53ed0a2969771275762d24a3f0602c9bb5ac9cd",
+      "status": "retained",
+      "sourceMaterial": "question-materials/71-6.webp"
+    },
+    {
+      "key": "71-19",
+      "question": "밑줄 그은 '임금'의 재위 시기에 있었던 사실로 옳은 것은?",
+      "src": "question-materials/71-19.webp?v=20261012-pdf-final",
+      "imageSha256": "9cb448071e879c5f61efcacc0577ee20c141be66c9cba61d31345ce2a8461df0",
+      "status": "retained",
+      "sourceMaterial": "question-materials/71-19.webp"
+    },
+    {
+      "key": "71-21",
+      "question": "밑줄 그은 '이 사건'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/71-21.png?v=20261013-review-fixes",
+      "imageSha256": "c4a650807b2bfe558f7d8e825d0a45dbb60e39478e55c8820c5438e8c0b25846",
+      "status": "restored",
+      "sourceMaterial": "question-materials/71-21.webp"
+    },
+    {
+      "key": "71-24",
+      "question": "밑줄 그은 '이 왕'의 재위 시기에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/71-24.svg?v=20261013-redraw-v1",
+      "imageSha256": "361da40b689908f15e1774b81c56fc7d4cc567a8f96721fc0ca63f0cb0e82a31",
+      "status": "retained",
+      "sourceMaterial": "question-materials/71-24.webp"
+    },
+    {
+      "key": "71-25",
+      "question": "밑줄 그은 '이 인물'에 대한 설명으로 옳은 것은?",
+      "src": "question-art/71-25.svg?v=20261012-whole-scene-v3",
+      "imageSha256": "683868d2d49f3c2098fa22a3bac00447a8c4d57cb1c5da5d20522e7b0dafa7b8",
+      "status": "retained",
+      "sourceMaterial": "question-materials/71-25.webp"
+    },
+    {
+      "key": "71-27",
+      "question": "밑줄 그은 '이 시기'에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/71-27.webp?v=20261013",
+      "imageSha256": "764e214232993b6728d7f77a6cd4f07d730e7aadba16b4b187c6709ee7b94144",
+      "status": "retained",
+      "sourceMaterial": "question-materials/71-27.webp"
+    },
+    {
+      "key": "71-31",
+      "question": "밑줄 그은 '개혁'의 내용으로 옳은 것은?",
+      "src": "scene-art/71-31.svg?v=20261013-redraw-v1",
+      "imageSha256": "443c27c2ac19d42dbecac18ce39ed38171912c41fa605927ad9708da8ae68189",
+      "status": "restored",
+      "sourceMaterial": "question-materials/71-31.webp"
+    },
+    {
+      "key": "71-35",
+      "question": "밑줄 그은 '사업'에 대한 탐구 활동으로 가장 적절한 것은?",
+      "src": "question-materials/71-35.webp?v=20261012-pdf-final",
+      "imageSha256": "5ac3406b59df4fcf46e9ad3d909ec9bf1c74a51691fe3fa62883d9614fc14ee0",
+      "status": "retained",
+      "sourceMaterial": "question-materials/71-35.webp"
+    },
+    {
+      "key": "71-38",
+      "question": "밑줄 그은 '시기'의 사회 모습으로 가장 적절한 것은?",
+      "src": "scene-art/71-38.png?v=20261013-full-redraw-final",
+      "imageSha256": "380deb65101e07746fffdf413e2cd5ccb36746b01fd032a503a08b6c9be332fb",
+      "status": "restored",
+      "sourceMaterial": "question-materials/71-38.webp"
+    },
+    {
+      "key": "71-44",
+      "question": "밑줄 그은 '시기'에 볼 수 있는 모습으로 적절하지 않은 것은?",
+      "src": "question-materials/71-44.webp?v=20261012-pdf-final",
+      "imageSha256": "5364f446d28845fd5a827943e848e35b30481d24a2dc6e942187864b9cc16712",
+      "status": "retained",
+      "sourceMaterial": "question-materials/71-44.webp"
+    },
+    {
+      "key": "71-47",
+      "question": "밑줄 그은 '총선거'에 대한 설명으로 옳은 것은?",
+      "src": "question-materials/71-47.webp?v=20261012-pdf-final",
+      "imageSha256": "df82a5184d21099e1e22752057f2a464284d71353e262f9a61d9c6f71d567ff3",
+      "status": "retained",
+      "sourceMaterial": "question-materials/71-47.webp"
+    },
+    {
+      "key": "70-19",
+      "question": "밑줄 그은 '전하'의 재위 시기에 있었던 사실로 옳은 것은?",
+      "src": "question-art/70-19.svg?v=20261012-whole-scene-v3",
+      "imageSha256": "003e5e8b07f5fcc9de2a5b5d76569cc6e797acbb90f7067346c8a2eedd35d4fe",
+      "status": "retained",
+      "sourceMaterial": "question-materials/70-19.webp"
+    },
+    {
+      "key": "70-23",
+      "question": "밑줄 그은 '제도'에 대한 설명으로 옳은 것을 <보기>에서 고른 것은?",
+      "src": "scene-art/70-23.png?v=20261013-full-redraw",
+      "imageSha256": "56fdff4556684093dd49407735b7698cd6b78b5eab34b0b46522555a5442e3da",
+      "status": "restored",
+      "sourceMaterial": "question-materials/70-23.webp"
+    },
+    {
+      "key": "70-34",
+      "question": "밑줄 그은 '이 지역'에서 있었던 민족 운동으로 옳은 것은?",
+      "src": "question-materials/70-34.webp?v=20261012-pdf-final",
+      "imageSha256": "38dd3ef60f28b4a581f949ddca164fc1fe6dfe3fc7ece86f0e538db9c7dc60cd",
+      "status": "retained",
+      "sourceMaterial": "question-materials/70-34.webp"
+    },
+    {
+      "key": "70-35",
+      "question": "밑줄 그은 '운동'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/70-35.png?v=20261013-full-redraw-final",
+      "imageSha256": "4def6e1f7415d718adb684470ab9ab053da8ce73a316cdf7619d4d700bcd3c87",
+      "status": "restored",
+      "sourceMaterial": "question-materials/70-35.webp"
+    },
+    {
+      "key": "70-36",
+      "question": "밑줄 그은 '시기'에 시행된 일제의 정책으로 옳은 것은?",
+      "src": "scene-art/70-36.webp?v=20261013",
+      "imageSha256": "571bd476a8274a8d3df417f5a3880cd501c5f823b92b9bf483ee2f2286c5e73e",
+      "status": "retained",
+      "sourceMaterial": "question-materials/70-36.webp"
+    },
+    {
+      "key": "70-39",
+      "question": "밑줄 그은 '시기'에 볼 수 있는 모습으로 가장 적절한 것은?",
+      "src": "scene-art/70-39.webp?v=20261013",
+      "imageSha256": "8840d617a29b993963da464d49bec72767d26024adfbe51876aa79995599f08c",
+      "status": "retained",
+      "sourceMaterial": "question-materials/70-39.webp"
+    },
+    {
+      "key": "70-40",
+      "question": "밑줄 그은 '이 시기'에 시행된 일제의 정책으로 옳은 것은?",
+      "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+      "imageSha256": "09bb93eee43dc44b7535d01bc5ec59673805d015bfe73558de72a383cdeb684f",
+      "status": "restored",
+      "sourceMaterial": "question-materials/70-40.webp"
+    },
+    {
+      "key": "70-41",
+      "question": "밑줄 그은 '나'에 대한 설명으로 옳은 것은?",
+      "src": "scene-art/70-41.png?v=20261013-full-redraw-final",
+      "imageSha256": "7384a9af7e4d5d72a0c02a70afb541e2cf7379965f1d43299c3450b240c2a4f8",
+      "status": "restored",
+      "sourceMaterial": "question-materials/70-41.webp"
+    },
+    {
+      "key": "70-47",
+      "question": "밑줄 그은 '정부' 시기에 있었던 사실로 옳은 것은?",
+      "src": "scene-art/70-47.png?v=20261013-full-redraw-final",
+      "imageSha256": "ba904316456f88df34a7f1d50bf23f3530500121fa69475f6e1209f4d6c4bf8f",
+      "status": "restored",
+      "sourceMaterial": "question-materials/70-47.webp"
+    }
+  ],
+  "restorations": {
+    "79-4": {
+      "term": "이 나라",
+      "src": "scene-art/79-4.png?v=20261013-review-fixes",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 817,
+          "x2": 913,
+          "y": 155,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "72a0552baaad3a9d83153c41e9935a378e76e6059655fa801fd3a2cf61607ecd"
+    },
+    "79-23": {
+      "term": "이 왕",
+      "src": "scene-art/79-23.png?v=20261013-full-redraw",
+      "width": 1461,
+      "height": 1077,
+      "lines": [
+        {
+          "x1": 785,
+          "x2": 881,
+          "y": 87,
+          "strokeWidth": 2.92
+        },
+        {
+          "x1": 758,
+          "x2": 840,
+          "y": 189,
+          "strokeWidth": 2.92
+        }
+      ],
+      "imageSha256": "866e46b384abb9703fce760af92522c6c150b088de294b55013a26ce79eda58b"
+    },
+    "79-45": {
+      "term": "이 사건",
+      "src": "scene-art/79-45.png?v=20261013-full-redraw-final",
+      "width": 1409,
+      "height": 1116,
+      "lines": [
+        {
+          "x1": 203,
+          "x2": 316,
+          "y": 77,
+          "strokeWidth": 2.82
+        }
+      ],
+      "imageSha256": "df6625b00b0be5346936b5d5710618d5f56bd45f6baf8ad63ead15b09c13543f"
+    },
+    "78-6": {
+      "term": "이 국가",
+      "src": "scene-art/78-6.png?v=20261013-full-redraw-final",
+      "width": 1324,
+      "height": 1188,
+      "lines": [
+        {
+          "x1": 245,
+          "x2": 357,
+          "y": 95,
+          "strokeWidth": 2.65
+        }
+      ],
+      "imageSha256": "7c2b2f208a63a687eaec485a78f6aa7dab07448b5a63369bcbc0fa06001d9824"
+    },
+    "78-8": {
+      "term": "시기",
+      "src": "scene-art/78-8.png?v=20261013-wide-redraw",
+      "width": 1492,
+      "height": 1054,
+      "lines": [
+        {
+          "x1": 297,
+          "x2": 364,
+          "y": 141,
+          "strokeWidth": 2.98
+        }
+      ],
+      "imageSha256": "7099f91cb289846cc5afebe9409e0e2df1cf6d5d9581a1dacce406facafd90d9"
+    },
+    "78-10": {
+      "term": "이 전투",
+      "src": "scene-art/78-10.png?v=20261013-full-redraw-final",
+      "width": 1409,
+      "height": 1116,
+      "lines": [
+        {
+          "x1": 941,
+          "x2": 1039,
+          "y": 123,
+          "strokeWidth": 2.82
+        }
+      ],
+      "imageSha256": "d8e6f8c1004e43233ce359088406e370d209f41c5e4758b5157faf4e3ca347c7"
+    },
+    "78-34": {
+      "term": "신문",
+      "src": "scene-art/78-34.png?v=20261013-full-redraw",
+      "width": 1798,
+      "height": 875,
+      "lines": [
+        {
+          "x1": 259,
+          "x2": 328,
+          "y": 163,
+          "strokeWidth": 3.6
+        }
+      ],
+      "imageSha256": "833f3ff188dcd322f82627514b785e1d8ffb821db6cee57cba9bb44c9c25e6d4"
+    },
+    "77-36": {
+      "term": "이 단체",
+      "src": "scene-art/77-36.png?v=20261013-wide-redraw",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 1405,
+          "x2": 1485,
+          "y": 98,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "514cb565ccdadad7b9a9dc1b926b545001c05de683024e34d4d4d9fcb2989adf"
+    },
+    "77-44": {
+      "term": "시기",
+      "src": "scene-art/77-44.png?v=20261013-full-redraw-final",
+      "width": 1378,
+      "height": 1142,
+      "lines": [
+        {
+          "x1": 761,
+          "x2": 825,
+          "y": 146,
+          "strokeWidth": 2.76
+        }
+      ],
+      "imageSha256": "609ec8f5481af3d3d7eaca195b0b71286928d433285576ad134a14720af4d5df"
+    },
+    "77-49": {
+      "term": "이 정부",
+      "src": "scene-art/77-49.png?v=20261013-full-redraw",
+      "width": 1457,
+      "height": 1080,
+      "lines": [
+        {
+          "x1": 1176,
+          "x2": 1275,
+          "y": 153,
+          "strokeWidth": 2.91
+        }
+      ],
+      "imageSha256": "dacbc4129dd857359391701ecc550a2d9b9eba2590eaa4f40141f473b7a924a9"
+    },
+    "76-30": {
+      "term": "이 장정",
+      "src": "scene-art/76-30.png?v=20261013-full-redraw-final",
+      "width": 1577,
+      "height": 997,
+      "lines": [
+        {
+          "x1": 154,
+          "x2": 258,
+          "y": 138,
+          "strokeWidth": 3.15
+        }
+      ],
+      "imageSha256": "23674a060bab390131a75eca36b7ebe9432a170ed3a7d4058388e808dd96512e"
+    },
+    "76-33": {
+      "term": "개혁",
+      "src": "scene-art/76-33.png?v=20261013-full-redraw-final",
+      "width": 1467,
+      "height": 1072,
+      "lines": [
+        {
+          "x1": 894,
+          "x2": 957,
+          "y": 142,
+          "strokeWidth": 2.93
+        }
+      ],
+      "imageSha256": "e7c3d20d425a0decbf7014c82f488b16c7da5994562b8f44a774dae96cb3d8c5"
+    },
+    "76-48": {
+      "term": "정부",
+      "src": "scene-art/76-48.png?v=20261013-full-redraw-final",
+      "width": 1301,
+      "height": 1209,
+      "lines": [
+        {
+          "x1": 163,
+          "x2": 236,
+          "y": 185,
+          "strokeWidth": 2.6
+        }
+      ],
+      "imageSha256": "9ca2befb540b7977e45a69819740800cbb765be033341f786f18fb409a538636"
+    },
+    "75-25": {
+      "term": "시기",
+      "src": "scene-art/75-25.png?v=20261013-wide-redraw",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 232,
+          "x2": 276,
+          "y": 107,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "ac3dc8834317c132bebf0d90556664851cbfeeee0e98fbe2b9996f4d63420624"
+    },
+    "75-30": {
+      "term": "전쟁",
+      "src": "scene-art/75-30.png?v=20261013-full-redraw-final",
+      "width": 1498,
+      "height": 1050,
+      "lines": [
+        {
+          "x1": 596,
+          "x2": 652,
+          "y": 215,
+          "strokeWidth": 3.0
+        }
+      ],
+      "imageSha256": "daff4345eddf4221dff6646e6d6123c78556251e5c79c685beca6bb9b8bf36b6"
+    },
+    "75-34": {
+      "term": "시기",
+      "src": "scene-art/75-34.png?v=20261013-wide-redraw",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 461,
+          "x2": 505,
+          "y": 88,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "ad01a37992febaaecade950bc37e674de13cc768087e542b50068a2a189315e1"
+    },
+    "75-44": {
+      "term": "이 시기",
+      "src": "scene-art/75-44.png?v=20261013-wide-redraw",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 1262,
+          "x2": 1354,
+          "y": 116,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "67f8125c6508267ef556a2b6f2b42ddff2b0173b6023ea8eace7165097427322"
+    },
+    "75-46": {
+      "term": "정부",
+      "src": "scene-art/75-46.png?v=20261013-full-redraw-final",
+      "width": 1510,
+      "height": 1042,
+      "lines": [
+        {
+          "x1": 134,
+          "x2": 209,
+          "y": 146,
+          "strokeWidth": 3.02
+        }
+      ],
+      "imageSha256": "37ce18bce2e7e7618bb61e88aef6c6fc651647529af9fc31f9ef5ad0218b8d25"
+    },
+    "75-48": {
+      "term": "민주화 운동",
+      "src": "scene-art/75-48.png?v=20261013-original",
+      "width": 1415,
+      "height": 1112,
+      "lines": [
+        {
+          "x1": 1150,
+          "x2": 1336,
+          "y": 140,
+          "strokeWidth": 2.83
+        }
+      ],
+      "imageSha256": "e5605e8a44b3c4e747c3eebc0bbc785b3c2f43b65c6023e66520cfe21c7c3d9a"
+    },
+    "74-2": {
+      "term": "이 나라",
+      "src": "scene-art/74-2.png?v=20261013-full-redraw-final",
+      "width": 1494,
+      "height": 1052,
+      "lines": [
+        {
+          "x1": 561,
+          "x2": 698,
+          "y": 151,
+          "strokeWidth": 2.99
+        }
+      ],
+      "imageSha256": "6f320cda7f11b4d793eff430f477e906d48d3a89e0e9fc7af42a49f67fe1e26d"
+    },
+    "74-17": {
+      "term": "이 시기",
+      "src": "scene-art/74-17.png?v=20261013-full-redraw-final",
+      "width": 1614,
+      "height": 974,
+      "lines": [
+        {
+          "x1": 316,
+          "x2": 438,
+          "y": 179,
+          "strokeWidth": 3.23
+        }
+      ],
+      "imageSha256": "fb80a982e4454b1596d26493a5360e79a67461892b4952e88449f86cb168810b"
+    },
+    "74-43": {
+      "term": "시기",
+      "src": "scene-art/74-43.png?v=20261013-wide-redraw",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 978,
+          "x2": 1024,
+          "y": 138,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "355fed014863cd404dd83a42f31f6b94c848cb8e561597e457ea4bd781b83100"
+    },
+    "74-45": {
+      "term": "이 전쟁",
+      "src": "scene-art/74-45.png?v=20261013-full-redraw-final",
+      "width": 1462,
+      "height": 1076,
+      "lines": [
+        {
+          "x1": 335,
+          "x2": 463,
+          "y": 86,
+          "strokeWidth": 2.92
+        }
+      ],
+      "imageSha256": "8e118ed1de971ebb442a43fea225ed3cffa67d843833fc9caab625e6235eb0c8"
+    },
+    "73-7": {
+      "term": "시기",
+      "src": "scene-art/73-7.png?v=20261013-review-fixes",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 798,
+          "x2": 858,
+          "y": 188,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "47671e2c231959c7df367522dba03cfbfb1c7efc9f31ddb651f65caf933208ab"
+    },
+    "73-30": {
+      "term": "이 시기",
+      "src": "scene-art/73-30.png?v=20261013-full-redraw-final",
+      "width": 1486,
+      "height": 1058,
+      "lines": [
+        {
+          "x1": 1232,
+          "x2": 1340,
+          "y": 177,
+          "strokeWidth": 2.97
+        }
+      ],
+      "imageSha256": "e5424304c1efc4bb69a5c748516ea5aa248e4c876db580b941349161992afaa6"
+    },
+    "73-37": {
+      "term": "시기",
+      "src": "scene-art/73-37.png?v=20261013-full-redraw-final",
+      "width": 1376,
+      "height": 1143,
+      "lines": [
+        {
+          "x1": 909,
+          "x2": 965,
+          "y": 243,
+          "strokeWidth": 2.75
+        }
+      ],
+      "imageSha256": "c2eb0347b5d21ef7a7bce7e2ceddaadc2b614973169679d928076b67b13f5a3a"
+    },
+    "73-39": {
+      "term": "시기",
+      "src": "scene-art/73-39.png?v=20261013-review-fixes",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 626,
+          "x2": 703,
+          "y": 143,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "0edd5158fad4e7d880f48e2a469b01c583a5f6bc0ed2ceb1f972170f4a39acda"
+    },
+    "73-44": {
+      "term": "운동",
+      "src": "scene-art/73-44.png?v=20261013-wide-redraw",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 633,
+          "x2": 691,
+          "y": 123,
+          "strokeWidth": 3.34
+        },
+        {
+          "x1": 927,
+          "x2": 993,
+          "y": 170,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "66420b15487f6aaaaef35af30468b70e85ed05018dc588fb0b6066c2068e7d77"
+    },
+    "72-15": {
+      "term": "시기",
+      "src": "scene-art/72-15.png?v=20261013-full-redraw",
+      "width": 1211,
+      "height": 1299,
+      "lines": [
+        {
+          "x1": 879,
+          "x2": 933,
+          "y": 167,
+          "strokeWidth": 2.42
+        }
+      ],
+      "imageSha256": "5ef183c0efad89a6bffa39a50babc98e096006d676d429d624e8d35175963642"
+    },
+    "72-18": {
+      "term": "임금",
+      "src": "scene-art/72-18.png?v=20261013-wide-redraw",
+      "width": 1648,
+      "height": 954,
+      "lines": [
+        {
+          "x1": 1177,
+          "x2": 1226,
+          "y": 117,
+          "strokeWidth": 3.3
+        }
+      ],
+      "imageSha256": "3ac5e773fc70e0d19ee434b16df3facd7563aeb76a4cfca979eb217230058c7b"
+    },
+    "72-25": {
+      "term": "이 법",
+      "src": "scene-art/72-25.png?v=20261013-full-redraw-final",
+      "width": 1406,
+      "height": 1119,
+      "lines": [
+        {
+          "x1": 311,
+          "x2": 385,
+          "y": 154,
+          "strokeWidth": 2.81
+        }
+      ],
+      "imageSha256": "36cea197689e72dc798cba90c6af810a6858f55408a8f43e275d98bf5ab8881c"
+    },
+    "72-34": {
+      "term": "이 시기",
+      "src": "scene-art/72-34.png?v=20261013-full-redraw-final",
+      "width": 1552,
+      "height": 1013,
+      "lines": [
+        {
+          "x1": 1192,
+          "x2": 1315,
+          "y": 196,
+          "strokeWidth": 3.1
+        }
+      ],
+      "imageSha256": "c2c1b3f21387f169d9f07f8cead0f809bca3569e431bcea70dab689e82d61986"
+    },
+    "72-35": {
+      "term": "개혁",
+      "src": "scene-art/72-35.png?v=20261013-full-redraw-final",
+      "width": 1344,
+      "height": 1170,
+      "lines": [
+        {
+          "x1": 1099,
+          "x2": 1149,
+          "y": 154,
+          "strokeWidth": 2.69
+        }
+      ],
+      "imageSha256": "d50f9ce8dbba8ca19dc272f309514a0f6a4db780cf81bfbb07b434eaeef1e63d"
+    },
+    "72-41": {
+      "term": "시기",
+      "src": "scene-art/72-41.png?v=20261013-full-redraw-final",
+      "width": 1335,
+      "height": 1178,
+      "lines": [
+        {
+          "x1": 482,
+          "x2": 542,
+          "y": 192,
+          "strokeWidth": 2.67
+        }
+      ],
+      "imageSha256": "96326c3d56046bc12f407615b854c0a154087db5304a445046078f29eab98fd1"
+    },
+    "71-21": {
+      "term": "이 사건",
+      "src": "scene-art/71-21.png?v=20261013-review-fixes",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 1135,
+          "x2": 1229,
+          "y": 119,
+          "strokeWidth": 3.34
+        }
+      ],
+      "imageSha256": "c4a650807b2bfe558f7d8e825d0a45dbb60e39478e55c8820c5438e8c0b25846"
+    },
+    "71-31": {
+      "term": "개혁",
+      "src": "scene-art/71-31.svg?v=20261013-redraw-v1",
+      "width": 1001,
+      "height": 637,
+      "lines": [
+        {
+          "x1": 32,
+          "x2": 80,
+          "y": 137,
+          "strokeWidth": 2.0
+        }
+      ],
+      "imageSha256": "443c27c2ac19d42dbecac18ce39ed38171912c41fa605927ad9708da8ae68189"
+    },
+    "71-38": {
+      "term": "시기",
+      "src": "scene-art/71-38.png?v=20261013-full-redraw-final",
+      "width": 1306,
+      "height": 1204,
+      "lines": [
+        {
+          "x1": 183,
+          "x2": 246,
+          "y": 178,
+          "strokeWidth": 2.61
+        }
+      ],
+      "imageSha256": "380deb65101e07746fffdf413e2cd5ccb36746b01fd032a503a08b6c9be332fb"
+    },
+    "70-23": {
+      "term": "제도",
+      "src": "scene-art/70-23.png?v=20261013-full-redraw",
+      "width": 1263,
+      "height": 1245,
+      "lines": [
+        {
+          "x1": 317,
+          "x2": 389,
+          "y": 141,
+          "strokeWidth": 2.53
+        },
+        {
+          "x1": 887,
+          "x2": 943,
+          "y": 87,
+          "strokeWidth": 2.53
+        }
+      ],
+      "imageSha256": "56fdff4556684093dd49407735b7698cd6b78b5eab34b0b46522555a5442e3da"
+    },
+    "70-35": {
+      "term": "운동",
+      "src": "scene-art/70-35.png?v=20261013-full-redraw-final",
+      "width": 1309,
+      "height": 1201,
+      "lines": [
+        {
+          "x1": 993,
+          "x2": 1051,
+          "y": 84,
+          "strokeWidth": 2.62
+        }
+      ],
+      "imageSha256": "4def6e1f7415d718adb684470ab9ab053da8ce73a316cdf7619d4d700bcd3c87"
+    },
+    "70-40": {
+      "term": "이 시기",
+      "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+      "width": 1408,
+      "height": 1117,
+      "lines": [
+        {
+          "x1": 883,
+          "x2": 996,
+          "y": 134,
+          "strokeWidth": 2.82
+        }
+      ],
+      "imageSha256": "09bb93eee43dc44b7535d01bc5ec59673805d015bfe73558de72a383cdeb684f"
+    },
+    "70-41": {
+      "term": "나",
+      "src": "scene-art/70-41.png?v=20261013-full-redraw-final",
+      "width": 1379,
+      "height": 1141,
+      "lines": [
+        {
+          "x1": 279,
+          "x2": 312,
+          "y": 83,
+          "strokeWidth": 2.76
+        },
+        {
+          "x1": 862,
+          "x2": 894,
+          "y": 136,
+          "strokeWidth": 2.76
+        }
+      ],
+      "imageSha256": "7384a9af7e4d5d72a0c02a70afb541e2cf7379965f1d43299c3450b240c2a4f8"
+    },
+    "70-47": {
+      "term": "정부",
+      "src": "scene-art/70-47.png?v=20261013-full-redraw-final",
+      "width": 1510,
+      "height": 1042,
+      "lines": [
+        {
+          "x1": 115,
+          "x2": 183,
+          "y": 271,
+          "strokeWidth": 3.02
+        }
+      ],
+      "imageSha256": "ba904316456f88df34a7f1d50bf23f3530500121fa69475f6e1209f4d6c4bf8f"
+    }
+  }
+}

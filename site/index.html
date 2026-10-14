@@ -1,6 +1,7 @@
 <!doctype html><html lang="ko"><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}
 .character-controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:12px 0}.character-controls span{font-size:14px;color:var(--muted)}.character-controls [aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent);font-weight:700}.character-intro{display:flex;align-items:center;justify-content:space-between;gap:16px}.character-intro p{margin:4px 0 0}@media(max-width:480px){.character-intro{display:block}.character-intro button{margin-top:10px}}
 </style><style>.q-left .qfig img{width:auto;margin-inline:auto}@media(min-width:1000px){.q-right .picture-choices{grid-template-columns:repeat(2,minmax(0,1fr))}.q-right .choice-photo{height:180px}}</style>
+<style>.figure-underline-frame{display:block;position:relative}.figure-underline-layer{position:absolute;pointer-events:none;stroke:#171717;fill:none}.zoom-wrap .figure-underline-frame{width:max(100%,1000px)}.zoom-wrap .figure-underline-frame img{width:100%}</style>
 </head><body>
 <title>한능검 심화 학습실</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -355,6 +356,8 @@ body[data-view=run] .omr{grid-template-columns:repeat(25,minmax(0,1fr))}
 }
 </style>
 <script src="question-figures.js?v=20261013-retry-three"></script>
+<script src="question-underlines.js?v=20261015"></script>
+<script src="figure-underlines.js?v=20261015"></script>
 <script src="reference-lessons.js"></script>
 <script src="textbook.js"></script>
 <script>
@@ -479,7 +482,7 @@ function choiceLegend(q){
 }
 function questionFigure(q){
   const material=QUESTION_FIGURES[key(q)];
-  if(material)return `<figure class="qfig"><img src="${esc(material.src)}" width="${material.width}" height="${material.height}" loading="lazy" decoding="async" alt="제${q.r}회 ${q.n}번 원본 자료 그림"></figure>`;
+  if(material){const image=`<img src="${esc(material.src)}" width="${material.width}" height="${material.height}" loading="lazy" decoding="async" alt="제${q.r}회 ${q.n}번 원본 자료 그림">`;return `<figure class="qfig">${underlinedFigureImage(key(q),material.src,image)}</figure>`;}
  const k=key(q),updated=CHARACTER_KEYS.includes(k);
   return `<figure class="qfig"><img src="${updated?'character-art/'+k+'.svg?v=20261012-bishoujo-jpg':'fig/'+k+'.jpg'}" width="${FIG[k][0]}" height="${FIG[k][1]}" loading="lazy" alt="제${q.r}회 ${q.n}번 자료 그림"></figure>`;
 }
@@ -1521,7 +1524,7 @@ document.addEventListener('click',e=>{
  const retry=e.target.closest('[data-retry]');if(retry&&view==='run'&&ctx.mode==='prac'){delete ctx.ans[ctx.i];if(ctx.peek)delete ctx.peek[retry.dataset.retry];ctx.help??={};ctx.help[retry.dataset.retry]=true;render();return}
  const reason=e.target.closest('[data-reason]');if(reason){const q=byKey[reason.dataset.reason];learning(q).reason=learning(q).reason===reason.dataset.value?'':reason.dataset.value;save();reason.parentElement.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.value===learning(q).reason));return}
  const choiceZoom=e.target.closest('[data-choice-zoom]');if(choiceZoom){openRef('선택지 사진 크게 보기',`<p class="hint">사진을 살펴본 뒤 창을 닫고 답안을 선택하세요.</p><div class="zoom-wrap" tabindex="0"><img src="${esc(choiceZoom.dataset.choiceZoom)}" alt="${esc(choiceZoom.getAttribute('aria-label'))}"></div>`);return}
- const img=e.target.closest('.qfig img,.qimg');if(img){openRef('자료 크게 보기',`<p class="hint">작은 화면에서는 그림을 좌우로 움직일 수 있습니다.</p><div class="zoom-wrap" tabindex="0"><img src="${esc(img.getAttribute('src'))}" alt="${esc(img.alt)}"></div>`);return}
+ const img=e.target.closest('.qfig img,.qimg');if(img){const src=img.getAttribute('src'),figureKey=img.closest('[data-underline-key]')?.dataset.underlineKey;const image=`<img src="${esc(src)}" alt="${esc(img.alt)}">`;openRef('자료 크게 보기',`<p class="hint">작은 화면에서는 그림을 좌우로 움직일 수 있습니다.</p><div class="zoom-wrap" tabindex="0">${underlinedFigureImage(figureKey,src,image)}</div>`);return}
  if(e.target.id==='exportHistory')downloadHistory();
 });
 document.addEventListener('toggle',e=>{if(e.target.matches?.('[data-help]')&&e.target.open&&view==='run'){ctx.help??={};ctx.help[e.target.dataset.help]=true}},true);
