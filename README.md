@@ -36,9 +36,12 @@ site/index.html         앱 전체 (문항 데이터·화면·스타일 포함)
 site/core-notes/*.js    핵심노트 97개(해설 아래 비교표·연결 키워드) — 500문항 전부 연결
 site/textbook.js        교과서 본문 (시대별 장 서술, 현재 일제강점기 8장)
 site/reference-lessons.js  39개 단원 개념노트
+site/question-explanations.js  500문항의 단서·정답 근거·보기별 해설
 site/fig/               문항 자료 그림 (JPEG)
 site/character-art/     캐릭터 일러스트로 다시 그린 자료 그림 (SVG)
 ```
+
+문항별 해설의 작성 기준과 검증 방법은 [해설 보완 기록](docs/question-explanations.md)에 정리되어 있습니다.
 
 ## 생성 원화 보관함
 
