@@ -36,3 +36,4 @@ sup.sm-q{display:none;cursor:pointer;font-family:var(--body,sans-serif);font-siz
 .sm-toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:6px 0 12px}
 @media (max-width:700px){.sm-sheet{padding:12px 10px 18px;font-size:16px}.sm-body{columns:1}}
 @media print{.sm-toolbar,.subtabs,header.top,nav,.sidebar{display:none!important}.sm-sheet{break-after:page;box-shadow:none;border:0}}
+.sm-credit{font-family:var(--body,sans-serif);font-size:10px!important;opacity:.55!important;line-height:1.2}

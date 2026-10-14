@@ -25,7 +25,7 @@ function item(it){
   if(it.flow)return `<div class="sm-flow">${it.flow.map(x=>`<span class="sm-step">${inline(x)}</span>`).join('<span class="sm-arrow">→</span>')}</div>`;
   if(it.grid){const g=it.grid;
     return `<div class="sm-gridwrap"><table class="sm-grid" style="--cols:${g.cols.length}"><thead><tr>${g.cols.map(c=>`<th>${inline(c)}</th>`).join("")}</tr></thead><tbody>${g.rows.map(r=>`<tr>${r.map((c,i)=>{const hl=typeof c==="object"&&!Array.isArray(c)&&c.hl;const t=typeof c==="object"&&!Array.isArray(c)?c.t:c;return `<${i?"td":"th"} class="${i?"":"sm-rowh"} ${hl?"sm-hl":""}">${lines(t||"")}</${i?"td":"th"}>`}).join("")}</tr>`).join("")}</tbody></table></div>`}
-  if(it.gallery)return `<div class="sm-gallery">${it.gallery.map(p=>`<figure class="sm-fig"><img loading="lazy" src="${esc(p.img)}" alt="${esc(p.name)}"><figcaption><b>${inline(p.name)}</b>${p.note?`<span>${inline(p.note)}</span>`:""}${p.q?`<a class="sm-qlink" data-smgo="${esc(p.q)}">기출 ${esc(p.q)}</a>`:""}</figcaption></figure>`).join("")}</div>`;
+  if(it.gallery)return `<div class="sm-gallery">${it.gallery.map(p=>`<figure class="sm-fig"><img loading="lazy" src="${esc(p.img)}" alt="${esc(p.name)}"><figcaption><b>${inline(p.name)}</b>${p.note?`<span>${inline(p.note)}</span>`:""}${p.credit?`<span class="sm-credit">© ${esc(p.credit)}</span>`:""}${p.q?`<a class="sm-qlink" data-smgo="${esc(p.q)}">기출 ${esc(p.q)}</a>`:""}</figcaption></figure>`).join("")}</div>`;
   return "";
 }
 function sheet(s,opt){
