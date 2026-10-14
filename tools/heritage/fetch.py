@@ -10,7 +10,12 @@ API="https://commons.wikimedia.org/w/api.php"
 UA={"User-Agent":"korean-history-study/1.0 (study-site heritage photos)"}
 FREE=re.compile(r"^(CC0|CC BY|CC BY-SA|Public domain|PD|GFDL)",re.I)
 def get(url):
-    return urllib.request.urlopen(urllib.request.Request(url,headers=UA),timeout=40).read()
+    for i in range(6):
+        try:return urllib.request.urlopen(urllib.request.Request(url,headers=UA),timeout=40).read()
+        except urllib.error.HTTPError as e:
+            if e.code!=429:raise
+            time.sleep(10*(i+1))
+    raise RuntimeError("429 반복")
 def api(**p):
     p["format"]="json";return json.loads(get(API+"?"+urllib.parse.urlencode(p)))
 only=None;width=640
@@ -38,6 +43,6 @@ for t in T:
         strip=lambda s:re.sub(r"<[^>]+>","",s or "").strip()
         C[t["id"]]={"file":"heritage/"+fn,"name":t["name"],"era":t["era"],"commons":p["title"],"author":strip(md.get("Artist",{}).get("value")),"license":lic,"source":ii.get("descriptionurl")}
         print("✓",t["id"],p["title"],lic)
-        time.sleep(0.5)
+        time.sleep(3)
     except Exception as e:print("✗ 오류",t["id"],e)
 json.dump(C,open(cp,"w"),ensure_ascii=False,indent=1)
