@@ -12,7 +12,8 @@
 </head><body>
 <title>한능검 심화 학습실</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Noto+Sans+KR:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Gowun+Batang:wght@400;700&family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="summary.css?v=1">
 <style>
 /* Layout: 상단 탭 + 단일 작업 영역. 시험지(한지 위 먹글씨)와 단청 청록·주홍 포인트 */
 :root{
@@ -412,6 +413,16 @@ body[data-view=run] .omr{grid-template-columns:repeat(25,minmax(0,1fr))}
 <script src="core-notes/goryeo-joseon.js?v=1"></script>
 <script src="core-notes/modern.js?v=1"></script>
 <script src="core-notes/contemporary.js?v=1"></script>
+<script src="summary-render.js?v=1"></script>
+<script src="summary/ancient1.js?v=1"></script>
+<script src="summary/ancient2.js?v=1"></script>
+<script src="summary/unified.js?v=1"></script>
+<script src="summary/goryeo.js?v=1"></script>
+<script src="summary/joseon1.js?v=1"></script>
+<script src="summary/joseon2.js?v=1"></script>
+<script src="summary/gaehang.js?v=1"></script>
+<script src="summary/ilje.js?v=1"></script>
+<script src="summary/modern.js?v=1"></script>
 <script src="question-explanations.js?v=20261015-complete"></script>
 <script src="question-core-notes.js?v=20261015-1"></script>
 <script src="question-note-timelines.js?v=20261015-1"></script>
@@ -1414,10 +1425,11 @@ function referenceQuestions(unit){
   return [...found].map(k=>byKey[k]).filter(Boolean).sort((a,b)=>a.r-b.r||a.n-b.n);
 }
 function vStudy(){
-  const tabs=[["textbook","교과서 본문"],["notes","핵심노트"],["reference","기초 개념노트"],["tables","비교표"],["timeline","연표"],["glossary","용어사전"]];
+  const tabs=[["textbook","교과서 본문"],["summary","요약노트"],["notes","핵심노트"],["reference","기초 개념노트"],["tables","비교표"],["timeline","연표"],["glossary","용어사전"]];
   const head=`<h2>공부 자료</h2><p class="sub">처음 배우는 내용은 교과서 본문으로 읽고, 핵심노트·개념노트·비교표·연표·용어사전으로 복습한 뒤 관련 기출문제로 확인하세요.</p>
   <div class="subtabs" role="tablist">${tabs.map(([k,l])=>`<button role="tab" aria-selected="${stTab===k}" data-sttab="${k}">${l}</button>`).join("")}</div>`;
   if(stTab==="textbook")return head+vTextbook();
+  if(stTab==="summary")return head+vSummary();
   if(stTab==="notes")return head+vNotes();
   if(stTab==="reference"){
     const eras=[...new Set(REFERENCE_LESSONS.map(x=>x.era))];
@@ -1504,6 +1516,23 @@ function coreNotesHTML(q,chosen=null){const n=QUESTION_CORE_NOTES[key(q)],ns=not
   return focused+background;
 }
 let cnEra="",cnTerm="",cnScope="question",cnRound="79";
+const SUMMARY_SHEETS=window.SUMMARY_SHEETS||[];
+let smSheet="",smCounts=false;
+function vSummary(){
+  const sel=SUMMARY_SHEETS.find(s=>s.id===smSheet)||SUMMARY_SHEETS[0];
+  if(!sel)return '<p class="hint">요약노트가 아직 없습니다.</p>';
+  const cache={};const counter=t=>cache[t]||(cache[t]=termQs(t).map(key));
+  return `<p class="hint">시대별 한 장 요약입니다. 빨강은 기출의 정답 단서, 파랑·초록은 구분용 표시이고, 용어 옆 숫자(켰을 때)는 그 용어가 나온 기출 문항 수입니다.</p>
+  <div class="sm-toolbar">${SUMMARY_SHEETS.map(s=>`<button class="btn ${s.id===sel.id?'pri':''}" data-smsheet="${s.id}">${esc(s.title)}</button>`).join("")}
+  <label class="hint"><input type="checkbox" id="smCounts" ${smCounts?"checked":""}> 출제 횟수 표시</label><button class="btn" onclick="window.print()">인쇄</button></div>
+  <div class="sm-wrap ${smCounts?"sm-counts":""}">${window.SummaryNotes.sheet(sel,{counter})}</div>`;
+}
+document.addEventListener("click",e=>{
+  const b=e.target.closest("[data-smsheet]");if(b&&view==="study"){smSheet=b.dataset.smsheet;render();return}
+  const q=e.target.closest("[data-smq]");if(q){const t=q.dataset.smq;startPractice(termQs(t),t+" 관련 기출","study");return}
+  const g=e.target.closest("[data-smgo]");if(g&&byKey[g.dataset.smgo]){startPractice([byKey[g.dataset.smgo]],"요약노트 사진 문항","study")}
+});
+document.addEventListener("change",e=>{if(e.target.id==="smCounts"){smCounts=e.target.checked;render()}});
 function vNotes(){
   const specific=cnScope==='question',allNotes=Object.values(QUESTION_CORE_NOTES);
   const eras=ERAS.filter(e=>(specific?allNotes:CORE_NOTES).some(n=>n.era===e)),needle=cnTerm.trim().replace(/\s/g,"");

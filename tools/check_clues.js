@@ -29,6 +29,8 @@ function terms(q){
 const only=process.argv.slice(2).filter(a=>a[0]!=="-")[0],all=process.argv.includes("--all");
 const df={};for(const q of QS)for(const t of terms(q))df[t]=(df[t]||0)+1;
 const GEN=t=>df[t]>=10||/^(.*(하여|하고|했|하며|했다|시켰|되었|되어|받았|이었|한다|하는|하다|한|된|적|인|으로|에서|이라|처럼|까지|보다|라는|라고|었다|았다|졌다|겼다|했던|하였던|시켜|시킨|받아|받은|맺었다|두어|파견해|가르쳤다|사용|설치|실시|지원|확산|철회|생산|활동|개봉|모집|선택지|문화유산|해석|출신|새긴|함께|대표|기원|기준|간행|담당|교재|공부|따라|차지|직후|발발|체결|소유|토지|도읍|국호|부하|지배층|유행|탈환|참전|종결|교역|난|등을|등))$/.test(t);
+module.exports={QS,terms,GEN,key};
+if(require.main===module){
 let tot=0,bad=0;const rep=[];
 for(const q of QS){
   if(only&&key(q)!==only)continue;
@@ -39,3 +41,5 @@ for(const q of QS){
 }
 for(const [k,n,m] of rep)console.log(k,n,"✗",m.join(" "));
 console.log(`문항 ${tot} · 누락 있는 문항 ${bad}`);
+
+}
