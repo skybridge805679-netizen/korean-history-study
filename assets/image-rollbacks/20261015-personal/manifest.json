@@ -1,0 +1,91 @@
+{
+  "baseCommit": "02e099f30d59c003e559e0083f0e5a43abbd4a97",
+  "reversedUploadCommits": [
+    "f0d0ee7",
+    "e9d6855"
+  ],
+  "restoredCount": 3,
+  "removedAddedFileCount": 1,
+  "items": [
+    {
+      "key": "70-40",
+      "file": "site/scene-art/70-40.png",
+      "restoredFrom": "385bf22",
+      "sha256": "97b1c8cb5d0a28b2f6e218e7918ccd71a8e0b3b9423355552ef0e32378fad5e7",
+      "replacedSha256": "09bb93eee43dc44b7535d01bc5ec59673805d015bfe73558de72a383cdeb684f",
+      "previousFigure": {
+        "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+        "width": 1408,
+        "height": 1117,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "figure": {
+        "src": "scene-art/70-40.png?v=20261015-personal-rollback",
+        "width": 1408,
+        "height": 1117,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "action": "restore"
+    },
+    {
+      "key": "79-25",
+      "file": "site/scene-art/79-25.png",
+      "restoredFrom": "385bf22",
+      "sha256": "2e3aaf4f49cb9ceb84c5a56697f9a54b59054004964e846fa2172d33e5628162",
+      "replacedSha256": "f3c3bb1de2f16487c78b43828cc1c8fe83b4bdeedb29072acaa6a8bea2bac601",
+      "previousFigure": {
+        "src": "scene-art/79-25.png?v=20261013-retry-three",
+        "width": 1475,
+        "height": 1066,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "figure": {
+        "src": "scene-art/79-25.png?v=20261015-personal-rollback",
+        "width": 1475,
+        "height": 1066,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "action": "restore"
+    },
+    {
+      "key": "79-30",
+      "file": "site/scene-art/79-30.png",
+      "restoredFrom": "385bf22",
+      "sha256": "8bafd554656fab3152d8c874f9133adbc77e3f40ed77992e1a80284357f35a0f",
+      "replacedSha256": "f66bdd9ffc6fbcf3ebed01ca3bae1779601980dc1824ffc751a5eef8ef42c3ff",
+      "previousFigure": {
+        "src": "scene-art/79-30.png?v=20261013-full-redraw",
+        "width": 1446,
+        "height": 1088,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "figure": {
+        "src": "scene-art/79-30.png?v=20261015-personal-rollback",
+        "width": 1446,
+        "height": 1088,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "action": "restore"
+    },
+    {
+      "key": "79-34",
+      "file": "site/scene-art/79-34.png",
+      "action": "remove-user-added-file",
+      "replacedSha256": "151b37b923a60ebf88895be50848ce39c756f8aae7997f3feac6b03f174def42",
+      "retainedFigure": {
+        "src": "scene-art/79-34.webp?v=20261013",
+        "width": 1001,
+        "height": 639,
+        "imageChoices": false,
+        "characterArt": true,
+        "sceneArt": true
+      }
+    }
+  ]
+}

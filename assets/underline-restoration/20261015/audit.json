@@ -848,8 +848,8 @@
     {
       "key": "70-40",
       "question": "밑줄 그은 '이 시기'에 시행된 일제의 정책으로 옳은 것은?",
-      "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
-      "imageSha256": "09bb93eee43dc44b7535d01bc5ec59673805d015bfe73558de72a383cdeb684f",
+      "src": "scene-art/70-40.png?v=20261015-personal-rollback",
+      "imageSha256": "97b1c8cb5d0a28b2f6e218e7918ccd71a8e0b3b9423355552ef0e32378fad5e7",
       "status": "restored",
       "sourceMaterial": "question-materials/70-40.webp"
     },
@@ -1476,7 +1476,7 @@
     },
     "70-40": {
       "term": "이 시기",
-      "src": "scene-art/70-40.png?v=20261013-full-redraw-final",
+      "src": "scene-art/70-40.png?v=20261015-personal-rollback",
       "width": 1408,
       "height": 1117,
       "lines": [
@@ -1487,7 +1487,7 @@
           "strokeWidth": 2.82
         }
       ],
-      "imageSha256": "09bb93eee43dc44b7535d01bc5ec59673805d015bfe73558de72a383cdeb684f"
+      "imageSha256": "97b1c8cb5d0a28b2f6e218e7918ccd71a8e0b3b9423355552ef0e32378fad5e7"
     },
     "70-41": {
       "term": "나",
@@ -1525,5 +1525,13 @@
       ],
       "imageSha256": "ba904316456f88df34a7f1d50bf23f3530500121fa69475f6e1209f4d6c4bf8f"
     }
+  },
+  "followUpImageRollback": {
+    "baseCommit": "02e099f30d59c003e559e0083f0e5a43abbd4a97",
+    "restoredFrom": "385bf22",
+    "key": "70-40",
+    "previousImageSha256": "09bb93eee43dc44b7535d01bc5ec59673805d015bfe73558de72a383cdeb684f",
+    "restoredImageSha256": "97b1c8cb5d0a28b2f6e218e7918ccd71a8e0b3b9423355552ef0e32378fad5e7",
+    "underlineCoordinatesRetained": true
   }
 }
