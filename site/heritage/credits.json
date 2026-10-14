@@ -1,1 +1,272 @@
-{}
+{
+ "gwanggaeto-stele": {
+  "file": "heritage/gwanggaeto-stele.jpg",
+  "name": "광개토 대왕릉비",
+  "era": "삼국",
+  "commons": "File:20230605 Stela for Gwanggaeto.jpg",
+  "author": "Yumeto",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:20230605_Stela_for_Gwanggaeto.jpg"
+ },
+ "chungju-stele": {
+  "file": "heritage/chungju-stele.jpg",
+  "name": "충주 고구려비",
+  "era": "삼국",
+  "commons": "File:Chungju Goguryeo Stele.JPG",
+  "author": "Lawinc82",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chungju_Goguryeo_Stele.JPG"
+ },
+ "muryeong-tomb": {
+  "file": "heritage/muryeong-tomb.jpg",
+  "name": "공주 무령왕릉",
+  "era": "삼국",
+  "commons": "File:King Muryeong Tomb 01.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:King_Muryeong_Tomb_01.jpg"
+ },
+ "muryeong-stone": {
+  "file": "heritage/muryeong-stone.jpg",
+  "name": "무령왕릉 지석",
+  "era": "삼국",
+  "commons": "File:무령왕릉 지석 2024.jpg",
+  "author": "ChongDae",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%EB%AC%B4%EB%A0%B9%EC%99%95%EB%A6%89_%EC%A7%80%EC%84%9D_2024.jpg"
+ },
+ "seokchon-tomb": {
+  "file": "heritage/seokchon-tomb.jpg",
+  "name": "서울 석촌동 고분군",
+  "era": "삼국",
+  "commons": "File:Tomb Two of Seoul Seokchon-dong Gobungun.JPG",
+  "author": "Saigen Jiro",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tomb_Two_of_Seoul_Seokchon-dong_Gobungun.JPG"
+ },
+ "jeongnimsa": {
+  "file": "heritage/jeongnimsa.jpg",
+  "name": "부여 정림사지 오층 석탑",
+  "era": "삼국",
+  "commons": "File:Jeongnimsa Temple 04.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jeongnimsa_Temple_04.jpg"
+ },
+ "mireuksa": {
+  "file": "heritage/mireuksa.jpg",
+  "name": "익산 미륵사지 석탑",
+  "era": "삼국",
+  "commons": "File:Mireuksaji Stone Pagoda East Pagoda 20250224 (10).jpg",
+  "author": "LandAndTree",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mireuksaji_Stone_Pagoda_East_Pagoda_20250224_(10).jpg"
+ },
+ "yeongnisan-incense": {
+  "file": "heritage/yeongnisan-incense.jpg",
+  "name": "백제 금동 대향로",
+  "era": "삼국",
+  "commons": "File:Burner Baekje cropped.jpg",
+  "author": "국립중앙박물관(National Museum of Korea)",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Burner_Baekje_cropped.jpg"
+ },
+ "chilji-do": {
+  "file": "heritage/chilji-do.jpg",
+  "name": "칠지도",
+  "era": "삼국",
+  "commons": "File:Chiljido Seven-Branched Sword (29565953734).jpg",
+  "author": "Gary Todd from Xinzheng, China",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chiljido_Seven-Branched_Sword_(29565953734).jpg"
+ },
+ "cheomseongdae": {
+  "file": "heritage/cheomseongdae.jpg",
+  "name": "경주 첨성대",
+  "era": "삼국",
+  "commons": "File:Cheomseongdae Observatory under blue sky in Gyeongju South Korea.jpg",
+  "author": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg"
+ },
+ "bunhwangsa": {
+  "file": "heritage/bunhwangsa.jpg",
+  "name": "분황사 모전 석탑",
+  "era": "삼국",
+  "commons": "File:Korea-Gyeongju-Bunhwangsa-Three story stone pagoda-01.jpg",
+  "author": "by Junho Jung at Flickr from South Korea",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Bunhwangsa-Three_story_stone_pagoda-01.jpg"
+ },
+ "jinheung-stele": {
+  "file": "heritage/jinheung-stele.jpg",
+  "name": "북한산 신라 진흥왕 순수비",
+  "era": "삼국",
+  "commons": "File:Silla Period Monument from Bukhansan on display in the National Museum of Korea.jpg",
+  "author": "Ethan Doyle White",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Silla_Period_Monument_from_Bukhansan_on_display_in_the_National_Museum_of_Korea.jpg"
+ },
+ "gaya-pottery": {
+  "file": "heritage/gaya-pottery.jpg",
+  "name": "가야 토기(수레바퀴 장식 뿔잔 등)",
+  "era": "삼국",
+  "commons": "File:도기 기마인물형 뿔잔.jpg",
+  "author": "Eggmoon at Korean Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%EB%8F%84%EA%B8%B0_%EA%B8%B0%EB%A7%88%EC%9D%B8%EB%AC%BC%ED%98%95_%EB%BF%94%EC%9E%94.jpg"
+ },
+ "bulguksa-dabotap": {
+  "file": "heritage/bulguksa-dabotap.jpg",
+  "name": "불국사 다보탑",
+  "era": "남북국",
+  "commons": "File:Dabotap Pagoda 01.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Dabotap_Pagoda_01.jpg"
+ },
+ "emille-bell": {
+  "file": "heritage/emille-bell.jpg",
+  "name": "성덕대왕 신종",
+  "era": "남북국",
+  "commons": "File:National Museum-Emile Bell - Gyeongju 3781-06.JPG",
+  "author": "Steve46814",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:National_Museum-Emile_Bell_-_Gyeongju_3781-06.JPG"
+ },
+ "gamunsa": {
+  "file": "heritage/gamunsa.jpg",
+  "name": "감은사지 동·서 삼층 석탑",
+  "era": "남북국",
+  "commons": "File:Reliquaries from the East Three-story Stone Pagoda at Gameunsa Temple Site 감은사지 동삼층석탑 사리장엄구.jpg",
+  "author": "ddol-mang (a flickr user)",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Reliquaries_from_the_East_Three-story_Stone_Pagoda_at_Gameunsa_Temple_Site_%EA%B0%90%EC%9D%80%EC%82%AC%EC%A7%80_%EB%8F%99%EC%82%BC%EC%B8%B5%EC%84%9D%ED%83%91_%EC%82%AC%EB%A6%AC%EC%9E%A5%EC%97%84%EA%B5%AC.jpg"
+ },
+ "hwaeomsa-lion": {
+  "file": "heritage/hwaeomsa-lion.jpg",
+  "name": "구례 화엄사 사사자 삼층 석탑",
+  "era": "남북국",
+  "commons": "File:Korea-Mountain-Jirisan-Hwaeomsa-05.jpg",
+  "author": "by eimoberg",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Korea-Mountain-Jirisan-Hwaeomsa-05.jpg"
+ },
+ "anapji": {
+  "file": "heritage/anapji.jpg",
+  "name": "경주 안압지(동궁과 월지)",
+  "era": "남북국",
+  "commons": "File:Anapji Pond-Gyeongju-Korea-2006-02.jpg",
+  "author": "riNux from Taipei, Taiwan",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Anapji_Pond-Gyeongju-Korea-2006-02.jpg"
+ },
+ "mireuk-gwanchoksa": {
+  "file": "heritage/mireuk-gwanchoksa.jpg",
+  "name": "논산 관촉사 석조 미륵보살 입상",
+  "era": "고려",
+  "commons": "File:Stone Statue of Mireuk Budda.jpg",
+  "author": "Onlyfortruth",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Stone_Statue_of_Mireuk_Budda.jpg"
+ },
+ "tripitaka": {
+  "file": "heritage/tripitaka.jpg",
+  "name": "팔만대장경판",
+  "era": "고려",
+  "commons": "File:Korea-Haeinsa Tripitaka Koreana woodblock 2770-06a.jpg",
+  "author": "Steve46814",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Korea-Haeinsa_Tripitaka_Koreana_woodblock_2770-06a.jpg"
+ },
+ "jikji": {
+  "file": "heritage/jikji.jpg",
+  "name": "직지심체요절",
+  "era": "고려",
+  "commons": "File:Korean book-Jikji-Selected Teachings of Buddhist Sages and Seon Masters-1377.jpg",
+  "author": "Authored by Baegun Hwaseng (1289-1374), a master of Seon Buddhism in Korea, and published by his students, Seokchan and Daljam in 1377.",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Korean_book-Jikji-Selected_Teachings_of_Buddhist_Sages_and_Seon_Masters-1377.jpg"
+ },
+ "cheongja-sanggam": {
+  "file": "heritage/cheongja-sanggam.jpg",
+  "name": "청자 상감 운학문 매병",
+  "era": "고려",
+  "commons": "File:Unknown artist - Prunus Vase with Inlaid Clouds and Flying Cranes Design - 1921.634 - Cleveland Museum of Art.jpg",
+  "author": "",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Unknown_artist_-_Prunus_Vase_with_Inlaid_Clouds_and_Flying_Cranes_Design_-_1921.634_-_Cleveland_Museum_of_Art.jpg"
+ },
+ "cheongja-gourd": {
+  "file": "heritage/cheongja-gourd.jpg",
+  "name": "청자 참외 모양 병",
+  "era": "고려",
+  "commons": "File:Melon-shaped ewer from Korea, Koryo, 12th century, stoneware with celadon glaze, Honolulu Museum of Art.JPG",
+  "author": "Hiart",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Melon-shaped_ewer_from_Korea,_Koryo,_12th_century,_stoneware_with_celadon_glaze,_Honolulu_Museum_of_Art.JPG"
+ },
+ "suwol-gwaneum": {
+  "file": "heritage/suwol-gwaneum.jpg",
+  "name": "수월관음도",
+  "era": "고려",
+  "commons": "File:Water-Moon Avalokitesvara (Tanzan Jinja Sakurai).jpg",
+  "author": "Goryeo-Dynasty artist",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Water-Moon_Avalokitesvara_(Tanzan_Jinja_Sakurai).jpg"
+ },
+ "hasachang-buddha": {
+  "file": "heritage/hasachang-buddha.jpg",
+  "name": "하남 하사창동 철조 석가여래 좌상",
+  "era": "고려",
+  "commons": "File:Iron Seated Sakyamuni Buddha from Hasachang-dong, Hanam.jpg",
+  "author": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Iron_Seated_Sakyamuni_Buddha_from_Hasachang-dong,_Hanam.jpg"
+ },
+ "gyeongbokgung-geunjeongjeon": {
+  "file": "heritage/gyeongbokgung-geunjeongjeon.jpg",
+  "name": "경복궁 근정전",
+  "era": "조선전기",
+  "commons": "File:Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace with blue sky in Seoul.jpg",
+  "author": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg"
+ },
+ "hunminjeongeum": {
+  "file": "heritage/hunminjeongeum.jpg",
+  "name": "훈민정음 해례본",
+  "era": "조선전기",
+  "commons": "File:Hunminjeongeum Haerye 10.jpg",
+  "author": "Government of Joseon",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hunminjeongeum_Haerye_10.jpg"
+ },
+ "cheugugi": {
+  "file": "heritage/cheugugi.jpg",
+  "name": "측우기",
+  "era": "조선전기",
+  "commons": "File:Jang Yeong-sil Science Garden-Rain Gauges 13-11789 Busan, South Korea 03.JPG",
+  "author": "Steve46814",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jang_Yeong-sil_Science_Garden-Rain_Gauges_13-11789_Busan,_South_Korea_03.JPG"
+ },
+ "angbuilgu": {
+  "file": "heritage/angbuilgu.jpg",
+  "name": "앙부일구",
+  "era": "조선전기",
+  "commons": "File:Seoul-Gyeongbokgung-Sundial-02.jpg",
+  "author": "by Bernat",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Seoul-Gyeongbokgung-Sundial-02.jpg"
+ },
+ "buseoksa-muryangsujeon": {
+  "file": "heritage/buseoksa-muryangsujeon.jpg",
+  "name": "영주 부석사 무량수전",
+  "era": "고려",
+  "commons": "File:Muryangsujeon.JPG",
+  "author": "ko:User:Excretion",
+  "license": "CC BY-SA 2.0 kr",
+  "source": "https://commons.wikimedia.org/wiki/File:Muryangsujeon.JPG"
+ }
+}
