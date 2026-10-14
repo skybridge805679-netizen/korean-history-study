@@ -31,7 +31,7 @@ function item(it){
 function sheet(s,opt){
   counter=opt&&opt.counter;
   return `<article class="sm-sheet" id="sm-${esc(s.id)}">
-  <header class="sm-head"><div class="sm-script">study</div><div class="sm-exam">한국사능력검정시험 – 심화</div></header>
+  <div class="sm-head"><div class="sm-script">study</div><div class="sm-exam">한국사능력검정시험 – 심화</div></div>
   <div class="sm-title"><span>TITLE</span><b>@오르페이아 ${esc(s.title)}</b><span class="sm-date">70~79회 기출 500문항 기반</span></div>
   <div class="sm-body">${s.sections.map(sec=>`<section class="sm-sec ${sec.w==="full"?"sm-full":""}"><h4 class="sm-h">${inline(sec.h)}</h4>${sec.body.map(item).join("")}</section>`).join("")}</div>
   </article>`;

@@ -413,7 +413,7 @@ body[data-view=run] .omr{grid-template-columns:repeat(25,minmax(0,1fr))}
 <script src="core-notes/goryeo-joseon.js?v=1"></script>
 <script src="core-notes/modern.js?v=1"></script>
 <script src="core-notes/contemporary.js?v=1"></script>
-<script src="summary-render.js?v=1"></script>
+<script src="summary-render.js?v=2"></script>
 <script src="summary/ancient1.js?v=1"></script>
 <script src="summary/ancient2.js?v=1"></script>
 <script src="summary/unified.js?v=1"></script>
@@ -1518,12 +1518,14 @@ function coreNotesHTML(q,chosen=null){const n=QUESTION_CORE_NOTES[key(q)],ns=not
 let cnEra="",cnTerm="",cnScope="question",cnRound="79";
 const SUMMARY_SHEETS=window.SUMMARY_SHEETS||[];
 let smSheet="",smCounts=false;
+const SM_GROUPS=[["선사~삼국",["ancient-1","ancient-2"]],["남북국",["unified-1"]],["고려",["goryeo-1","goryeo-2"]],["조선 전기",["joseon1-1","joseon1-2"]],["조선 후기",["joseon2-1","joseon2-2"]],["개항기",["gaehang-1","gaehang-2"]],["일제강점기",["ilje-1","ilje-2","ilje-3"]],["현대",["modern-1","modern-2"]],["통합",["integrated-1"]]];
 function vSummary(){
   const sel=SUMMARY_SHEETS.find(s=>s.id===smSheet)||SUMMARY_SHEETS[0];
   if(!sel)return '<p class="hint">요약노트가 아직 없습니다.</p>';
   const cache={};const counter=t=>cache[t]||(cache[t]=termQs(t).map(key));
   return `<p class="hint">시대별 한 장 요약입니다. 빨강은 기출의 정답 단서, 파랑·초록은 구분용 표시이고, 용어 옆 숫자(켰을 때)는 그 용어가 나온 기출 문항 수입니다.</p>
-  <div class="sm-toolbar">${SUMMARY_SHEETS.map(s=>`<button class="btn ${s.id===sel.id?'pri':''}" data-smsheet="${s.id}">${esc(s.title)}</button>`).join("")}
+  <div class="sm-toolbar">${SM_GROUPS.map(([g,ids])=>`<button class="btn ${ids.includes(sel.id)?'pri':''}" data-smsheet="${ids[0]}">${g}</button>`).join("")}</div>
+  <div class="sm-toolbar">${SM_GROUPS.find(([g,ids])=>ids.includes(sel.id))[1].map(id=>SUMMARY_SHEETS.find(s=>s.id===id)).map(s=>`<button class="btn ${s.id===sel.id?'pri':''}" data-smsheet="${s.id}">${esc(s.title)}</button>`).join("")}
   <label class="hint"><input type="checkbox" id="smCounts" ${smCounts?"checked":""}> 출제 횟수 표시</label><button class="btn" onclick="window.print()">인쇄</button></div>
   <div class="sm-wrap ${smCounts?"sm-counts":""}">${window.SummaryNotes.sheet(sel,{counter})}</div>`;
 }

@@ -56,3 +56,7 @@ site/character-art/     캐릭터 일러스트로 다시 그린 자료 그림 (S
 
 `site/core-notes/`의 노트는 `match`("시대/주제" 또는 문항 키)로 문항과 연결됩니다.
 노트를 고치거나 추가한 뒤에는 `node tools/check_core_notes.js`로 500문항이 모두 연결되는지, 표 열 수가 맞는지 확인하세요.
+
+## 요약노트
+
+공부 자료 → 요약노트 탭은 시대별 한 장 요약(17장)이다. 작성 규칙은 [docs/summary-notes.md](docs/summary-notes.md), 검사는 `node tools/check_summary.js [시대] [-v]`.
