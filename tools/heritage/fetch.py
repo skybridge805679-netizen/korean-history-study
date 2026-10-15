@@ -8,7 +8,7 @@ ROOT=os.path.join(os.path.dirname(__file__),"..","..")
 OUT=os.path.join(ROOT,"site","heritage");os.makedirs(OUT,exist_ok=True)
 API="https://commons.wikimedia.org/w/api.php"
 UA={"User-Agent":"korean-history-study/1.0 (study-site heritage photos)"}
-FREE=re.compile(r"^(CC0|CC BY|CC BY-SA|Public domain|PD|GFDL)",re.I)
+FREE=re.compile(r"^(CC0|CC BY|CC BY-SA|Public domain|PD|GFDL|KOGL Type 1)",re.I)
 def get(url):
     for i in range(6):
         try:return urllib.request.urlopen(urllib.request.Request(url,headers=UA),timeout=40).read()
@@ -28,15 +28,18 @@ for t in T:
     if only and t["id"] not in only:continue
     if t["id"] in C and not only:continue
     try:
-        r=api(action="query",generator="search",gsrsearch=t["q"],gsrnamespace=6,gsrlimit=8,prop="imageinfo",iiprop="url|extmetadata|size|mime",iiurlwidth=width)
-        pages=sorted((r.get("query",{}).get("pages",{})).values(),key=lambda p:p.get("index",99))
         pick=None
-        for p in pages:
-            ii=(p.get("imageinfo") or [{}])[0];md=ii.get("extmetadata",{})
-            lic=md.get("LicenseShortName",{}).get("value","")
-            if t.get("exclude") and re.search(t["exclude"],p["title"]):continue
-            if ii.get("mime","").startswith("image/jp") or ii.get("mime")=="image/png":
-                if FREE.search(lic) and ii.get("width",0)>=500:pick=(p,ii,md,lic);break
+        for q in ([t["q"]]+t.get("alt",[])):
+            r=api(action="query",generator="search",gsrsearch=q,gsrnamespace=6,gsrlimit=8,prop="imageinfo",iiprop="url|extmetadata|size|mime",iiurlwidth=width)
+            pages=sorted((r.get("query",{}).get("pages",{})).values(),key=lambda p:p.get("index",99))
+            for p in pages:
+                ii=(p.get("imageinfo") or [{}])[0];md=ii.get("extmetadata",{})
+                lic=md.get("LicenseShortName",{}).get("value","")
+                if t.get("exclude") and re.search(t["exclude"],p["title"]):continue
+                if ii.get("mime","").startswith("image/jp") or ii.get("mime")=="image/png":
+                    if FREE.search(lic) and ii.get("width",0)>=500:pick=(p,ii,md,lic);break
+            if pick:break
+            time.sleep(4)
         if not pick:print("✗ 없음",t["id"],t["q"],flush=True);continue
         p,ii,md,lic=pick
         data=get(ii["thumburl"])

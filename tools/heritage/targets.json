@@ -3,7 +3,11 @@
   "id": "gungseong-bandaji",
   "era": "삼국",
   "name": "금동 연가7년명 여래 입상",
-  "q": "연가7년명 금동여래입상"
+  "q": "연가7년명 금동여래입상",
+  "alt": [
+   "연가 칠년 금동불입상",
+   "Yeonga 7 Buddha"
+  ]
  },
  {
   "id": "janggunchong",
@@ -57,7 +61,12 @@
   "id": "seosan-buddha",
   "era": "삼국",
   "name": "서산 마애여래삼존상",
-  "q": "서산 마애삼존불"
+  "q": "서산 마애삼존불",
+  "alt": [
+   "Seosan Maaesamjonbul",
+   "서산 마애여래삼존상",
+   "Seosan Buddha triad"
+  ]
  },
  {
   "id": "jeongnimsa",
@@ -111,7 +120,12 @@
   "id": "imsin-stone",
   "era": "삼국",
   "name": "임신서기석",
-  "q": "임신서기석"
+  "q": "임신서기석",
+  "alt": [
+   "Imsin seogiseok",
+   "임신서기석",
+   "Imsin oath stone"
+  ]
  },
  {
   "id": "jinheung-stele",
@@ -123,7 +137,11 @@
   "id": "changnyeong-stele",
   "era": "삼국",
   "name": "창녕 신라 진흥왕 척경비",
-  "q": "창녕 신라 진흥왕 척경비"
+  "q": "창녕 신라 진흥왕 척경비",
+  "alt": [
+   "Changnyeong Jinheung monument",
+   "Jinheung King Changnyeong"
+  ]
  },
  {
   "id": "gaya-pottery",
@@ -135,7 +153,12 @@
   "id": "gaya-iron-ingot",
   "era": "삼국",
   "name": "가야 덩이쇠",
-  "q": "덩이쇠 가야"
+  "q": "덩이쇠 가야",
+  "alt": [
+   "덩이쇠",
+   "Iron ingot Gaya",
+   "Gaya iron"
+  ]
  },
  {
   "id": "seokguram",
@@ -172,7 +195,11 @@
   "id": "cheolgam-seonsa-pagoda",
   "era": "남북국",
   "name": "쌍봉사 철감선사탑(승탑)",
-  "q": "철감선사 승탑"
+  "q": "철감선사 승탑",
+  "alt": [
+   "Ssangbongsa",
+   "쌍봉사 철감선사탑"
+  ]
  },
  {
   "id": "hwaeomsa-lion",
@@ -184,19 +211,33 @@
   "id": "balhae-buddha",
   "era": "남북국",
   "name": "발해 이불병좌상",
-  "q": "이불병좌상"
+  "q": "이불병좌상",
+  "alt": [
+   "Balhae Buddha",
+   "Bohai Buddha",
+   "Twin Buddhas Balhae"
+  ]
  },
  {
   "id": "balhae-lion",
   "era": "남북국",
   "name": "발해 석등(상경 용천부)",
-  "q": "발해 석등"
+  "q": "발해 석등",
+  "alt": [
+   "Bohai stone lantern",
+   "Balhae lantern"
+  ]
  },
  {
   "id": "jeonghyo-tomb",
   "era": "남북국",
   "name": "정혜공주묘 / 정효공주묘",
-  "q": "정효공주묘"
+  "q": "정효공주묘",
+  "alt": [
+   "Jeonghyo princess tomb",
+   "Balhae tomb mural",
+   "Bohai princess tomb"
+  ]
  },
  {
   "id": "anapji",
@@ -281,7 +322,11 @@
   "id": "najeon-box",
   "era": "고려",
   "name": "나전 칠기",
-  "q": "나전 칠기 고려"
+  "q": "나전 칠기 고려",
+  "alt": [
+   "Najeon lacquer",
+   "Goryeo mother-of-pearl lacquer"
+  ]
  },
  {
   "id": "hasachang-buddha",
@@ -299,7 +344,11 @@
   "id": "seonjukgyo",
   "era": "고려",
   "name": "개성 선죽교",
-  "q": "선죽교"
+  "q": "선죽교",
+  "alt": [
+   "Seonjukgyo",
+   "Seonjuk Bridge"
+  ]
  },
  {
   "id": "gyeongbokgung-geunjeongjeon",
@@ -360,7 +409,11 @@
   "id": "gosagwansudo",
   "era": "조선전기",
   "name": "고사관수도",
-  "q": "고사관수도"
+  "q": "고사관수도",
+  "alt": [
+   "Gosagwansudo",
+   "Kang Huian"
+  ]
  },
  {
   "id": "wongaksa-pagoda",
@@ -397,7 +450,11 @@
   "id": "uigwe",
   "era": "조선후기",
   "name": "조선왕조의궤",
-  "q": "조선왕조의궤"
+  "q": "조선왕조의궤",
+  "alt": [
+   "Uigwe",
+   "Royal Protocols Joseon"
+  ]
  },
  {
   "id": "geumgang-jeondo",
@@ -458,7 +515,11 @@
   "id": "cheonghwa-baekja",
   "era": "조선후기",
   "name": "청화백자",
-  "q": "청화백자 조선"
+  "q": "청화백자 조선",
+  "alt": [
+   "Blue and white porcelain Joseon",
+   "Cheonghwa baekja"
+  ]
  },
  {
   "id": "hahoe-mask",
