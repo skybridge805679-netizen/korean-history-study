@@ -13,7 +13,7 @@
 <title>한능검 심화 학습실</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Gowun+Batang:wght@400;700&family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@400;500;700&display=swap">
-<link rel="stylesheet" href="summary.css?v=2">
+<link rel="stylesheet" href="summary.css?v=3">
 <style>
 /* Layout: 상단 탭 + 단일 작업 영역. 시험지(한지 위 먹글씨)와 단청 청록·주홍 포인트 */
 :root{
@@ -1518,7 +1518,8 @@ function coreNotesHTML(q,chosen=null){const n=QUESTION_CORE_NOTES[key(q)],ns=not
 }
 let cnEra="",cnTerm="",cnScope="question",cnRound="79";
 const SUMMARY_SHEETS=window.SUMMARY_SHEETS||[];
-let smSheet="",smCounts=false;
+let smSheet="",smCounts=false,smHand=false,smBig=false;
+try{smHand=localStorage.getItem("sm-hand")==="1";smBig=localStorage.getItem("sm-big")==="1"}catch(e){}
 const SM_GROUPS=[["선사~삼국",["ancient-1","ancient-2"]],["남북국",["unified-1"]],["고려",["goryeo-1","goryeo-2"]],["조선 전기",["joseon1-1","joseon1-2"]],["조선 후기",["joseon2-1","joseon2-2"]],["개항기",["gaehang-1","gaehang-2"]],["일제강점기",["ilje-1","ilje-2","ilje-3"]],["현대",["modern-1","modern-2"]],["통합",["integrated-1"]],["문화재 사진",["heritage-1","heritage-2","heritage-3","heritage-4","heritage-5"]]];
 function vSummary(){
   const sel=SUMMARY_SHEETS.find(s=>s.id===smSheet)||SUMMARY_SHEETS[0];
@@ -1527,10 +1528,11 @@ function vSummary(){
   return `<p class="hint">시대별 한 장 요약입니다. 빨강은 기출의 정답 단서, 파랑·초록은 구분용 표시이고, 용어 옆 숫자(켰을 때)는 그 용어가 나온 기출 문항 수입니다.</p>
   <div class="sm-toolbar">${SM_GROUPS.map(([g,ids])=>`<button class="btn ${ids.includes(sel.id)?'pri':''}" data-smsheet="${ids[0]}">${g}</button>`).join("")}</div>
   <div class="sm-toolbar">${SM_GROUPS.find(([g,ids])=>ids.includes(sel.id))[1].map(id=>SUMMARY_SHEETS.find(s=>s.id===id)).map(s=>`<button class="btn ${s.id===sel.id?'pri':''}" data-smsheet="${s.id}">${esc(s.title)}</button>`).join("")}
-  <label class="hint"><input type="checkbox" id="smCounts" ${smCounts?"checked":""}> 출제 횟수 표시</label><button class="btn" onclick="window.print()">인쇄</button></div>
-  <div class="sm-wrap ${smCounts?"sm-counts":""}">${window.SummaryNotes.sheet(sel,{counter})}</div>`;
+  <label class="hint"><input type="checkbox" id="smCounts" ${smCounts?"checked":""}> 출제 횟수 표시</label><span class="sm-tools"><button class="btn" data-smopt="hand" aria-pressed="${smHand}">손글씨체</button><button class="btn" data-smopt="big" aria-pressed="${smBig}">글자 크게</button></span><button class="btn" onclick="window.print()">인쇄</button></div>
+  <div class="sm-wrap ${smCounts?"sm-counts":""} ${smHand?"sm-hand":""} ${smBig?"sm-big":""}">${window.SummaryNotes.sheet(sel,{counter})}</div>`;
 }
 document.addEventListener("click",e=>{
+  const o=e.target.closest("[data-smopt]");if(o){if(o.dataset.smopt==="hand")smHand=!smHand;else smBig=!smBig;try{localStorage.setItem("sm-hand",smHand?"1":"0");localStorage.setItem("sm-big",smBig?"1":"0")}catch(e){}render();return}
   const b=e.target.closest("[data-smsheet]");if(b&&view==="study"){smSheet=b.dataset.smsheet;render();return}
   const q=e.target.closest("[data-smq]");if(q){const t=q.dataset.smq;startPractice(termQs(t),t+" 관련 기출","study");return}
   const g=e.target.closest("[data-smgo]");if(g&&byKey[g.dataset.smgo]){startPractice([byKey[g.dataset.smgo]],"요약노트 사진 문항","study")}
