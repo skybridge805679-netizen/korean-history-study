@@ -5,12 +5,10 @@ R=os.path.join(os.path.dirname(__file__),"..","..")
 T=json.load(open(os.path.join(R,"tools/heritage/targets.json")))
 C=json.load(open(os.path.join(R,"site/heritage/credits.json")))
 REJ={ # 내려받았지만 사진을 열어 보고 탈락시킨 것(사유)
-"seokguram":"받은 사진이 석굴암이 아니라 사찰 불전 내부였다. 석굴암 본존불 사진을 다시 찾아야 함",
-"haeinsa-janggyeong":"받은 사진이 해인사 경내 전경이라 장경판전이 아니다(팔만대장경 경판은 반영됨)",
-"jongmyo":"받은 사진이 종묘 지붕의 용두 장식 일부라 정전 전경이 아니다",
-"independence-gate":"1923년 신문 스캔(저화질). 현대 사진으로 교체 필요",
+"geumgang-jeondo":"받은 이미지가 금강전도 전체가 아닌 세로로 잘린 일부로 보여 탈락(전체 그림을 다시 찾아야 함)",
+"declaration-of-independence":"Commons 제목이 '1919년 2월'이라 3·1 독립 선언서인지 2·8 독립 선언서인지 확신할 수 없어 탈락",
 }
-done=[t for t in T if t["id"] in C];rej=[t for t in T if t["id"] in REJ]
+done=[t for t in T if t["id"] in C];rej=[t for t in T if t["id"] in REJ and t["id"] not in C]
 todo=[t for t in T if t["id"] not in C and t["id"] not in REJ]
 L=["# 문화재 사진 수집 현황","",
 "기출 사진만으로는 문화재 사진이 부족해 Wikimedia Commons(자유 이용) 사진으로 보강하는 작업의 현황이다. 이어서 할 때는 아래 '남은 것'을 처리한다.","",

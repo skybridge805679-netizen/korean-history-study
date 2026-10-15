@@ -485,15 +485,6 @@
   "license": "CC BY-SA 4.0",
   "source": "https://commons.wikimedia.org/wiki/File:Seodaemun_Prison_History_Hall_at_night.jpg"
  },
- "declaration-of-independence": {
-  "file": "heritage/declaration-of-independence.jpg",
-  "name": "3·1 독립 선언서",
-  "era": "일제강점기",
-  "commons": "File:Declaration of Independence of Korea (February 1919).jpg",
-  "author": "Jo So-ang (1887–1958)",
-  "license": "Public domain",
-  "source": "https://commons.wikimedia.org/wiki/File:Declaration_of_Independence_of_Korea_(February_1919).jpg"
- },
  "tapgol-park": {
   "file": "heritage/tapgol-park.jpg",
   "name": "탑골 공원",
@@ -520,5 +511,131 @@
   "author": "Prcshaw",
   "license": "CC BY-SA 4.0",
   "source": "https://commons.wikimedia.org/wiki/File:South_of_Tomb_of_the_General.jpg"
+ },
+ "gangseo-sasindo": {
+  "file": "heritage/gangseo-sasindo.jpg",
+  "name": "강서대묘 현무도(사신도)",
+  "era": "삼국",
+  "commons": "File:현무 조선고적도보.jpg",
+  "author": "朝鮮總督府",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:%ED%98%84%EB%AC%B4_%EC%A1%B0%EC%84%A0%EA%B3%A0%EC%A0%81%EB%8F%84%EB%B3%B4.jpg"
+ },
+ "sataek-stele": {
+  "file": "heritage/sataek-stele.jpg",
+  "name": "사택지적비",
+  "era": "삼국",
+  "commons": "File:사택지적비.jpg",
+  "author": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:%EC%82%AC%ED%83%9D%EC%A7%80%EC%A0%81%EB%B9%84.jpg"
+ },
+ "silla-crown": {
+  "file": "heritage/silla-crown.jpg",
+  "name": "신라 금관",
+  "era": "삼국",
+  "commons": "File:Gold crown from Hwangnam Daechong angle 01.jpg",
+  "author": "somedragon2000 (a flickr user)",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gold_crown_from_Hwangnam_Daechong_angle_01.jpg"
+ },
+ "sudeoksa": {
+  "file": "heritage/sudeoksa.jpg",
+  "name": "예산 수덕사 대웅전",
+  "era": "고려",
+  "commons": "File:수덕사 대웅전.JPG",
+  "author": "(c)한국불교문화사업단, culturalcorpsofkoreanbuddhism",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%EC%88%98%EB%8D%95%EC%82%AC_%EB%8C%80%EC%9B%85%EC%A0%84.JPG"
+ },
+ "honil-gangni": {
+  "file": "heritage/honil-gangni.jpg",
+  "name": "혼일강리역대국도지도",
+  "era": "조선전기",
+  "commons": "File:GeneralMapOfDistancesAndHistoricCapitals.jpg",
+  "author": "Kim Sahyung, Lee Moo, Lee Hui",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:GeneralMapOfDistancesAndHistoricCapitals.jpg"
+ },
+ "mongyu-dowondo": {
+  "file": "heritage/mongyu-dowondo.jpg",
+  "name": "몽유도원도",
+  "era": "조선전기",
+  "commons": "File:Dream Journey to the Peach Blossom Land.jpg",
+  "author": "Ahn Gyeon",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Dream_Journey_to_the_Peach_Blossom_Land.jpg"
+ },
+ "wongaksa-pagoda": {
+  "file": "heritage/wongaksa-pagoda.jpg",
+  "name": "원각사지 십층 석탑",
+  "era": "조선전기",
+  "commons": "File:201609 원각사지 십층석탑.jpg",
+  "author": "Hangidan",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:201609_%EC%9B%90%EA%B0%81%EC%82%AC%EC%A7%80_%EC%8B%AD%EC%B8%B5%EC%84%9D%ED%83%91.jpg"
+ },
+ "buncheong": {
+  "file": "heritage/buncheong.jpg",
+  "name": "분청사기",
+  "era": "조선전기",
+  "commons": "File:분청사기 넝쿨 무늬 장군.jpg",
+  "author": "Tree7804",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%EB%B6%84%EC%B2%AD%EC%82%AC%EA%B8%B0_%EB%84%9D%EC%BF%A8_%EB%AC%B4%EB%8A%AC_%EC%9E%A5%EA%B5%B0.jpg"
+ },
+ "geojunggi": {
+  "file": "heritage/geojunggi.jpg",
+  "name": "거중기",
+  "era": "조선후기",
+  "commons": "File:수원 화성 거중기.jpg",
+  "author": "잉여빵",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EA%B1%B0%EC%A4%91%EA%B8%B0.jpg"
+ },
+ "ssireum": {
+  "file": "heritage/ssireum.jpg",
+  "name": "씨름(김홍도)",
+  "era": "조선후기",
+  "commons": "File:Danwon-Ssireum.jpg",
+  "author": "단원 김홍도 (檀園 金弘道, 1745 - 1816 이후)",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Danwon-Ssireum.jpg"
+ },
+ "palsangjeon": {
+  "file": "heritage/palsangjeon.jpg",
+  "name": "법주사 팔상전",
+  "era": "조선후기",
+  "commons": "File:법주사 팔상전.jpg",
+  "author": "(c)한국불교문화사업단, culturalcorpsofkoreanbuddhism",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%EB%B2%95%EC%A3%BC%EC%82%AC_%ED%8C%94%EC%83%81%EC%A0%84.jpg"
+ },
+ "geumsansa-mireukjeon": {
+  "file": "heritage/geumsansa-mireukjeon.jpg",
+  "name": "김제 금산사 미륵전",
+  "era": "조선후기",
+  "commons": "File:금산사 미륵전.jpg",
+  "author": "Ahl0051",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%EA%B8%88%EC%82%B0%EC%82%AC_%EB%AF%B8%EB%A5%B5%EC%A0%84.jpg"
+ },
+ "cheokhwabi": {
+  "file": "heritage/cheokhwabi.jpg",
+  "name": "척화비",
+  "era": "근대",
+  "commons": "File:Cheongju Anti-appeasement Stele.jpg",
+  "author": "Neoalpha",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cheongju_Anti-appeasement_Stele.jpg"
+ },
+ "gwangseongbo": {
+  "file": "heritage/gwangseongbo.jpg",
+  "name": "강화 초지진·광성보",
+  "era": "근대",
+  "commons": "File:광성보.jpg",
+  "author": "HyeonChangu",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EC%84%B1%EB%B3%B4.jpg"
  }
 }

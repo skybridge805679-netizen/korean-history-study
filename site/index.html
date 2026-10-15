@@ -1519,7 +1519,7 @@ function coreNotesHTML(q,chosen=null){const n=QUESTION_CORE_NOTES[key(q)],ns=not
 let cnEra="",cnTerm="",cnScope="question",cnRound="79";
 const SUMMARY_SHEETS=window.SUMMARY_SHEETS||[];
 let smSheet="",smCounts=false;
-const SM_GROUPS=[["선사~삼국",["ancient-1","ancient-2"]],["남북국",["unified-1"]],["고려",["goryeo-1","goryeo-2"]],["조선 전기",["joseon1-1","joseon1-2"]],["조선 후기",["joseon2-1","joseon2-2"]],["개항기",["gaehang-1","gaehang-2"]],["일제강점기",["ilje-1","ilje-2","ilje-3"]],["현대",["modern-1","modern-2"]],["통합",["integrated-1"]],["문화재 사진",["heritage-1","heritage-2","heritage-3"]]];
+const SM_GROUPS=[["선사~삼국",["ancient-1","ancient-2"]],["남북국",["unified-1"]],["고려",["goryeo-1","goryeo-2"]],["조선 전기",["joseon1-1","joseon1-2"]],["조선 후기",["joseon2-1","joseon2-2"]],["개항기",["gaehang-1","gaehang-2"]],["일제강점기",["ilje-1","ilje-2","ilje-3"]],["현대",["modern-1","modern-2"]],["통합",["integrated-1"]],["문화재 사진",["heritage-1","heritage-2","heritage-3","heritage-4","heritage-5"]]];
 function vSummary(){
   const sel=SUMMARY_SHEETS.find(s=>s.id===smSheet)||SUMMARY_SHEETS[0];
   if(!sel)return '<p class="hint">요약노트가 아직 없습니다.</p>';
