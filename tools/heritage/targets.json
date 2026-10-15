@@ -3,13 +3,13 @@
   "id": "gungseong-bandaji",
   "era": "삼국",
   "name": "금동 연가7년명 여래 입상",
-  "q": "Gilt-bronze Standing Buddha dated 539 Yeonga 7"
+  "q": "연가7년명 금동여래입상"
  },
  {
   "id": "janggunchong",
   "era": "삼국",
   "name": "집안 장군총",
-  "q": "Generalissimo's Tomb Ji'an Goguryeo"
+  "q": "장군총"
  },
  {
   "id": "gwanggaeto-stele",
@@ -27,7 +27,7 @@
   "id": "gangseo-sasindo",
   "era": "삼국",
   "name": "강서대묘 현무도(사신도)",
-  "q": "Gangseo Great Tomb Black Tortoise mural"
+  "q": "강서대묘 현무"
  },
  {
   "id": "muryeong-tomb",
@@ -51,13 +51,13 @@
   "id": "sataek-stele",
   "era": "삼국",
   "name": "사택지적비",
-  "q": "Sataek Jijeok stele Baekje"
+  "q": "사택지적비"
  },
  {
   "id": "seosan-buddha",
   "era": "삼국",
   "name": "서산 마애여래삼존상",
-  "q": "Seosan Maae Samjonbul Baekje smile"
+  "q": "서산 마애삼존불"
  },
  {
   "id": "jeongnimsa",
@@ -93,7 +93,7 @@
   "id": "silla-crown",
   "era": "삼국",
   "name": "신라 금관",
-  "q": "Gold crown Silla Geumgwanchong"
+  "q": "금관총 금관"
  },
  {
   "id": "cheomseongdae",
@@ -111,7 +111,7 @@
   "id": "imsin-stone",
   "era": "삼국",
   "name": "임신서기석",
-  "q": "Stone inscribed Imsin oath"
+  "q": "임신서기석"
  },
  {
   "id": "jinheung-stele",
@@ -123,7 +123,7 @@
   "id": "changnyeong-stele",
   "era": "삼국",
   "name": "창녕 신라 진흥왕 척경비",
-  "q": "Changnyeong Jinheungwang monument"
+  "q": "창녕 신라 진흥왕 척경비"
  },
  {
   "id": "gaya-pottery",
@@ -135,7 +135,7 @@
   "id": "gaya-iron-ingot",
   "era": "삼국",
   "name": "가야 덩이쇠",
-  "q": "Gaya iron ingots"
+  "q": "덩이쇠 가야"
  },
  {
   "id": "seokguram",
@@ -172,7 +172,7 @@
   "id": "cheolgam-seonsa-pagoda",
   "era": "남북국",
   "name": "쌍봉사 철감선사탑(승탑)",
-  "q": "Ssangbongsa Cheolgam seon-sa pagoda"
+  "q": "철감선사 승탑"
  },
  {
   "id": "hwaeomsa-lion",
@@ -184,19 +184,19 @@
   "id": "balhae-buddha",
   "era": "남북국",
   "name": "발해 이불병좌상",
-  "q": "Balhae Buddha Twin Buddhas sitting"
+  "q": "이불병좌상"
  },
  {
   "id": "balhae-lion",
   "era": "남북국",
   "name": "발해 석등(상경 용천부)",
-  "q": "Balhae stone lantern Sangjing"
+  "q": "발해 석등"
  },
  {
   "id": "jeonghyo-tomb",
   "era": "남북국",
   "name": "정혜공주묘 / 정효공주묘",
-  "q": "Princess Jeonghyo tomb Balhae"
+  "q": "정효공주묘"
  },
  {
   "id": "anapji",
@@ -226,7 +226,7 @@
   "id": "sudeoksa",
   "era": "고려",
   "name": "예산 수덕사 대웅전",
-  "q": "Sudeoksa Daeungjeon Yesan"
+  "q": "수덕사 대웅전"
  },
  {
   "id": "haeinsa-janggyeong",
@@ -281,7 +281,7 @@
   "id": "najeon-box",
   "era": "고려",
   "name": "나전 칠기",
-  "q": "Goryeo lacquerware mother-of-pearl"
+  "q": "나전 칠기 고려"
  },
  {
   "id": "hasachang-buddha",
@@ -299,7 +299,7 @@
   "id": "seonjukgyo",
   "era": "고려",
   "name": "개성 선죽교",
-  "q": "Seonjukgyo Kaesong"
+  "q": "선죽교"
  },
  {
   "id": "gyeongbokgung-geunjeongjeon",
@@ -342,7 +342,7 @@
   "id": "honil-gangni",
   "era": "조선전기",
   "name": "혼일강리역대국도지도",
-  "q": "Honil gangni yeokdae gukdo jido"
+  "q": "혼일강리역대국도지도"
  },
  {
   "id": "cheonsang-yeolcha",
@@ -354,25 +354,26 @@
   "id": "mongyu-dowondo",
   "era": "조선전기",
   "name": "몽유도원도",
-  "q": "Mongyu dowondo An Gyeon"
+  "q": "몽유도원도"
  },
  {
   "id": "gosagwansudo",
   "era": "조선전기",
   "name": "고사관수도",
-  "q": "Gosa gwansu do Kang Hui-an"
+  "q": "고사관수도"
  },
  {
   "id": "wongaksa-pagoda",
   "era": "조선전기",
   "name": "원각사지 십층 석탑",
-  "q": "Wongaksaji Ten-story Pagoda Seoul"
+  "q": "원각사지 십층석탑"
  },
  {
   "id": "buncheong",
   "era": "조선전기",
   "name": "분청사기",
-  "q": "Buncheong ware Joseon"
+  "q": "분청사기 장군",
+  "exclude": "Goryeo dynasty to Joseon"
  },
  {
   "id": "baekja-moon-jar",
@@ -390,19 +391,20 @@
   "id": "geojunggi",
   "era": "조선후기",
   "name": "거중기",
-  "q": "Geojunggi Hwaseong Seongyeok Uigwe crane"
+  "q": "거중기"
  },
  {
   "id": "uigwe",
   "era": "조선후기",
   "name": "조선왕조의궤",
-  "q": "Joseon Dynasty Uigwe"
+  "q": "조선왕조의궤"
  },
  {
   "id": "geumgang-jeondo",
   "era": "조선후기",
   "name": "금강전도(정선)",
-  "q": "Geumgangjeondo Jeong Seon"
+  "q": "금강전도 정선",
+  "exclude": "homage"
  },
  {
   "id": "inwang-jesaekdo",
@@ -414,7 +416,7 @@
   "id": "ssireum",
   "era": "조선후기",
   "name": "씨름(김홍도)",
-  "q": "Danwon Kim Hong-do Ssireum wrestling"
+  "q": "씨름 김홍도"
  },
  {
   "id": "wolha-jeongin",
@@ -438,13 +440,13 @@
   "id": "palsangjeon",
   "era": "조선후기",
   "name": "법주사 팔상전",
-  "q": "Palsangjeon Beopjusa"
+  "q": "법주사 팔상전"
  },
  {
   "id": "geumsansa-mireukjeon",
   "era": "조선후기",
   "name": "김제 금산사 미륵전",
-  "q": "Geumsansa Mireukjeon Gimje"
+  "q": "금산사 미륵전"
  },
  {
   "id": "hwaeomsa-gakhwangjeon",
@@ -456,7 +458,7 @@
   "id": "cheonghwa-baekja",
   "era": "조선후기",
   "name": "청화백자",
-  "q": "Joseon blue and white porcelain jar dragon"
+  "q": "청화백자 조선"
  },
  {
   "id": "hahoe-mask",
@@ -493,13 +495,14 @@
   "id": "cheokhwabi",
   "era": "근대",
   "name": "척화비",
-  "q": "Cheokhwabi monument Daewongun"
+  "q": "척화비"
  },
  {
   "id": "gwangseongbo",
   "era": "근대",
   "name": "강화 초지진·광성보",
-  "q": "Gwangseongbo Ganghwa"
+  "q": "광성보",
+  "exclude": "Site Map"
  },
  {
   "id": "seodaemun-prison",

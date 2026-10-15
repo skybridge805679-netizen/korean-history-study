@@ -268,5 +268,257 @@
   "author": "ko:User:Excretion",
   "license": "CC BY-SA 2.0 kr",
   "source": "https://commons.wikimedia.org/wiki/File:Muryangsujeon.JPG"
+ },
+ "cheonmachong-mural": {
+  "file": "heritage/cheonmachong-mural.jpg",
+  "name": "천마총 천마도",
+  "era": "삼국",
+  "commons": "File:Korea-Silla-Cheonmado-02.jpg",
+  "author": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Korea-Silla-Cheonmado-02.jpg"
+ },
+ "seokguram": {
+  "file": "heritage/seokguram.jpg",
+  "name": "경주 석굴암 본존불",
+  "era": "남북국",
+  "commons": "File:Model of the Seokguram Grotto in Lotte World Folk Museum.jpg",
+  "author": "Ethan Doyle White",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_Seokguram_Grotto_in_Lotte_World_Folk_Museum.jpg"
+ },
+ "bulguksa-seokgatap": {
+  "file": "heritage/bulguksa-seokgatap.jpg",
+  "name": "불국사 삼층 석탑(석가탑)",
+  "era": "남북국",
+  "commons": "File:Seokgatap Pagoda.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Seokgatap_Pagoda.jpg"
+ },
+ "bongjeongsa": {
+  "file": "heritage/bongjeongsa.jpg",
+  "name": "안동 봉정사 극락전",
+  "era": "고려",
+  "commons": "File:Korea-Andong-Bongjeongsa 3040-06 Geungnakjeon.JPG",
+  "author": "Steve46814",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Korea-Andong-Bongjeongsa_3040-06_Geungnakjeon.JPG"
+ },
+ "haeinsa-janggyeong": {
+  "file": "heritage/haeinsa-janggyeong.jpg",
+  "name": "합천 해인사 장경판전",
+  "era": "고려",
+  "commons": "File:20170812.해인사 장경판전(Haeinsa Janggyeong Panjeon).05.jpg",
+  "author": "SpongeFan0304",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:20170812.%ED%95%B4%EC%9D%B8%EC%82%AC_%EC%9E%A5%EA%B2%BD%ED%8C%90%EC%A0%84(Haeinsa_Janggyeong_Panjeon).05.jpg"
+ },
+ "woljeongsa-9": {
+  "file": "heritage/woljeongsa-9.jpg",
+  "name": "평창 월정사 팔각 구층 석탑",
+  "era": "고려",
+  "commons": "File:Korea-Pyeongchang-Woljeongsa temple-Octagonal Nine Story Stone Pagoda-01.jpg",
+  "author": "parhessiastes",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Korea-Pyeongchang-Woljeongsa_temple-Octagonal_Nine_Story_Stone_Pagoda-01.jpg"
+ },
+ "gyeongcheonsa": {
+  "file": "heritage/gyeongcheonsa.jpg",
+  "name": "경천사지 십층 석탑",
+  "era": "고려",
+  "commons": "File:Ten-story Stone Pagoda at Gyeongcheonsa temple site in Gaeseong, Korea.jpg",
+  "author": "Tristan Surtel",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ten-story_Stone_Pagoda_at_Gyeongcheonsa_temple_site_in_Gaeseong,_Korea.jpg"
+ },
+ "manwoldae": {
+  "file": "heritage/manwoldae.jpg",
+  "name": "개성 만월대",
+  "era": "고려",
+  "commons": "File:만월대.jpg",
+  "author": "Eternal and life",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%EB%A7%8C%EC%9B%94%EB%8C%80.jpg"
+ },
+ "jongmyo": {
+  "file": "heritage/jongmyo.jpg",
+  "name": "종묘 정전",
+  "era": "조선전기",
+  "commons": "File:Jongmyo-Jeongjeon.jpg",
+  "author": "João Trindade",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jongmyo-Jeongjeon.jpg"
+ },
+ "jagyeongnu": {
+  "file": "heritage/jagyeongnu.jpg",
+  "name": "자격루",
+  "era": "조선전기",
+  "commons": "File:Model of the Borugak Clepsydra (Borugak Jagyeongnu) IMG 2057.jpg",
+  "author": "G41rn8",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_Borugak_Clepsydra_(Borugak_Jagyeongnu)_IMG_2057.jpg"
+ },
+ "cheonsang-yeolcha": {
+  "file": "heritage/cheonsang-yeolcha.jpg",
+  "name": "천상열차분야지도",
+  "era": "조선전기",
+  "commons": "File:Cheonsang Yeolcha Bunyajido in museum.jpg",
+  "author": "Salamander724",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Cheonsang_Yeolcha_Bunyajido_in_museum.jpg"
+ },
+ "baekja-moon-jar": {
+  "file": "heritage/baekja-moon-jar.jpg",
+  "name": "백자 달항아리",
+  "era": "조선후기",
+  "commons": "File:Moon jar. 18thC.Joseon Dynasty.British Museum.jpg",
+  "author": "Ismoon (talk) 15:44, 31 January 2018 (UTC)",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Moon_jar._18thC.Joseon_Dynasty.British_Museum.jpg"
+ },
+ "suwon-hwaseong": {
+  "file": "heritage/suwon-hwaseong.jpg",
+  "name": "수원 화성(팔달문·화서문·장안문)",
+  "era": "조선후기",
+  "commons": "File:수원 화성 장안문 배면 (Suwon Janganmun).jpg",
+  "author": "National Museum of Korea",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1_%EC%9E%A5%EC%95%88%EB%AC%B8_%EB%B0%B0%EB%A9%B4_(Suwon_Janganmun).jpg"
+ },
+ "inwang-jesaekdo": {
+  "file": "heritage/inwang-jesaekdo.jpg",
+  "name": "인왕제색도(정선)",
+  "era": "조선후기",
+  "commons": "File:Inwangjesaekdo.jpg",
+  "author": "Jeong Seon",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Inwangjesaekdo.jpg"
+ },
+ "wolha-jeongin": {
+  "file": "heritage/wolha-jeongin.jpg",
+  "name": "월하정인(신윤복)",
+  "era": "조선후기",
+  "commons": "File:Hyewon-Wolha-jeongin-2.jpg",
+  "author": "혜원 신윤복 (申潤福: 1758-19세기 초반)",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hyewon-Wolha-jeongin-2.jpg"
+ },
+ "sehando": {
+  "file": "heritage/sehando.jpg",
+  "name": "세한도(김정희)",
+  "era": "조선후기",
+  "commons": "File:Sehando - detail.jpg",
+  "author": "Kim Jeong-hui",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Sehando_-_detail.jpg"
+ },
+ "daedong-yeojido": {
+  "file": "heritage/daedong-yeojido.jpg",
+  "name": "대동여지도",
+  "era": "조선후기",
+  "commons": "File:Daedongyeojido-full.jpg",
+  "author": "Kim Jeong-ho",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Daedongyeojido-full.jpg"
+ },
+ "hwaeomsa-gakhwangjeon": {
+  "file": "heritage/hwaeomsa-gakhwangjeon.jpg",
+  "name": "구례 화엄사 각황전",
+  "era": "조선후기",
+  "commons": "File:Hwaeomsagakhwangjeonapseokdeung (Stone lantern in front of Gakhwangjeon Hall of Hwaeomsa Temple).jpg",
+  "author": "by eimoberg",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hwaeomsagakhwangjeonapseokdeung_(Stone_lantern_in_front_of_Gakhwangjeon_Hall_of_Hwaeomsa_Temple).jpg"
+ },
+ "hahoe-mask": {
+  "file": "heritage/hahoe-mask.jpg",
+  "name": "탈춤(하회별신굿탈)",
+  "era": "조선후기",
+  "commons": "File:Hahoe World Mask Museum 01.jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hahoe_World_Mask_Museum_01.jpg"
+ },
+ "independence-gate": {
+  "file": "heritage/independence-gate.jpg",
+  "name": "독립문",
+  "era": "근대",
+  "commons": "File:Independence Gate Seoul Korea 1955.jpg",
+  "author": "D. E. Grenier",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Independence_Gate_Seoul_Korea_1955.jpg"
+ },
+ "deoksugung-seokjojeon": {
+  "file": "heritage/deoksugung-seokjojeon.jpg",
+  "name": "덕수궁 석조전",
+  "era": "근대",
+  "commons": "File:Seokjojeon Deoksugung ROK.jpg",
+  "author": "元諜報員",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Seokjojeon_Deoksugung_ROK.jpg"
+ },
+ "jungmyeongjeon": {
+  "file": "heritage/jungmyeongjeon.jpg",
+  "name": "덕수궁 중명전",
+  "era": "근대",
+  "commons": "File:Joongmyungjeon.jpg",
+  "author": "Black207",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Joongmyungjeon.jpg"
+ },
+ "myeongdong-cathedral": {
+  "file": "heritage/myeongdong-cathedral.jpg",
+  "name": "명동 성당",
+  "era": "근대",
+  "commons": "File:Myeongdong Cathedral 6.jpg",
+  "author": "kallerna",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Myeongdong_Cathedral_6.jpg"
+ },
+ "seodaemun-prison": {
+  "file": "heritage/seodaemun-prison.jpg",
+  "name": "서대문 형무소",
+  "era": "일제강점기",
+  "commons": "File:Seodaemun Prison History Hall at night.jpg",
+  "author": "Exj",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Seodaemun_Prison_History_Hall_at_night.jpg"
+ },
+ "declaration-of-independence": {
+  "file": "heritage/declaration-of-independence.jpg",
+  "name": "3·1 독립 선언서",
+  "era": "일제강점기",
+  "commons": "File:Declaration of Independence of Korea (February 1919).jpg",
+  "author": "Jo So-ang (1887–1958)",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Declaration_of_Independence_of_Korea_(February_1919).jpg"
+ },
+ "tapgol-park": {
+  "file": "heritage/tapgol-park.jpg",
+  "name": "탑골 공원",
+  "era": "일제강점기",
+  "commons": "File:Tapgol Park, Seoul.jpg",
+  "author": "Tristan Surtel",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tapgol_Park,_Seoul.jpg"
+ },
+ "bongo-dong": {
+  "file": "heritage/bongo-dong.jpg",
+  "name": "대한민국 임시 정부 청사(상하이)",
+  "era": "일제강점기",
+  "commons": "File:Birthplace of the Provisional Government of the Republic of Korea.jpg",
+  "author": "Fayhoo",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Birthplace_of_the_Provisional_Government_of_the_Republic_of_Korea.jpg"
+ },
+ "janggunchong": {
+  "file": "heritage/janggunchong.jpg",
+  "name": "집안 장군총",
+  "era": "삼국",
+  "commons": "File:South of Tomb of the General.jpg",
+  "author": "Prcshaw",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:South_of_Tomb_of_the_General.jpg"
  }
 }
