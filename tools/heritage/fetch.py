@@ -34,15 +34,17 @@ for t in T:
         for p in pages:
             ii=(p.get("imageinfo") or [{}])[0];md=ii.get("extmetadata",{})
             lic=md.get("LicenseShortName",{}).get("value","")
+            if t.get("exclude") and re.search(t["exclude"],p["title"]):continue
             if ii.get("mime","").startswith("image/jp") or ii.get("mime")=="image/png":
                 if FREE.search(lic) and ii.get("width",0)>=500:pick=(p,ii,md,lic);break
-        if not pick:print("✗ 없음",t["id"],t["q"]);continue
+        if not pick:print("✗ 없음",t["id"],t["q"],flush=True);continue
         p,ii,md,lic=pick
         data=get(ii["thumburl"])
         fn=t["id"]+".jpg";open(os.path.join(OUT,fn),"wb").write(data)
         strip=lambda s:re.sub(r"<[^>]+>","",s or "").strip()
         C[t["id"]]={"file":"heritage/"+fn,"name":t["name"],"era":t["era"],"commons":p["title"],"author":strip(md.get("Artist",{}).get("value")),"license":lic,"source":ii.get("descriptionurl")}
-        print("✓",t["id"],p["title"],lic)
-        time.sleep(3)
-    except Exception as e:print("✗ 오류",t["id"],e)
+        json.dump(C,open(cp,"w"),ensure_ascii=False,indent=1)
+        print("✓",t["id"],p["title"],lic,flush=True)
+        time.sleep(6)
+    except Exception as e:print("✗ 오류",t["id"],e,flush=True)
 json.dump(C,open(cp,"w"),ensure_ascii=False,indent=1)
