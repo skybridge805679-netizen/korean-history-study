@@ -75,7 +75,9 @@ N={
 "geumsansa-mireukjeon":("김제 금산사 미륵전","{r:조선 후기} 3층 불전·{b:국보 62호}"),
 "hwaeomsa-gakhwangjeon":("구례 화엄사 각황전과 석등","{r:조선 후기} 숙종 때(1702) 중건한 {b:각황전}"),
 "hahoe-mask":("병산탈(하회탈과 함께 국보 121호)","{r:조선 후기} {b:하회 별신굿 탈놀이}"),
+"geumgang-jeondo":("금강전도(정선)","{g:정선}·{b:진경산수화}·금강산"),
 # --- 근대·일제강점기
+"declaration-of-independence":("3·1 독립 선언서의 민족 대표 33인(영문 번역판)","{r:3·1 운동}(1919)·{b:민족 대표 33인}"),
 "independence-gate":("독립문(1955년 사진)","{g:서재필}·{b:독립 협회}가 세움(1897)·영은문 자리 근처"),
 "deoksugung-seokjojeon":("덕수궁 석조전","{r:대한 제국} 서양식 건물(1910 완공)"),
 "jungmyeongjeon":("덕수궁 중명전","{r:대한 제국} {b:을사늑약}(1905) 체결 장소"),
@@ -90,8 +92,8 @@ GROUPS=[
 ("heritage-1","삼국","삼국 시대 문화재 사진","삼국",["gwanggaeto-stele","chungju-stele","janggunchong","gangseo-sasindo","seokchon-tomb","muryeong-tomb","muryeong-stone","sataek-stele","jeongnimsa","mireuksa","yeongnisan-incense","chilji-do","cheomseongdae","bunhwangsa","silla-crown","cheonmachong-mural","jinheung-stele","gaya-pottery","gungseong-bandaji","seosan-buddha","imsin-stone"]),
 ("heritage-2","남북국","남북국·고려 문화재 사진","남북국",["seokguram","bulguksa-seokgatap","bulguksa-dabotap","emille-bell","gamunsa","hwaeomsa-lion","anapji","mireuk-gwanchoksa","hasachang-buddha","suwol-gwaneum","cheongja-sanggam","cheongja-gourd","buseoksa-muryangsujeon","bongjeongsa","sudeoksa","woljeongsa-9","gyeongcheonsa","manwoldae","tripitaka","haeinsa-janggyeong","jikji"]),
 ("heritage-3","조선전기","조선 전기 문화재 사진","조선전기",["gyeongbokgung-geunjeongjeon","jongmyo","hunminjeongeum","cheugugi","angbuilgu","jagyeongnu","cheonsang-yeolcha","honil-gangni","mongyu-dowondo","wongaksa-pagoda","buncheong"]),
-("heritage-4","조선후기","조선 후기 문화재 사진","조선후기",["baekja-moon-jar","suwon-hwaseong","geojunggi","inwang-jesaekdo","ssireum","wolha-jeongin","sehando","daedong-yeojido","uigwe","palsangjeon","geumsansa-mireukjeon","hwaeomsa-gakhwangjeon","hahoe-mask"]),
-("heritage-5","근대","근대·일제강점기 유적 사진","근대",["independence-gate","deoksugung-seokjojeon","jungmyeongjeon","myeongdong-cathedral","cheokhwabi","gwangseongbo","seodaemun-prison","tapgol-park","bongo-dong"]),
+("heritage-4","조선후기","조선 후기 문화재 사진","조선후기",["baekja-moon-jar","suwon-hwaseong","geojunggi","inwang-jesaekdo","ssireum","wolha-jeongin","geumgang-jeondo","sehando","daedong-yeojido","uigwe","palsangjeon","geumsansa-mireukjeon","hwaeomsa-gakhwangjeon","hahoe-mask"]),
+("heritage-5","근대","근대·일제강점기 유적 사진","근대",["declaration-of-independence","independence-gate","deoksugung-seokjojeon","jungmyeongjeon","myeongdong-cathedral","cheokhwabi","gwangseongbo","seodaemun-prison","tapgol-park","bongo-dong"]),
 ]
 def credit(c):
     a=re.sub(r"(Unknown author)+","",c["author"]).strip() or "작자 미상"

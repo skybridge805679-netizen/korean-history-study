@@ -5,11 +5,11 @@ R=os.path.join(os.path.dirname(__file__),"..","..")
 T=json.load(open(os.path.join(R,"tools/heritage/targets.json")))
 C=json.load(open(os.path.join(R,"site/heritage/credits.json")))
 REJ={
-"gaya-iron-ingot":"받은 사진이 덩이쇠가 아니라 철제 칼이어서 탈락",
-"cheolgam-seonsa-pagoda":"받은 사진이 쌍봉사 전경이라 철감선사탑(승탑)이 아님",
+"gaya-iron-ingot":"덩이쇠가 아니라 철제 갑옷 부품 사진이 걸려 탈락(덩이쇠 사진을 다시 찾아야 함)",
+"cheolgam-seonsa-pagoda":"쌍봉사 담장과 정자 사진이라 철감선사탑(승탑)이 아니어서 탈락",
 "gosagwansudo":"받은 사진이 강희안의 다른 산수화라 고사관수도로 확인되지 않아 탈락", # 내려받았지만 사진을 열어 보고 탈락시킨 것(사유)
-"geumgang-jeondo":"받은 이미지가 금강전도 전체가 아닌 세로로 잘린 일부로 보여 탈락(전체 그림을 다시 찾아야 함)",
-"declaration-of-independence":"Commons 제목이 '1919년 2월'이라 3·1 독립 선언서인지 2·8 독립 선언서인지 확신할 수 없어 탈락",
+
+
 }
 done=[t for t in T if t["id"] in C];rej=[t for t in T if t["id"] in REJ and t["id"] not in C]
 todo=[t for t in T if t["id"] not in C and t["id"] not in REJ]

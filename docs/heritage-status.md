@@ -9,7 +9,7 @@
 3. 확인된 사진은 `tools/heritage/build_sheets.py` 의 `N`(이름·설명)과 `GROUPS`에 추가하고 `python3 tools/heritage/build_sheets.py` 로 `site/summary/heritage.js` 를 다시 만든다. 설명은 확실한 사실만 쓴다.
 4. `node tools/check_summary.js` 통과, `python3 tools/heritage/status.py` 로 이 문서 갱신 후 커밋한다.
 
-## 반영됨 (75점) — 사진 확인 완료, 요약노트 ‘문화재 사진’에 표시
+## 반영됨 (77점) — 사진 확인 완료, 요약노트 ‘문화재 사진’에 표시
 
 | id | 이름 | 시대 | 라이선스 |
 |---|---|---|---|
@@ -70,6 +70,7 @@
 | suwon-hwaseong | 수원 화성(팔달문·화서문·장안문) | 조선후기 | Public domain |
 | geojunggi | 거중기 | 조선후기 | CC BY-SA 3.0 |
 | uigwe | 조선왕조의궤 | 조선후기 | KOGL Type 1 |
+| geumgang-jeondo | 금강전도(정선) | 조선후기 | Public domain |
 | inwang-jesaekdo | 인왕제색도(정선) | 조선후기 | Public domain |
 | ssireum | 씨름(김홍도) | 조선후기 | Public domain |
 | wolha-jeongin | 월하정인(신윤복) | 조선후기 | Public domain |
@@ -86,18 +87,17 @@
 | cheokhwabi | 척화비 | 근대 | CC0 |
 | gwangseongbo | 강화 초지진·광성보 | 근대 | CC BY-SA 4.0 |
 | seodaemun-prison | 서대문 형무소 | 일제강점기 | CC BY-SA 4.0 |
+| declaration-of-independence | 3·1 독립 선언서 | 일제강점기 | CC BY-SA 4.0 |
 | tapgol-park | 탑골 공원 | 일제강점기 | CC BY-SA 4.0 |
 | bongo-dong | 대한민국 임시 정부 청사(상하이) | 일제강점기 | CC BY-SA 3.0 |
 
-## 검수 탈락 (5점) — 다시 찾아야 함
+## 검수 탈락 (3점) — 다시 찾아야 함
 
 | id | 이름 | 사유 |
 |---|---|---|
-| gaya-iron-ingot | 가야 덩이쇠 | 받은 사진이 덩이쇠가 아니라 철제 칼이어서 탈락 |
-| cheolgam-seonsa-pagoda | 쌍봉사 철감선사탑(승탑) | 받은 사진이 쌍봉사 전경이라 철감선사탑(승탑)이 아님 |
+| gaya-iron-ingot | 가야 덩이쇠 | 덩이쇠가 아니라 철제 갑옷 부품 사진이 걸려 탈락(덩이쇠 사진을 다시 찾아야 함) |
+| cheolgam-seonsa-pagoda | 쌍봉사 철감선사탑(승탑) | 쌍봉사 담장과 정자 사진이라 철감선사탑(승탑)이 아니어서 탈락 |
 | gosagwansudo | 고사관수도 | 받은 사진이 강희안의 다른 산수화라 고사관수도로 확인되지 않아 탈락 |
-| geumgang-jeondo | 금강전도(정선) | 받은 이미지가 금강전도 전체가 아닌 세로로 잘린 일부로 보여 탈락(전체 그림을 다시 찾아야 함) |
-| declaration-of-independence | 3·1 독립 선언서 | Commons 제목이 '1919년 2월'이라 3·1 독립 선언서인지 2·8 독립 선언서인지 확신할 수 없어 탈락 |
 
 ## 남은 것 (7점) — 아직 받지 못함
 

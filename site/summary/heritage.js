@@ -438,6 +438,12 @@ window.SUMMARY_SHEETS.push({
        "credit": "혜원 신윤복 (申潤福: 1758-19세기 초반) · Public domain"
       },
       {
+       "img": "heritage/geumgang-jeondo.jpg",
+       "name": "금강전도(정선)",
+       "note": "{g:정선}·{b:진경산수화}·금강산",
+       "credit": "Jeong Seon (1676–1759) · Public domain"
+      },
+      {
        "img": "heritage/sehando.jpg",
        "name": "세한도(부분)",
        "note": "{g:김정희}·제주도 유배 중 그린 {b:문인화}",
@@ -502,6 +508,12 @@ window.SUMMARY_SHEETS.push({
    "body": [
     {
      "gallery": [
+      {
+       "img": "heritage/declaration-of-independence.jpg",
+       "name": "3·1 독립 선언서의 민족 대표 33인(영문 번역판)",
+       "note": "{r:3·1 운동}(1919)·{b:민족 대표 33인}",
+       "credit": "N777777 · CC BY-SA 4.0"
+      },
       {
        "img": "heritage/independence-gate.jpg",
        "name": "독립문(1955년 사진)",
