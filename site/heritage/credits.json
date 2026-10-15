@@ -673,5 +673,23 @@
   "author": "Academy of Korean Studies/Namhae Yu",
   "license": "KOGL Type 1",
   "source": "https://commons.wikimedia.org/wiki/File:Uigwe_Encykorea-%EC%A7%84%EC%B0%AC%EC%9D%98%EA%B6%A4.jpg"
+ },
+ "gaya-iron-ingot": {
+  "file": "heritage/gaya-iron-ingot.jpg",
+  "name": "가야 덩이쇠",
+  "era": "삼국",
+  "commons": "File:Gaya Confederacy Iron Armor 02.jpg",
+  "author": "Gary Lee Todd, Ph.D.",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gaya_Confederacy_Iron_Armor_02.jpg"
+ },
+ "cheolgam-seonsa-pagoda": {
+  "file": "heritage/cheolgam-seonsa-pagoda.jpg",
+  "name": "쌍봉사 철감선사탑(승탑)",
+  "era": "남북국",
+  "commons": "File:Ssangbongsa 11-05147.JPG",
+  "author": "steve46814",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ssangbongsa_11-05147.JPG"
  }
 }
