@@ -158,7 +158,8 @@
    "덩이쇠",
    "Iron ingot Gaya",
    "Gaya iron"
-  ]
+  ],
+  "exclude": "Iron Swords"
  },
  {
   "id": "seokguram",
@@ -199,7 +200,8 @@
   "alt": [
    "Ssangbongsa",
    "쌍봉사 철감선사탑"
-  ]
+  ],
+  "exclude": "Ssangbongsa 11-05276"
  },
  {
   "id": "hwaeomsa-lion",
@@ -413,7 +415,8 @@
   "alt": [
    "Gosagwansudo",
    "Kang Huian"
-  ]
+  ],
+  "exclude": "Gang Hui-an, Landscape"
  },
  {
   "id": "wongaksa-pagoda",
@@ -461,7 +464,7 @@
   "era": "조선후기",
   "name": "금강전도(정선)",
   "q": "금강전도 정선",
-  "exclude": "homage"
+  "exclude": "Geumgangjeondo\\.jpg"
  },
  {
   "id": "inwang-jesaekdo",
@@ -575,7 +578,8 @@
   "id": "declaration-of-independence",
   "era": "일제강점기",
   "name": "3·1 독립 선언서",
-  "q": "Korean Declaration of Independence 1919"
+  "q": "Korean Declaration of Independence 1919",
+  "exclude": "February 1919"
  },
  {
   "id": "tapgol-park",

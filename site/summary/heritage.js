@@ -121,6 +121,24 @@ window.SUMMARY_SHEETS.push({
        "name": "기마 인물형 토기(국보 91호)",
        "note": "{r:신라} 토기 — 가야 토기와 구별",
        "credit": "Eggmoon at Korean Wikipedia · CC BY-SA 3.0"
+      },
+      {
+       "img": "heritage/gungseong-bandaji.jpg",
+       "name": "금동 연가7년명 여래 입상",
+       "note": "{r:고구려} '연가 7년'명(539 추정)·경남 의령 출토",
+       "credit": "National Museum of Korea · KOGL Type 1"
+      },
+      {
+       "img": "heritage/seosan-buddha.jpg",
+       "name": "서산 마애여래삼존상",
+       "note": "{r:백제} 6~7C·'{b:백제의 미소}'",
+       "credit": "Kwkhh · CC BY-SA 4.0"
+      },
+      {
+       "img": "heritage/imsin-stone.jpg",
+       "name": "임신서기석",
+       "note": "{r:신라} 두 청년이 학문과 충성을 맹세한 기록·{b:유교 경전} 학습",
+       "credit": "National Museum of Korea · KOGL Type 1"
       }
      ]
     },
@@ -430,6 +448,12 @@ window.SUMMARY_SHEETS.push({
        "name": "대동여지도",
        "note": "{g:김정호}·1861·{b:분첩 절첩식} 지도",
        "credit": "Kim Jeong-ho · Public domain"
+      },
+      {
+       "img": "heritage/uigwe.jpg",
+       "name": "진찬의궤(의궤의 한 면)",
+       "note": "{r:조선} {b:의궤}: 왕실 행사 기록·유네스코 기록 유산(2007)",
+       "credit": "Academy of Korean Studies/Namh · KOGL Type 1"
       },
       {
        "img": "heritage/palsangjeon.jpg",

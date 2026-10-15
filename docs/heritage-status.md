@@ -9,10 +9,11 @@
 3. 확인된 사진은 `tools/heritage/build_sheets.py` 의 `N`(이름·설명)과 `GROUPS`에 추가하고 `python3 tools/heritage/build_sheets.py` 로 `site/summary/heritage.js` 를 다시 만든다. 설명은 확실한 사실만 쓴다.
 4. `node tools/check_summary.js` 통과, `python3 tools/heritage/status.py` 로 이 문서 갱신 후 커밋한다.
 
-## 반영됨 (71점) — 사진 확인 완료, 요약노트 ‘문화재 사진’에 표시
+## 반영됨 (75점) — 사진 확인 완료, 요약노트 ‘문화재 사진’에 표시
 
 | id | 이름 | 시대 | 라이선스 |
 |---|---|---|---|
+| gungseong-bandaji | 금동 연가7년명 여래 입상 | 삼국 | KOGL Type 1 |
 | janggunchong | 집안 장군총 | 삼국 | CC BY-SA 4.0 |
 | gwanggaeto-stele | 광개토 대왕릉비 | 삼국 | CC BY-SA 4.0 |
 | chungju-stele | 충주 고구려비 | 삼국 | CC BY-SA 3.0 |
@@ -21,6 +22,7 @@
 | muryeong-stone | 무령왕릉 지석 | 삼국 | CC BY 4.0 |
 | seokchon-tomb | 서울 석촌동 고분군 | 삼국 | CC0 |
 | sataek-stele | 사택지적비 | 삼국 | Public domain |
+| seosan-buddha | 서산 마애여래삼존상 | 삼국 | CC BY-SA 4.0 |
 | jeongnimsa | 부여 정림사지 오층 석탑 | 삼국 | CC0 |
 | mireuksa | 익산 미륵사지 석탑 | 삼국 | CC BY-SA 4.0 |
 | yeongnisan-incense | 백제 금동 대향로 | 삼국 | CC BY-SA 4.0 |
@@ -29,6 +31,7 @@
 | silla-crown | 신라 금관 | 삼국 | CC BY-SA 2.0 |
 | cheomseongdae | 경주 첨성대 | 삼국 | CC BY-SA 4.0 |
 | bunhwangsa | 분황사 모전 석탑 | 삼국 | CC BY-SA 3.0 |
+| imsin-stone | 임신서기석 | 삼국 | KOGL Type 1 |
 | jinheung-stele | 북한산 신라 진흥왕 순수비 | 삼국 | CC BY-SA 4.0 |
 | gaya-pottery | 가야 토기(수레바퀴 장식 뿔잔 등) | 삼국 | CC BY-SA 3.0 |
 | seokguram | 경주 석굴암 본존불 | 남북국 | CC BY-SA 4.0 |
@@ -66,6 +69,7 @@
 | baekja-moon-jar | 백자 달항아리 | 조선후기 | CC BY-SA 4.0 |
 | suwon-hwaseong | 수원 화성(팔달문·화서문·장안문) | 조선후기 | Public domain |
 | geojunggi | 거중기 | 조선후기 | CC BY-SA 3.0 |
+| uigwe | 조선왕조의궤 | 조선후기 | KOGL Type 1 |
 | inwang-jesaekdo | 인왕제색도(정선) | 조선후기 | Public domain |
 | ssireum | 씨름(김홍도) | 조선후기 | Public domain |
 | wolha-jeongin | 월하정인(신윤복) | 조선후기 | Public domain |
@@ -85,30 +89,26 @@
 | tapgol-park | 탑골 공원 | 일제강점기 | CC BY-SA 4.0 |
 | bongo-dong | 대한민국 임시 정부 청사(상하이) | 일제강점기 | CC BY-SA 3.0 |
 
-## 검수 탈락 (2점) — 다시 찾아야 함
+## 검수 탈락 (5점) — 다시 찾아야 함
 
 | id | 이름 | 사유 |
 |---|---|---|
+| gaya-iron-ingot | 가야 덩이쇠 | 받은 사진이 덩이쇠가 아니라 철제 칼이어서 탈락 |
+| cheolgam-seonsa-pagoda | 쌍봉사 철감선사탑(승탑) | 받은 사진이 쌍봉사 전경이라 철감선사탑(승탑)이 아님 |
+| gosagwansudo | 고사관수도 | 받은 사진이 강희안의 다른 산수화라 고사관수도로 확인되지 않아 탈락 |
 | geumgang-jeondo | 금강전도(정선) | 받은 이미지가 금강전도 전체가 아닌 세로로 잘린 일부로 보여 탈락(전체 그림을 다시 찾아야 함) |
 | declaration-of-independence | 3·1 독립 선언서 | Commons 제목이 '1919년 2월'이라 3·1 독립 선언서인지 2·8 독립 선언서인지 확신할 수 없어 탈락 |
 
-## 남은 것 (14점) — 아직 받지 못함
+## 남은 것 (7점) — 아직 받지 못함
 
 429(요청 제한)로 실패했거나 검색에서 자유 라이선스 사진이 잡히지 않은 항목이다. 검색어(`q`)를 바꾸거나 Commons 에서 직접 찾는다.
 
 | id | 이름 | 시대 | 검색어(q) |
 |---|---|---|---|
-| gungseong-bandaji | 금동 연가7년명 여래 입상 | 삼국 | 연가7년명 금동여래입상 |
-| seosan-buddha | 서산 마애여래삼존상 | 삼국 | 서산 마애삼존불 |
-| imsin-stone | 임신서기석 | 삼국 | 임신서기석 |
 | changnyeong-stele | 창녕 신라 진흥왕 척경비 | 삼국 | 창녕 신라 진흥왕 척경비 |
-| gaya-iron-ingot | 가야 덩이쇠 | 삼국 | 덩이쇠 가야 |
-| cheolgam-seonsa-pagoda | 쌍봉사 철감선사탑(승탑) | 남북국 | 철감선사 승탑 |
 | balhae-buddha | 발해 이불병좌상 | 남북국 | 이불병좌상 |
 | balhae-lion | 발해 석등(상경 용천부) | 남북국 | 발해 석등 |
 | jeonghyo-tomb | 정혜공주묘 / 정효공주묘 | 남북국 | 정효공주묘 |
 | najeon-box | 나전 칠기 | 고려 | 나전 칠기 고려 |
 | seonjukgyo | 개성 선죽교 | 고려 | 선죽교 |
-| gosagwansudo | 고사관수도 | 조선전기 | 고사관수도 |
-| uigwe | 조선왕조의궤 | 조선후기 | 조선왕조의궤 |
 | cheonghwa-baekja | 청화백자 | 조선후기 | 청화백자 조선 |

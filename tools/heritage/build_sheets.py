@@ -24,6 +24,9 @@ N={
 "cheonmachong-mural":("천마총 천마도","{r:신라} {b:천마총}·말다래(장니)에 그린 천마도"),
 "jinheung-stele":("북한산 진흥왕 순수비(국립중앙박물관)","{g:진흥왕}·한강 유역 확보·{b:순수비} 4곳(북한산·창녕·황초령·마운령)"),
 "gaya-pottery":("기마 인물형 토기(국보 91호)","{r:신라} 토기 — 가야 토기와 구별"),
+"gungseong-bandaji":("금동 연가7년명 여래 입상","{r:고구려} '연가 7년'명(539 추정)·경남 의령 출토"),
+"seosan-buddha":("서산 마애여래삼존상","{r:백제} 6~7C·'{b:백제의 미소}'"),
+"imsin-stone":("임신서기석","{r:신라} 두 청년이 학문과 충성을 맹세한 기록·{b:유교 경전} 학습"),
 # --- 남북국·고려
 "seokguram":("석굴암 본존불(롯데월드 민속박물관 모형)","{r:통일 신라} {g:김대성}이 창건(경덕왕) — 사진은 모형"),
 "bulguksa-seokgatap":("불국사 삼층 석탑(석가탑)","{r:통일 신라} {b:무구정광대다라니경} 출토(현존 최고 목판 인쇄물)"),
@@ -58,6 +61,7 @@ N={
 "mongyu-dowondo":("몽유도원도","{g:안견}·{g:안평대군}의 꿈 이야기(1447)·15C 산수화"),
 "wongaksa-pagoda":("원각사지 십층 석탑","{g:세조} 때(1467)·고려 경천사지 탑 영향·서울 탑골 공원"),
 "buncheong":("분청사기 장군","{r:조선 전기} {b:분청사기}(15~16C)"),
+"uigwe":("진찬의궤(의궤의 한 면)","{r:조선} {b:의궤}: 왕실 행사 기록·유네스코 기록 유산(2007)"),
 # --- 조선 후기
 "baekja-moon-jar":("백자 달항아리(대영 박물관)","{r:조선 후기} {b:백자 달항아리}(18C)"),
 "suwon-hwaseong":("수원 화성 장안문(옛 사진)","{g:정조}·{g:정약용}·{b:수원 화성}(1796)"),
@@ -83,10 +87,10 @@ N={
 "bongo-dong":("상하이 대한민국 임시 정부 수립지","{r:대한민국 임시 정부}(1919, 상하이)"),
 }
 GROUPS=[
-("heritage-1","삼국","삼국 시대 문화재 사진","삼국",["gwanggaeto-stele","chungju-stele","janggunchong","gangseo-sasindo","seokchon-tomb","muryeong-tomb","muryeong-stone","sataek-stele","jeongnimsa","mireuksa","yeongnisan-incense","chilji-do","cheomseongdae","bunhwangsa","silla-crown","cheonmachong-mural","jinheung-stele","gaya-pottery"]),
+("heritage-1","삼국","삼국 시대 문화재 사진","삼국",["gwanggaeto-stele","chungju-stele","janggunchong","gangseo-sasindo","seokchon-tomb","muryeong-tomb","muryeong-stone","sataek-stele","jeongnimsa","mireuksa","yeongnisan-incense","chilji-do","cheomseongdae","bunhwangsa","silla-crown","cheonmachong-mural","jinheung-stele","gaya-pottery","gungseong-bandaji","seosan-buddha","imsin-stone"]),
 ("heritage-2","남북국","남북국·고려 문화재 사진","남북국",["seokguram","bulguksa-seokgatap","bulguksa-dabotap","emille-bell","gamunsa","hwaeomsa-lion","anapji","mireuk-gwanchoksa","hasachang-buddha","suwol-gwaneum","cheongja-sanggam","cheongja-gourd","buseoksa-muryangsujeon","bongjeongsa","sudeoksa","woljeongsa-9","gyeongcheonsa","manwoldae","tripitaka","haeinsa-janggyeong","jikji"]),
 ("heritage-3","조선전기","조선 전기 문화재 사진","조선전기",["gyeongbokgung-geunjeongjeon","jongmyo","hunminjeongeum","cheugugi","angbuilgu","jagyeongnu","cheonsang-yeolcha","honil-gangni","mongyu-dowondo","wongaksa-pagoda","buncheong"]),
-("heritage-4","조선후기","조선 후기 문화재 사진","조선후기",["baekja-moon-jar","suwon-hwaseong","geojunggi","inwang-jesaekdo","ssireum","wolha-jeongin","sehando","daedong-yeojido","palsangjeon","geumsansa-mireukjeon","hwaeomsa-gakhwangjeon","hahoe-mask"]),
+("heritage-4","조선후기","조선 후기 문화재 사진","조선후기",["baekja-moon-jar","suwon-hwaseong","geojunggi","inwang-jesaekdo","ssireum","wolha-jeongin","sehando","daedong-yeojido","uigwe","palsangjeon","geumsansa-mireukjeon","hwaeomsa-gakhwangjeon","hahoe-mask"]),
 ("heritage-5","근대","근대·일제강점기 유적 사진","근대",["independence-gate","deoksugung-seokjojeon","jungmyeongjeon","myeongdong-cathedral","cheokhwabi","gwangseongbo","seodaemun-prison","tapgol-park","bongo-dong"]),
 ]
 def credit(c):
