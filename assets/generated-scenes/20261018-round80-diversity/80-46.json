@@ -1,0 +1,12 @@
+{
+  "key": "80-46",
+  "source": "site/question-materials/80-46.webp",
+  "generated": "/workspace/generated_images/exec-30881eff-643c-40d6-afce-44dc3f8ccd88.png",
+  "prompt": "Edit this original Korean history exam source image. Keep the original canvas aspect ratio, composition, relative positions and size of every panel. This is a LOCAL CHARACTER REPLACEMENT, not a new widescreen classroom or a new layout. Change ONLY the already present anonymous foreground people into beautiful clearly adult age25+ anime women, with polished detailed illustration and natural anatomy. Preserve their original informative gestures, orientation, location and scale. Do not add any extra person. Preserve ALL Korean text, speech bubbles, underlines, blanks, labels, photos, artifacts, maps, paintings, document pages, screenshots, historic people and cultural evidence. Do not feminize anyone inside historical photos, portraits, paintings, source videos. Do not redraw or beautify historical artifacts. Keep all other pixels/composition as close to original as possible. Use the individually specified face and clothing, never generic pink-haired long-haired hanbok clones. OUTPUT one finished edited source in its original aspect ratio. CHARACTER SPECIFICATION:  CRITICAL preserve exact source layout and use the same aspect ratio. Character may grow within free space but NEVER obscure any source object or words. Only TWO foreground anonymous adult visitors change: LEFT narrow face, short silver-lavender crop, seen mostly from behind with slight profile; RIGHT round face, amber eyes, long warm-brown ponytail, quiet reflective expression. All people in the two historical screen panels remain completely unchanged: child holding father's portrait, grown survivor and foreign journalist, portrait itself. CLOTHING: LEFT sage cardigan with navy knee-length skirt and cream blouse; RIGHT muted rose hoodie and grey pleated knee-length skirt, comfortable shoes. Reflective respectful museum clothes, distinct from each other.",
+  "status": "applied-unmodified-generated-png",
+  "file": "site/scene-art/80-46.png",
+  "width": 1337,
+  "height": 1176,
+  "sha256": "c05fe319a613468749955b2ed1fac4edd2ef6c8251be2d2c11b6b2fe611e4fba",
+  "postGenerationImageEdits": 0
+}

@@ -1,0 +1,12 @@
+{
+  "key": "80-34",
+  "source": "site/question-materials/80-34.webp",
+  "generated": "/workspace/generated_images/exec-abd282ac-fd62-4a5c-b7b7-63aec2e55b5b.png",
+  "prompt": "Edit this original Korean history exam source image. Keep the original canvas aspect ratio, composition, relative positions and size of every panel. This is a LOCAL CHARACTER REPLACEMENT, not a new widescreen classroom or a new layout. Change ONLY the already present anonymous foreground people into beautiful clearly adult age25+ anime women, with polished detailed illustration and natural anatomy. Preserve their original informative gestures, orientation, location and scale. Do not add any extra person. Preserve ALL Korean text, speech bubbles, underlines, blanks, labels, photos, artifacts, maps, paintings, document pages, screenshots, historic people and cultural evidence. Do not feminize anyone inside historical photos, portraits, paintings, source videos. Do not redraw or beautify historical artifacts. Keep all other pixels/composition as close to original as possible. Use the individually specified face and clothing, never generic pink-haired long-haired hanbok clones. OUTPUT one finished edited source in its original aspect ratio. CHARACTER SPECIFICATION:  CRITICAL preserve exact source layout and use the same aspect ratio. Character may grow within free space but NEVER obscure any source object or words. Round cheeks, small golden-brown eyes, short black asymmetrical bob with red inner streak, mischievous smile. CLOTHING: Adult gothic librarian cosplay: burgundy-and-black knee-length dress with lace cuffs, cream high collar, small rose neck bow, opaque dark tights.",
+  "status": "applied-unmodified-generated-png",
+  "file": "site/scene-art/80-34.png",
+  "width": 1433,
+  "height": 1098,
+  "sha256": "4fa5d0ace25e9dbbf16fce3cfb2a2f50f7261c820645c78ea991e20365261383",
+  "postGenerationImageEdits": 0
+}

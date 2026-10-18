@@ -1,0 +1,12 @@
+{
+  "key": "80-30",
+  "source": "site/question-materials/80-30.webp",
+  "generated": "/workspace/generated_images/exec-8624ca03-05e5-4765-894d-6a874303fefa.png",
+  "prompt": "Edit this original Korean history exam source image. Keep the original canvas aspect ratio, composition, relative positions and size of every panel. This is a LOCAL CHARACTER REPLACEMENT, not a new widescreen classroom or a new layout. Change ONLY the already present anonymous foreground people into beautiful clearly adult age25+ anime women, with polished detailed illustration and natural anatomy. Preserve their original informative gestures, orientation, location and scale. Do not add any extra person. Preserve ALL Korean text, speech bubbles, underlines, blanks, labels, photos, artifacts, maps, paintings, document pages, screenshots, historic people and cultural evidence. Do not feminize anyone inside historical photos, portraits, paintings, source videos. Do not redraw or beautify historical artifacts. Keep all other pixels/composition as close to original as possible. Use the individually specified face and clothing, never generic pink-haired long-haired hanbok clones. OUTPUT one finished edited source in its original aspect ratio. CHARACTER SPECIFICATION:  CRITICAL preserve exact source layout and use the same aspect ratio. Character may grow within free space but NEVER obscure any source object or words. Keep all original video-call participants, every one an adult woman with a unique face and hair. Main presenter has long oval face, large purple eyes, chestnut curly half-up hair, exuberant smile. Thumbnail participants include different round/angular faces, short/long/braided/bun hair, varied hair colours, two distinct glasses styles. Do not collapse the participants into clones. CLOTHING: Main presenter in turquoise-and-white magical-girl costume with high neckline, small shoulder cape, opaque star-embroidered bodice and skirt; participants individually wear casual cardigan, hanbok, blouse, sailor-collar dress, maid dress, knit dress, different adult outfits.",
+  "status": "applied-unmodified-generated-png",
+  "file": "site/scene-art/80-30.png",
+  "width": 1429,
+  "height": 1101,
+  "sha256": "28ba465bbbf6347f08afdba8e66545a274e872933a3fbf46ab81e58e6dbf9cb0",
+  "postGenerationImageEdits": 0
+}

@@ -1,0 +1,12 @@
+{
+  "key": "80-39",
+  "source": "site/question-materials/80-39.webp",
+  "generated": "/workspace/generated_images/exec-2ddcb143-8ba8-47ed-ab28-6ccc3279d988.png",
+  "prompt": "Edit this original Korean history exam source image. Keep the original canvas aspect ratio, composition, relative positions and size of every panel. This is a LOCAL CHARACTER REPLACEMENT, not a new widescreen classroom or a new layout. Change ONLY the already present anonymous foreground people into beautiful clearly adult age25+ anime women, with polished detailed illustration and natural anatomy. Preserve their original informative gestures, orientation, location and scale. Do not add any extra person. Preserve ALL Korean text, speech bubbles, underlines, blanks, labels, photos, artifacts, maps, paintings, document pages, screenshots, historic people and cultural evidence. Do not feminize anyone inside historical photos, portraits, paintings, source videos. Do not redraw or beautify historical artifacts. Keep all other pixels/composition as close to original as possible. Use the individually specified face and clothing, never generic pink-haired long-haired hanbok clones. OUTPUT one finished edited source in its original aspect ratio. CHARACTER SPECIFICATION:  CRITICAL preserve exact source layout and use the same aspect ratio. Character may grow within free space but NEVER obscure any source object or words. TWO highly distinct adult women: LEFT adult anchor with angular face, golden almond eyes, sleek violet chin-length bob, composed smile; RIGHT field reporter has round face, large dark-blue eyes, auburn curly ponytail, enthusiastic expression. Keep who says which speech bubble. CLOTHING: LEFT charcoal tailored fitted skirt suit with lilac silk scarf; RIGHT ivory cropped jacket over deep teal pleated knee-length dress and small microphone brooch.",
+  "status": "applied-unmodified-generated-png",
+  "file": "site/scene-art/80-39.png",
+  "width": 1337,
+  "height": 1176,
+  "sha256": "dce1a4239634e356ab50f35abc85b696e5a8ffbd810b7df17d2a2395e1688968",
+  "postGenerationImageEdits": 0
+}
