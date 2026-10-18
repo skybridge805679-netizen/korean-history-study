@@ -1,0 +1,16 @@
+{
+  "key": "80-36",
+  "reason": "Incorrectly classified as restore-original despite existing anonymous woman. Redraw with user preferred scenic background, large anime character and readable source text.",
+  "file": "site/scene-art/80-36.png",
+  "figure": {
+    "src": "scene-art/80-36.png?v=20261018-r80-36-style-v2",
+    "width": 1672,
+    "height": 941,
+    "imageChoices": false,
+    "sceneArt": true
+  },
+  "sha256": "e19b9da73b206e9b324d9cf1a82abc67e2d7da4707fdb5b3dac08d6a64591c47",
+  "tool": "built-in image_gen",
+  "postGenerationImageEdits": 0,
+  "textCheck": "Visually compared all source sentences and three final slogans. No answer clue added."
+}
