@@ -1,0 +1,102 @@
+{
+  "underlinedQuestionCount": 16,
+  "generatedUnderlinedQuestionCount": 15,
+  "originalRefusedQuestionUnderlineRetained": [
+    "80-6"
+  ],
+  "supplementalLineCount": 1,
+  "supplementalLines": {
+    "80-45": {
+      "term": "정부",
+      "src": "scene-art/80-45.png?v=20261018-round80-scenes",
+      "width": 1672,
+      "height": 941,
+      "lines": [
+        {
+          "x1": 1322,
+          "x2": 1371,
+          "y": 561,
+          "strokeWidth": 1.8
+        }
+      ],
+      "imageSha256": "29e67d07a1fcb45116b206ce611553b2feb74a9de8c3dca2ba7a129cb5a1a3bf"
+    }
+  },
+  "nativeUnderlineVerification": [
+    {
+      "key": "80-9",
+      "term": "시기",
+      "verified": true
+    },
+    {
+      "key": "80-11",
+      "term": "이 왕",
+      "verified": true
+    },
+    {
+      "key": "80-17",
+      "term": "이 시기",
+      "verified": true
+    },
+    {
+      "key": "80-19",
+      "term": "법",
+      "verified": true
+    },
+    {
+      "key": "80-20",
+      "term": "이 기구",
+      "verified": true
+    },
+    {
+      "key": "80-23",
+      "term": "왕",
+      "verified": true
+    },
+    {
+      "key": "80-28",
+      "term": "이 사건",
+      "verified": true
+    },
+    {
+      "key": "80-31",
+      "term": "이 개혁",
+      "verified": true
+    },
+    {
+      "key": "80-34",
+      "term": "이 시기",
+      "verified": true
+    },
+    {
+      "key": "80-35",
+      "term": "이 시기",
+      "verified": true
+    },
+    {
+      "key": "80-38",
+      "term": "이 운동",
+      "verified": true
+    },
+    {
+      "key": "80-39",
+      "term": "시기",
+      "verified": true
+    },
+    {
+      "key": "80-44",
+      "term": "전쟁",
+      "verified": true
+    },
+    {
+      "key": "80-45",
+      "term": "정부",
+      "verified": true
+    },
+    {
+      "key": "80-49",
+      "term": "시기",
+      "verified": true
+    }
+  ]
+}
