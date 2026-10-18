@@ -34,9 +34,9 @@ def main():
     by_key = {f"{q['r']}-{q['n']}": q for q in questions}
     if len(by_key) != len(questions):
         raise ValueError("Duplicate question IDs")
-    expected = {f"{r}-{n}" for r in range(70, 80) for n in range(1, 51)}
+    expected = {f"{r}-{n}" for r in range(70, 81) for n in range(1, 51)}
     if set(by_key) != expected:
-        raise ValueError("Original question set must contain all 500 questions (70–79)")
+        raise ValueError("Original question set must contain all 550 questions (70–80)")
     if set(explanations) != expected:
         missing = sorted(expected - set(explanations))
         extra = sorted(set(explanations) - expected)

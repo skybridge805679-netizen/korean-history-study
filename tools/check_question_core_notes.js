@@ -15,7 +15,7 @@ for (const filename of ["question-explanations.js", "question-figures.js", "ques
 }
 const w = context.window;
 const notes = w.buildQuestionCoreNotes(questions, w.QUESTION_EXPLANATIONS, w.QUESTION_FIGURES, w.QUESTION_NOTE_TIMELINES);
-assert.equal(Object.keys(notes).length, 500);
+assert.equal(Object.keys(notes).length, 550);
 let connections = 0, photos = 0;
 const chronological = new Set(["order", "interval", "timeline", "relative", "period"]);
 for (const q of questions) {
