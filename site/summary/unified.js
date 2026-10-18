@@ -46,3 +46,54 @@ sections:[
  {line:"{r:공산 전투}(927): {g:신숭겸} 전사(견훤 승리) → {r:고창 전투}(930): {g:김선평}·{g:권행}·{g:유금필} 활약, 왕건 승리"},
  {line:"{g:견훤} {r:금산사} 유폐 → 탈출·고려 귀순(935) → {r:일리천 전투}(936): 신검의 후백제군 격파 = {x:후삼국 통일}"}]}
 ]});
+
+// 80회에서 새로 확인된 자료 단서를 해당 시대·주제에 덧붙인다.
+(function () {
+  const updates = [
+  {
+    "sheet": "unified-1",
+    "section": "[통일 신라 · 정치 — 중대(왕권 강화)]",
+    "body": [
+      {
+        "line": "{n:80-6} {g:김군관} 자결을 명한 교서 → {g:신문왕} · 김흠돌의 난(681) → {r:국학}(682)"
+      }
+    ]
+  },
+  {
+    "sheet": "unified-1",
+    "section": "[통일 신라 · 문화]",
+    "body": [
+      {
+        "line": "{n:80-9} {g:체징}(보조선사)·장흥 {b:보림사}·{b:가지산문} → 신라 하대 선종 · 진골 귀족 반란"
+      }
+    ]
+  },
+  {
+    "sheet": "unified-1",
+    "section": "[발해 · 정치]",
+    "body": [
+      {
+        "line": "{n:80-8} {g:오소도}·{g:대봉예}: 당에서 신라와 서열 다툼 · 선왕의 전성기 = {r:해동성국}"
+      }
+    ]
+  },
+  {
+    "sheet": "unified-1",
+    "section": "[후삼국 시대]",
+    "body": [
+      {
+        "line": "{n:80-10} 견훤: {b:무진주} 세력 형성 → 완산주 후백제 · {g:후당}·{g:오월}에 사신"
+      },
+      {
+        "line": "{n:80-8 오답} 궁예: {b:수덕만세}·{b:정개} 연호 · 발해 연호와 구별"
+      }
+    ]
+  }
+];
+  for (const update of updates) {
+    const sheet = window.SUMMARY_SHEETS.find(s => s.id === update.sheet);
+    const section = sheet?.sections.find(s => s.h === update.section);
+    if (!section) throw new Error("요약노트 항목 없음: " + update.sheet + " " + update.section);
+    section.body.push(...update.body);
+  }
+})();

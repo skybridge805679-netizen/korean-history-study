@@ -48,3 +48,42 @@ sections:[
   "{g:법흥왕}: 금관가야 복속(532)\n{g:진흥왕}: 대가야 복속(562)",
   "{n:함정: '덩이쇠로 낙랑과 교역'이 통일 신라 경제(72-6)·신라 하대(77-10) 문항에 오답으로 나옴 → 주인은 가야}"]]}}]}
 ]});
+
+// 80회에서 새로 확인된 자료 단서를 해당 시대·주제에 덧붙인다.
+(function () {
+  const updates = [
+  {
+    "sheet": "ancient-1",
+    "section": "[청동기 ~ 철기 시대]",
+    "body": [
+      {
+        "line": "{n:80-1} {b:화순 고인돌 유적}·채석장 → 청동기 · {b:청동 방울} = 의례 도구"
+      }
+    ]
+  },
+  {
+    "sheet": "ancient-1",
+    "section": "[초기 국가]",
+    "body": [
+      {
+        "line": "{n:80-2} {b:고추가}·{b:연노부}·{b:절노부} → 고구려 5부 · 혼인 풍습 {r:서옥제}"
+      }
+    ]
+  },
+  {
+    "sheet": "ancient-1",
+    "section": "[백제]",
+    "body": [
+      {
+        "line": "{n:80-3} {b:무령왕릉 석수} = 백제 · {b:미륵사지 석탑} = 백제 무왕 때 · 무령왕의 업적으로 혼동하지 않기"
+      }
+    ]
+  }
+];
+  for (const update of updates) {
+    const sheet = window.SUMMARY_SHEETS.find(s => s.id === update.sheet);
+    const section = sheet?.sections.find(s => s.h === update.section);
+    if (!section) throw new Error("요약노트 항목 없음: " + update.sheet + " " + update.section);
+    section.body.push(...update.body);
+  }
+})();

@@ -115,3 +115,39 @@ sections:[
   ["기록","{b:조선 통신사 기록물}: 에도 막부 요청으로 파견 · 세계 기록 유산\n{b:동의보감}: 허준 · 세계 기록 유산\n{b:법주사 팔상전}: 오층 목조탑 · 팔상도"],
   ["왕실","{b:창덕궁 주합루}(부용지 일대) · {b:수원 화성}: 거중기(정조)"]]}}]}
 ]});
+
+// 80회에서 새로 확인된 자료 단서를 해당 시대·주제에 덧붙인다.
+(function () {
+  const updates = [
+  {
+    "sheet": "joseon2-1",
+    "section": "[정치 ① 선조 ~ 숙종]",
+    "body": [
+      {
+        "line": "{n:80-22} 도쿠가와 이에야스 화친 서계 → 회답 겸 쇄환사(1607) → {b:기유약조}(1609, 광해군) · 세종의 계해약조(1443)와 구별"
+      },
+      {
+        "line": "{n:80-23} 원자 명호·송시열 처벌 논의 = {b:기사환국}(1689) · 허적·{g:윤휴} 등 남인 축출 = 경신환국(1680) · 둘 다 숙종"
+      }
+    ]
+  },
+  {
+    "sheet": "joseon2-1",
+    "section": "[사회 · 신분제 동요와 서민 문화]",
+    "body": [
+      {
+        "line": "{n:80-25·26} {b:송파장}·{b:산대놀이} = 장시·서민 문화 / {g:임득명} 〈등고상화〉·{b:옥계시사} = 중인의 {b:위항 문학}"
+      },
+      {
+        "line": "{n:80-26} 기술관 등 중인: 관직 진출 제한 철폐를 요구한 {r:소청 운동} · 서얼의 통청 운동과 주체 구별"
+      }
+    ]
+  }
+];
+  for (const update of updates) {
+    const sheet = window.SUMMARY_SHEETS.find(s => s.id === update.sheet);
+    const section = sheet?.sections.find(s => s.h === update.section);
+    if (!section) throw new Error("요약노트 항목 없음: " + update.sheet + " " + update.section);
+    section.body.push(...update.body);
+  }
+})();
