@@ -1,4 +1,4 @@
-// 요약노트·핵심노트의 표시 용어가 70~79회 기출(문제·자료·선지·해설)에 실제로 나오는지 검사
+// 요약노트·핵심노트의 표시 용어가 70~80회 기출(문제·자료·선지·해설)에 실제로 나오는지 검사
 // node tools/check_grounding.js [summary|notes] [-v] [시트id]
 const fs=require("fs"),path=require("path");
 const site=path.join(__dirname,"..","site");
