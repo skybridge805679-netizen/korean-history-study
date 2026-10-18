@@ -1,0 +1,12 @@
+{
+  "key": "80-48",
+  "source": "site/question-materials/80-48.webp",
+  "generated": "/workspace/generated_images/exec-f4061ca9-3fa9-4ad3-bca8-3fedea6ff829.png",
+  "prompt": "Edit this Korean history examination source into ONE finished source illustration, preserving its current original aspect ratio and composition. Replace ONLY the large anonymous male TV NEWS ANCHOR at lower LEFT with a beautiful adult woman age25+, defined oval face, upturned dark-green eyes, wavy side-parted black shoulder-length hair, pearl earrings, elegant fitted sapphire-blue skirt suit, modest ivory V-collar blouse, small gold pin. Preserve her professional front-facing delivery pose and the same anchor position/scale. CRITICAL: the RIGHT inset illustration of crossing the military demarcation line is HISTORICAL EVIDENCE and MUST NOT be feminized or redesigned. KEEP THE PRESIDENT A MAN: central LEFT figure in that inset is an adult MALE president in a grey suit/coat, short black men's hair and trousers, walking beside his WIFE, a woman in pink jacket/skirt. The central historical couple remains MAN + WOMAN. Keep background reporters and guards as the existing dark unidentifiable silhouettes, with their existing shapes, not a group of anime women. Keep both cars, all lane lines, yellow crossing line, sign boards, map icons, all inset positions and source factual identity. Keep every Korean sentence and caption exactly once, including: 오늘 대통령이 남북 정상 회담을 위해 청와대를 출발하여 군사 분계선 약 30미터 전방에서 잠시 내려 소감을 발표한 뒤 국가 원수로서는 최초로 군사 분계선을 도보 통과하였습니다. / 대통령 내외, 군사 분계선 도보 통과 / 환영합니다 / 잘 다녀 오십시오. No extra people, no new lecturer, no extra captions, no answers. Preserve the TV frame and layout. Finish the whole scene cleanly INSIDE THIS GENERATED IMAGE. Your output will be used byte-for-byte, no pasted text/photo fragments or postprocessing.",
+  "status": "applied-unmodified-generated-png",
+  "file": "site/scene-art/80-48.png",
+  "width": 1405,
+  "height": 1120,
+  "sha256": "1c73f96b24f63d9f13dd0a0f363fe4ba816825503ecc6306288fc7c4a7edaed0",
+  "postGenerationImageEdits": 0
+}

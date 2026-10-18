@@ -1,0 +1,317 @@
+{
+  "scope": 22,
+  "keys": [
+    "80-7",
+    "80-9",
+    "80-10",
+    "80-14",
+    "80-17",
+    "80-18",
+    "80-24",
+    "80-25",
+    "80-26",
+    "80-27",
+    "80-28",
+    "80-29",
+    "80-30",
+    "80-31",
+    "80-34",
+    "80-36",
+    "80-39",
+    "80-41",
+    "80-43",
+    "80-44",
+    "80-46",
+    "80-48"
+  ],
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "key": "80-7",
+      "file": "site/scene-art/80-7.png",
+      "figure": {
+        "src": "scene-art/80-7.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "43f1b1a75d1f54cfd489fafe332340d0072836aeae3f2b34bb8b7bef3f6e03da",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-9",
+      "file": "site/scene-art/80-9.png",
+      "figure": {
+        "src": "scene-art/80-9.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "f318d99681251a9359f814be9286d7e9156ddad1bc47f2dabfe5e35143f2e211",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-10",
+      "file": "site/scene-art/80-10.png",
+      "figure": {
+        "src": "scene-art/80-10.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "1dec3522d0010d202862ba2de67a088b9809b7ace3ed7b817d2b3ef092f624a3",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-14",
+      "file": "site/scene-art/80-14.png",
+      "figure": {
+        "src": "scene-art/80-14.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "859881d74faf645d8874e1de1317b8282ec92db31202a4c29b44a5122626a273",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-17",
+      "file": "site/scene-art/80-17.png",
+      "figure": {
+        "src": "scene-art/80-17.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "d08c8a8cecb621eb987eabec5e9d662a73d65fbe1cf0f193eca64dcfebcdc8cd",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-18",
+      "file": "site/scene-art/80-18.png",
+      "figure": {
+        "src": "scene-art/80-18.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "89eb57678f364f970c3cddff24c6ed8b0129158f9e8d44c0d43c154412c49ca6",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-24",
+      "file": "site/scene-art/80-24.png",
+      "figure": {
+        "src": "scene-art/80-24.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "c01bc5aeebc79036ebd6480d234d8da40288e1248d82374d942e9b1abd9fca73",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-25",
+      "file": "site/scene-art/80-25.png",
+      "figure": {
+        "src": "scene-art/80-25.png?v=20261018-r80-style22-v3",
+        "width": 1671,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "3897fe96a88c6a74400d75c65f7081f0eab0c659905b1a8a39196d7240afe1eb",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-26",
+      "file": "site/scene-art/80-26.png",
+      "figure": {
+        "src": "scene-art/80-26.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "a4ca7d609da770d20625bf96bae2966eea19535b2c8b764f127dc4f57c73f0df",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-27",
+      "file": "site/scene-art/80-27.png",
+      "figure": {
+        "src": "scene-art/80-27.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "ef775d65eaffb194e05e1354b2641c4a7deffb3feaf2f2edfb19535dca21e722",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-28",
+      "file": "site/scene-art/80-28.png",
+      "figure": {
+        "src": "scene-art/80-28.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "4e35b16f04f6e1b896583205037212a55342e64cf035409d9426b1de93bd6bfa",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-29",
+      "file": "site/scene-art/80-29.png",
+      "figure": {
+        "src": "scene-art/80-29.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "3792b5f5319de810bf63c07e36a66e4350c7beb9c053a7f0bb184c76d39bd464",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-30",
+      "file": "site/scene-art/80-30.png",
+      "figure": {
+        "src": "scene-art/80-30.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "6e9cf96f7d19aae10b9edc5d349ecfcbd5b12aeeb9673f47752353daa863c603",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-31",
+      "file": "site/scene-art/80-31.png",
+      "figure": {
+        "src": "scene-art/80-31.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "6cdf0bb9134d4142d2e215b47c6f173a5627aa3822a3a161273c8ca839d99c4d",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-34",
+      "file": "site/scene-art/80-34.png",
+      "figure": {
+        "src": "scene-art/80-34.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "2e577e61d165fee8b8c8b9d018a92ca8ff7ede7e72c83ef69eaa942f4586d0ee",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-36",
+      "file": "site/scene-art/80-36.png",
+      "figure": {
+        "src": "scene-art/80-36.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "e19b9da73b206e9b324d9cf1a82abc67e2d7da4707fdb5b3dac08d6a64591c47",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-39",
+      "file": "site/scene-art/80-39.png",
+      "figure": {
+        "src": "scene-art/80-39.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "68469a19f820fc31e45375c721d54d5ca951e8b72fcc9fbe4a6fc670713d8927",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-41",
+      "file": "site/scene-art/80-41.png",
+      "figure": {
+        "src": "scene-art/80-41.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "f41bd874480ab1f89e3df975332a102871795440b8819ee90657b1c3647b0b7f",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-43",
+      "file": "site/scene-art/80-43.png",
+      "figure": {
+        "src": "scene-art/80-43.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "c1806356e8315d49e92ce8c244615aa08b7ffc732972b18f23e4707fdf9e4500",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-44",
+      "file": "site/scene-art/80-44.png",
+      "figure": {
+        "src": "scene-art/80-44.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "83042156f170cf2469ccad8c18d6190af4dcaadd7b52848138c29567ee872479",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-46",
+      "file": "site/scene-art/80-46.png",
+      "figure": {
+        "src": "scene-art/80-46.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "21019569195fc4e3517a5ae6b476bfd1a99c0d48f149493ba77c99699e75b8b9",
+      "postGenerationImageEdits": 0
+    },
+    {
+      "key": "80-48",
+      "file": "site/scene-art/80-48.png",
+      "figure": {
+        "src": "scene-art/80-48.png?v=20261018-r80-style22-v3",
+        "width": 1672,
+        "height": 941,
+        "imageChoices": false,
+        "sceneArt": true
+      },
+      "sha256": "c32bcee0562c75cc231a9f8c52ee5581f1444088b6026908b750f723e7a1d788",
+      "postGenerationImageEdits": 0
+    }
+  ],
+  "review": "Every generated image visually reviewed. Source prose, blanks and evidence retained. 80-18 backdrop and 80-41 anonymous learners repaired using image_gen. No crop, compression or post-generation overlay."
+}

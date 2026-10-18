@@ -404,27 +404,27 @@ body[data-view=run] .omr{grid-template-columns:repeat(25,minmax(0,1fr))}
   .dash-grid{grid-template-columns:minmax(0,1fr) minmax(0,1.2fr) minmax(0,1fr)}
 }
 </style>
-<script src="question-figures.js?v=20261015-explanations"></script>
-<script src="question-underlines.js?v=20261015-personal-rollback"></script>
+<script src="question-figures.js?v=20261018-r80-style22-v3"></script>
+<script src="question-underlines.js?v=20261018-r80-diversity-raw"></script>
 <script src="figure-underlines.js?v=20261015"></script>
 <script src="reference-lessons.js"></script>
 <script src="textbook.js"></script>
-<script src="core-notes/ancient.js?v=1"></script>
-<script src="core-notes/goryeo-joseon.js?v=1"></script>
-<script src="core-notes/modern.js?v=1"></script>
-<script src="core-notes/contemporary.js?v=1"></script>
-<script src="summary-render.js?v=3"></script>
-<script src="summary/ancient1.js?v=1"></script>
+<script src="core-notes/ancient.js?v=20261018-round80"></script>
+<script src="core-notes/goryeo-joseon.js?v=20261018-round80"></script>
+<script src="core-notes/modern.js?v=20261018-round80"></script>
+<script src="core-notes/contemporary.js?v=20261018-round80"></script>
+<script src="summary-render.js?v=20261018-round80"></script>
+<script src="summary/ancient1.js?v=20261018-round80"></script>
 <script src="summary/ancient2.js?v=1"></script>
-<script src="summary/unified.js?v=1"></script>
-<script src="summary/goryeo.js?v=1"></script>
-<script src="summary/joseon1.js?v=1"></script>
-<script src="summary/joseon2.js?v=1"></script>
-<script src="summary/gaehang.js?v=1"></script>
-<script src="summary/ilje.js?v=1"></script>
-<script src="summary/modern.js?v=1"></script>
+<script src="summary/unified.js?v=20261018-round80"></script>
+<script src="summary/goryeo.js?v=20261018-round80"></script>
+<script src="summary/joseon1.js?v=20261018-round80"></script>
+<script src="summary/joseon2.js?v=20261018-round80"></script>
+<script src="summary/gaehang.js?v=20261018-round80"></script>
+<script src="summary/ilje.js?v=20261018-round80"></script>
+<script src="summary/modern.js?v=20261018-round80"></script>
 <script src="summary/heritage.js?v=1"></script>
-<script src="question-explanations.js?v=20261015-complete"></script>
+<script src="question-explanations.js?v=20261018-round80-notes"></script>
 <script src="question-core-notes.js?v=20261015-1"></script>
 <script src="question-note-timelines.js?v=20261015-1"></script>
 <script>
@@ -1552,7 +1552,7 @@ function vSummary(){
   <div class="sm-toolbar">${SM_GROUPS.map(([g,ids])=>`<button class="btn ${ids.includes(sel.id)?'pri':''}" data-smsheet="${ids[0]}">${g}</button>`).join("")}</div>
   <div class="sm-toolbar">${SM_GROUPS.find(([g,ids])=>ids.includes(sel.id))[1].map(id=>SUMMARY_SHEETS.find(s=>s.id===id)).map(s=>`<button class="btn ${s.id===sel.id?'pri':''}" data-smsheet="${s.id}">${esc(s.title)}</button>`).join("")}
   <label class="hint"><input type="checkbox" id="smCounts" ${smCounts?"checked":""}> 출제 횟수 표시</label><span class="sm-tools"><button class="btn" data-smopt="hand" aria-pressed="${smHand}">손글씨체</button><button class="btn" data-smopt="big" aria-pressed="${smBig}">글자 크게</button></span><button class="btn" onclick="window.print()">인쇄</button></div>
-  <div class="sm-wrap ${smCounts?"sm-counts":""} ${smHand?"sm-hand":""} ${smBig?"sm-big":""}">${window.SummaryNotes.sheet(sel,{counter})}</div>`;
+  <div class="sm-wrap ${smCounts?"sm-counts":""} ${smHand?"sm-hand":""} ${smBig?"sm-big":""}">${window.SummaryNotes.sheet(sel,{counter,sourceLabel:`${Math.min(...ROUNDS)}~${Math.max(...ROUNDS)}회 기출 ${QS.length}문항 기반`})}</div>`;
 }
 document.addEventListener("click",e=>{
   const o=e.target.closest("[data-smopt]");if(o){if(o.dataset.smopt==="hand")smHand=!smHand;else smBig=!smBig;try{localStorage.setItem("sm-hand",smHand?"1":"0");localStorage.setItem("sm-big",smBig?"1":"0")}catch(e){}render();return}

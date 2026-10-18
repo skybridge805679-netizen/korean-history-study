@@ -1,0 +1,12 @@
+{
+  "key": "80-26",
+  "source": "site/question-materials/80-26.webp",
+  "generated": "/workspace/generated_images/exec-fe080ee0-6f70-4e3d-91cc-2dcbbc527fc6.png",
+  "prompt": "Edit this original Korean history exam source image. Keep the original canvas aspect ratio, composition, relative positions and size of every panel. This is a LOCAL CHARACTER REPLACEMENT, not a new widescreen classroom or a new layout. Change ONLY the already present anonymous foreground people into beautiful clearly adult age25+ anime women, with polished detailed illustration and natural anatomy. Preserve their original informative gestures, orientation, location and scale. Do not add any extra person. Preserve ALL Korean text, speech bubbles, underlines, blanks, labels, photos, artifacts, maps, paintings, document pages, screenshots, historic people and cultural evidence. Do not feminize anyone inside historical photos, portraits, paintings, source videos. Do not redraw or beautify historical artifacts. Keep all other pixels/composition as close to original as possible. Use the individually specified face and clothing, never generic pink-haired long-haired hanbok clones. OUTPUT one finished edited source in its original aspect ratio. CHARACTER SPECIFICATION:  CRITICAL preserve exact source layout and use the same aspect ratio. Character may grow within free space but NEVER obscure any source object or words. Small oval face, sharp pink-brown eyes, dark plum hair in elegant high bun, confident raised eyebrow and smile. CLOTHING: Adult idol stage costume: black-and-magenta tailored jacket, high-neck ivory blouse, short opaque layered skirt with asymmetric sash, opaque tights, ribbon cuffs.",
+  "status": "applied-unmodified-generated-png",
+  "file": "site/scene-art/80-26.png",
+  "width": 1397,
+  "height": 1126,
+  "sha256": "74d9dd78cb24e603eede173e52b3e344ba5567d1c90ef20f3e434b45c948e54e",
+  "postGenerationImageEdits": 0
+}

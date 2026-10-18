@@ -89,3 +89,60 @@ sections:[
  ["기타 공예","{b:나전 칠기}(국화넝쿨무늬 합) · {r:청동 은입사} 포류수금문 정병(버드나무 등 물가 풍경 · 80-13) · {b:수월관음도}(불화) · 단산오옥명 먹(묵소)"],
  ["문학","『역옹패설』(이제현) · 『이생규장전』(홍건적 침입이 배경)"]]}}]}
 ]});
+
+// 80회에서 새로 확인된 자료 단서를 해당 시대·주제에 덧붙인다.
+(function () {
+  const updates = [
+  {
+    "sheet": "goryeo-1",
+    "section": "[대외 관계]",
+    "body": [
+      {
+        "line": "{n:80-12} {g:강조}의 목종 시해 구실·{b:통주}·개경 함락 → 거란 2차 침입(현종) · {r:광군} 조직은 앞선 정종 때 거란 대비책"
+      }
+    ]
+  },
+  {
+    "sheet": "goryeo-1",
+    "section": "[경제]",
+    "body": [
+      {
+        "line": "{n:80-14} 송 사신 {g:서긍}·{b:마도} 침몰선의 청자·{b:죽찰} → 고려 해상 운송 · 관영 상점 {b:서적점}·{b:다점}"
+      }
+    ]
+  },
+  {
+    "sheet": "goryeo-2",
+    "section": "[불교]",
+    "body": [
+      {
+        "line": "{n:80-16} {g:요세}(원묘국사): 강진 {b:백련사}·{r:백련 결사} → 법화 사상·{r:참회}·{r:염불} · 지눌의 정혜쌍수와 구별"
+      }
+    ]
+  },
+  {
+    "sheet": "goryeo-2",
+    "section": "[공예·문학]",
+    "body": [
+      {
+        "line": "{n:80-13} {b:청동 은입사 포류수금문 정병}: 버드나무·물가 풍경 · 금속 표면을 파고 가는 은실을 박는 {r:은입사}"
+      }
+    ]
+  },
+  {
+    "sheet": "goryeo-2",
+    "section": "[인쇄·과학 기술]",
+    "body": [
+      {
+        "line": "{n:80-18} {g:이원}에게 염초 제조법을 배운 {g:최무선} → 화통도감 · {b:비격진천뢰}는 {g:이장손}(조선 선조)"
+      }
+    ]
+  }
+];
+  for (const update of updates) {
+    const sheet = window.SUMMARY_SHEETS.find(s => s.id === update.sheet);
+    const section = sheet?.sections.find(s => s.h === update.section);
+    if (!section) throw new Error("요약노트 항목 없음: " + update.sheet + " " + update.section);
+    section.body.push(...update.body);
+  }
+})();

@@ -102,3 +102,42 @@ sections:[
  {img:"choice-art/73-26-5.webp",name:"몽유도원도(안견)",note:"1447 · 안평 대군의 꿈 · 조선 전기 산수화",q:"73-26"},
  {img:"choice-art/76-17-3.webp",name:"분청사기 철화 무늬 장군",note:"15C 전반 · 분청사기(청자와 구분)",q:"76-17"}]}]}
 ]});
+
+// 80회에서 새로 확인된 자료 단서를 해당 시대·주제에 덧붙인다.
+(function () {
+  const updates = [
+  {
+    "sheet": "joseon1-1",
+    "section": "[중앙 정치 기구 · 단서 → 기구]",
+    "body": [
+      {
+        "line": "{n:80-20} {g:권근} 〈{b:상대별곡}〉: 상대·대사헌·집의·장령 → {r:사헌부} = 백관 규찰·탄핵"
+      }
+    ]
+  },
+  {
+    "sheet": "joseon1-1",
+    "section": "[경제 · 토지와 수취]",
+    "body": [
+      {
+        "line": "{n:80-19} {b:도평의사사}·현직과 산직·{r:18과}·경기 한정 → {b:과전법}(고려 말 1391) · 수신전·휼양전 세습"
+      }
+    ]
+  },
+  {
+    "sheet": "joseon1-1",
+    "section": "[외교: 사대교린]",
+    "body": [
+      {
+        "line": "{n:80-27} 하정사·천추사 등 명에 보낸 사절 = {r:조천사} · 김정희의 {b:숭정금실}은 조선 후기 {g:숭정제}(명 마지막 황제) 추모 의식"
+      }
+    ]
+  }
+];
+  for (const update of updates) {
+    const sheet = window.SUMMARY_SHEETS.find(s => s.id === update.sheet);
+    const section = sheet?.sections.find(s => s.h === update.section);
+    if (!section) throw new Error("요약노트 항목 없음: " + update.sheet + " " + update.section);
+    section.body.push(...update.body);
+  }
+})();

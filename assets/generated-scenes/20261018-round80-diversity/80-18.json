@@ -1,0 +1,12 @@
+{
+  "key": "80-18",
+  "source": "site/question-materials/80-18.webp",
+  "generated": "/workspace/generated_images/exec-0e153cee-5dab-4f82-a23a-ad74e2c2654a.png",
+  "prompt": "Edit this original Korean history exam source image. Keep the original canvas aspect ratio, composition, relative positions and size of every panel. This is a LOCAL CHARACTER REPLACEMENT, not a new widescreen classroom or a new layout. Change ONLY the already present anonymous foreground people into beautiful clearly adult age25+ anime women, with polished detailed illustration and natural anatomy. Preserve their original informative gestures, orientation, location and scale. Do not add any extra person. Preserve ALL Korean text, speech bubbles, underlines, blanks, labels, photos, artifacts, maps, paintings, document pages, screenshots, historic people and cultural evidence. Do not feminize anyone inside historical photos, portraits, paintings, source videos. Do not redraw or beautify historical artifacts. Keep all other pixels/composition as close to original as possible. Use the individually specified face and clothing, never generic pink-haired long-haired hanbok clones. OUTPUT one finished edited source in its original aspect ratio. CHARACTER SPECIFICATION:  CRITICAL preserve exact source layout and use the same aspect ratio. Character may grow within free space but NEVER obscure any source object or words. TWO clearly different adult women: LEFT angular face, sharp gold eyes, short dark-red hair, assured smile; RIGHT round face, relaxed blue eyes, long ink-black braided updo, surprised expression. Preserve both distinct speaking roles. CLOTHING: LEFT mustard-and-plum feminine historical hanbok with small official-style hat; RIGHT pale-blue-and-indigo hanbok with different collar/ribbon and hairpin. Anonymous dialogue women, do not depict actual Choe Museon.",
+  "status": "applied-unmodified-generated-png",
+  "file": "site/scene-art/80-18.png",
+  "width": 1562,
+  "height": 1007,
+  "sha256": "4438e14ed7a11d6831358b8b20e6e2fbf597ee221724578823d07dd32dde08d0",
+  "postGenerationImageEdits": 0
+}

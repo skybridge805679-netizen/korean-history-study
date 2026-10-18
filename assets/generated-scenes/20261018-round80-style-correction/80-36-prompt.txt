@@ -1,0 +1,15 @@
+Use case: style-transfer. Asset: Korean history study question 80-36, complete finished PNG, landscape 16:9.
+Input 1 is the original 80-36 material (content/character role reference). Input 2 is the user's preferred visual style (large anime character, richly detailed realistic scenic background, very readable Korean speech balloon).
+Redraw input 1 entirely in the high-quality finish and attractive anime style of input 2. Preserve all source words verbatim. Do NOT use the temple, pagoda or maid outfit from input 2. Instead depict a bright richly detailed 1920s Korean shopping street, wooden storefronts and locally woven cloth, with a prominent attractive adult Korean anime woman on the right wearing a clean white jeogori and deep navy chima, black braided hair, warm lively expression, holding an open leaflet/newspaper. Character must be large, visible from head to below knees, occupying right 30-35 percent of width and around 75 percent of image height, not a tiny guide.
+On left and upper part place a large warm-white rounded speech/reading balloon, tail pointing toward woman. Fit all original text neatly in large sharp black Korean typesetting, using balanced line breaks; take as much of left 65 percent as needed. The scenic background must fill all canvas and remain visible around balloon and behind woman. This is a polished coherent full scene, not a pasted crop or a tiny inset or split grid.
+Text verbatim, no additions:
+〈선전지〉
+내 살림 내 것으로
+
+보아라, 우리의 먹고 입고 쓰는 것이 거의 다 우리의 손으로 만든 것이 아니었다. 이것이 제일 세상에 무섭고 위태한 일인 줄은 오늘에야 우리가 깨달았다. 피가 있고 눈물이 있는 형제자매들아. 우리가 서로 붙잡고 서로 의지하고 살고서 볼 일이다.
+
+입어라, 조선 사람이 짠 것을.
+먹어라, 조선 사람이 만든 것을.
+써라, 조선 사람이 지은 것을.
+
+Do not add an answer, movement name, date, quiz choices or explanatory captions. Preserve the historical clue without revealing the answer. No watermark. Accurate lettering takes priority.

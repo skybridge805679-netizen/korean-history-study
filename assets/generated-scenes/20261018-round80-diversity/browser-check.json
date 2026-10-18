@@ -1,0 +1,32 @@
+{
+  "errors": [],
+  "views": [
+    {
+      "width": 1280,
+      "questions": 50,
+      "decoded": true,
+      "overflow": false,
+      "overlays": false
+    },
+    {
+      "width": 390,
+      "questions": 50,
+      "decoded": true,
+      "overflow": false,
+      "overlays": false
+    },
+    {
+      "width": 360,
+      "questions": 50,
+      "decoded": true,
+      "overflow": false,
+      "overlays": false
+    }
+  ],
+  "zoom": true,
+  "final48Verified": [
+    1280,
+    390,
+    360
+  ]
+}

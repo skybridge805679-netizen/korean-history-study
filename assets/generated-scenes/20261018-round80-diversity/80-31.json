@@ -1,0 +1,12 @@
+{
+  "key": "80-31",
+  "source": "site/question-materials/80-31.webp",
+  "generated": "/workspace/generated_images/exec-ed82cf1c-b764-42db-b04a-44f7ddf70ba9.png",
+  "prompt": "Edit this original Korean history exam source image. Keep the original canvas aspect ratio, composition, relative positions and size of every panel. This is a LOCAL CHARACTER REPLACEMENT, not a new widescreen classroom or a new layout. Change ONLY the already present anonymous foreground people into beautiful clearly adult age25+ anime women, with polished detailed illustration and natural anatomy. Preserve their original informative gestures, orientation, location and scale. Do not add any extra person. Preserve ALL Korean text, speech bubbles, underlines, blanks, labels, photos, artifacts, maps, paintings, document pages, screenshots, historic people and cultural evidence. Do not feminize anyone inside historical photos, portraits, paintings, source videos. Do not redraw or beautify historical artifacts. Keep all other pixels/composition as close to original as possible. Use the individually specified face and clothing, never generic pink-haired long-haired hanbok clones. OUTPUT one finished edited source in its original aspect ratio. CHARACTER SPECIFICATION:  CRITICAL preserve exact source layout and use the same aspect ratio. Character may grow within free space but NEVER obscure any source object or words. Narrow elegant face, fine grey-blue eyes, long silver hair in low twin braids, dark rectangular glasses, calm intelligent smile. CLOTHING: Burgundy teacher's pencil skirt, ivory puff-sleeve blouse, charcoal suspenders, black waist ribbon, opaque tights, low pumps.",
+  "status": "applied-unmodified-generated-png",
+  "file": "site/scene-art/80-31.png",
+  "width": 1435,
+  "height": 1096,
+  "sha256": "bc93bd3b18fc274fb2f2c241233e469da3cec48c10b30650880466ae4f85012e",
+  "postGenerationImageEdits": 0
+}
